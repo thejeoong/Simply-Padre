@@ -1,0 +1,150 @@
+<table class="froala-table webcam-table" style="width: 100%;">
+	<tbody>
+		<tr>
+			<td class="hidden-xs" style="width: 15.5836%;">
+				<br>
+			</td>
+			<td style="width: 68.5827%; text-align: center;">
+				<section class="image-scroll-section py-5">
+					<div class="container" style="max-width: 1000px;">
+
+						<p id="isPasted" style="text-align: left;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nisl a bibendum cursus, lectus libero viverra turpis, a vestibulum sapien purus id nunc. Integer ut arcu nec justo facilisis tincidunt. Curabitur vitae quam in urna fermentum tincidunt.</p>
+
+						<p style="text-align: left;">Phasellus non turpis eu justo hendrerit finibus. Vivamus sit amet turpis sed libero interdum tristique. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aliquam erat volutpat. Morbi dignissim, nunc a ultricies feugiat, elit leo fermentum massa, in posuere lectus justo ut erat.</p>
+
+						<p style="text-align: left;">Suspendisse potenti. Nunc at nibh a metus pharetra tincidunt. In hac habitasse platea dictumst. Praesent euismod, nisl vel imperdiet placerat, dolor magna elementum justo, non fermentum lacus sapien non neque. Cras vitae odio at purus efficitur vulputate.</p>
+
+						<p>
+							<br>
+						</p>
+						<div class="bd-slider"><i class="bi bi-chevron-left bd-arrow left" aria-label="Previous"></i>
+							<div class="bd-slider-track">
+								<div class="bd-slide"><img src="https://www.simplypadre.com/images/image-placeholder.png" alt="Slide 1" class="fr-fic fr-dii"></div>
+								<div class="bd-slide"><img src="https://www.simplypadre.com/images/pexel-photo-32190153-large.jpeg" alt="Slide 2" class="fr-fic fr-dii"></div>
+								<div class="bd-slide"><img src="https://www.simplypadre.com/images/image-placeholder.png" alt="Slide 3" class="fr-fic fr-dii"></div></div><i class="bi bi-chevron-right bd-arrow right" aria-label="Next"></i></div>
+						<!-- Image Slideshow -->
+						<br>
+						<br><span style='font-family: "Libre Baskerville"; font-size: 22px;'><strong><span style="color: rgb(31, 69, 93);">White Cap Beach Live Cam</span></strong>&nbsp;</span>
+						<div style="position: relative; width: 100%; padding-top: 56.25%; margin-top: 8px;">
+							<iframe src="https://relay.ozolio.com/pub.cgi?cmd=iframe&oid=CID_XCLW000002D1&app_mode=view&home_url=http://www.cctexas.com/city-webcams/index&disp_name=Whitecap+Beach&disp_desc=Whitecap+beach+towards+Bob+Hall+pier" class="webcam-frame" frameborder="0" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0; border-radius: 12px;"></iframe>
+						</div></div>
+				</section>
+			</td>
+			<td class="hidden-xs" style="width: 15.6532%;">
+				<br>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+
+
+@media (max-width: 767px) {
+  .gallery-img {
+    flex: 0 0 90%;
+    margin: 0 auto;
+  }
+    .webcam-table td.hidden-xs {
+      width: 5% !important;
+    }
+
+    .webcam-table td {
+      width: auto !important;
+      padding-left: 0 !important;
+      padding-right: 0 !important;
+    }
+  }
+
+
+.bd-slider {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+}
+
+.bd-slider-track {
+  display: flex;
+  transition: transform 0.4s ease-in-out;
+}
+
+.bd-slide {
+  min-width: 100%;
+}
+
+.bd-slide img {
+  width: 100%;
+  height: auto;
+  display: block;
+  object-fit: cover;
+}
+
+/* Chevron arrows */
+.bd-arrow {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 42px;
+  color: #fff;
+  cursor: pointer;
+  z-index: 10;
+  opacity: 0.8;
+  transition: opacity 0.2s ease;
+}
+
+.bd-arrow:hover {
+  opacity: 1;
+}
+
+.bd-arrow.left {
+  left: 12px;
+}
+
+.bd-arrow.right {
+  right: 12px;
+}
+
+
+<script>
+(function () {
+  const slider = document.querySelector('.bd-slider');
+  const track = slider.querySelector('.bd-slider-track');
+  const slides = slider.querySelectorAll('.bd-slide');
+  const prevBtn = slider.querySelector('.bd-arrow.left');
+  const nextBtn = slider.querySelector('.bd-arrow.right');
+
+  let index = 0;
+  let startX = 0;
+
+  function updateSlide() {
+    track.style.transform = `translateX(-${index * 100}%)`;
+  }
+
+  prevBtn.addEventListener('click', () => {
+    index = index > 0 ? index - 1 : slides.length - 1;
+    updateSlide();
+  });
+
+  nextBtn.addEventListener('click', () => {
+    index = index < slides.length - 1 ? index + 1 : 0;
+    updateSlide();
+  });
+
+  /* Touch swipe */
+  track.addEventListener('touchstart', (e) => {
+    startX = e.touches[0].clientX;
+  });
+
+  track.addEventListener('touchend', (e) => {
+    const endX = e.changedTouches[0].clientX;
+    const diff = startX - endX;
+
+    if (diff > 50) {
+      index = index < slides.length - 1 ? index + 1 : 0;
+    } else if (diff < -50) {
+      index = index > 0 ? index - 1 : slides.length - 1;
+    }
+
+    updateSlide();
+  });
+})();
+</script>

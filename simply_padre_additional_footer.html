@@ -1,0 +1,259 @@
+<?php echo widget("Banner Manager - Common - Footer"); ?>
+
+<!-- Page Dark Overlay -->
+<div id="menuOverlay" style="
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,0.45);
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.3s ease;
+  z-index: 9999;
+" onclick="closeSideMenu()"></div>
+
+
+<!-- Fully Customized Side Menu Widget -->
+<div id="sideMenu" style="
+    position: fixed;
+    top: 0;
+    right: -320px;
+    width: 320px;
+    height: 100%;
+    background: #fff;
+    box-shadow: -2px 0 10px rgba(0,0,0,0.2);
+    transition: 0.3s;
+    z-index: 9999;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+">
+
+  <!-- Header: Logo + Close -->
+  <div style="
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 12px 20px;
+  ">
+    <img 
+      src="/images/Simply-Padre-final-landscape-2-copy-2.png" 
+      alt="Simply Padre"
+      style="max-height: 76px; width: auto;"
+    />
+
+    <a href="javascript:void(0)" onclick="closeSideMenu()" style="display:flex; align-items:center;">
+      <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <line x1="18" y1="6" x2="6" y2="18"/>
+        <line x1="6" y1="6" x2="18" y2="18"/>
+      </svg>
+    </a>
+  </div>
+
+  <div style="display: flex; flex-direction: column; min-height: 100%;">
+
+    <!-- Main menu -->
+    <ul id="sideMenuList" style="list-style:none; padding:0; margin:0;">
+      <li>
+        <div style="display:flex; justify-content:space-between; align-items:center; padding:12px 20px;">
+          <a href="/" style="color:#222; text-decoration:none;">Home</a>
+          <i class="bi bi-chevron-down" style="cursor:pointer; color:#3d7da3; font-size:20px;" onclick="toggleSubmenu(this)"></i>
+        </div>
+        <ul class="submenu" style="list-style:none; padding-left:36px; display:none; margin:0;">
+          <li><a href="/about" style="display:block; padding:6px 0; text-decoration:none; color:#222;">About Us</a></li>
+          <li><a href="/platinum-partners" style="display:block; padding:6px 0; text-decoration:none; color:#222;">Platinum Partners</a></li>
+        </ul>
+      </li>
+
+      <li>
+        <div style="display:flex; justify-content:space-between; align-items:center; padding:12px 20px;">
+          <a href="/articles" style="color:#222; text-decoration:none;">Island Buzz</a>
+          <i class="bi bi-chevron-down" style="cursor:pointer; color:#3d7da3; font-size:20px;" onclick="toggleSubmenu(this)"></i>
+        </div>
+        <ul class="submenu" style="list-style:none; padding-left:36px; display:none; margin:0;">
+          <li><a href="/island-voices" style="display:block; padding:6px 0; text-decoration:none; color:#222;">Island Voices</a></li>
+          <li><a href="/north-padre-island-developments" style="display:block; padding:6px 0; text-decoration:none; color:#222;">Padre Island Developments</a></li>
+          <li><a href="/mary-scoop-craft" style="display:block; padding:6px 0; text-decoration:none; color:#222;">Mary "Scoop" Craft</a></li>
+          <li><a href="/send-us-your-pics" style="display:block; padding:6px 0; text-decoration:none; color:#222;">Send Us Your Pics</a></li>
+          <li><a href="/padre-island-madre" style="display:block; padding:6px 0; text-decoration:none; color:#222;">Padre Island Madre</a></li>
+          <li><a href="/deals-coupons" style="display:block; padding:6px 0; text-decoration:none; color:#222;">Deals/Coupons</a></li>
+          <li><a href="/discussions" style="display:block; padding:6px 0; text-decoration:none; color:#222;">Discussions</a></li>
+          <li><a href="/civic-organizations" style="display:block; padding:6px 0; text-decoration:none; color:#222;">Civic Organizations</a></li>
+        </ul>
+      </li>
+
+      <li>
+        <div style="display:flex; justify-content:space-between; align-items:center; padding:12px 20px;">
+          <a href="/explore-north-padre-island" style="color:#222; text-decoration:none;">Explore</a>
+          <i class="bi bi-chevron-down" style="cursor:pointer; color:#3d7da3; font-size:20px;" onclick="toggleSubmenu(this)"></i>
+        </div>
+        <ul class="submenu" style="list-style:none; padding-left:36px; display:none; margin:0;">
+          <li><a href="/north-padre-island-live-web-cams" style="display:block; padding:6px 0; text-decoration:none; color:#222;">Web Cams</a></li>
+          <li><a href="/events" style="display:block; padding:6px 0; text-decoration:none; color:#222;">Events</a></li>
+          <li><a href="https://facebook.com/PadreIslandNeighbors" style="display:block; padding:6px 0; text-decoration:none; color:#222;">Padre Island Neighbors</a></li>
+          <li><a href="/categories" style="display:block; padding:6px 0; text-decoration:none; color:#222;">Local Businesses</a></li>
+          <li><a href="/schools" style="display:block; padding:6px 0; text-decoration:none; color:#222;">Local Schools</a></li>
+          <li><a href="/community-guides" style="display:block; padding:6px 0; text-decoration:none; color:#222;">Community Guides</a></li>
+          <li><a href="/music" style="display:block; padding:6px 0; text-decoration:none; color:#222;">Live Music</a></li>          
+        </ul>
+      </li>
+
+      <li>
+        <div style="display:flex; justify-content:space-between; align-items:center; padding:12px 20px;">
+          <a href="/beaches" style="color:#222; text-decoration:none;">Beaches</a>
+          <i class="bi bi-chevron-down" style="cursor:pointer; color:#3d7da3; font-size:20px;" onclick="toggleSubmenu(this)"></i>
+        </div>
+        <ul class="submenu" style="list-style:none; padding-left:36px; display:none; margin:0;">
+          <li><a href="/beaches/whitecap-beach" style="display:block; padding:6px 0; text-decoration:none; color:#222;">Whitecap Beach</a></li>
+          <li><a href="#" style="display:block; padding:6px 0; text-decoration:none; color:#222;">Padre Island Seawall</a></li>
+          <li><a href="#" style="display:block; padding:6px 0; text-decoration:none; color:#222;">J P Luby Beach</a></li>
+          <li><a href="#" style="display:block; padding:6px 0; text-decoration:none; color:#222;">Bob Hall Pier</a></li>
+          <li><a href="#" style="display:block; padding:6px 0; text-decoration:none; color:#222;">PINS - Padre Island National Seashore</a></li>
+          <li><a href="#" style="display:block; padding:6px 0; text-decoration:none; color:#222;">Port Aransas</a></li>
+          <li><a href="#" style="display:block; padding:6px 0; text-decoration:none; color:#222;">Aransas Pass</a></li>
+          <li><a href="#" style="display:block; padding:6px 0; text-decoration:none; color:#222;">Rockport</a></li>
+        </ul>
+      </li>
+
+      <li>
+        <div style="display:flex; justify-content:space-between; align-items:center; padding:12px 20px;">
+          <a href="/things-to-do" style="color:#222; text-decoration:none;">Fun</a>
+          <i class="bi bi-chevron-down" style="cursor:pointer; color:#3d7da3; font-size:20px;" onclick="toggleSubmenu(this)"></i>
+        </div>
+        <ul class="submenu" style="list-style:none; padding-left:36px; display:none; margin:0;">
+          <li><a href="/things-to-do/surfing" style="display:block; padding:6px 0; text-decoration:none; color:#222;">Surfing</a></li>
+          <li><a href="/things-to-do/fishing" style="display:block; padding:6px 0; text-decoration:none; color:#222;">Fishing</a></li>
+          <li><a href="#" style="display:block; padding:6px 0; text-decoration:none; color:#222;">Wind Surfing</a></li>
+          <li><a href="#" style="display:block; padding:6px 0; text-decoration:none; color:#222;">Kite Boarding</a></li>
+          <li><a href="#" style="display:block; padding:6px 0; text-decoration:none; color:#222;">Beach Volleyball</a></li>
+          <li><a href="#" style="display:block; padding:6px 0; text-decoration:none; color:#222;">Wing Foiling</a></li>
+        </ul>
+      </li>
+
+      <li>
+        <div style="display:flex; justify-content:space-between; align-items:center; padding:12px 20px;">
+          <a href="/eat-drink" style="color:#222; text-decoration:none;">Eat</a>
+          <i class="bi bi-chevron-down" style="cursor:pointer; color:#3d7da3; font-size:20px;" onclick="toggleSubmenu(this)"></i>
+        </div>
+        <ul class="submenu" style="list-style:none; padding-left:36px; display:none; margin:0;">
+          <li><a href="/search_results?q=Restaurant" style="display:block; padding:6px 0; text-decoration:none; color:#222;">Restaurants</a></li>
+          <li><a href="/search_results?q=Bar" style="display:block; padding:6px 0; text-decoration:none; color:#222;">Bars</a></li>
+          <li><a href="/eat-drink/nightlife" style="display:block; padding:6px 0; text-decoration:none; color:#222;">Nightlife</a></li>
+        </ul>
+      </li>
+
+      <li><a href="/about/contact" style="display:block; padding:12px 20px; text-decoration:none; color:#222;">Contact</a></li>
+    </ul>
+
+<!-- Footer section -->
+<div style="
+    margin-top: 40px;
+    background-color: #3d7da3;
+    flex-grow: 1;
+    padding: 24px 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start; 
+    align-items: center;
+">
+
+  <div style="text-align:center;">
+    <p style="color:#fff; font-size:18px; font-weight:600; margin-bottom:6px;">
+      Join our community
+    </p>
+
+    <p style="color:#e6f0ff; font-size:14px; margin-bottom:16px;">
+      This is a reason why you should join our community.
+    </p>
+
+<a href="/join-community" style="
+    display: block;
+    width: 100%;
+    background-color: #fd9e25;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 0;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 50px;
+    text-align: center;
+">
+  Join Today »
+</a>
+  </div>
+
+  <div style="text-align:center; margin-top:40px;"> <!-- reduced margin-top -->
+    <p style="color:#fff; font-size:14px; font-weight:500; margin-bottom:10px;">
+      Connect with us
+    </p>
+
+    <div style="display:flex; gap:18px; justify-content:center;">
+      <a href="#" style="color:#fff; font-size:22px;"><i class="bi bi-envelope"></i></a>
+      <a href="#" style="color:#fff; font-size:22px;"><i class="bi bi-facebook"></i></a>
+      <a href="#" style="color:#fff; font-size:22px;"><i class="bi bi-twitter-x"></i></a>
+      <a href="#" style="color:#fff; font-size:22px;"><i class="bi bi-youtube"></i></a>
+      <a href="#" style="color:#fff; font-size:22px;"><i class="bi bi-instagram"></i></a>
+      <a href="#" style="color:#fff; font-size:22px;"><i class="bi bi-tiktok"></i></a>
+    </div>
+  </div>
+
+</div>
+
+  </div>
+</div>
+
+
+<script>
+function openSideMenu() {
+  document.getElementById('sideMenu').style.right = '0';
+
+  const overlay = document.getElementById('menuOverlay');
+  overlay.style.opacity = '1';
+  overlay.style.visibility = 'visible';
+}
+
+function closeSideMenu() {
+  document.getElementById('sideMenu').style.right = '-320px';
+
+  const overlay = document.getElementById('menuOverlay');
+  overlay.style.opacity = '0';
+  overlay.style.visibility = 'hidden';
+}
+
+function toggleSubmenu(icon) {
+  var submenu = icon.parentElement.nextElementSibling;
+  if (!submenu) return;
+
+  if (submenu.style.display === 'block') {
+    submenu.style.display = 'none';
+    icon.classList.remove('bi-chevron-up');
+    icon.classList.add('bi-chevron-down');
+  } else {
+    submenu.style.display = 'block';
+    icon.classList.remove('bi-chevron-down');
+    icon.classList.add('bi-chevron-up');
+  }
+}
+</script>
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  const hamburger = document.querySelector('button.navbar-toggle.main_menu');
+  if (!hamburger) return;
+
+  hamburger.addEventListener('click', function () {
+    const sideMenu = document.getElementById('sideMenu');
+    this.classList.toggle('opened');
+
+    if (sideMenu.style.right === '0px') {
+      closeSideMenu();
+      this.classList.remove('opened');
+    } else {
+      openSideMenu();
+      document.body.classList.add('menu-open');
+    }
+  });
+});
+</script>

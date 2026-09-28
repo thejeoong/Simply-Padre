@@ -1,0 +1,144 @@
+<div class="guides-grid">
+  <!-- Guide 1 -->
+  <div class="guide-card">
+    <img src="https://www.simplypadre.com/images/pexel-photo-32190153-large.jpeg" alt="Beach Access Guide" class="fr-fic fr-dii">
+    <div class="guide-overlay">
+      <div class="guide-title">Community Guide 1</div>
+    </div>
+    <a href="/pdfs/beach-access-guide.pdf" target="_blank">Community Guide 1</a>
+  </div>
+
+  <!-- Guide 2 -->
+  <div class="guide-card">
+    <img src="https://www.simplypadre.com/images/Great-Sunrise-Padre-Island-Texas-Morning.webp" alt="Parking & Transportation" class="fr-fic fr-dii">
+    <div class="guide-overlay">
+      <div class="guide-title">Community Guide 2</div>
+    </div>
+    <a href="/pdfs/parking-guide.pdf" target="_blank">Community Guide 2</a>
+  </div>
+
+  <!-- More Local Guides -->
+  <div class="guide-card more-guides-card">
+    <img src="https://www.simplypadre.com/images/images.jpeg" alt="More Local Guides" class="fr-fic fr-dii">
+    <div class="guide-overlay">
+      <div class="more-guides-title">More Local Guides</div>
+    </div>
+    <a href="/community_guides">More Local Guides</a>
+  </div>
+</div>
+
+/* Grid */
+.guides-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 22px;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+/* Card */
+.guide-card {
+  position: relative;
+  height: 220px;
+  overflow: hidden;
+  border-radius: 16px;
+  background: #000;
+  line-height: 0;
+  font-size: 0;
+}
+
+/* Image Cover */
+.guide-card img,
+.guide-card img.fr-fic,
+.guide-card img.fr-dii {
+  position: absolute !important;
+  top: 0;
+  left: 0;
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: cover !important;
+  object-position: center center !important;
+  display: block !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  border: 0 !important;
+  max-width: none !important;
+  min-width: 100% !important;
+  min-height: 100% !important;
+  transform: translateZ(0);
+  transition: transform 0.5s ease;
+}
+
+/* Hover Zoom */
+.guide-card:hover img {
+  transform: scale(1.08);
+}
+
+/* Overlay */
+.guide-overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 14px 16px;
+  background: linear-gradient(to top, rgba(0,0,0,0.8), rgba(0,0,0,0));
+  z-index: 2;
+}
+
+/* Normal title */
+.guide-title {
+  font-size: 18px;
+  font-weight: 700;
+  color: #fff;
+}
+
+/* FULL CARD CLICK */
+.guide-card a {
+  position: absolute;
+  inset: 0;
+  z-index: 3;
+  text-indent: -9999px;
+}
+
+/* --- Special styling for "More Local Guides" card --- */
+.more-guides-card .guide-overlay {
+  background: rgba(0, 0, 0, 0.5); /* darker overlay covering full box */
+  top: 0;
+  bottom: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0;
+}
+
+.more-guides-title {
+  font-size: 24px;
+  font-weight: 700;
+  color: #fff;
+  text-align: center;
+}
+
+/* Responsive adjustments */
+@media (max-width: 900px) {
+  .guides-grid {
+    grid-template-columns: repeat(2, 1fr);
+    max-width: 800px;
+  }
+}
+
+@media (max-width: 600px) {
+  .guides-grid {
+    grid-template-columns: 1fr;
+    max-width: 100%;
+    padding: 0 10px;
+  }
+
+  .guide-card {
+    height: 200px;
+  }
+
+  .more-guides-title {
+    font-size: 20px;
+  }
+}

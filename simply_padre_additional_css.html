@@ -1,0 +1,157 @@
+<style>
+.mobile-main-menu {
+    display: none !important;
+    visibility: hidden !important;
+    pointer-events: none !important;
+}
+
+/*
+.mobile-main-menu.opened {
+    transform: translateX(0); 
+}
+
+body.menu-open::after {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.3); 
+    z-index: 9998;
+}
+
+
+.mobile-main-menu i.fa-plus,
+.mobile-main-menu i.fa-minus {
+    width: 10px;                  
+    height: 10px;
+    display: inline-block;
+    text-indent: -9999px; 
+    margin-top: 8px; 
+    margin-right: 12px;  
+    filter: invert(1);          
+    vertical-align: middle;      
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.mobile-main-menu i.fa-plus {
+    background-image: url('https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/icons/chevron-down.svg');
+}
+
+.mobile-main-menu i.fa-minus {
+    background-image: url('https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/icons/chevron-up.svg');
+}
+
+*/
+
+/* Show hamburger only on screens <= 991px */
+@media (max-width: 991px) {
+ 
+  button.navbar-toggle.main_menu {
+      background: transparent !important;
+      border: none !important;
+      box-shadow: none !important;
+      padding: 0;
+	  margin: 8px 0 8px 8px;
+      width: 45px;
+      height: 45px;
+      border-radius: 50% !important;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      position: relative;
+      z-index: 9999; /* on top */
+  }
+
+  /* Hamburger bars */
+  button.navbar-toggle.main_menu i.fa-bars,
+  button.navbar-toggle.main_menu i.fa-bars::before,
+  button.navbar-toggle.main_menu i.fa-bars::after {
+      content: "";
+      display: block;
+      width: 28px;
+      height: 3px;
+      background-color: #000;
+      border-radius: 1.3px;
+      transition: all 0.3s ease;
+      position: absolute;
+  }
+
+  button.navbar-toggle.main_menu i.fa-bars::before {
+      top: -8px;
+  }
+a
+  button.navbar-toggle.main_menu i.fa-bars::after {
+      bottom: -8px;
+  }
+
+}
+
+/* Hide on larger screens */
+@media (min-width: 992px) {
+  button.navbar-toggle.main_menu {
+      display: none !important;
+  }
+        .mini-nav > li {
+        padding-bottom: 20px !important;
+    }
+}
+
+/* Remove reserved navbar space on mobile and make header sticky */
+@media (max-width: 1200px) {
+
+  /* Hide navbar completely */
+  .navbar.navbar-default.lockedonscroll {
+    display: none !important;
+  }
+
+  body {
+    padding-top: 120px !important;
+  }
+
+  /* Make header sticky at the top */
+  header,
+  .site-header,
+  .header,
+  .header-wrapper {
+    position: fixed !important;  /* makes it stick */
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 9999;               /* stay above content */
+    margin-top: 0 !important;
+
+  }
+
+  /* Push page content down so it doesn’t hide under the sticky header */
+  main,
+  .main-content,
+  .page-content,
+  .content-wrapper {
+    padding-top: 70px; /* set this to your header's height */
+  }
+    #link336,
+    #link337 {
+        display: none !important;
+    }
+
+    /* Make the flex container align items slightly left */
+    .mini-nav {
+        justify-content: flex-start !important;
+        gap: 10px !important; 
+        padding-left: 0 !important; 
+ 
+  }
+
+    /* Remove extra left margin/padding from the visible buttons */
+    .mini-nav > li {
+        margin-left: 0 !important;
+        padding-left: 0 !important;
+        padding-bottom: 20px !important;
+    }
+}
+</style>

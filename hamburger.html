@@ -1,0 +1,38 @@
+<!-- Hamburger Button -->
+<a href="javascript:void(0);" class="desktop-hamburger" style="display:inline-block; cursor:pointer; position: relative; top: 5px;">
+  <i class="bi bi-list" style="font-size: 3rem; color: rgb(62, 126, 163); line-height: 1;"></i>
+</a>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+    const customHamburger = document.querySelector(".desktop-hamburger");
+    const mobileMenu = document.querySelector(".mobile-main-menu");
+    if (customHamburger && mobileMenu) {
+        customHamburger.addEventListener("click", function () {
+            mobileMenu.classList.toggle("opened");
+            document.body.classList.toggle("menu-open");
+            let overlay = document.getElementById("menuOverlay");
+            if (!overlay) {
+                overlay = document.createElement("div");
+                overlay.id = "menuOverlay";
+                overlay.style.cssText = `
+                    position: fixed;
+                    top: 0;
+                    left: 0;
+                    width: 100%;
+                    height: 100%;
+                    background: rgba(0,0,0,0.45);
+                    z-index: 9998;
+                `;
+                document.body.appendChild(overlay);
+                overlay.addEventListener("click", function () {
+                    mobileMenu.classList.remove("opened");
+                    document.body.classList.remove("menu-open");
+                    overlay.remove();
+                });
+            } else {
+                overlay.remove();
+            }
+        });
+    }
+});
+</script>
