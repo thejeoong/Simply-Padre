@@ -6,22 +6,22 @@
 					<div class="container">
 						<div class="bdai-piba-hero-layout">
 							<div class="bdai-piba-hero-copy">
-								<div class="bdai-piba-hero-eyebrow" style="white-space:nowrap !important;width:fit-content;">Padre Island Developments</div>
+								<div class="bdai-piba-hero-eyebrow" style="white-space:nowrap !important;width:fit-content;">North Padre Island Developments</div>
 
-								<h1 class="bdai-piba-hero-title">Bob Hall Pier &ndash; Rebuild: A Completed Padre Island Redevelopment</h1>
+								<h1 class="bdai-piba-hero-title">Marriott Hospitality Complex: A New Dual-Branded Hotel Development on North Padre Island</h1>
 
-								<p class="bdai-piba-hero-lead">Bob Hall Pier has reopened on North Padre Island after a major reconstruction created a new, wider, more accessible pier following the severe damage caused by Hurricane Hanna in 2020.</p>
+								<p class="bdai-piba-hero-lead">The Marriott Hospitality Complex is a planned Courtyard and Residence Inn by Marriott development at 15210&ndash;15222 Windward Drive in Corpus Christi, Texas.</p>
 
-								<p class="bdai-piba-hero-copy-text">The completed redevelopment replaces the historic pier with a new 1,240-foot structure designed for fishing, recreation, public access, and greater durability along the Gulf Coast. The rebuilt pier includes wider walkways, ADA accessibility, structural improvements, lighting, and renewed access to one of Padre Island&rsquo;s best-known public waterfront destinations.</p>
-								<div class="bdai-piba-hero-actions"><a class="bdai-piba-hero-primary" href="https://www.nuecesbeachparks.com/padre-balli-park/bob-hall-pier" target="_blank">Learn About Bob Hall Pier</a> <a class="bdai-piba-hero-secondary" href="#bdai-piba-involvement">Explore the Rebuild</a></div></div>
+								<p class="bdai-piba-hero-copy-text">Public records and project materials describe a dual-branded hotel complex with 205 guestrooms, a conference center, Bar Louie, restaurant and lounge areas, pools, outdoor dining, meeting space, and related guest amenities. The project is being developed by Padre Island North, LLC on North Padre Island near the Padre Island Seawall and Whitecap Beach.</p>
+								<div class="bdai-piba-hero-actions"><a class="bdai-piba-hero-primary" href="https://www.tdlr.texas.gov/TABS/Projects/TABS2025011419" target="_blank">View the TDLR Project Record</a> <a class="bdai-piba-hero-secondary" href="#bdai-piba-involvement">Explore the Project</a></div></div>
 							<div class="bdai-piba-hero-media">
-								<div class="bdai-piba-hero-media-frame"><img src="https://images.pexels.com/photos/20538161/pexels-photo-20538161.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="ocean pier sunset" class="img-rounded fr-fil fr-dib"></div>
+								<div class="bdai-piba-hero-media-frame"><img src="https://www.corpuschristitx.gov/media/vkwkryrw/seawall-3.png?width=400&height=300&v=1dbc35ac15afc00&format=webp" alt="coastal hotel" class="img-rounded fr-fil fr-dib" loading="lazy" height="294"></div>
 
 								<p>
 									<br>
 								</p>
 
-								<p class="bdai-piba-hero-caption">The Bob Hall Pier rebuild restored public access to a signature North Padre Island fishing and recreation destination after Hurricane Hanna destroyed the original structure.</p>
+								<p class="bdai-piba-hero-caption">The planned development combines two Marriott hotel brands with conference, dining, bar, pool, and event amenities near the North Padre Island beachfront.</p>
 							</div></div></div>
 				</section>
 			</td>
@@ -37,44 +37,44 @@
 					<div class="container">
 						<div class="bdai-piba-about-layout">
 							<div class="bdai-piba-about-media">
-								<div class="bdai-piba-about-media-frame"><img src="https://images.pexels.com/photos/33595364/pexels-photo-33595364.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="fishing pier walkway" class="img-rounded fr-fil fr-dib"></div>
+								<div class="bdai-piba-about-media-frame"><img src="https://www.corpuschristitx.gov/media/xqjnj1um/seawall-2.png?width=400&height=300&v=1dbc35ac27545a0&format=webp" alt="hotel exterior" class="img-rounded fr-fil fr-dib" width="400" height="300" loading="lazy"></div>
 
 								<p>
 									<br>
 								</p>
-								<div class="bdai-piba-about-note"><strong>A New 1,240-Foot Gulf Pier</strong> The rebuilt Bob Hall Pier is a new public structure on North Padre Island with wider walkways, ADA accessibility, enhanced durability, and renewed saltwater fishing access.</div></div>
+								<div class="bdai-piba-about-note"><strong>A Dual-Branded Hospitality Destination</strong> The planned complex is designed to bring short-stay and extended-stay lodging, meetings, dining, and entertainment together at one North Padre Island property.</div></div>
 							<div class="bdai-piba-about-copy">
-								<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;"><span style="font-size: 11px;">What Is Bob Hall Pier &ndash; Rebuild?</span></div>
+								<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">About the Marriott Hospitality Complex</div>
 
-								<h2 class="bdai-piba-about-title">A New Coastal Landmark Built After Hurricane Hanna</h2>
+								<h2 class="bdai-piba-about-title">Two Marriott Hotel Brands Planned for North Padre Island</h2>
 
-								<p class="bdai-piba-about-lead">Bob Hall Pier is a public fishing and recreation pier located within Padre Balli Park on North Padre Island in Corpus Christi, Texas. The original pier had served generations of residents, anglers, and visitors before Hurricane Hanna severely damaged it in July 2020 and ultimately forced its closure.</p>
+								<p class="bdai-piba-about-lead">The project is planned for 15210&ndash;15222 Windward Drive in Corpus Christi, Texas, on a beachfront North Padre Island site near the Padre Island Seawall and Whitecap Beach.</p>
 
-								<p class="bdai-piba-about-text">The Bob Hall Pier rebuild was undertaken as a full replacement rather than a minor repair. The completed project created an entirely new structure extending 1,240 feet over the Gulf, with a wider deck, improved public access, ADA-compliant access, stronger structural design, and features intended to support fishing and nighttime visitor use.</p>
+								<p class="bdai-piba-about-text">Project records identify a five-story dual-brand hotel building with 205 guestrooms: 98 Courtyard rooms and 107 Residence Inn rooms. The development is intended to serve both traditional hotel guests and longer-stay visitors while adding conference, dining, recreation, and event-oriented amenities to the island.</p>
 								<div class="bdai-piba-about-points">
 									<div class="bdai-piba-about-point">
-										<div class="bdai-piba-about-point-icon"><i class="bi bi-wind" aria-hidden="true"></i></div>
+										<div class="bdai-piba-about-point-icon"><i class="bi bi-building" aria-hidden="true"></i></div>
 										<div class="bdai-piba-about-point-copy">
 
-											<h3>Rebuilt After Hurricane Hanna</h3>
+											<h3>Courtyard by Marriott</h3>
 
-											<p>Hurricane Hanna severely damaged the original Bob Hall Pier in 2020. Because the historic structure could not simply be restored, the remaining pier was demolished and replaced through a major reconstruction project.</p>
+											<p>The Courtyard component is planned to include 98 guestrooms within the dual-branded hotel development. Courtyard is positioned as the traditional hotel component of the project.</p>
 										</div></div>
 									<div class="bdai-piba-about-point">
-										<div class="bdai-piba-about-point-icon"><i class="bi bi-water" aria-hidden="true"></i></div>
+										<div class="bdai-piba-about-point-icon"><i class="bi bi-plus-square" aria-hidden="true"></i></div>
 										<div class="bdai-piba-about-point-copy">
 
-											<h3>A 1,240-Foot Public Pier</h3>
+											<h3>Residence Inn by Marriott</h3>
 
-											<p>The completed replacement pier extends approximately 1,240 feet over the Texas coast. Earlier project descriptions identified a deck approximately 20 feet wide, creating more room for pedestrians, anglers, and visitors to move along the pier.</p>
+											<p>The Residence Inn component is planned to include 107 guestrooms. Its inclusion gives the project an extended-stay hotel component alongside the Courtyard lodging operation.</p>
 										</div></div>
 									<div class="bdai-piba-about-point">
-										<div class="bdai-piba-about-point-icon"><i class="bi bi-universal-access" aria-hidden="true"></i></div>
+										<div class="bdai-piba-about-point-icon"><i class="bi bi-people" aria-hidden="true"></i></div>
 										<div class="bdai-piba-about-point-copy">
 
-											<h3>Improved Access for More Visitors</h3>
+											<h3>Conference and Event Space</h3>
 
-											<p>The rebuilt pier includes ADA-compliant access and wider walkways, helping make the fishing and recreation experience more usable for visitors with different mobility needs.</p>
+											<p>Project materials identify approximately 6,600 square feet of combined ballroom and meeting rooms, creating space for conferences, meetings, celebrations, and other organized events.</p>
 										</div></div></div></div></div></div>
 				</section>
 			</td>
@@ -89,40 +89,40 @@
 				<section class="bdai-piba-mission" id="bdai-piba-mission">
 					<div class="container">
 						<div class="bdai-piba-mission-heading">
-							<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">The Rebuild Project</div>
+							<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;"><span style="font-size: 11px;">Development Plans &amp; Project Scope</span></div>
 
-							<h2 class="bdai-piba-mission-title">A Wider, More Accessible Pier for Padre Island</h2>
+							<h2 class="bdai-piba-mission-title">A Dual-Branded Hotel With Meetings, Dining, and Recreation</h2>
 
-							<p class="bdai-piba-mission-intro">The Bob Hall Pier redevelopment addressed the loss of a historic coastal landmark while creating a new public structure for fishing, recreation, and tourism. Construction began in 2024, and the rebuilt pier was completed in early 2026 before reopening to the public on February 24, 2026.</p>
+							<p class="bdai-piba-mission-intro">The documented project scope combines Courtyard and Residence Inn guestrooms with a conference center, Bar Louie, restaurant and lounge areas, pools, outdoor dining, guest services, and parking. The planned complex is designed as a hospitality destination supporting overnight stays, extended visits, meetings, and leisure activity on North Padre Island.</p>
 						</div>
 						<div class="bdai-piba-mission-grid">
 							<article class="bdai-piba-mission-card">
-								<div class="bdai-piba-mission-icon"><i class="bi bi-building" aria-hidden="true"></i></div>
+								<div class="bdai-piba-mission-icon"><i class="bi bi-building-add" aria-hidden="true"></i></div>
 
-								<h3>Entirely New Pier Structure</h3>
+								<h3>Two Marriott Brands</h3>
 
-								<p>The project replaced the hurricane-damaged pier with a new 1,240-foot structure. The reconstruction was designed to provide enhanced structural durability for a demanding Gulf Coast environment.</p>
+								<p>The development is planned as a five-story Type III building over a partial concrete podium with 205 guestrooms: 98 Courtyard rooms and 107 Residence Inn rooms.</p>
 							</article>
 							<article class="bdai-piba-mission-card">
-								<div class="bdai-piba-mission-icon"><i class="bi bi-arrows-expand" aria-hidden="true"></i></div>
+								<div class="bdai-piba-mission-icon"><i class="bi bi-tools" aria-hidden="true"></i></div>
 
-								<h3>Wider Deck and Walkways</h3>
+								<h3>Conference Center</h3>
 
-								<p>The rebuilt pier has a wider deck, reported in project descriptions at approximately 20 feet, to improve pedestrian flow and provide more usable space for anglers and visitors along the pier.</p>
+								<p>Project materials identify approximately 6,600 square feet of combined ballroom and meeting rooms. The conference component is intended to support gatherings, meetings, events, and group travel.</p>
 							</article>
 							<article class="bdai-piba-mission-card">
-								<div class="bdai-piba-mission-icon"><i class="bi bi-universal-access-circle" aria-hidden="true"></i></div>
+								<div class="bdai-piba-mission-icon"><i class="bi bi-universal-access" aria-hidden="true"></i></div>
 
-								<h3>ADA-Compliant Public Access</h3>
+								<h3>Restaurant, Bar, and Outdoor Dining</h3>
 
-								<p>Accessibility was incorporated into the new pier design. ADA-compliant access gives more visitors the opportunity to reach the pier and enjoy its fishing and waterfront recreation areas.</p>
+								<p>The planned complex includes Bar Louie, a lobby bar, restaurant and lounge areas, and outdoor dining with a stage for performances, adding food, beverage, and entertainment uses to the hotel development.</p>
 							</article>
 							<article class="bdai-piba-mission-card">
-								<div class="bdai-piba-mission-icon"><i class="bi bi-brightness-high" aria-hidden="true"></i></div>
+								<div class="bdai-piba-mission-icon"><i class="bi bi-droplet" aria-hidden="true"></i></div>
 
-								<h3>Fishing, Lighting, and Recreation</h3>
+								<h3>Guest and Site Amenities</h3>
 
-								<p>The reopened pier supports saltwater fishing and general visitor use, with Gulf pier lights that are especially relevant to nighttime fishing for species such as spotted seatrout.</p>
+								<p>Project materials identify two pools, an exercise room, sundries and service areas, 246 surface parking spaces, and related hotel support functions. Final delivery remains subject to the active construction and permitting process.</p>
 							</article>
 						</div></div>
 				</section>
@@ -139,51 +139,51 @@
 					<div class="container">
 						<div class="bdai-piba-involvement-layout">
 							<div class="bdai-piba-involvement-copy">
-								<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;"><span style="font-size: 11px;">Timeline &amp; Development Progress</span></div>
+								<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;"><span style="font-size: 11px;">Location &amp; Development Progress</span></div>
 
-								<h2 class="bdai-piba-involvement-title">The Bob Hall Pier Rebuild Has Reached Public Reopening</h2>
+								<h2 class="bdai-piba-involvement-title">A Windward Drive Hospitality Project Moving Through Development</h2>
 
-								<p class="bdai-piba-involvement-lead">The redevelopment followed several years of storm damage, demolition, design, permitting, construction, and public anticipation. The pier reconstruction itself is now complete, while separate property improvements around the pier should be understood as a different part of the broader redevelopment.</p>
+								<p class="bdai-piba-involvement-lead">The Marriott Hospitality Complex is planned for 15210&ndash;15222 Windward Drive on North Padre Island in Corpus Christi, near the Padre Island Seawall and Whitecap Beach. Its location places the project within the island&rsquo;s growing beachfront hospitality and visitor-oriented district.</p>
 								<div class="bdai-piba-involvement-list">
 									<div class="bdai-piba-involvement-item">
-										<div class="bdai-piba-involvement-icon"><i class="bi bi-cloud-lightning" aria-hidden="true"></i></div>
+										<div class="bdai-piba-involvement-icon"><i class="bi bi-geo-alt" aria-hidden="true"></i></div>
 										<div class="bdai-piba-involvement-item-copy">
 
-											<h3>Hurricane Hanna Damaged the Original Pier</h3>
+											<h3>Located on Windward Drive</h3>
 
-											<p>Hurricane Hanna severely damaged Bob Hall Pier in July 2020. The historic pier had already been rebuilt multiple times over its history, but the 2020 storm damage led to the closure and eventual replacement of the remaining structure.</p>
+											<p>The project address is 15210&ndash;15222 Windward Drive, Corpus Christi, Texas. Public project materials place the development near the Padre Island Seawall and Whitecap Beach on North Padre Island.</p>
 										</div></div>
 									<div class="bdai-piba-involvement-item">
-										<div class="bdai-piba-involvement-icon"><i class="bi bi-cone-striped" aria-hidden="true"></i></div>
+										<div class="bdai-piba-involvement-icon"><i class="bi bi-cash-stack" aria-hidden="true"></i></div>
 										<div class="bdai-piba-involvement-item-copy">
 
-											<h3>Demolition and Replacement Planning Followed</h3>
+											<h3>Backed by a City Incentive Agreement</h3>
 
-											<p>Demolition of the remaining old pier began in 2022. County planning and design work continued before the rebuild moved into construction, with the final design approved in 2025 for the new pier and related restaurant space.</p>
+											<p>Corpus Christi City Council approved an economic development incentive agreement with Padre Island North, LLC for up to $2,000,000, reimbursed over five years through the Corpus Christi B Corporation Economic Development fund. The agreement includes a requirement to create 73 primary jobs.</p>
 										</div></div>
 									<div class="bdai-piba-involvement-item">
-										<div class="bdai-piba-involvement-icon"><i class="bi bi-hammer" aria-hidden="true"></i></div>
+										<div class="bdai-piba-involvement-icon"><i class="bi bi-file-earmark-text" aria-hidden="true"></i></div>
 										<div class="bdai-piba-involvement-item-copy">
 
-											<h3>Construction Began in 2024</h3>
+											<h3>Developer and Project Investment</h3>
 
-											<p>Construction on the pier reconstruction began in 2024 after the county issued a notice to proceed and held a groundbreaking ceremony on October 7, 2024. The project created a completely new pier rather than repairing the storm-damaged structure.</p>
+											<p>Padre Island North, LLC is identified as the developer and owner in project materials. City and regional economic development materials describe a total capital investment of approximately $34 million, while the TDLR record lists an estimated construction cost of $10.3 million for the registered new-construction project.</p>
 										</div></div>
 									<div class="bdai-piba-involvement-item">
-										<div class="bdai-piba-involvement-icon"><i class="bi bi-check2-circle" aria-hidden="true"></i></div>
+										<div class="bdai-piba-involvement-icon"><i class="bi bi-calendar3" aria-hidden="true"></i></div>
 										<div class="bdai-piba-involvement-item-copy">
 
-											<h3>Reopened to the Public in February 2026</h3>
+											<h3>Status and Expected Timeline</h3>
 
-											<p>Construction finished in early 2026, and Bob Hall Pier officially reopened on February 24, 2026. The pier is now available for public fishing and recreation, with separate restaurant and concession-related work continuing independently of the pier reopening.</p>
+											<p>The TDLR record for Courtyard &amp; Residence Inn by Marriott Corpus Christi shows review complete, a listed start date of March 1, 2025, and a listed completion date of June 30, 2026. The City&rsquo;s September 2025 permit report lists permit C231610 as issued. These records confirm active permitting and project scheduling, but they do not independently establish that the completed complex is open or fully delivered.</p>
 										</div></div></div></div>
 							<div class="bdai-piba-involvement-media">
-								<div class="bdai-piba-involvement-media-frame"><img src="https://images.pexels.com/photos/22840273/pexels-photo-22840273.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="coastal pier construction" class="img-rounded fr-fil fr-dib"></div>
+								<div class="bdai-piba-involvement-media-frame"><img src="https://www.corpuschristitx.gov/media/3ggiazlz/seawall-1.png?width=400&height=300&v=1dbc35ac08869c0&format=webp" alt="beachfront development" class="img-rounded fr-fil fr-dib" width="400" height="300" loading="lazy"></div>
 
 								<p>
 									<br>
 								</p>
-								<div class="bdai-piba-involvement-note"><strong>Completed Pier, Separate Property Work</strong> The reconstructed pier has reopened. Restaurant, concession, and related site improvements are separate components of the broader property redevelopment and should not be treated as part of the completed pier opening.</div></div></div></div>
+								<div class="bdai-piba-involvement-note"><strong>Project Status Should Be Confirmed Before Visiting</strong> Public records show a permitted and scheduled hotel development, but the available sources do not establish that the complex is open and operating. Final completion, operating details, and delivered amenities should be confirmed through current City and project records.</div></div></div></div>
 				</section>
 			</td>
 		</tr>
@@ -198,26 +198,26 @@
 					<div class="container">
 						<div class="bdai-piba-membership-layout">
 							<div class="bdai-piba-membership-media">
-								<div class="bdai-piba-membership-media-frame"><img src="https://images.pexels.com/photos/20988599/pexels-photo-20988599.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="anglers ocean pier" class="img-rounded fr-fil fr-dib"></div>
+								<div class="bdai-piba-membership-media-frame"><img src="https://www.corpuschristitx.gov/media/xqjnj1um/seawall-2.png?width=400&height=300&v=1dbc35ac27545a0&format=webp" alt="beachfront hotel" class="img-rounded fr-fil fr-dib" width="400" height="300" loading="lazy"></div>
 
 								<p>
 									<br>
 								</p>
 
-								<p class="bdai-piba-membership-caption">The completed Bob Hall Pier restores a long-standing public connection between Padre Island visitors and the Gulf of Mexico.</p>
+								<p class="bdai-piba-membership-caption">The completed project is expected to add modern indoor gathering space while keeping the existing pavilion connected to the Padre Balli Park experience.</p>
 							</div>
 							<div class="bdai-piba-membership-copy">
-								<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">What the Rebuilt Pier Offers</div>
+								<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;"><span style="font-size: 11px;">What the Complex Will Provide</span></div>
 
-								<h2 class="bdai-piba-membership-title">A More Usable, Accessible, and Durable Gulf Coast Destination</h2>
+								<h2 class="bdai-piba-membership-title">A New Hospitality and Events Destination on North Padre Island</h2>
 
-								<p class="bdai-piba-membership-lead">The Bob Hall Pier rebuild improves the visitor experience by restoring access to a major North Padre Island fishing destination while addressing the structural and accessibility limitations exposed by the original pier&rsquo;s storm damage.</p>
+								<p class="bdai-piba-membership-lead">The Marriott Hospitality Complex is planned to combine 205 Courtyard and Residence Inn guestrooms with conference, dining, bar, recreation, and outdoor event amenities. The project&rsquo;s documented scope is centered on lodging, extended stays, meetings, group events, and visitor services.</p>
 								<div class="bdai-piba-membership-details">
-									<div class="bdai-piba-membership-detail"><strong>Fishing and Waterfront Access</strong> The reopened pier provides saltwater anglers with renewed access to the Gulf. The nearby Packery Channel helps connect fish movement between the Gulf and the Upper Laguna Madre, contributing to the area&rsquo;s recreational fishing appeal.</div>
-									<div class="bdai-piba-membership-detail"><strong>Improved Movement and Accessibility</strong> The wider deck and ADA-compliant access make it easier for visitors to move along the pier and reach the waterfront, supporting a broader range of fishing, sightseeing, and recreational uses.</div>
-									<div class="bdai-piba-membership-detail"><strong>Nighttime Recreation and Gulf Views</strong> Gulf pier lighting supports nighttime visitor use and fishing, including opportunities to target spotted seatrout beneath the lights during favorable summer conditions.</div></div>
+									<div class="bdai-piba-membership-detail"><strong>205 Planned Guestrooms</strong> The dual-branded hotel is planned to include 98 Courtyard guestrooms and 107 Residence Inn guestrooms within a five-story building.</div>
+									<div class="bdai-piba-membership-detail"><strong>Conference and Ballroom Space</strong> Project materials identify approximately 6,600 square feet of combined ballroom and meeting rooms for conferences, meetings, and events.</div>
+									<div class="bdai-piba-membership-detail"><strong>Dining, Pools, and Entertainment</strong> The planned amenities include Bar Louie, restaurant and lounge areas, two pools, outdoor dining, and a stage for performances, along with exercise and guest-service spaces.</div></div>
 
-								<p class="bdai-piba-membership-text">Separate restaurant, concession, bait shop, restroom, parking, and access-road improvements have been discussed or developed as related property work. Those elements should be confirmed independently because they are not the same as the completed pier reconstruction and may have separate schedules or operating arrangements.</p><a class="bdai-piba-membership-link" href="https://tpwd.texas.gov/newsmedia/releases/?req=20260410b" target="_blank">Read the Reopening Information</a></div></div></div>
+								<p class="bdai-piba-membership-text">The final operating details, opening date, delivered features, and construction outcome remain dependent on the active project and current records. TDLR identifies the development as privately funded new construction on private land, while City records document the approved incentive agreement and issued permit history.</p><a class="bdai-piba-membership-link" href="https://corpuschristi.legistar.com/LegislationDetail.aspx?GUID=7D884B14-7C93-45DC-8716-5FEFAEED9DFC&ID=7643277" target="_blank">View the City Project Record</a></div></div></div>
 				</section>
 			</td>
 		</tr>
@@ -232,16 +232,16 @@
 					<div class="container">
 						<div class="bdai-piba-contact-inner">
 							<div class="bdai-piba-contact-copy">
-								<div class="bdai-piba-contact-eyebrow" style="white-space:nowrap !important;width:fit-content;">Bob Hall Pier &ndash; Rebuild</div>
+								<div class="bdai-piba-contact-eyebrow" style="white-space:nowrap !important;width:fit-content;">Marriott Hospitality Complex</div>
 
-								<h2 class="bdai-piba-contact-title">A Reopened Landmark for North Padre Island</h2>
+								<h2 class="bdai-piba-contact-title">A Major New Hospitality Investment for North Padre Island</h2>
 
-								<p class="bdai-piba-contact-text">The completed Bob Hall Pier reconstruction restores a significant public destination to Padre Island after Hurricane Hanna destroyed the original pier. Its new structure, wider walkways, ADA accessibility, fishing access, lighting, and improved durability support residents, visitors, anglers, and the continued growth of North Padre Island as a coastal recreation destination.</p>
+								<p class="bdai-piba-contact-text">The Marriott Hospitality Complex is planned as a dual-branded Courtyard and Residence Inn development with a conference center, restaurant, bar, pools, outdoor dining, and event amenities. With Padre Island North, LLC identified as developer and a reported approximately $34 million capital investment, the project represents a significant addition to the visitor economy along Windward Drive.</p>
 							</div>
 							<div class="bdai-piba-contact-details">
-								<div class="bdai-piba-contact-detail"><i class="bi bi-rulers" aria-hidden="true"></i> Approximately 1,240 feet long</div>
-								<div class="bdai-piba-contact-detail"><i class="bi bi-arrows-expand" aria-hidden="true"></i> Approximately 20-foot-wide deck described in project plans</div>
-								<div class="bdai-piba-contact-detail"><i class="bi bi-universal-access" aria-hidden="true"></i> ADA-compliant access and wider walkways</div><a class="bdai-piba-contact-link" href="https://www.nuecesbeachparks.com/padre-balli-park/bob-hall-pier" target="_blank">View Bob Hall Pier Information</a></div></div></div>
+								<div class="bdai-piba-contact-detail"><i class="bi bi-building" aria-hidden="true"></i> 205 planned guestrooms across Courtyard and Residence Inn</div>
+								<div class="bdai-piba-contact-detail"><i class="bi bi-calendar3" aria-hidden="true"></i> Approximately 6,600 square feet of ballroom and meeting rooms</div>
+								<div class="bdai-piba-contact-detail"><i class="bi bi-cash-stack" aria-hidden="true"></i> Approximately $34 million reported capital investment and up to $2 million City incentive</div><a class="bdai-piba-contact-link" href="https://www.tdlr.texas.gov/TABS/Projects/TABS2025011419" target="_blank">View TDLR Project Details</a></div></div></div>
 				</section>
 			</td>
 		</tr>
@@ -255,78 +255,78 @@
 				<section class="bdai-piba-faq" id="bdai-piba-faq">
 					<div class="container">
 						<div class="bdai-piba-faq-heading">
-							<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Bob Hall Pier Questions</div>
+							<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;"><span style="font-size: 11px;">Marriott Hospitality Complex Questions</span></div>
 
-							<h2 class="bdai-piba-faq-title">What to Know About the Bob Hall Pier Rebuild</h2>
+							<h2 class="bdai-piba-faq-title">What to Know About the Marriott Hospitality Complex</h2>
 
-							<p class="bdai-piba-faq-intro">These answers summarize publicly available information about the Hurricane Hanna damage, reconstruction, design, reopening, visitor access, and related development at Bob Hall Pier on North Padre Island.</p>
+							<p class="bdai-piba-faq-intro">The answers below summarize publicly documented information about the North Padre Island location, Courtyard and Residence Inn components, conference center, dining and bar uses, developer, investment, incentive agreement, permitting, timeline, and current project status. Details may change as development and construction records are updated.</p>
 						</div>
 						<div class="bdai-piba-faq-columns">
 							<div class="bdai-piba-faq-column">
 								<article class="bdai-piba-faq-card">
 
-									<h3 class="bdai-piba-faq-question">What is the Bob Hall Pier rebuild?</h3>
+									<h3 class="bdai-piba-faq-question">What is the Marriott Hospitality Complex?</h3>
 									<div class="bdai-piba-faq-answer">
 
-										<p>The Bob Hall Pier rebuild is the full replacement of the historic fishing pier at Padre Balli Park on North Padre Island. The original pier was severely damaged by Hurricane Hanna in 2020, and the completed project created a new 1,240-foot pier with wider walkways, ADA accessibility, enhanced structural durability, lighting, and renewed public fishing access.</p>
+										<p>It is a planned dual-branded hotel development on North Padre Island in Corpus Christi. The project combines Courtyard and Residence Inn by Marriott guestrooms with a conference center, restaurant and bar uses, pools, outdoor dining, and related hospitality amenities.</p>
 									</div>
 								</article>
 								<article class="bdai-piba-faq-card">
 
-									<h3 class="bdai-piba-faq-question">Why was Bob Hall Pier rebuilt?</h3>
+									<h3 class="bdai-piba-faq-question">Where is the Marriott project located?</h3>
 									<div class="bdai-piba-faq-answer">
 
-										<p>Hurricane Hanna severely damaged Bob Hall Pier in July 2020. The storm damage forced the pier to close and left the remaining structure unsuitable for continued public use, so the county pursued demolition and construction of an entirely new pier rather than a limited repair.</p>
+										<p>The project is located at 15210&ndash;15222 Windward Drive, Corpus Christi, Texas, on North Padre Island near the Padre Island Seawall and Whitecap Beach.</p>
 									</div>
 								</article>
 								<article class="bdai-piba-faq-card">
 
-									<h3 class="bdai-piba-faq-question">How long is the rebuilt Bob Hall Pier?</h3>
+									<h3 class="bdai-piba-faq-question">Which hotel brands are planned?</h3>
 									<div class="bdai-piba-faq-answer">
 
-										<p>The completed Bob Hall Pier is approximately 1,240 feet long and extends over the Gulf of Mexico from Padre Balli Park. Project descriptions also identified a deck approximately 20 feet wide, providing more usable space than the previous pier configuration.</p>
+										<p>Project records identify Courtyard by Marriott and Residence Inn by Marriott. MCS Architects lists 98 Courtyard guestrooms and 107 Residence Inn guestrooms, for 205 guestrooms total.</p>
 									</div>
 								</article>
 								<article class="bdai-piba-faq-card">
 
-									<h3 class="bdai-piba-faq-question">When did the rebuilt Bob Hall Pier reopen?</h3>
+									<h3 class="bdai-piba-faq-question">What conference and event space is planned?</h3>
 									<div class="bdai-piba-faq-answer">
 
-										<p>Bob Hall Pier officially reopened to the public on February 24, 2026, after construction finished in early 2026. The reopening marked the return of public fishing and recreation access following several years of closure.</p>
+										<p>Project materials identify approximately 6,600 square feet of combined ballroom and meeting rooms. These spaces are planned to support conferences, meetings, celebrations, and other organized events.</p>
 									</div>
 								</article>
 							</div>
 							<div class="bdai-piba-faq-column">
 								<article class="bdai-piba-faq-card">
 
-									<h3 class="bdai-piba-faq-question">What features were added to the new pier?</h3>
+									<h3 class="bdai-piba-faq-question">What dining and recreation amenities are planned?</h3>
 									<div class="bdai-piba-faq-answer">
 
-										<p>Documented improvements include a wider deck and walkways, ADA-compliant access, enhanced structural durability, renewed saltwater fishing access, and Gulf pier lighting for nighttime use. The new structure is intended to provide a more durable and accessible public waterfront experience.</p>
+										<p>The planned complex includes Bar Louie, a lobby bar, restaurant and lounge areas, two pools, outdoor dining, and a stage for performances. Project materials also identify an exercise room, sundries, service areas, and surface parking.</p>
 									</div>
 								</article>
 								<article class="bdai-piba-faq-card">
 
-									<h3 class="bdai-piba-faq-question">Is the rebuilt pier accessible to visitors with disabilities?</h3>
+									<h3 class="bdai-piba-faq-question">Who is developing the project?</h3>
 									<div class="bdai-piba-faq-answer">
 
-										<p>Yes. Public information about the completed reconstruction identifies ADA accessibility as one of the project improvements. The wider walkways and accessible design are intended to make the pier more usable for visitors with different mobility needs.</p>
+										<p>Padre Island North, LLC is identified as the developer and owner in the project materials. MCS Architects is identified as the design firm and describes its role as designing the hotel architecture and interiors.</p>
 									</div>
 								</article>
 								<article class="bdai-piba-faq-card">
 
-									<h3 class="bdai-piba-faq-question">Are the restaurant and concession improvements part of the completed pier?</h3>
+									<h3 class="bdai-piba-faq-question">What is the current status of the project?</h3>
 									<div class="bdai-piba-faq-answer">
 
-										<p>They are related but separate components of the broader Bob Hall Pier property redevelopment. Restaurant, concession, bait shop, restroom, parking, and access improvements have been discussed or developed independently, and their schedules, operators, and availability should not be assumed from the completed pier reopening.</p>
+										<p>The TDLR project record shows review complete, with a listed start date of March 1, 2025, and listed completion date of June 30, 2026. The City&rsquo;s September 2025 permit report lists permit C231610 as issued. These records confirm permitting and scheduled development but do not independently confirm that the hotel complex is open.</p>
 									</div>
 								</article>
 								<article class="bdai-piba-faq-card">
 
-									<h3 class="bdai-piba-faq-question">Why is the Bob Hall Pier rebuild important to Padre Island?</h3>
+									<h3 class="bdai-piba-faq-question">What investment and incentive have been reported?</h3>
 									<div class="bdai-piba-faq-answer">
 
-										<p>Bob Hall Pier is a recognizable fishing and recreation destination for North Padre Island, Corpus Christi, and visiting anglers. Rebuilding it restores a long-standing public connection to the Gulf, improves access and durability, supports tourism and recreation, and reinforces Padre Island&rsquo;s role as a major coastal destination.</p>
+										<p>City and regional economic development materials describe an approximately $34 million capital investment. City Council approved an incentive agreement for up to $2 million through the Corpus Christi B Corporation Economic Development fund, with a requirement for Padre Island North, LLC to create 73 primary jobs. TDLR separately lists an estimated construction cost of $10.3 million for the registered project.</p>
 									</div>
 								</article>
 							</div></div></div>
@@ -335,7 +335,6 @@
 		</tr>
 	</tbody>
 </table>
-
 
 
 .bdai-piba-hero  {
@@ -955,6 +954,7 @@
  .froala-table section > .container > * + *  {
    margin-top: 16px;
 }
+
 
 <script>
 (function($){

@@ -8,7 +8,9 @@
 							<div class="bdai-piba-hero-copy">
 								<div class="bdai-piba-hero-eyebrow" style="white-space:nowrap !important;width:fit-content;">Padre Island Developments</div>
 
-								<h1 class="bdai-piba-hero-title">Whitecap NPI: A Master-Planned Coastal Development on Padre Island</h1>
+								<h1 class="bdai-piba-hero-title">Whitecap NPI:&nbsp;</h1>
+
+								<h1 class="bdai-piba-hero-title">A Master-Planned Coastal Development on Padre Island</h1>
 
 								<p class="bdai-piba-hero-lead">Whitecap NPI is a 240-acre master-planned coastal community taking shape on North Padre Island in Corpus Christi, Texas, between the Gulf of Mexico and Corpus Christi Bay.</p>
 
@@ -42,11 +44,11 @@
 								<p>
 									<br>
 								</p>
-								<div class="bdai-piba-about-note"><strong>A 240-Acre North Padre Island Development</strong> <span>Whitecap NPI is designed around coastal living, navigable canals, planned residences, preserved natural areas, and a mix of current and future community amenities.</span></div></div>
+								<div class="bdai-piba-about-note"><strong>A 240-Acre North Padre Island Development</strong> Whitecap NPI is designed around coastal living, navigable canals, planned residences, preserved natural areas, and a mix of current and future community amenities.</div></div>
 							<div class="bdai-piba-about-copy">
 								<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">What Is Whitecap NPI?</div>
 
-								<h2 class="bdai-piba-about-title">A Large-Scale Coastal Community Designed Around Water and Open Space</h2>
+								<h2 class="bdai-piba-about-title"><span style="font-size: 36px;">A Large-Scale Coastal Community Designed Around Water and Open Space</span></h2>
 
 								<p class="bdai-piba-about-lead">Whitecap NPI is a master-planned community on North Padre Island, a coastal area of Corpus Christi located between the Gulf of Mexico and Corpus Christi Bay. The property is being developed as a connected residential and lifestyle community rather than as a single building or isolated subdivision.</p>
 
@@ -89,7 +91,7 @@
 				<section class="bdai-piba-mission" id="bdai-piba-mission">
 					<div class="container">
 						<div class="bdai-piba-mission-heading">
-							<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Development Plans and Components</div>
+							<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;"><span style="font-size: 9px;">Development Plans and Components</span></div>
 
 							<h2 class="bdai-piba-mission-title">Whitecap NPI Is Planned as a Connected Coastal Destination</h2>
 
@@ -139,9 +141,9 @@
 					<div class="container">
 						<div class="bdai-piba-involvement-layout">
 							<div class="bdai-piba-involvement-copy">
-								<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Location and Development Progress</div>
+								<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;"><span style="font-size: 9px;">Location and Development Progress</span></div>
 
-								<h2 class="bdai-piba-involvement-title">A North Padre Island Property Moving Forward in Phases</h2>
+								<h2 class="bdai-piba-involvement-title"><span style="font-size: 36px;">A North Padre Island Property Moving Forward in Phases</span></h2>
 
 								<p class="bdai-piba-involvement-lead">Whitecap NPI is located on North Padre Island in Corpus Christi, Texas, between the Gulf of Mexico and Corpus Christi Bay. Its location provides planned access to both open Gulf water and protected canals, while placing the development near Whitecap Beach and the broader Padre Island coastal area.</p>
 								<div class="bdai-piba-involvement-list">
@@ -183,7 +185,7 @@
 								<p>
 									<br>
 								</p>
-								<div class="bdai-piba-involvement-note"><strong>Progress Depends on the Development Phase</strong> <span>Whitecap NPI includes completed infrastructure and amenities as well as residential, preserve, marina, village, and other components described as ongoing or future. Availability and timing should be confirmed through current project information.</span></div></div></div></div>
+								<div class="bdai-piba-involvement-note"><strong>Progress Depends on the Development Phase</strong> Whitecap NPI includes completed infrastructure and amenities as well as residential, preserve, marina, village, and other components described as ongoing or future. Availability and timing should be confirmed through current project information.</div></div></div></div>
 				</section>
 			</td>
 		</tr>
@@ -209,13 +211,13 @@
 							<div class="bdai-piba-membership-copy">
 								<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">What the Development Will Offer</div>
 
-								<h2 class="bdai-piba-membership-title">A Mix of Homes, Amenities, Natural Areas, and Future Uses</h2>
+								<h2 class="bdai-piba-membership-title"><span style="font-size: 36px;">A Mix of Homes, Amenities, Natural Areas, and Future Uses</span></h2>
 
 								<p class="bdai-piba-membership-lead">Whitecap NPI is planned to offer more than residential property alone. The publicly documented concept includes water access, recreation, open space, neighborhood amenities, and future destinations intended to serve residents and support a broader community setting.</p>
 								<div class="bdai-piba-membership-details">
-									<div class="bdai-piba-membership-detail"><strong>Homes and Homesites</strong> <span>Whitecap offers planned residential areas that include canal-front and interior homesites, along with a range of housing types described in public project information.</span></div>
-									<div class="bdai-piba-membership-detail"><strong>Community Amenities</strong> <span>Publicly identified amenities include Pelican&rsquo;s Landing pool and fitness center, Heron&rsquo;s Nest Caf&eacute; and park, bridges, trails, and the Whitecap Preserve.</span></div>
-									<div class="bdai-piba-membership-detail"><strong>Boating and Waterfront Access</strong> <span>The canal network connects with the Intracoastal Waterway and Gulf, while a future full-service marina and dry-stack storage facility are included in the publicly described plans.</span></div></div>
+									<div class="bdai-piba-membership-detail"><strong>Homes and Homesites</strong> Whitecap offers planned residential areas that include canal-front and interior homesites, along with a range of housing types described in public project information.</div>
+									<div class="bdai-piba-membership-detail"><strong>Community Amenities</strong> Publicly identified amenities include Pelican&rsquo;s Landing pool and fitness center, Heron&rsquo;s Nest Caf&eacute; and park, bridges, trails, and the Whitecap Preserve.</div>
+									<div class="bdai-piba-membership-detail"><strong>Boating and Waterfront Access</strong> The canal network connects with the Intracoastal Waterway and Gulf, while a future full-service marina and dry-stack storage facility are included in the publicly described plans.</div></div>
 
 								<p class="bdai-piba-membership-text">The final mix of homes, amenities, commercial spaces, marina facilities, and future phases may change. Prices, availability, construction schedules, design details, and operating dates should be confirmed through the current Whitecap NPI information.</p><a class="bdai-piba-membership-link" href="https://whitecaplivingnpi.com/frequently-asked-questions/" target="_blank">Read Whitecap NPI FAQs</a></div></div></div>
 				</section>
@@ -234,14 +236,14 @@
 							<div class="bdai-piba-contact-copy">
 								<div class="bdai-piba-contact-eyebrow" style="white-space:nowrap !important;width:fit-content;">Whitecap NPI Information</div>
 
-								<h2 class="bdai-piba-contact-title">Understanding a Significant Padre Island Development</h2>
+								<h2 class="bdai-piba-contact-title"><span style="font-size: 36px;">Understanding a Significant Padre Island Development</span></h2>
 
 								<p class="bdai-piba-contact-text">Whitecap NPI is one of the larger publicly documented development projects on North Padre Island. Its 240-acre footprint, planned residential capacity, canal network, preserve, infrastructure, and future mixed-use and marina components make it relevant to residents, visitors, property owners, homebuyers, and anyone following the continued growth of Padre Island.</p>
 							</div>
 							<div class="bdai-piba-contact-details">
-								<div class="bdai-piba-contact-detail"><i class="bi bi-rulers" aria-hidden="true"></i> <span>240-acre master-planned community</span></div>
-								<div class="bdai-piba-contact-detail"><i class="bi bi-water" aria-hidden="true"></i> <span>Approximately five miles of navigable canals</span></div>
-								<div class="bdai-piba-contact-detail"><i class="bi bi-tree" aria-hidden="true"></i> <span>30-acre Whitecap Preserve</span></div><a class="bdai-piba-contact-link" href="https://whitecaplivingnpi.com/" target="_blank">Visit Whitecap NPI</a></div></div></div>
+								<div class="bdai-piba-contact-detail"><i class="bi bi-rulers" aria-hidden="true"></i> 240-acre master-planned community</div>
+								<div class="bdai-piba-contact-detail"><i class="bi bi-water" aria-hidden="true"></i> Approximately five miles of navigable canals</div>
+								<div class="bdai-piba-contact-detail"><i class="bi bi-tree" aria-hidden="true"></i> 30-acre Whitecap Preserve</div><a class="bdai-piba-contact-link" href="https://whitecaplivingnpi.com/" target="_blank">Visit Whitecap NPI</a></div></div></div>
 				</section>
 			</td>
 		</tr>
@@ -336,9 +338,7 @@
 	</tbody>
 </table>
 
-
-<style>
-    .bdai-piba-hero  {
+.bdai-piba-hero  {
    position:relative;
    overflow:hidden;
    padding:72px 0;
@@ -455,23 +455,53 @@
    gap:16px;
    color:rgb(24,46,69);
 }
+
+/* ===== IMAGE FRAMES: size follows the editor's width/height ===== */
  .bdai-piba-hero-media-frame, .bdai-piba-about-media-frame, .bdai-piba-involvement-media-frame, .bdai-piba-membership-media-frame  {
-   width:100%;
+   position:relative;
+   display:flex;
+   align-items:center;
+   justify-content:center;
+   width:fit-content;
    max-width:100%;
    min-width:0;
-   overflow:hidden;
+   align-self:center;
+   overflow:visible;
+   background:transparent;
    border-radius:16px;
    box-shadow:18px 18px 0 rgba(253,158,37,.22);
 }
- .bdai-piba-hero-media-frame img, .bdai-piba-about-media-frame img, .bdai-piba-involvement-media-frame img, .bdai-piba-membership-media-frame img  {
-   display:block;
-   width:100%;
-   height:440px;
-   max-width:100% !important;
-   margin:0 !important;
-   object-fit:cover;
+ .bdai-piba-hero-media-frame::before, .bdai-piba-about-media-frame::before, .bdai-piba-involvement-media-frame::before, .bdai-piba-membership-media-frame::before  {
+   position:absolute;
+   top:18px;
+   right:-18px;
+   bottom:-18px;
+   left:18px;
+   z-index:0;
+   background:rgb(214,234,246);
    border-radius:16px;
+   content:"";
 }
+ .bdai-piba-hero-media-frame::after, .bdai-piba-about-media-frame::after, .bdai-piba-involvement-media-frame::after, .bdai-piba-membership-media-frame::after  {
+   position:absolute;
+   inset:0;
+   z-index:1;
+   background:rgb(255,255,255);
+   border-radius:16px;
+   content:"";
+}
+ .bdai-piba-hero-media-frame img, .bdai-piba-about-media-frame img, .bdai-piba-involvement-media-frame img, .bdai-piba-membership-media-frame img  {
+   position:relative;
+   z-index:2;
+   display:block;
+   max-width:100%;
+   height:auto;
+   margin:0 !important;
+   object-fit:fill;
+   border-radius:16px !important;
+}
+/* ===== END IMAGE FRAMES ===== */
+
  .bdai-piba-hero-caption, .bdai-piba-membership-caption  {
    margin:0;
    padding:14px 16px;
@@ -872,6 +902,25 @@
      grid-template-columns:1fr;
   }
 }
+@media (max-width:900px){
+   .bdai-piba-hero-media-frame,
+   .bdai-piba-about-media-frame,
+   .bdai-piba-involvement-media-frame,
+   .bdai-piba-membership-media-frame {
+      align-self:flex-start;
+      max-width:calc(100% - 14px);
+      box-shadow:14px 14px 0 rgba(253,158,37,.22);
+   }
+   .bdai-piba-hero-media-frame::before,
+   .bdai-piba-about-media-frame::before,
+   .bdai-piba-involvement-media-frame::before,
+   .bdai-piba-membership-media-frame::before {
+      top:14px;
+      right:-14px;
+      bottom:-14px;
+      left:14px;
+   }
+}
  @media (max-width:700px)  {
    .bdai-piba-mission-grid, .bdai-piba-faq-columns  {
      grid-template-columns:1fr;
@@ -884,9 +933,6 @@
   }
    .bdai-piba-hero-lead  {
      font-size:20px;
-  }
-   .bdai-piba-hero-media-frame img, .bdai-piba-about-media-frame img, .bdai-piba-involvement-media-frame img, .bdai-piba-membership-media-frame img  {
-     height:280px;
   }
    .bdai-piba-contact-inner  {
      padding:28px;
@@ -909,7 +955,6 @@
  .froala-table section > .container > * + *  {
    margin-top: 16px;
 }
-</style>
 
 
 <script>

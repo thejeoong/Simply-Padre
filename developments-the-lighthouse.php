@@ -6,22 +6,22 @@
 					<div class="container">
 						<div class="bdai-piba-hero-layout">
 							<div class="bdai-piba-hero-copy">
-								<div class="bdai-piba-hero-eyebrow" style="white-space:nowrap !important;width:fit-content;">Padre Island Developments</div>
+								<div class="bdai-piba-hero-eyebrow" style="white-space:nowrap !important;width:fit-content;">North Padre Island Development</div>
 
-								<h1 class="bdai-piba-hero-title">Bob Hall Pier &ndash; Rebuild: A Completed Padre Island Redevelopment</h1>
+								<h1 class="bdai-piba-hero-title">The Lighthouse: A Waterfront Lifestyle Development on North Padre Island</h1>
 
-								<p class="bdai-piba-hero-lead">Bob Hall Pier has reopened on North Padre Island after a major reconstruction created a new, wider, more accessible pier following the severe damage caused by Hurricane Hanna in 2020.</p>
+								<p class="bdai-piba-hero-lead">The Lighthouse is a planned waterfront lifestyle development at 14102 South Padre Island Drive in Corpus Christi, overlooking Packery Channel.</p>
 
-								<p class="bdai-piba-hero-copy-text">The completed redevelopment replaces the historic pier with a new 1,240-foot structure designed for fishing, recreation, public access, and greater durability along the Gulf Coast. The rebuilt pier includes wider walkways, ADA accessibility, structural improvements, lighting, and renewed access to one of Padre Island&rsquo;s best-known public waterfront destinations.</p>
-								<div class="bdai-piba-hero-actions"><a class="bdai-piba-hero-primary" href="https://www.nuecesbeachparks.com/padre-balli-park/bob-hall-pier" target="_blank">Learn About Bob Hall Pier</a> <a class="bdai-piba-hero-secondary" href="#bdai-piba-involvement">Explore the Rebuild</a></div></div>
+								<p class="bdai-piba-hero-copy-text">Project records describe The Lighthouse Center as a new two-story retail building with common-area restrooms, an elevator, and stairs. Commercial project materials identify Real Life Church as the anchor tenant and describe additional restaurant, retail, and medical spaces alongside outdoor amenities planned for the property.</p>
+								<div class="bdai-piba-hero-actions"><a class="bdai-piba-hero-primary" href="https://www.myreallife.org/corpus" target="_blank">Learn About Real Life Church</a> <a class="bdai-piba-hero-secondary" href="#bdai-piba-involvement">Explore the Development</a></div></div>
 							<div class="bdai-piba-hero-media">
-								<div class="bdai-piba-hero-media-frame"><img src="https://images.pexels.com/photos/20538161/pexels-photo-20538161.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="ocean pier sunset" class="img-rounded fr-fil fr-dib"></div>
+								<div class="bdai-piba-hero-media-frame"><img src="https://images.pexels.com/photos/36547712/pexels-photo-36547712.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="waterfront development" class="img-rounded fr-fil fr-dib" height="262"></div>
 
 								<p>
 									<br>
 								</p>
 
-								<p class="bdai-piba-hero-caption">The Bob Hall Pier rebuild restored public access to a signature North Padre Island fishing and recreation destination after Hurricane Hanna destroyed the original structure.</p>
+								<p class="bdai-piba-hero-caption">The Lighthouse is planned as a North Padre Island destination with views toward Packery Channel and a mix of community, commercial, and service-oriented uses.</p>
 							</div></div></div>
 				</section>
 			</td>
@@ -37,44 +37,44 @@
 					<div class="container">
 						<div class="bdai-piba-about-layout">
 							<div class="bdai-piba-about-media">
-								<div class="bdai-piba-about-media-frame"><img src="https://images.pexels.com/photos/33595364/pexels-photo-33595364.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="fishing pier walkway" class="img-rounded fr-fil fr-dib"></div>
+								<div class="bdai-piba-about-media-frame"><img src="https://images.pexels.com/photos/33053824/pexels-photo-33053824.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="coastal gathering place" class="img-rounded fr-fil fr-dib"></div>
 
 								<p>
 									<br>
 								</p>
-								<div class="bdai-piba-about-note"><strong>A New 1,240-Foot Gulf Pier</strong> The rebuilt Bob Hall Pier is a new public structure on North Padre Island with wider walkways, ADA accessibility, enhanced durability, and renewed saltwater fishing access.</div></div>
+								<div class="bdai-piba-about-note"><strong>Real Life Church as the Anchor Tenant</strong> Commercial project materials identify Real Life Church as the anchor tenant for The Lighthouse, with the development planned as a multi-purpose destination for North Padre Island.</div></div>
 							<div class="bdai-piba-about-copy">
-								<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;"><span style="font-size: 11px;">What Is Bob Hall Pier &ndash; Rebuild?</span></div>
+								<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">About The Lighthouse</div>
 
-								<h2 class="bdai-piba-about-title">A New Coastal Landmark Built After Hurricane Hanna</h2>
+								<h2 class="bdai-piba-about-title">A New Two-Story Center Planned Beside Packery Channel</h2>
 
-								<p class="bdai-piba-about-lead">Bob Hall Pier is a public fishing and recreation pier located within Padre Balli Park on North Padre Island in Corpus Christi, Texas. The original pier had served generations of residents, anglers, and visitors before Hurricane Hanna severely damaged it in July 2020 and ultimately forced its closure.</p>
+								<p class="bdai-piba-about-lead">The Lighthouse Center is associated with the address 14102 South Padre Island Drive, Corpus Christi, Texas 78418. The Texas Department of Licensing and Regulation project record identifies a privately funded, privately owned new-construction project in Nueces County.</p>
 
-								<p class="bdai-piba-about-text">The Bob Hall Pier rebuild was undertaken as a full replacement rather than a minor repair. The completed project created an entirely new structure extending 1,240 feet over the Gulf, with a wider deck, improved public access, ADA-compliant access, stronger structural design, and features intended to support fishing and nighttime visitor use.</p>
+								<p class="bdai-piba-about-text">The project record describes a two-story retail building totaling 40,295 square feet. Its documented building scope includes common-area restrooms, an elevator, and stairs, while leasing materials describe a broader lifestyle center with a church anchor and space intended for several community-serving uses.</p>
 								<div class="bdai-piba-about-points">
 									<div class="bdai-piba-about-point">
-										<div class="bdai-piba-about-point-icon"><i class="bi bi-wind" aria-hidden="true"></i></div>
+										<div class="bdai-piba-about-point-icon"><i class="bi bi-building" aria-hidden="true"></i></div>
 										<div class="bdai-piba-about-point-copy">
 
-											<h3>Rebuilt After Hurricane Hanna</h3>
+											<h3>Two-Story Retail Building</h3>
 
-											<p>Hurricane Hanna severely damaged the original Bob Hall Pier in 2020. Because the historic structure could not simply be restored, the remaining pier was demolished and replaced through a major reconstruction project.</p>
+											<p>TDLR lists The Lighthouse Center as a new two-story retail building with 40,295 square feet of planned space. The same record identifies common-area restrooms, an elevator, and stairs within the project scope.</p>
+										</div></div>
+									<div class="bdai-piba-about-point">
+										<div class="bdai-piba-about-point-icon"><i class="bi bi-people" aria-hidden="true"></i></div>
+										<div class="bdai-piba-about-point-copy">
+
+											<h3>Anchored by Real Life Church</h3>
+
+											<p>Commercial project materials identify Real Life Church as The Lighthouse&rsquo;s anchor tenant. The church is presented as a central part of the development&rsquo;s planned community-oriented identity.</p>
 										</div></div>
 									<div class="bdai-piba-about-point">
 										<div class="bdai-piba-about-point-icon"><i class="bi bi-water" aria-hidden="true"></i></div>
 										<div class="bdai-piba-about-point-copy">
 
-											<h3>A 1,240-Foot Public Pier</h3>
+											<h3>Waterfront Setting</h3>
 
-											<p>The completed replacement pier extends approximately 1,240 feet over the Texas coast. Earlier project descriptions identified a deck approximately 20 feet wide, creating more room for pedestrians, anglers, and visitors to move along the pier.</p>
-										</div></div>
-									<div class="bdai-piba-about-point">
-										<div class="bdai-piba-about-point-icon"><i class="bi bi-universal-access" aria-hidden="true"></i></div>
-										<div class="bdai-piba-about-point-copy">
-
-											<h3>Improved Access for More Visitors</h3>
-
-											<p>The rebuilt pier includes ADA-compliant access and wider walkways, helping make the fishing and recreation experience more usable for visitors with different mobility needs.</p>
+											<p>The development is marketed as overlooking Packery Channel on North Padre Island, giving the planned center a waterfront setting connected to the island&rsquo;s surrounding residential, recreational, and visitor activity.</p>
 										</div></div></div></div></div></div>
 				</section>
 			</td>
@@ -89,40 +89,40 @@
 				<section class="bdai-piba-mission" id="bdai-piba-mission">
 					<div class="container">
 						<div class="bdai-piba-mission-heading">
-							<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">The Rebuild Project</div>
+							<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;"><span style="font-size: 11px;">Planned uses &amp; amenities</span></div>
 
-							<h2 class="bdai-piba-mission-title">A Wider, More Accessible Pier for Padre Island</h2>
+							<h2 class="bdai-piba-mission-title">A Mix of Community, Commercial, and Outdoor Uses</h2>
 
-							<p class="bdai-piba-mission-intro">The Bob Hall Pier redevelopment addressed the loss of a historic coastal landmark while creating a new public structure for fishing, recreation, and tourism. Construction began in 2024, and the rebuilt pier was completed in early 2026 before reopening to the public on February 24, 2026.</p>
+							<p class="bdai-piba-mission-intro">Available project descriptions identify The Lighthouse as more than a single-use building. Plans describe a church anchor together with restaurant, retail, and medical spaces, plus outdoor amenities intended to support recreation and family activity.</p>
 						</div>
 						<div class="bdai-piba-mission-grid">
 							<article class="bdai-piba-mission-card">
-								<div class="bdai-piba-mission-icon"><i class="bi bi-building" aria-hidden="true"></i></div>
+								<div class="bdai-piba-mission-icon"><i class="bi bi-house-heart" aria-hidden="true"></i></div>
 
-								<h3>Entirely New Pier Structure</h3>
+								<h3>Real Life Church</h3>
 
-								<p>The project replaced the hurricane-damaged pier with a new 1,240-foot structure. The reconstruction was designed to provide enhanced structural durability for a demanding Gulf Coast environment.</p>
+								<p>Real Life Church is identified in commercial materials as the anchor tenant for The Lighthouse. Its planned presence gives the development a community and gathering focus alongside the other proposed uses.</p>
 							</article>
 							<article class="bdai-piba-mission-card">
-								<div class="bdai-piba-mission-icon"><i class="bi bi-arrows-expand" aria-hidden="true"></i></div>
+								<div class="bdai-piba-mission-icon"><i class="bi bi-cup-hot" aria-hidden="true"></i></div>
 
-								<h3>Wider Deck and Walkways</h3>
+								<h3>Restaurant Space</h3>
 
-								<p>The rebuilt pier has a wider deck, reported in project descriptions at approximately 20 feet, to improve pedestrian flow and provide more usable space for anglers and visitors along the pier.</p>
+								<p>Project materials identify restaurant space as part of the planned tenant mix. Specific restaurant operators, menus, and opening dates were not confirmed in the sources reviewed.</p>
 							</article>
 							<article class="bdai-piba-mission-card">
-								<div class="bdai-piba-mission-icon"><i class="bi bi-universal-access-circle" aria-hidden="true"></i></div>
+								<div class="bdai-piba-mission-icon"><i class="bi bi-shop" aria-hidden="true"></i></div>
 
-								<h3>ADA-Compliant Public Access</h3>
+								<h3>Retail and Medical Space</h3>
 
-								<p>Accessibility was incorporated into the new pier design. ADA-compliant access gives more visitors the opportunity to reach the pier and enjoy its fishing and waterfront recreation areas.</p>
+								<p>The planned development includes retail and medical space in addition to the church anchor. The reviewed sources do not establish final tenant names or the complete list of businesses that may occupy those spaces.</p>
 							</article>
 							<article class="bdai-piba-mission-card">
-								<div class="bdai-piba-mission-icon"><i class="bi bi-brightness-high" aria-hidden="true"></i></div>
+								<div class="bdai-piba-mission-icon"><i class="bi bi-trophy" aria-hidden="true"></i></div>
 
-								<h3>Fishing, Lighting, and Recreation</h3>
+								<h3>Outdoor Family Amenities</h3>
 
-								<p>The reopened pier supports saltwater fishing and general visitor use, with Gulf pier lights that are especially relevant to nighttime fishing for species such as spotted seatrout.</p>
+								<p>Plans describe outdoor amenities including pickleball courts and a playground. These features are presented as planned components of the lifestyle center rather than confirmed completed amenities.</p>
 							</article>
 						</div></div>
 				</section>
@@ -139,51 +139,51 @@
 					<div class="container">
 						<div class="bdai-piba-involvement-layout">
 							<div class="bdai-piba-involvement-copy">
-								<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;"><span style="font-size: 11px;">Timeline &amp; Development Progress</span></div>
+								<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;"><span style="font-size: 11px;">Location &amp; Project Record</span></div>
 
-								<h2 class="bdai-piba-involvement-title">The Bob Hall Pier Rebuild Has Reached Public Reopening</h2>
+								<h2 class="bdai-piba-involvement-title">A Privately Funded Development at 14102 South Padre Island Drive</h2>
 
-								<p class="bdai-piba-involvement-lead">The redevelopment followed several years of storm damage, demolition, design, permitting, construction, and public anticipation. The pier reconstruction itself is now complete, while separate property improvements around the pier should be understood as a different part of the broader redevelopment.</p>
+								<p class="bdai-piba-involvement-lead">The Lighthouse is planned for North Padre Island in Corpus Christi, near Packery Channel. Its location and proposed mix of uses place the development within the island&rsquo;s growing waterfront commercial and community landscape.</p>
 								<div class="bdai-piba-involvement-list">
 									<div class="bdai-piba-involvement-item">
-										<div class="bdai-piba-involvement-icon"><i class="bi bi-cloud-lightning" aria-hidden="true"></i></div>
+										<div class="bdai-piba-involvement-icon"><i class="bi bi-geo-alt" aria-hidden="true"></i></div>
 										<div class="bdai-piba-involvement-item-copy">
 
-											<h3>Hurricane Hanna Damaged the Original Pier</h3>
+											<h3>North Padre Island Location</h3>
 
-											<p>Hurricane Hanna severely damaged Bob Hall Pier in July 2020. The historic pier had already been rebuilt multiple times over its history, but the 2020 storm damage led to the closure and eventual replacement of the remaining structure.</p>
+											<p>The project address listed in the TDLR record is 14102 South Padre Island, Corpus Christi, Texas 78418. Commercial materials describe the site as overlooking Packery Channel.</p>
 										</div></div>
 									<div class="bdai-piba-involvement-item">
-										<div class="bdai-piba-involvement-icon"><i class="bi bi-cone-striped" aria-hidden="true"></i></div>
+										<div class="bdai-piba-involvement-icon"><i class="bi bi-rulers" aria-hidden="true"></i></div>
 										<div class="bdai-piba-involvement-item-copy">
 
-											<h3>Demolition and Replacement Planning Followed</h3>
+											<h3>40,295 Square Feet Listed</h3>
 
-											<p>Demolition of the remaining old pier began in 2022. County planning and design work continued before the rebuild moved into construction, with the final design approved in 2025 for the new pier and related restaurant space.</p>
+											<p>The TDLR project record identifies 40,295 square feet for the new two-story retail building. It lists an estimated project cost of $10,000,000.</p>
 										</div></div>
 									<div class="bdai-piba-involvement-item">
-										<div class="bdai-piba-involvement-icon"><i class="bi bi-hammer" aria-hidden="true"></i></div>
+										<div class="bdai-piba-involvement-icon"><i class="bi bi-person-badge" aria-hidden="true"></i></div>
 										<div class="bdai-piba-involvement-item-copy">
 
-											<h3>Construction Began in 2024</h3>
+											<h3>Waymaker Development</h3>
 
-											<p>Construction on the pier reconstruction began in 2024 after the county issued a notice to proceed and held a groundbreaking ceremony on October 7, 2024. The project created a completely new pier rather than repairing the storm-damaged structure.</p>
+											<p>TDLR identifies Waymaker Development as the owner of the project record. The record describes the work as privately funded, on private land, for private use.</p>
 										</div></div>
 									<div class="bdai-piba-involvement-item">
-										<div class="bdai-piba-involvement-icon"><i class="bi bi-check2-circle" aria-hidden="true"></i></div>
+										<div class="bdai-piba-involvement-icon"><i class="bi bi-calendar3" aria-hidden="true"></i></div>
 										<div class="bdai-piba-involvement-item-copy">
 
-											<h3>Reopened to the Public in February 2026</h3>
+											<h3>Registered Project Timeline</h3>
 
-											<p>Construction finished in early 2026, and Bob Hall Pier officially reopened on February 24, 2026. The pier is now available for public fishing and recreation, with separate restaurant and concession-related work continuing independently of the pier reopening.</p>
+											<p>The TDLR record shows a registration date of January 23, 2024, a listed start date of April 1, 2024, and a listed completion date of June 30, 2026. The record&rsquo;s current status is Review Complete; these fields describe the filing and should not be treated as confirmation that every planned feature is open or operating.</p>
 										</div></div></div></div>
 							<div class="bdai-piba-involvement-media">
-								<div class="bdai-piba-involvement-media-frame"><img src="https://images.pexels.com/photos/22840273/pexels-photo-22840273.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="coastal pier construction" class="img-rounded fr-fil fr-dib"></div>
+								<div class="bdai-piba-involvement-media-frame"><img src="https://images.pexels.com/photos/37784138/pexels-photo-37784138.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="channel waterfront" class="img-rounded fr-fil fr-dib"></div>
 
 								<p>
 									<br>
 								</p>
-								<div class="bdai-piba-involvement-note"><strong>Completed Pier, Separate Property Work</strong> The reconstructed pier has reopened. Restaurant, concession, and related site improvements are separate components of the broader property redevelopment and should not be treated as part of the completed pier opening.</div></div></div></div>
+								<div class="bdai-piba-involvement-note"><strong>Plans and Final Tenants May Change</strong> The reviewed materials confirm the project concept and listed building scope, but they do not establish a final tenant roster, opening schedule, or confirmation that each proposed amenity is complete and operating.</div></div></div></div>
 				</section>
 			</td>
 		</tr>
@@ -198,26 +198,26 @@
 					<div class="container">
 						<div class="bdai-piba-membership-layout">
 							<div class="bdai-piba-membership-media">
-								<div class="bdai-piba-membership-media-frame"><img src="https://images.pexels.com/photos/20988599/pexels-photo-20988599.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="anglers ocean pier" class="img-rounded fr-fil fr-dib"></div>
+								<div class="bdai-piba-membership-media-frame"><img src="https://images.pexels.com/photos/30499227/pexels-photo-30499227.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="waterfront recreation" class="img-rounded fr-fil fr-dib"></div>
 
 								<p>
 									<br>
 								</p>
 
-								<p class="bdai-piba-membership-caption">The completed Bob Hall Pier restores a long-standing public connection between Padre Island visitors and the Gulf of Mexico.</p>
+								<p class="bdai-piba-membership-caption">The Lighthouse is planned around a waterfront setting, community gathering, commercial services, and outdoor recreation on North Padre Island.</p>
 							</div>
 							<div class="bdai-piba-membership-copy">
-								<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">What the Rebuilt Pier Offers</div>
+								<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;"><span style="font-size: 11px;">What The Lighthouse Is Planned to Provide</span></div>
 
-								<h2 class="bdai-piba-membership-title">A More Usable, Accessible, and Durable Gulf Coast Destination</h2>
+								<h2 class="bdai-piba-membership-title">A Community-Oriented Waterfront Center for North Padre Island</h2>
 
-								<p class="bdai-piba-membership-lead">The Bob Hall Pier rebuild improves the visitor experience by restoring access to a major North Padre Island fishing destination while addressing the structural and accessibility limitations exposed by the original pier&rsquo;s storm damage.</p>
+								<p class="bdai-piba-membership-lead">The Lighthouse combines an identified church anchor with planned restaurant, retail, and medical spaces. Project materials also describe outdoor amenities that could add recreation and family activity to the Packery Channel waterfront setting.</p>
 								<div class="bdai-piba-membership-details">
-									<div class="bdai-piba-membership-detail"><strong>Fishing and Waterfront Access</strong> The reopened pier provides saltwater anglers with renewed access to the Gulf. The nearby Packery Channel helps connect fish movement between the Gulf and the Upper Laguna Madre, contributing to the area&rsquo;s recreational fishing appeal.</div>
-									<div class="bdai-piba-membership-detail"><strong>Improved Movement and Accessibility</strong> The wider deck and ADA-compliant access make it easier for visitors to move along the pier and reach the waterfront, supporting a broader range of fishing, sightseeing, and recreational uses.</div>
-									<div class="bdai-piba-membership-detail"><strong>Nighttime Recreation and Gulf Views</strong> Gulf pier lighting supports nighttime visitor use and fishing, including opportunities to target spotted seatrout beneath the lights during favorable summer conditions.</div></div>
+									<div class="bdai-piba-membership-detail"><strong>Community Anchor</strong> Real Life Church is identified as the anchor tenant, making the church a central part of the development&rsquo;s planned identity and programming.</div>
+									<div class="bdai-piba-membership-detail"><strong>Commercial and Service Uses</strong> Restaurant, retail, and medical spaces are included in the planned mix, although final operators and opening dates were not confirmed in the reviewed sources.</div>
+									<div class="bdai-piba-membership-detail"><strong>Outdoor Recreation</strong> Planned outdoor features include pickleball courts and a playground, adding activity options to the proposed lifestyle-center concept.</div></div>
 
-								<p class="bdai-piba-membership-text">Separate restaurant, concession, bait shop, restroom, parking, and access-road improvements have been discussed or developed as related property work. Those elements should be confirmed independently because they are not the same as the completed pier reconstruction and may have separate schedules or operating arrangements.</p><a class="bdai-piba-membership-link" href="https://tpwd.texas.gov/newsmedia/releases/?req=20260410b" target="_blank">Read the Reopening Information</a></div></div></div>
+								<p class="bdai-piba-membership-text">The TDLR record documents a new two-story, 40,295-square-foot retail building at 14102 South Padre Island. The final tenant mix, completed features, and operating schedule should be verified through current project or tenant information.</p><a class="bdai-piba-membership-link" href="https://www.loopnet.com/Listing/14102-S-Padre-Island-Dr-Corpus-Christi-TX/37598225/" target="_blank">View Development Listing</a></div></div></div>
 				</section>
 			</td>
 		</tr>
@@ -232,16 +232,16 @@
 					<div class="container">
 						<div class="bdai-piba-contact-inner">
 							<div class="bdai-piba-contact-copy">
-								<div class="bdai-piba-contact-eyebrow" style="white-space:nowrap !important;width:fit-content;">Bob Hall Pier &ndash; Rebuild</div>
+								<div class="bdai-piba-contact-eyebrow" style="white-space:nowrap !important;width:fit-content;">The Lighthouse Development</div>
 
-								<h2 class="bdai-piba-contact-title">A Reopened Landmark for North Padre Island</h2>
+								<h2 class="bdai-piba-contact-title">A Planned Waterfront Destination for North Padre Island</h2>
 
-								<p class="bdai-piba-contact-text">The completed Bob Hall Pier reconstruction restores a significant public destination to Padre Island after Hurricane Hanna destroyed the original pier. Its new structure, wider walkways, ADA accessibility, fishing access, lighting, and improved durability support residents, visitors, anglers, and the continued growth of North Padre Island as a coastal recreation destination.</p>
+								<p class="bdai-piba-contact-text">The Lighthouse is documented as a new two-story retail development at 14102 South Padre Island in Corpus Christi. With Real Life Church identified as the anchor tenant and plans for restaurant, retail, medical, pickleball, and playground uses, the project is intended to bring a varied mix of community and commercial activity to the Packery Channel waterfront.</p>
 							</div>
 							<div class="bdai-piba-contact-details">
-								<div class="bdai-piba-contact-detail"><i class="bi bi-rulers" aria-hidden="true"></i> Approximately 1,240 feet long</div>
-								<div class="bdai-piba-contact-detail"><i class="bi bi-arrows-expand" aria-hidden="true"></i> Approximately 20-foot-wide deck described in project plans</div>
-								<div class="bdai-piba-contact-detail"><i class="bi bi-universal-access" aria-hidden="true"></i> ADA-compliant access and wider walkways</div><a class="bdai-piba-contact-link" href="https://www.nuecesbeachparks.com/padre-balli-park/bob-hall-pier" target="_blank">View Bob Hall Pier Information</a></div></div></div>
+								<div class="bdai-piba-contact-detail"><i class="bi bi-building" aria-hidden="true"></i> Two-story retail building listed at 40,295 square feet</div>
+								<div class="bdai-piba-contact-detail"><i class="bi bi-house-heart" aria-hidden="true"></i> Real Life Church identified as the anchor tenant</div>
+								<div class="bdai-piba-contact-detail"><i class="bi bi-trophy" aria-hidden="true"></i> Planned pickleball courts and playground</div><a class="bdai-piba-contact-link" href="https://www.loopnet.com/Listing/14102-S-Padre-Island-Dr-Corpus-Christi-TX/37598225/" target="_blank">View The Lighthouse Listing</a></div></div></div>
 				</section>
 			</td>
 		</tr>
@@ -255,78 +255,78 @@
 				<section class="bdai-piba-faq" id="bdai-piba-faq">
 					<div class="container">
 						<div class="bdai-piba-faq-heading">
-							<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Bob Hall Pier Questions</div>
+							<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;"><span style="font-size: 11px;">The Lighthouse Questions</span></div>
 
-							<h2 class="bdai-piba-faq-title">What to Know About the Bob Hall Pier Rebuild</h2>
+							<h2 class="bdai-piba-faq-title">What to Know About The Lighthouse on North Padre Island</h2>
 
-							<p class="bdai-piba-faq-intro">These answers summarize publicly available information about the Hurricane Hanna damage, reconstruction, design, reopening, visitor access, and related development at Bob Hall Pier on North Padre Island.</p>
+							<p class="bdai-piba-faq-intro">The answers below summarize the project details that could be confirmed through the TDLR record and available commercial project materials. Proposed uses, tenants, amenities, and schedules may change as the development progresses.</p>
 						</div>
 						<div class="bdai-piba-faq-columns">
 							<div class="bdai-piba-faq-column">
 								<article class="bdai-piba-faq-card">
 
-									<h3 class="bdai-piba-faq-question">What is the Bob Hall Pier rebuild?</h3>
+									<h3 class="bdai-piba-faq-question">What is The Lighthouse??</h3>
 									<div class="bdai-piba-faq-answer">
 
-										<p>The Bob Hall Pier rebuild is the full replacement of the historic fishing pier at Padre Balli Park on North Padre Island. The original pier was severely damaged by Hurricane Hanna in 2020, and the completed project created a new 1,240-foot pier with wider walkways, ADA accessibility, enhanced structural durability, lighting, and renewed public fishing access.</p>
+										<p>The Lighthouse is a planned waterfront lifestyle development on North Padre Island in Corpus Christi. The project is associated with a new two-story retail building at 14102 South Padre Island overlooking Packery Channel.</p>
 									</div>
 								</article>
 								<article class="bdai-piba-faq-card">
 
-									<h3 class="bdai-piba-faq-question">Why was Bob Hall Pier rebuilt?</h3>
+									<h3 class="bdai-piba-faq-question">Who is the anchor tenant?</h3>
 									<div class="bdai-piba-faq-answer">
 
-										<p>Hurricane Hanna severely damaged Bob Hall Pier in July 2020. The storm damage forced the pier to close and left the remaining structure unsuitable for continued public use, so the county pursued demolition and construction of an entirely new pier rather than a limited repair.</p>
+										<p>Commercial project materials identify Real Life Church as the anchor tenant for The Lighthouse. The reviewed materials do not establish a complete final tenant roster.</p>
 									</div>
 								</article>
 								<article class="bdai-piba-faq-card">
 
-									<h3 class="bdai-piba-faq-question">How long is the rebuilt Bob Hall Pier?</h3>
+									<h3 class="bdai-piba-faq-question">What is planned for the development?</h3>
 									<div class="bdai-piba-faq-answer">
 
-										<p>The completed Bob Hall Pier is approximately 1,240 feet long and extends over the Gulf of Mexico from Padre Balli Park. Project descriptions also identified a deck approximately 20 feet wide, providing more usable space than the previous pier configuration.</p>
+										<p>Plans identify restaurant, retail, and medical spaces, along with outdoor amenities such as pickleball courts and a playground. These are planned uses and amenities; the reviewed sources do not confirm that every component is complete or operating.</p>
 									</div>
 								</article>
 								<article class="bdai-piba-faq-card">
 
-									<h3 class="bdai-piba-faq-question">When did the rebuilt Bob Hall Pier reopen?</h3>
+									<h3 class="bdai-piba-faq-question">How large is the building?</h3>
 									<div class="bdai-piba-faq-answer">
 
-										<p>Bob Hall Pier officially reopened to the public on February 24, 2026, after construction finished in early 2026. The reopening marked the return of public fishing and recreation access following several years of closure.</p>
+										<p>The TDLR project record lists a 40,295-square-foot, two-story retail building. It also identifies common-area restrooms, an elevator, and stairs in the documented scope.</p>
 									</div>
 								</article>
 							</div>
 							<div class="bdai-piba-faq-column">
 								<article class="bdai-piba-faq-card">
 
-									<h3 class="bdai-piba-faq-question">What features were added to the new pier?</h3>
+									<h3 class="bdai-piba-faq-question">Where is The Lighthouse located?</h3>
 									<div class="bdai-piba-faq-answer">
 
-										<p>Documented improvements include a wider deck and walkways, ADA-compliant access, enhanced structural durability, renewed saltwater fishing access, and Gulf pier lighting for nighttime use. The new structure is intended to provide a more durable and accessible public waterfront experience.</p>
+										<p>The project record lists 14102 South Padre Island, Corpus Christi, Texas 78418. Commercial materials describe the development as overlooking Packery Channel on North Padre Island.</p>
 									</div>
 								</article>
 								<article class="bdai-piba-faq-card">
 
-									<h3 class="bdai-piba-faq-question">Is the rebuilt pier accessible to visitors with disabilities?</h3>
+									<h3 class="bdai-piba-faq-question">Who owns or developed the project?</h3>
 									<div class="bdai-piba-faq-answer">
 
-										<p>Yes. Public information about the completed reconstruction identifies ADA accessibility as one of the project improvements. The wider walkways and accessible design are intended to make the pier more usable for visitors with different mobility needs.</p>
+										<p>The TDLR record identifies Waymaker Development as the owner of the registered project. The record describes the project as privately funded, on private land, for private use.</p>
 									</div>
 								</article>
 								<article class="bdai-piba-faq-card">
 
-									<h3 class="bdai-piba-faq-question">Are the restaurant and concession improvements part of the completed pier?</h3>
+									<h3 class="bdai-piba-faq-question">What does the public project record say about timing?</h3>
 									<div class="bdai-piba-faq-answer">
 
-										<p>They are related but separate components of the broader Bob Hall Pier property redevelopment. Restaurant, concession, bait shop, restroom, parking, and access improvements have been discussed or developed independently, and their schedules, operators, and availability should not be assumed from the completed pier reopening.</p>
+										<p>The TDLR record shows registration on January 23, 2024, a listed start date of April 1, 2024, and a listed completion date of June 30, 2026. Its current status is Review Complete, but those filing fields do not by themselves confirm that all planned tenants or amenities are open.</p>
 									</div>
 								</article>
 								<article class="bdai-piba-faq-card">
 
-									<h3 class="bdai-piba-faq-question">Why is the Bob Hall Pier rebuild important to Padre Island?</h3>
+									<h3 class="bdai-piba-faq-question">Why is The Lighthouse significant to North Padre Island?</h3>
 									<div class="bdai-piba-faq-answer">
 
-										<p>Bob Hall Pier is a recognizable fishing and recreation destination for North Padre Island, Corpus Christi, and visiting anglers. Rebuilding it restores a long-standing public connection to the Gulf, improves access and durability, supports tourism and recreation, and reinforces Padre Island&rsquo;s role as a major coastal destination.</p>
+										<p>The planned development would bring a church anchor, commercial and medical space, and outdoor recreation into one waterfront center overlooking Packery Channel. Its proposed mix is intended to serve community, visitor, and everyday service needs on North Padre Island.</p>
 									</div>
 								</article>
 							</div></div></div>
@@ -335,8 +335,6 @@
 		</tr>
 	</tbody>
 </table>
-
-
 
 .bdai-piba-hero  {
    position:relative;

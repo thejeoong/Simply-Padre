@@ -207,7 +207,7 @@
 								<p class="bdai-piba-membership-caption">Lake Padre Village is part of the North Padre Island coastal setting, with waterfront property, boating access, and nearby beaches and attractions shaping its appeal.</p>
 							</div>
 							<div class="bdai-piba-membership-copy">
-								<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">What Lake Padre Village Offers</div>
+								<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">What Lake Padre Offers</div>
 
 								<h2 class="bdai-piba-membership-title">A Combination of Homesites, Water Access, and Coastal Convenience</h2>
 
@@ -337,8 +337,7 @@
 </table>
 
 
-<style>
-    .bdai-piba-hero  {
+.bdai-piba-hero  {
    position:relative;
    overflow:hidden;
    padding:72px 0;
@@ -455,23 +454,53 @@
    gap:16px;
    color:rgb(24,46,69);
 }
+
+/* ===== IMAGE FRAMES: size follows the editor's width/height ===== */
  .bdai-piba-hero-media-frame, .bdai-piba-about-media-frame, .bdai-piba-involvement-media-frame, .bdai-piba-membership-media-frame  {
-   width:100%;
+   position:relative;
+   display:flex;
+   align-items:center;
+   justify-content:center;
+   width:fit-content;
    max-width:100%;
    min-width:0;
-   overflow:hidden;
+   align-self:center;
+   overflow:visible;
+   background:transparent;
    border-radius:16px;
    box-shadow:18px 18px 0 rgba(253,158,37,.22);
 }
- .bdai-piba-hero-media-frame img, .bdai-piba-about-media-frame img, .bdai-piba-involvement-media-frame img, .bdai-piba-membership-media-frame img  {
-   display:block;
-   width:100%;
-   height:440px;
-   max-width:100% !important;
-   margin:0 !important;
-   object-fit:cover;
+ .bdai-piba-hero-media-frame::before, .bdai-piba-about-media-frame::before, .bdai-piba-involvement-media-frame::before, .bdai-piba-membership-media-frame::before  {
+   position:absolute;
+   top:18px;
+   right:-18px;
+   bottom:-18px;
+   left:18px;
+   z-index:0;
+   background:rgb(214,234,246);
    border-radius:16px;
+   content:"";
 }
+ .bdai-piba-hero-media-frame::after, .bdai-piba-about-media-frame::after, .bdai-piba-involvement-media-frame::after, .bdai-piba-membership-media-frame::after  {
+   position:absolute;
+   inset:0;
+   z-index:1;
+   background:rgb(255,255,255);
+   border-radius:16px;
+   content:"";
+}
+ .bdai-piba-hero-media-frame img, .bdai-piba-about-media-frame img, .bdai-piba-involvement-media-frame img, .bdai-piba-membership-media-frame img  {
+   position:relative;
+   z-index:2;
+   display:block;
+   max-width:100%;
+   height:auto;
+   margin:0 !important;
+   object-fit:fill;
+   border-radius:16px !important;
+}
+/* ===== END IMAGE FRAMES ===== */
+
  .bdai-piba-hero-caption, .bdai-piba-membership-caption  {
    margin:0;
    padding:14px 16px;
@@ -872,6 +901,25 @@
      grid-template-columns:1fr;
   }
 }
+@media (max-width:900px){
+   .bdai-piba-hero-media-frame,
+   .bdai-piba-about-media-frame,
+   .bdai-piba-involvement-media-frame,
+   .bdai-piba-membership-media-frame {
+      align-self:flex-start;
+      max-width:calc(100% - 14px);
+      box-shadow:14px 14px 0 rgba(253,158,37,.22);
+   }
+   .bdai-piba-hero-media-frame::before,
+   .bdai-piba-about-media-frame::before,
+   .bdai-piba-involvement-media-frame::before,
+   .bdai-piba-membership-media-frame::before {
+      top:14px;
+      right:-14px;
+      bottom:-14px;
+      left:14px;
+   }
+}
  @media (max-width:700px)  {
    .bdai-piba-mission-grid, .bdai-piba-faq-columns  {
      grid-template-columns:1fr;
@@ -884,9 +932,6 @@
   }
    .bdai-piba-hero-lead  {
      font-size:20px;
-  }
-   .bdai-piba-hero-media-frame img, .bdai-piba-about-media-frame img, .bdai-piba-involvement-media-frame img, .bdai-piba-membership-media-frame img  {
-     height:280px;
   }
    .bdai-piba-contact-inner  {
      padding:28px;
@@ -909,7 +954,7 @@
  .froala-table section > .container > * + *  {
    margin-top: 16px;
 }
-</style>
+
 
 <script>
 (function($){

@@ -8,20 +8,20 @@
 							<div class="bdai-piba-hero-copy">
 								<div class="bdai-piba-hero-eyebrow" style="white-space:nowrap !important;width:fit-content;">Padre Island Developments</div>
 
-								<h1 class="bdai-piba-hero-title">Bob Hall Pier &ndash; Rebuild: A Completed Padre Island Redevelopment</h1>
+								<h1 class="bdai-piba-hero-title">Commodore Park Improvements: A New Public Park Project on North Padre Island</h1>
 
-								<p class="bdai-piba-hero-lead">Bob Hall Pier has reopened on North Padre Island after a major reconstruction created a new, wider, more accessible pier following the severe damage caused by Hurricane Hanna in 2020.</p>
+								<p class="bdai-piba-hero-lead">Commodore Park is a public park improvement project at 14202 Commodores Drive in Corpus Christi, Texas, within the North Padre Island community.</p>
 
-								<p class="bdai-piba-hero-copy-text">The completed redevelopment replaces the historic pier with a new 1,240-foot structure designed for fishing, recreation, public access, and greater durability along the Gulf Coast. The rebuilt pier includes wider walkways, ADA accessibility, structural improvements, lighting, and renewed access to one of Padre Island&rsquo;s best-known public waterfront destinations.</p>
-								<div class="bdai-piba-hero-actions"><a class="bdai-piba-hero-primary" href="https://www.nuecesbeachparks.com/padre-balli-park/bob-hall-pier" target="_blank">Learn About Bob Hall Pier</a> <a class="bdai-piba-hero-secondary" href="#bdai-piba-involvement">Explore the Rebuild</a></div></div>
+								<p class="bdai-piba-hero-copy-text">The City of Corpus Christi is developing Phase I improvements that include courts, a playground, a walking trail, a picnic area, parking, accessibility improvements, and park lighting. The project received City Council approval in October 2025, and the City scheduled a groundbreaking for February 12, 2026.</p>
+								<div class="bdai-piba-hero-actions"><a class="bdai-piba-hero-primary" href="https://www.corpuschristitx.gov/news/posts/groundbreaking-set-for-commodore-park-improvements/" target="_blank">View City Project Information</a> <a class="bdai-piba-hero-secondary" href="#bdai-piba-involvement">Explore the Improvements</a></div></div>
 							<div class="bdai-piba-hero-media">
-								<div class="bdai-piba-hero-media-frame"><img src="https://images.pexels.com/photos/20538161/pexels-photo-20538161.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="ocean pier sunset" class="img-rounded fr-fil fr-dib"></div>
+								<div class="bdai-piba-hero-media-frame"><img src="https://images.pexels.com/photos/36547712/pexels-photo-36547712.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="coastal pavilion" class="img-rounded fr-fil fr-dib"></div>
 
 								<p>
 									<br>
 								</p>
 
-								<p class="bdai-piba-hero-caption">The Bob Hall Pier rebuild restored public access to a signature North Padre Island fishing and recreation destination after Hurricane Hanna destroyed the original structure.</p>
+								<p class="bdai-piba-hero-caption">The Commodore Park project is planned to add recreation, gathering, access, and lighting improvements at the North Padre Island park.</p>
 							</div></div></div>
 				</section>
 			</td>
@@ -37,44 +37,44 @@
 					<div class="container">
 						<div class="bdai-piba-about-layout">
 							<div class="bdai-piba-about-media">
-								<div class="bdai-piba-about-media-frame"><img src="https://images.pexels.com/photos/33595364/pexels-photo-33595364.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="fishing pier walkway" class="img-rounded fr-fil fr-dib"></div>
+								<div class="bdai-piba-about-media-frame"><img src="https://images.pexels.com/photos/33053824/pexels-photo-33053824.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="park pavilion" class="img-rounded fr-fil fr-dib"></div>
 
 								<p>
 									<br>
 								</p>
-								<div class="bdai-piba-about-note"><strong>A New 1,240-Foot Gulf Pier</strong> The rebuilt Bob Hall Pier is a new public structure on North Padre Island with wider walkways, ADA accessibility, enhanced durability, and renewed saltwater fishing access.</div></div>
+								<div class="bdai-piba-about-note"><strong>A City Park Project on Commodores Drive</strong> Commodore Park is located at 14202 Commodores Drive in Corpus Christi. The City has used community input and voter-approved bond funding to advance planning and improvements for the park.</div></div>
 							<div class="bdai-piba-about-copy">
-								<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;"><span style="font-size: 11px;">What Is Bob Hall Pier &ndash; Rebuild?</span></div>
+								<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">About Commodore Park</div>
 
-								<h2 class="bdai-piba-about-title">A New Coastal Landmark Built After Hurricane Hanna</h2>
+								<h2 class="bdai-piba-about-title">A North Padre Island Park Planned for Recreation and Community Use</h2>
 
-								<p class="bdai-piba-about-lead">Bob Hall Pier is a public fishing and recreation pier located within Padre Balli Park on North Padre Island in Corpus Christi, Texas. The original pier had served generations of residents, anglers, and visitors before Hurricane Hanna severely damaged it in July 2020 and ultimately forced its closure.</p>
+								<p class="bdai-piba-about-lead">Commodore Park is a City of Corpus Christi park in Council District 4. City materials identify the park at 14202 Commodores Drive and describe an improvement program intended to expand recreation and gathering opportunities for residents and visitors.</p>
 
-								<p class="bdai-piba-about-text">The Bob Hall Pier rebuild was undertaken as a full replacement rather than a minor repair. The completed project created an entirely new structure extending 1,240 feet over the Gulf, with a wider deck, improved public access, ADA-compliant access, stronger structural design, and features intended to support fishing and nighttime visitor use.</p>
+								<p class="bdai-piba-about-text">The City began gathering public input for the park master plan after residents approved the 2022 Bond Package in November 2022. City information states that the bond package allocated $1 million for park improvement design and construction, with an online survey and initial community feedback informing the planning process.</p>
 								<div class="bdai-piba-about-points">
 									<div class="bdai-piba-about-point">
-										<div class="bdai-piba-about-point-icon"><i class="bi bi-wind" aria-hidden="true"></i></div>
+										<div class="bdai-piba-about-point-icon"><i class="bi bi-geo-alt" aria-hidden="true"></i></div>
 										<div class="bdai-piba-about-point-copy">
 
-											<h3>Rebuilt After Hurricane Hanna</h3>
+											<h3>Located at 14202 Commodores Drive</h3>
 
-											<p>Hurricane Hanna severely damaged the original Bob Hall Pier in 2020. Because the historic structure could not simply be restored, the remaining pier was demolished and replaced through a major reconstruction project.</p>
+											<p>Official City notices identify Commodore Park at 14202 Commodores Drive in Corpus Christi, Texas. The project is part of the City&rsquo;s park improvement work serving the North Padre Island area.</p>
 										</div></div>
 									<div class="bdai-piba-about-point">
-										<div class="bdai-piba-about-point-icon"><i class="bi bi-water" aria-hidden="true"></i></div>
+										<div class="bdai-piba-about-point-icon"><i class="bi bi-chat-square-text" aria-hidden="true"></i></div>
 										<div class="bdai-piba-about-point-copy">
 
-											<h3>A 1,240-Foot Public Pier</h3>
+											<h3>Planned With Community Input</h3>
 
-											<p>The completed replacement pier extends approximately 1,240 feet over the Texas coast. Earlier project descriptions identified a deck approximately 20 feet wide, creating more room for pedestrians, anglers, and visitors to move along the pier.</p>
+											<p>The City reported that planning incorporated an online survey and initial public feedback received in August 2023. A community input session was scheduled for March 20, 2024, at Seashore Middle Academy.</p>
 										</div></div>
 									<div class="bdai-piba-about-point">
-										<div class="bdai-piba-about-point-icon"><i class="bi bi-universal-access" aria-hidden="true"></i></div>
+										<div class="bdai-piba-about-point-icon"><i class="bi bi-bank" aria-hidden="true"></i></div>
 										<div class="bdai-piba-about-point-copy">
 
-											<h3>Improved Access for More Visitors</h3>
+											<h3>Backed by Voter-Approved Bonds</h3>
 
-											<p>The rebuilt pier includes ADA-compliant access and wider walkways, helping make the fishing and recreation experience more usable for visitors with different mobility needs.</p>
+											<p>City information says residents approved the 2022 Bond Package in November 2022. The City later identified Bond 2022 and Bond 2024 as funding sources for the park improvement project.</p>
 										</div></div></div></div></div></div>
 				</section>
 			</td>
@@ -89,40 +89,40 @@
 				<section class="bdai-piba-mission" id="bdai-piba-mission">
 					<div class="container">
 						<div class="bdai-piba-mission-heading">
-							<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">The Rebuild Project</div>
+							<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;"><span style="font-size: 11px;">Phase I Improvements &amp; Project Scope</span></div>
 
-							<h2 class="bdai-piba-mission-title">A Wider, More Accessible Pier for Padre Island</h2>
+							<h2 class="bdai-piba-mission-title">A Recreation-Focused Park Plan With Courts, Trails, and Gathering Areas</h2>
 
-							<p class="bdai-piba-mission-intro">The Bob Hall Pier redevelopment addressed the loss of a historic coastal landmark while creating a new public structure for fishing, recreation, and tourism. Construction began in 2024, and the rebuilt pier was completed in early 2026 before reopening to the public on February 24, 2026.</p>
+							<p class="bdai-piba-mission-intro">The City Council-approved Phase I scope combines active recreation amenities with family space, circulation improvements, parking, accessibility features, and lighting. The official project description identifies the following elements as part of the construction contract.</p>
 						</div>
 						<div class="bdai-piba-mission-grid">
 							<article class="bdai-piba-mission-card">
-								<div class="bdai-piba-mission-icon"><i class="bi bi-building" aria-hidden="true"></i></div>
+								<div class="bdai-piba-mission-icon"><i class="bi bi-dribbble" aria-hidden="true"></i></div>
 
-								<h3>Entirely New Pier Structure</h3>
+								<h3>Covered Basketball Pavilion</h3>
 
-								<p>The project replaced the hurricane-damaged pier with a new 1,240-foot structure. The reconstruction was designed to provide enhanced structural durability for a demanding Gulf Coast environment.</p>
+								<p>Phase I includes a covered basketball court pavilion. The City&rsquo;s project description identifies the pavilion as a central recreation feature within the initial park improvements.</p>
 							</article>
 							<article class="bdai-piba-mission-card">
-								<div class="bdai-piba-mission-icon"><i class="bi bi-arrows-expand" aria-hidden="true"></i></div>
+								<div class="bdai-piba-mission-icon"><i class="bi bi-trophy" aria-hidden="true"></i></div>
 
-								<h3>Wider Deck and Walkways</h3>
+								<h3>Tennis and Pickleball Courts</h3>
 
-								<p>The rebuilt pier has a wider deck, reported in project descriptions at approximately 20 feet, to improve pedestrian flow and provide more usable space for anglers and visitors along the pier.</p>
+								<p>The approved scope includes tennis courts and pickleball courts. The City&rsquo;s later groundbreaking notice describes two tennis courts and four pickleball courts among the planned park amenities.</p>
 							</article>
 							<article class="bdai-piba-mission-card">
-								<div class="bdai-piba-mission-icon"><i class="bi bi-universal-access-circle" aria-hidden="true"></i></div>
+								<div class="bdai-piba-mission-icon"><i class="bi bi-emoji-smile" aria-hidden="true"></i></div>
 
-								<h3>ADA-Compliant Public Access</h3>
+								<h3>Playground and Park Gathering Space</h3>
 
-								<p>Accessibility was incorporated into the new pier design. ADA-compliant access gives more visitors the opportunity to reach the pier and enjoy its fishing and waterfront recreation areas.</p>
+								<p>Plans include a fenced playground area and a picnic area. The City&rsquo;s groundbreaking information also identifies a bird observation blind as a planned amenity.</p>
 							</article>
 							<article class="bdai-piba-mission-card">
-								<div class="bdai-piba-mission-icon"><i class="bi bi-brightness-high" aria-hidden="true"></i></div>
+								<div class="bdai-piba-mission-icon"><i class="bi bi-signpost-2" aria-hidden="true"></i></div>
 
-								<h3>Fishing, Lighting, and Recreation</h3>
+								<h3>Trail, Parking, and Lighting</h3>
 
-								<p>The reopened pier supports saltwater fishing and general visitor use, with Gulf pier lights that are especially relevant to nighttime fishing for species such as spotted seatrout.</p>
+								<p>Phase I includes a concrete walking trail, a concrete parking lot with golf cart parking, and park lighting, along with parking and accessibility improvements identified by the City.</p>
 							</article>
 						</div></div>
 				</section>
@@ -139,51 +139,51 @@
 					<div class="container">
 						<div class="bdai-piba-involvement-layout">
 							<div class="bdai-piba-involvement-copy">
-								<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;"><span style="font-size: 11px;">Timeline &amp; Development Progress</span></div>
+								<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;"><span style="font-size: 11px;">Location &amp; Project Progress</span></div>
 
-								<h2 class="bdai-piba-involvement-title">The Bob Hall Pier Rebuild Has Reached Public Reopening</h2>
+								<h2 class="bdai-piba-involvement-title">Commodore Park Moves From Community Planning Into Construction</h2>
 
-								<p class="bdai-piba-involvement-lead">The redevelopment followed several years of storm damage, demolition, design, permitting, construction, and public anticipation. The pier reconstruction itself is now complete, while separate property improvements around the pier should be understood as a different part of the broader redevelopment.</p>
+								<p class="bdai-piba-involvement-lead">Commodore Park is a City of Corpus Christi project located on Commodores Drive in the North Padre Island area. Public City records document the park&rsquo;s planning process, the Phase I contract award, the funding source, and the February 2026 groundbreaking.</p>
 								<div class="bdai-piba-involvement-list">
 									<div class="bdai-piba-involvement-item">
-										<div class="bdai-piba-involvement-icon"><i class="bi bi-cloud-lightning" aria-hidden="true"></i></div>
+										<div class="bdai-piba-involvement-icon"><i class="bi bi-geo-alt" aria-hidden="true"></i></div>
 										<div class="bdai-piba-involvement-item-copy">
 
-											<h3>Hurricane Hanna Damaged the Original Pier</h3>
+											<h3>Located in Council District 4</h3>
 
-											<p>Hurricane Hanna severely damaged Bob Hall Pier in July 2020. The historic pier had already been rebuilt multiple times over its history, but the 2020 storm damage led to the closure and eventual replacement of the remaining structure.</p>
+											<p>The City Council agenda identifies the Commodore Park Improvements project as located in Council District 4. The official park address is 14202 Commodores Drive, Corpus Christi, Texas.</p>
 										</div></div>
 									<div class="bdai-piba-involvement-item">
-										<div class="bdai-piba-involvement-icon"><i class="bi bi-cone-striped" aria-hidden="true"></i></div>
+										<div class="bdai-piba-involvement-icon"><i class="bi bi-cash-stack" aria-hidden="true"></i></div>
 										<div class="bdai-piba-involvement-item-copy">
 
-											<h3>Demolition and Replacement Planning Followed</h3>
+											<h3>Phase I Contract Approved for Up to $3,448,147</h3>
 
-											<p>Demolition of the remaining old pier began in 2022. County planning and design work continued before the rebuild moved into construction, with the final design approved in 2025 for the new pier and related restaurant space.</p>
+											<p>On October 21, 2025, City Council passed a resolution awarding the Phase I construction contract to Weaver &amp; Jacob Constructors, Inc., of Cuero, Texas, for an amount up to $3,448,147.00.</p>
 										</div></div>
 									<div class="bdai-piba-involvement-item">
-										<div class="bdai-piba-involvement-icon"><i class="bi bi-hammer" aria-hidden="true"></i></div>
+										<div class="bdai-piba-involvement-icon"><i class="bi bi-bank" aria-hidden="true"></i></div>
 										<div class="bdai-piba-involvement-item-copy">
 
-											<h3>Construction Began in 2024</h3>
+											<h3>Funded Through G.O. Bond 2024</h3>
 
-											<p>Construction on the pier reconstruction began in 2024 after the county issued a notice to proceed and held a groundbreaking ceremony on October 7, 2024. The project created a completely new pier rather than repairing the storm-damaged structure.</p>
+											<p>The City Council agenda states that FY 2026 funding was available from the G.O. Bond 2024 for the Phase I construction contract. The City&rsquo;s public information also describes the broader project as funded through voter-approved Bond 2022 and Bond 2024.</p>
 										</div></div>
 									<div class="bdai-piba-involvement-item">
-										<div class="bdai-piba-involvement-icon"><i class="bi bi-check2-circle" aria-hidden="true"></i></div>
+										<div class="bdai-piba-involvement-icon"><i class="bi bi-calendar3" aria-hidden="true"></i></div>
 										<div class="bdai-piba-involvement-item-copy">
 
-											<h3>Reopened to the Public in February 2026</h3>
+											<h3>Groundbreaking Held in February 2026</h3>
 
-											<p>Construction finished in early 2026, and Bob Hall Pier officially reopened on February 24, 2026. The pier is now available for public fishing and recreation, with separate restaurant and concession-related work continuing independently of the pier reopening.</p>
+											<p>The City scheduled the Commodore Park Improvements groundbreaking for February 12, 2026, at 10:00 a.m. The City&rsquo;s announcement stated that the project was expected to be completed in November, but it did not specify the year in that notice.</p>
 										</div></div></div></div>
 							<div class="bdai-piba-involvement-media">
-								<div class="bdai-piba-involvement-media-frame"><img src="https://images.pexels.com/photos/22840273/pexels-photo-22840273.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="coastal pier construction" class="img-rounded fr-fil fr-dib"></div>
+								<div class="bdai-piba-involvement-media-frame"><img src="https://images.pexels.com/photos/37784138/pexels-photo-37784138.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="island park grounds" class="img-rounded fr-fil fr-dib"></div>
 
 								<p>
 									<br>
 								</p>
-								<div class="bdai-piba-involvement-note"><strong>Completed Pier, Separate Property Work</strong> The reconstructed pier has reopened. Restaurant, concession, and related site improvements are separate components of the broader property redevelopment and should not be treated as part of the completed pier opening.</div></div></div></div>
+								<div class="bdai-piba-involvement-note"><strong>Construction Details Are Based on City Records</strong> The City has publicly documented the park address, Phase I scope, contract award, funding, and groundbreaking schedule. Final delivery timing and completed conditions should be confirmed through the City&rsquo;s latest project information.</div></div></div></div>
 				</section>
 			</td>
 		</tr>
@@ -198,26 +198,26 @@
 					<div class="container">
 						<div class="bdai-piba-membership-layout">
 							<div class="bdai-piba-membership-media">
-								<div class="bdai-piba-membership-media-frame"><img src="https://images.pexels.com/photos/20988599/pexels-photo-20988599.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="anglers ocean pier" class="img-rounded fr-fil fr-dib"></div>
+								<div class="bdai-piba-membership-media-frame"><img src="https://images.pexels.com/photos/30499227/pexels-photo-30499227.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="beachfront park" class="img-rounded fr-fil fr-dib"></div>
 
 								<p>
 									<br>
 								</p>
 
-								<p class="bdai-piba-membership-caption">The completed Bob Hall Pier restores a long-standing public connection between Padre Island visitors and the Gulf of Mexico.</p>
+								<p class="bdai-piba-membership-caption">The planned improvements are intended to add more recreation, gathering, walking, parking, and accessibility features at Commodore Park.</p>
 							</div>
 							<div class="bdai-piba-membership-copy">
-								<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">What the Rebuilt Pier Offers</div>
+								<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;"><span style="font-size: 11px;">What Commodore Park Will Provide</span></div>
 
-								<h2 class="bdai-piba-membership-title">A More Usable, Accessible, and Durable Gulf Coast Destination</h2>
+								<h2 class="bdai-piba-membership-title">A More Complete Recreation Destination for North Padre Island</h2>
 
-								<p class="bdai-piba-membership-lead">The Bob Hall Pier rebuild improves the visitor experience by restoring access to a major North Padre Island fishing destination while addressing the structural and accessibility limitations exposed by the original pier&rsquo;s storm damage.</p>
+								<p class="bdai-piba-membership-lead">The documented Phase I plan combines structured sports facilities with family recreation, outdoor observation, pedestrian circulation, parking, accessibility, and lighting improvements. Together, these elements are intended to broaden the ways the public can use the park.</p>
 								<div class="bdai-piba-membership-details">
-									<div class="bdai-piba-membership-detail"><strong>Fishing and Waterfront Access</strong> The reopened pier provides saltwater anglers with renewed access to the Gulf. The nearby Packery Channel helps connect fish movement between the Gulf and the Upper Laguna Madre, contributing to the area&rsquo;s recreational fishing appeal.</div>
-									<div class="bdai-piba-membership-detail"><strong>Improved Movement and Accessibility</strong> The wider deck and ADA-compliant access make it easier for visitors to move along the pier and reach the waterfront, supporting a broader range of fishing, sightseeing, and recreational uses.</div>
-									<div class="bdai-piba-membership-detail"><strong>Nighttime Recreation and Gulf Views</strong> Gulf pier lighting supports nighttime visitor use and fishing, including opportunities to target spotted seatrout beneath the lights during favorable summer conditions.</div></div>
+									<div class="bdai-piba-membership-detail"><strong>Multiple Court Amenities</strong> The City identifies a covered basketball court pavilion, two tennis courts, and four pickleball courts among the planned improvements.</div>
+									<div class="bdai-piba-membership-detail"><strong>Family and Nature Features</strong> The project includes a fenced playground area, picnic area, and bird observation blind according to the City&rsquo;s public project announcement.</div>
+									<div class="bdai-piba-membership-detail"><strong>Connected Park Access</strong> The Phase I scope includes a concrete walking trail, concrete parking with golf cart parking, parking and accessibility improvements, and park lighting.</div></div>
 
-								<p class="bdai-piba-membership-text">Separate restaurant, concession, bait shop, restroom, parking, and access-road improvements have been discussed or developed as related property work. Those elements should be confirmed independently because they are not the same as the completed pier reconstruction and may have separate schedules or operating arrangements.</p><a class="bdai-piba-membership-link" href="https://tpwd.texas.gov/newsmedia/releases/?req=20260410b" target="_blank">Read the Reopening Information</a></div></div></div>
+								<p class="bdai-piba-membership-text">The park&rsquo;s final delivered features, operating details, and completion timing remain subject to the City&rsquo;s active construction and project records. The information presented here reflects the City Council-approved Phase I scope and the City&rsquo;s public groundbreaking announcement.</p><a class="bdai-piba-membership-link" href="https://www.corpuschristitx.gov/news/posts/groundbreaking-set-for-commodore-park-improvements/" target="_blank">Read the City Announcement</a></div></div></div>
 				</section>
 			</td>
 		</tr>
@@ -232,16 +232,16 @@
 					<div class="container">
 						<div class="bdai-piba-contact-inner">
 							<div class="bdai-piba-contact-copy">
-								<div class="bdai-piba-contact-eyebrow" style="white-space:nowrap !important;width:fit-content;">Bob Hall Pier &ndash; Rebuild</div>
+								<div class="bdai-piba-contact-eyebrow" style="white-space:nowrap !important;width:fit-content;">Commodore Park Improvements</div>
 
-								<h2 class="bdai-piba-contact-title">A Reopened Landmark for North Padre Island</h2>
+								<h2 class="bdai-piba-contact-title">A New Public Recreation Investment for North Padre Island</h2>
 
-								<p class="bdai-piba-contact-text">The completed Bob Hall Pier reconstruction restores a significant public destination to Padre Island after Hurricane Hanna destroyed the original pier. Its new structure, wider walkways, ADA accessibility, fishing access, lighting, and improved durability support residents, visitors, anglers, and the continued growth of North Padre Island as a coastal recreation destination.</p>
+								<p class="bdai-piba-contact-text">Commodore Park is moving forward through a City-led improvement program that combines courts, playground space, a walking trail, picnic facilities, parking, accessibility features, and lighting. The project&rsquo;s public records show a Phase I contract award and a February 2026 groundbreaking at the park&rsquo;s Commodores Drive location.</p>
 							</div>
 							<div class="bdai-piba-contact-details">
-								<div class="bdai-piba-contact-detail"><i class="bi bi-rulers" aria-hidden="true"></i> Approximately 1,240 feet long</div>
-								<div class="bdai-piba-contact-detail"><i class="bi bi-arrows-expand" aria-hidden="true"></i> Approximately 20-foot-wide deck described in project plans</div>
-								<div class="bdai-piba-contact-detail"><i class="bi bi-universal-access" aria-hidden="true"></i> ADA-compliant access and wider walkways</div><a class="bdai-piba-contact-link" href="https://www.nuecesbeachparks.com/padre-balli-park/bob-hall-pier" target="_blank">View Bob Hall Pier Information</a></div></div></div>
+								<div class="bdai-piba-contact-detail"><i class="bi bi-dribbble" aria-hidden="true"></i> Covered basketball court pavilion planned</div>
+								<div class="bdai-piba-contact-detail"><i class="bi bi-trophy" aria-hidden="true"></i> Two tennis courts and four pickleball courts identified by the City</div>
+								<div class="bdai-piba-contact-detail"><i class="bi bi-signpost-2" aria-hidden="true"></i> Walking trail, playground, picnic area, parking, accessibility, and lighting improvements</div><a class="bdai-piba-contact-link" href="https://www.corpuschristitx.gov/news/posts/city-to-host-community-input-session-for-commodore-park-master-plan/" target="_blank">View Park Planning Information</a></div></div></div>
 				</section>
 			</td>
 		</tr>
@@ -255,78 +255,78 @@
 				<section class="bdai-piba-faq" id="bdai-piba-faq">
 					<div class="container">
 						<div class="bdai-piba-faq-heading">
-							<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Bob Hall Pier Questions</div>
+							<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;"><span style="font-size: 11px;">Commodore Park Questions</span></div>
 
-							<h2 class="bdai-piba-faq-title">What to Know About the Bob Hall Pier Rebuild</h2>
+							<h2 class="bdai-piba-faq-title">What to Know About Commodore Park Improvements</h2>
 
-							<p class="bdai-piba-faq-intro">These answers summarize publicly available information about the Hurricane Hanna damage, reconstruction, design, reopening, visitor access, and related development at Bob Hall Pier on North Padre Island.</p>
+							<p class="bdai-piba-faq-intro">The answers below summarize confirmed information from City of Corpus Christi notices and City Council records about the park&rsquo;s location, planning process, Phase I scope, funding, contract award, and groundbreaking. Final construction conditions and timing should be checked against the City&rsquo;s latest updates.</p>
 						</div>
 						<div class="bdai-piba-faq-columns">
 							<div class="bdai-piba-faq-column">
 								<article class="bdai-piba-faq-card">
 
-									<h3 class="bdai-piba-faq-question">What is the Bob Hall Pier rebuild?</h3>
+									<h3 class="bdai-piba-faq-question">Where is Commodore Park located?</h3>
 									<div class="bdai-piba-faq-answer">
 
-										<p>The Bob Hall Pier rebuild is the full replacement of the historic fishing pier at Padre Balli Park on North Padre Island. The original pier was severely damaged by Hurricane Hanna in 2020, and the completed project created a new 1,240-foot pier with wider walkways, ADA accessibility, enhanced structural durability, lighting, and renewed public fishing access.</p>
+										<p>Official City notices identify Commodore Park at 14202 Commodores Drive in Corpus Christi, Texas. City Council records identify the project as being located in Council District 4.</p>
 									</div>
 								</article>
 								<article class="bdai-piba-faq-card">
 
-									<h3 class="bdai-piba-faq-question">Why was Bob Hall Pier rebuilt?</h3>
+									<h3 class="bdai-piba-faq-question">What is the Commodore Park Improvements project?</h3>
 									<div class="bdai-piba-faq-answer">
 
-										<p>Hurricane Hanna severely damaged Bob Hall Pier in July 2020. The storm damage forced the pier to close and left the remaining structure unsuitable for continued public use, so the county pursued demolition and construction of an entirely new pier rather than a limited repair.</p>
+										<p>It is a City of Corpus Christi park improvement project that includes recreation amenities, family space, walking and picnic areas, parking, accessibility improvements, and park lighting.</p>
 									</div>
 								</article>
 								<article class="bdai-piba-faq-card">
 
-									<h3 class="bdai-piba-faq-question">How long is the rebuilt Bob Hall Pier?</h3>
+									<h3 class="bdai-piba-faq-question">What sports facilities are planned?</h3>
 									<div class="bdai-piba-faq-answer">
 
-										<p>The completed Bob Hall Pier is approximately 1,240 feet long and extends over the Gulf of Mexico from Padre Balli Park. Project descriptions also identified a deck approximately 20 feet wide, providing more usable space than the previous pier configuration.</p>
+										<p>Phase I includes a covered basketball court pavilion, tennis courts, and pickleball courts. The City&rsquo;s groundbreaking announcement specifies two tennis courts and four pickleball courts.</p>
 									</div>
 								</article>
 								<article class="bdai-piba-faq-card">
 
-									<h3 class="bdai-piba-faq-question">When did the rebuilt Bob Hall Pier reopen?</h3>
+									<h3 class="bdai-piba-faq-question">What family and outdoor features are included?</h3>
 									<div class="bdai-piba-faq-answer">
 
-										<p>Bob Hall Pier officially reopened to the public on February 24, 2026, after construction finished in early 2026. The reopening marked the return of public fishing and recreation access following several years of closure.</p>
+										<p>The approved scope includes a fenced playground area, concrete walking trail, picnic area, concrete parking lot with golf cart parking, and park lighting. The City&rsquo;s public announcement also identifies a bird observation blind.</p>
 									</div>
 								</article>
 							</div>
 							<div class="bdai-piba-faq-column">
 								<article class="bdai-piba-faq-card">
 
-									<h3 class="bdai-piba-faq-question">What features were added to the new pier?</h3>
+									<h3 class="bdai-piba-faq-question">How was the project funded?</h3>
 									<div class="bdai-piba-faq-answer">
 
-										<p>Documented improvements include a wider deck and walkways, ADA-compliant access, enhanced structural durability, renewed saltwater fishing access, and Gulf pier lighting for nighttime use. The new structure is intended to provide a more durable and accessible public waterfront experience.</p>
+										<p>City information says residents approved the 2022 Bond Package in November 2022, with $1 million allocated for park improvement design and construction. The Phase I contract record states that FY 2026 funding was available from G.O. Bond 2024.</p>
 									</div>
 								</article>
 								<article class="bdai-piba-faq-card">
 
-									<h3 class="bdai-piba-faq-question">Is the rebuilt pier accessible to visitors with disabilities?</h3>
+									<h3 class="bdai-piba-faq-question">Who received the Phase I construction contract?</h3>
 									<div class="bdai-piba-faq-answer">
 
-										<p>Yes. Public information about the completed reconstruction identifies ADA accessibility as one of the project improvements. The wider walkways and accessible design are intended to make the pier more usable for visitors with different mobility needs.</p>
+										<p>On October 21, 2025, City Council passed a resolution awarding the Phase I construction contract to Weaver &amp; Jacob Constructors, Inc., of Cuero, Texas, for an amount up to $3,448,147.00.</p>
 									</div>
 								</article>
 								<article class="bdai-piba-faq-card">
 
-									<h3 class="bdai-piba-faq-question">Are the restaurant and concession improvements part of the completed pier?</h3>
+									<h3 class="bdai-piba-faq-question">When did the project break ground?</h3>
 									<div class="bdai-piba-faq-answer">
 
-										<p>They are related but separate components of the broader Bob Hall Pier property redevelopment. Restaurant, concession, bait shop, restroom, parking, and access improvements have been discussed or developed independently, and their schedules, operators, and availability should not be assumed from the completed pier reopening.</p>
+										<p>The City scheduled the Commodore Park Improvements groundbreaking for February 12, 2026, at 10:00 a.m. The City&rsquo;s announcement stated that completion was expected in November but did not specify the year.</p>
 									</div>
 								</article>
 								<article class="bdai-piba-faq-card">
 
-									<h3 class="bdai-piba-faq-question">Why is the Bob Hall Pier rebuild important to Padre Island?</h3>
+									<h3 class="bdai-piba-faq-question">Was the community involved in planning?</h3>
 									<div class="bdai-piba-faq-answer">
 
-										<p>Bob Hall Pier is a recognizable fishing and recreation destination for North Padre Island, Corpus Christi, and visiting anglers. Rebuilding it restores a long-standing public connection to the Gulf, improves access and durability, supports tourism and recreation, and reinforces Padre Island&rsquo;s role as a major coastal destination.</p>
+										<p>Yes. The City reported using an online survey and initial public feedback received in August 2023, followed by a community input session scheduled for March 20, 2024, as part of the master-planning process.</p>
 									</div>
 								</article>
 							</div></div></div>
@@ -335,7 +335,6 @@
 		</tr>
 	</tbody>
 </table>
-
 
 
 .bdai-piba-hero  {
@@ -955,6 +954,7 @@
  .froala-table section > .container > * + *  {
    margin-top: 16px;
 }
+
 
 <script>
 (function($){

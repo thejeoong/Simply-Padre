@@ -42,7 +42,7 @@
 								<p>
 									<br>
 								</p>
-								<div class="bdai-piba-about-note"><strong>A North Padre Island Waterfront Property</strong> <span>Sandbox Beach Bar occupies a waterfront site at 14902 Windward Drive, along the Michael J. Ellis Seawall in Corpus Christi&rsquo;s Padre Island area. Its design is centered on outdoor use, casual gathering, and direct connection to the island&rsquo;s coastal environment.</span></div></div>
+								<div class="bdai-piba-about-note"><strong>A North Padre Island Waterfront Property</strong> Sandbox Beach Bar occupies a waterfront site at 14902 Windward Drive, along the Michael J. Ellis Seawall in Corpus Christi&rsquo;s Padre Island area. Its design is centered on outdoor use, casual gathering, and direct connection to the island&rsquo;s coastal environment.</div></div>
 							<div class="bdai-piba-about-copy">
 								<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">What Is Sandbox Beach Bar?</div>
 
@@ -139,7 +139,7 @@
 					<div class="container">
 						<div class="bdai-piba-involvement-layout">
 							<div class="bdai-piba-involvement-copy">
-								<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Location and Development Progress</div>
+								<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;"><span style="font-size: 11px;">Location &amp; Development Progress</span></div>
 
 								<h2 class="bdai-piba-involvement-title">A New Waterfront Property Along Windward Drive</h2>
 
@@ -183,7 +183,7 @@
 								<p>
 									<br>
 								</p>
-								<div class="bdai-piba-involvement-note"><strong>Development Status Should Be Confirmed Directly</strong> <span>Sandbox Beach Bar is publicly listed as open, but hours, food-truck schedules, entertainment, activities, and event availability can change. Current operating details should be confirmed through the venue&rsquo;s official information before visiting or planning an event.</span></div></div></div></div>
+								<div class="bdai-piba-involvement-note"><strong>Development Status Should Be Confirmed Directly</strong> Sandbox Beach Bar is publicly listed as open, but hours, food-truck schedules, entertainment, activities, and event availability can change. Current operating details should be confirmed through the venue&rsquo;s official information before visiting or planning an event.</div></div></div></div>
 				</section>
 			</td>
 		</tr>
@@ -198,7 +198,7 @@
 					<div class="container">
 						<div class="bdai-piba-membership-layout">
 							<div class="bdai-piba-membership-media">
-								<div class="bdai-piba-membership-media-frame"><img src="https://static.wixstatic.com/media/321b8b_b341eb0c27ab4496aeb178a27ba8dfa5~mv2.jpeg/v1/fill/w_147,h_98,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/321b8b_b341eb0c27ab4496aeb178a27ba8dfa5~mv2.jpeg" alt="Sandbox Beach Bar waterfront views" class="img-rounded fr-fil fr-dib"></div>
+								<div class="bdai-piba-membership-media-frame"><img src="https://static.wixstatic.com/media/321b8b_b341eb0c27ab4496aeb178a27ba8dfa5~mv2.jpeg/v1/fill/w_147,h_98,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/321b8b_b341eb0c27ab4496aeb178a27ba8dfa5~mv2.jpeg" alt="Sandbox Beach Bar waterfront views" class="img-rounded fr-fil fr-dib" style="width: 700px;" width="700" height="262"></div>
 
 								<p>
 									<br>
@@ -207,15 +207,15 @@
 								<p class="bdai-piba-membership-caption">Sandbox Beach Bar connects the island&rsquo;s waterfront setting with outdoor recreation, casual food, drinks, music, and social gathering space.</p>
 							</div>
 							<div class="bdai-piba-membership-copy">
-								<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">What the Development Will Offer</div>
+								<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;"><span style="font-size: 11px;">What the Development Will Offer</span></div>
 
 								<h2 class="bdai-piba-membership-title">A Casual Waterfront Destination for Drinks, Food, Recreation, and Events</h2>
 
 								<p class="bdai-piba-membership-lead">Sandbox Beach Bar is planned and operated as a flexible outdoor property rather than a single-purpose bar. Its documented mix of waterfront seating, food-truck service, beverages, recreation, music, and open-air gathering areas gives the development several ways to serve the Padre Island community.</p>
 								<div class="bdai-piba-membership-details">
-									<div class="bdai-piba-membership-detail"><strong>Waterfront Social Space</strong> <span>Outdoor seating and wide-open water views give residents and visitors a place to spend time near the seawall in a relaxed coastal setting.</span></div>
-									<div class="bdai-piba-membership-detail"><strong>Food and Beverage Uses</strong> <span>The property offers cocktails, beer, and non-alcoholic beverages, with rotating local food trucks providing casual food options that may vary by day and schedule.</span></div>
-									<div class="bdai-piba-membership-detail"><strong>Recreation and Entertainment</strong> <span>Pickleball, beach volleyball, outdoor games, live music, and a playground create activity options beyond the bar area and support the venue&rsquo;s community-focused character.</span></div></div>
+									<div class="bdai-piba-membership-detail"><strong>Waterfront Social Space</strong> Outdoor seating and wide-open water views give residents and visitors a place to spend time near the seawall in a relaxed coastal setting.</div>
+									<div class="bdai-piba-membership-detail"><strong>Food and Beverage Uses</strong> The property offers cocktails, beer, and non-alcoholic beverages, with rotating local food trucks providing casual food options that may vary by day and schedule.</div>
+									<div class="bdai-piba-membership-detail"><strong>Recreation and Entertainment</strong> Pickleball, beach volleyball, outdoor games, live music, and a playground create activity options beyond the bar area and support the venue&rsquo;s community-focused character.</div></div>
 
 								<p class="bdai-piba-membership-text">The property&rsquo;s exact event calendar, food-truck lineup, hours, activities, and available spaces may change as operations continue. Visitors, residents, and event organizers should use current venue information for the latest details.</p><a class="bdai-piba-membership-link" href="https://www.sandboxbeachbar.com/about-3" target="_blank">Learn About Sandbox Beach Bar</a></div></div></div>
 				</section>
@@ -239,9 +239,9 @@
 								<p class="bdai-piba-contact-text">Sandbox Beach Bar contributes a new type of waterfront property to North Padre Island by combining food, beverages, outdoor recreation, music, and social gathering space along Windward Drive. Its open-air setting and family-friendly features add to the range of places available for residents and visitors as Padre Island continues to develop as a coastal community and destination.</p>
 							</div>
 							<div class="bdai-piba-contact-details">
-								<div class="bdai-piba-contact-detail"><i class="bi bi-geo-alt" aria-hidden="true"></i> <span>14902 Windward Drive, Corpus Christi, Texas</span></div>
-								<div class="bdai-piba-contact-detail"><i class="bi bi-water" aria-hidden="true"></i> <span>Waterfront setting along the Michael J. Ellis Seawall</span></div>
-								<div class="bdai-piba-contact-detail"><i class="bi bi-trophy" aria-hidden="true"></i> <span>Pickleball, beach volleyball, and outdoor games</span></div><a class="bdai-piba-contact-link" href="https://www.sandboxbeachbar.com/" target="_blank">Visit Sandbox Beach Bar</a></div></div></div>
+								<div class="bdai-piba-contact-detail"><i class="bi bi-geo-alt" aria-hidden="true"></i> 14902 Windward Drive, Corpus Christi, Texas</div>
+								<div class="bdai-piba-contact-detail"><i class="bi bi-water" aria-hidden="true"></i> Waterfront setting along the Michael J. Ellis Seawall</div>
+								<div class="bdai-piba-contact-detail"><i class="bi bi-trophy" aria-hidden="true"></i> Pickleball, beach volleyball, and outdoor games</div><a class="bdai-piba-contact-link" href="https://www.sandboxbeachbar.com/" target="_blank">Visit Sandbox Beach Bar</a></div></div></div>
 				</section>
 			</td>
 		</tr>
@@ -336,9 +336,7 @@
 	</tbody>
 </table>
 
-
-<style>
-    .bdai-piba-hero  {
+.bdai-piba-hero  {
    position:relative;
    overflow:hidden;
    padding:72px 0;
@@ -455,23 +453,53 @@
    gap:16px;
    color:rgb(24,46,69);
 }
+
+/* ===== IMAGE FRAMES: size follows the editor's width/height ===== */
  .bdai-piba-hero-media-frame, .bdai-piba-about-media-frame, .bdai-piba-involvement-media-frame, .bdai-piba-membership-media-frame  {
-   width:100%;
+   position:relative;
+   display:flex;
+   align-items:center;
+   justify-content:center;
+   width:fit-content;
    max-width:100%;
    min-width:0;
-   overflow:hidden;
+   align-self:center;
+   overflow:visible;
+   background:transparent;
    border-radius:16px;
    box-shadow:18px 18px 0 rgba(253,158,37,.22);
 }
- .bdai-piba-hero-media-frame img, .bdai-piba-about-media-frame img, .bdai-piba-involvement-media-frame img, .bdai-piba-membership-media-frame img  {
-   display:block;
-   width:100%;
-   height:440px;
-   max-width:100% !important;
-   margin:0 !important;
-   object-fit:cover;
+ .bdai-piba-hero-media-frame::before, .bdai-piba-about-media-frame::before, .bdai-piba-involvement-media-frame::before, .bdai-piba-membership-media-frame::before  {
+   position:absolute;
+   top:18px;
+   right:-18px;
+   bottom:-18px;
+   left:18px;
+   z-index:0;
+   background:rgb(214,234,246);
    border-radius:16px;
+   content:"";
 }
+ .bdai-piba-hero-media-frame::after, .bdai-piba-about-media-frame::after, .bdai-piba-involvement-media-frame::after, .bdai-piba-membership-media-frame::after  {
+   position:absolute;
+   inset:0;
+   z-index:1;
+   background:rgb(255,255,255);
+   border-radius:16px;
+   content:"";
+}
+ .bdai-piba-hero-media-frame img, .bdai-piba-about-media-frame img, .bdai-piba-involvement-media-frame img, .bdai-piba-membership-media-frame img  {
+   position:relative;
+   z-index:2;
+   display:block;
+   max-width:100%;
+   height:auto;
+   margin:0 !important;
+   object-fit:fill;
+   border-radius:16px !important;
+}
+/* ===== END IMAGE FRAMES ===== */
+
  .bdai-piba-hero-caption, .bdai-piba-membership-caption  {
    margin:0;
    padding:14px 16px;
@@ -872,6 +900,25 @@
      grid-template-columns:1fr;
   }
 }
+@media (max-width:900px){
+   .bdai-piba-hero-media-frame,
+   .bdai-piba-about-media-frame,
+   .bdai-piba-involvement-media-frame,
+   .bdai-piba-membership-media-frame {
+      align-self:flex-start;
+      max-width:calc(100% - 14px);
+      box-shadow:14px 14px 0 rgba(253,158,37,.22);
+   }
+   .bdai-piba-hero-media-frame::before,
+   .bdai-piba-about-media-frame::before,
+   .bdai-piba-involvement-media-frame::before,
+   .bdai-piba-membership-media-frame::before {
+      top:14px;
+      right:-14px;
+      bottom:-14px;
+      left:14px;
+   }
+}
  @media (max-width:700px)  {
    .bdai-piba-mission-grid, .bdai-piba-faq-columns  {
      grid-template-columns:1fr;
@@ -884,9 +931,6 @@
   }
    .bdai-piba-hero-lead  {
      font-size:20px;
-  }
-   .bdai-piba-hero-media-frame img, .bdai-piba-about-media-frame img, .bdai-piba-involvement-media-frame img, .bdai-piba-membership-media-frame img  {
-     height:280px;
   }
    .bdai-piba-contact-inner  {
      padding:28px;
@@ -909,7 +953,7 @@
  .froala-table section > .container > * + *  {
    margin-top: 16px;
 }
-</style>
+
 
 <script>
 (function($){

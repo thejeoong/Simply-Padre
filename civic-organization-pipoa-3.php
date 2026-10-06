@@ -1,5 +1,3 @@
-
-
 <table class="froala-table" style="width:100%;padding:0;margin:0;">
 	<tbody>
 		<tr>
@@ -17,7 +15,7 @@
 								<p class="bdai-piba-hero-copy-text">PIPOA supports the community through common-area maintenance, owner information, assessment administration, architectural control, canal and boat-ramp facilities, bulkhead repairs, and ongoing communication with property owners.</p>
 								<div class="bdai-piba-hero-actions"><a class="bdai-piba-hero-secondary" href="https://padreislespoa.org/contact_us-7y9GrvE.html" target="_blank">Contact PIPOA</a> <a class="bdai-piba-hero-primary" href="https://padreislespoa.org/community_information-n6KAn40.html" target="_blank" rel="noopener noreferrer">Explore Community Information</a></div></div>
 							<div class="bdai-piba-hero-media">
-								<div class="bdai-piba-image-frame"><img src="https://api.managecasa.com/image/?file_id=6xp9oa6&size=medium" alt="Padre Isles waterfront community" class="img-rounded fr-fic fr-dii" loading="lazy" style="width: 600px;" width="600" height="243"></div>
+								<div class="bdai-piba-image-frame"><img src="https://www.simplypadre.com/images/4f84a6fdaed25b11f469f53828c6b6475a622939.webp" alt="Padre Isles waterfront community" class="img-rounded fr-fic fr-dii" loading="lazy" style="width: 700px;" width="658" height="433"></div>
 
 								<p>
 									<br>
@@ -37,13 +35,11 @@
 					<div class="container">
 						<div class="bdai-piba-about-layout">
 							<div class="bdai-piba-about-media">
-								<div class="bdai-piba-image-frame"><img src="https://api.managecasa.com/image/?file_id=6JWGXOv&size=large" alt="Padre Isles Property Owners Association logo" class="img-rounded fr-dib fr-fil" loading="lazy" decoding="async" style="width: 500px;" width="500" height="278"></div>
+								<div class="bdai-piba-image-frame"><img src="https://www.simplypadre.com/images/pexel-photo-35016545-medium.webp" alt="Padre Isles Property Owners Association logo" class="img-rounded fr-dib fr-fil" loading="lazy" decoding="async" style="width: 700px;" width="700" height="294"></div>
 								<br>
 								<div class="bdai-piba-about-note"><strong>Serving Developed Padre Isles Subdivisions</strong> PIPOA serves property owners in the developed subdivisions covered by the association&rsquo;s governing documents, which include 35 separate subdivisions.</div>
 
-								<p><a href="https://padreislespoa.org/island_map_details-Ly0o1A4.html" target="_blank" class="btn btn-primary btn-lg img-circle" rel="noopener noreferrer"><strong><span style="font-size: 16px;">Current Map of All Subdivisions</span></strong></a>
-									<img src="/images/image-placeholder.png" class="fr-dib insert446" style="width: 500px;" width="500" height="218">
-								</p>
+								<p><a href="https://padreislespoa.org/island_map_details-Ly0o1A4.html" target="_blank" class="btn btn-primary btn-lg img-circle" rel="noopener noreferrer"><strong><span style="font-size: 16px;">Current Map of All Subdivisions</span></strong></a></p>
 							</div>
 							<div class="bdai-piba-about-copy">
 								<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">About PIPOA</div>
@@ -187,7 +183,7 @@
 											<p><a href="https://www.corpuschristitx.gov/department-directory/office-of-emergency-management-oem/prepare-for-disasters/hurricane-preparedness-response/" target="_blank" class="btn btn-primary btn-lg img-circle" rel="noopener noreferrer"><strong><span style="font-size: 14px;">Corpus Christi City Guidelines &gt;&gt;</span></strong></a></p>
 										</div></div></div></div>
 							<div class="bdai-piba-involvement-media">
-								<div class="bdai-piba-image-frame"><img src="https://api.managecasa.com/image/?file_id=vA9jxPv&size=large" alt="Padre Isles canal neighborhood" class="img-rounded fr-fic fr-dii" loading="lazy" style="width: 500px;" width="500" height="265"></div>
+								<div class="bdai-piba-image-frame"><img src="https://www.simplypadre.com/images/d84ad40361a4d869406416d774cc0efc8cd8bf41.webp" alt="Padre Isles canal neighborhood" class="img-rounded fr-fic fr-dii" loading="lazy" style="width: 700px;" width="700" height="294"></div>
 
 								<p>
 									<br>
@@ -207,7 +203,7 @@
 					<div class="container">
 						<div class="bdai-piba-membership-layout">
 							<div class="bdai-piba-membership-media">
-								<div class="bdai-piba-image-frame"><img src="https://api.managecasa.com/image/?file_id=yYdGDk4&size=large" alt="Padre Isles canal neighborhood" class="img-rounded fr-fic fr-dii" loading="lazy" style="width: 500px;" width="500" height="503"></div>
+								<div class="bdai-piba-image-frame"><img src="https://api.managecasa.com/image/?file_id=yYdGDk4&size=large" alt="Padre Isles canal neighborhood" class="img-rounded fr-fic fr-dii" loading="lazy" style="width: 700px;" width="700" height="508"></div>
 
 								<p>
 									<br>
@@ -251,7 +247,9 @@
 								<div class="bdai-piba-contact-detail"><i class="bi bi-telephone" aria-hidden="true"></i>(361) 949-7025</div>
 								<div class="bdai-piba-contact-detail"><i class="bi bi-envelope" aria-hidden="true"></i><a href="mailto:padreisles@pipoa.net">padreisles@pipoa.net</a></div>
 								<div class="bdai-piba-contact-detail"><i class="bi bi-geo-alt" aria-hidden="true"></i>14015 Fortuna Bay Drive
-									<br>Corpus Christi, TX 78418-6327</div><a class="bdai-piba-contact-link" href="https://padreislespoa.org/contact_us-7y9GrvE.html" target="_blank" rel="noopener noreferrer">Contact the PIPOA Today &gt;&gt;</a></div></div></div>
+									<br>Corpus Christi, TX 78418-6327</div>
+								<div class="bdai-piba-contact-detail"><i class="bi bi-clock" aria-hidden="true"></i>Monday&ndash;Friday, 8:00 a.m.&ndash;5:00 p.m.
+									<br>Closed for lunch from 12:00&ndash;1:00 p.m.</div><a class="bdai-piba-contact-link" href="https://padreislespoa.org/contact_us-7y9GrvE.html" target="_blank" rel="noopener noreferrer">Contact the PIPOA Today &gt;&gt;</a></div></div></div>
 				</section>
 			</td>
 		</tr>
@@ -354,6 +352,7 @@
 	</tbody>
 </table>
 
+<style>
 .bdai-piba-hero  {
 	position:relative;
    overflow:hidden;
@@ -532,7 +531,7 @@
    display:block;
    max-width:100%;
    margin:0 !important;
-   object-fit:contain;
+   object-fit:fill;
    border-radius:16px !important;
 }
  .bdai-piba-hero-caption,.bdai-piba-membership-caption  {
@@ -979,7 +978,30 @@
 }
  .froala-table section > .container > * + *  {
    margin-top:16px;
+
 }
+
+@media (max-width:900px){
+   .bdai-piba-hero .bdai-piba-image-frame,
+   .bdai-piba-about .bdai-piba-image-frame,
+   .bdai-piba-involvement .bdai-piba-image-frame,
+   .bdai-piba-membership .bdai-piba-image-frame{
+      align-self:flex-start;
+      max-width:calc(100% - 14px);
+      box-shadow:14px 14px 0 rgba(253,158,37,.22);
+   }
+   .bdai-piba-hero .bdai-piba-image-frame::before,
+   .bdai-piba-about .bdai-piba-image-frame::before,
+   .bdai-piba-involvement .bdai-piba-image-frame::before,
+   .bdai-piba-membership .bdai-piba-image-frame::before{
+      top:14px;
+      right:-14px;
+      bottom:-14px;
+      left:14px;
+   }
+}
+
+</style>
 
 <script>
 (function($){

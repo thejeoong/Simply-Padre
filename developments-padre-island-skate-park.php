@@ -8,20 +8,20 @@
 							<div class="bdai-piba-hero-copy">
 								<div class="bdai-piba-hero-eyebrow" style="white-space:nowrap !important;width:fit-content;">Padre Island Developments</div>
 
-								<h1 class="bdai-piba-hero-title">Bob Hall Pier &ndash; Rebuild: A Completed Padre Island Redevelopment</h1>
+								<h1 class="bdai-piba-hero-title">Padre Island Skate Park: A New Recreation Project at Billish Park</h1>
 
-								<p class="bdai-piba-hero-lead">Bob Hall Pier has reopened on North Padre Island after a major reconstruction created a new, wider, more accessible pier following the severe damage caused by Hurricane Hanna in 2020.</p>
+								<p class="bdai-piba-hero-lead">The Padre Island Skate Park is a proposed public recreation project planned for Don and Sandy Billish Memorial Park in Corpus Christi, Texas.</p>
 
-								<p class="bdai-piba-hero-copy-text">The completed redevelopment replaces the historic pier with a new 1,240-foot structure designed for fishing, recreation, public access, and greater durability along the Gulf Coast. The rebuilt pier includes wider walkways, ADA accessibility, structural improvements, lighting, and renewed access to one of Padre Island&rsquo;s best-known public waterfront destinations.</p>
-								<div class="bdai-piba-hero-actions"><a class="bdai-piba-hero-primary" href="https://www.nuecesbeachparks.com/padre-balli-park/bob-hall-pier" target="_blank">Learn About Bob Hall Pier</a> <a class="bdai-piba-hero-secondary" href="#bdai-piba-involvement">Explore the Rebuild</a></div></div>
+								<p class="bdai-piba-hero-copy-text">The project is intended to add a dedicated skateboarding facility to the Padre Island community. Public records and local reporting confirm that the project has received funding approvals, while final design, construction scheduling, and the public opening date remain subject to the city&rsquo;s continuing project process.</p>
+								<div class="bdai-piba-hero-actions"><a class="bdai-piba-hero-primary" href="https://www.corpuschristitx.gov/department-directory/parks-and-recreation/parks-and-facilities/skate-parks/" target="_blank">View Corpus Christi Skate Parks</a> <a class="bdai-piba-hero-secondary" href="#bdai-piba-involvement">Explore the Project</a></div></div>
 							<div class="bdai-piba-hero-media">
-								<div class="bdai-piba-hero-media-frame"><img src="https://images.pexels.com/photos/20538161/pexels-photo-20538161.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="ocean pier sunset" class="img-rounded fr-fil fr-dib"></div>
+								<div class="bdai-piba-hero-media-frame"><img src="https://images.pexels.com/photos/36547712/pexels-photo-36547712.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="coastal pavilion" class="img-rounded fr-fil fr-dib"></div>
 
 								<p>
 									<br>
 								</p>
 
-								<p class="bdai-piba-hero-caption">The Bob Hall Pier rebuild restored public access to a signature North Padre Island fishing and recreation destination after Hurricane Hanna destroyed the original structure.</p>
+								<p class="bdai-piba-hero-caption">The planned skate park would bring a dedicated action-sports recreation space to Don and Sandy Billish Memorial Park on Padre Island.</p>
 							</div></div></div>
 				</section>
 			</td>
@@ -37,44 +37,44 @@
 					<div class="container">
 						<div class="bdai-piba-about-layout">
 							<div class="bdai-piba-about-media">
-								<div class="bdai-piba-about-media-frame"><img src="https://images.pexels.com/photos/33595364/pexels-photo-33595364.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="fishing pier walkway" class="img-rounded fr-fil fr-dib"></div>
+								<div class="bdai-piba-about-media-frame"><img src="https://images.pexels.com/photos/33053824/pexels-photo-33053824.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="park pavilion" class="img-rounded fr-fil fr-dib"></div>
 
 								<p>
 									<br>
 								</p>
-								<div class="bdai-piba-about-note"><strong>A New 1,240-Foot Gulf Pier</strong> The rebuilt Bob Hall Pier is a new public structure on North Padre Island with wider walkways, ADA accessibility, enhanced durability, and renewed saltwater fishing access.</div></div>
+								<div class="bdai-piba-about-note"><strong>A New Recreation Use for Billish Park</strong> The proposed skate park is planned as an addition to Don and Sandy Billish Memorial Park, an approximately 11-acre public park on Padre Island in Corpus Christi.</div></div>
 							<div class="bdai-piba-about-copy">
-								<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;"><span style="font-size: 11px;">What Is Bob Hall Pier &ndash; Rebuild?</span></div>
+								<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">About the Padre Island Skate Park</div>
 
-								<h2 class="bdai-piba-about-title">A New Coastal Landmark Built After Hurricane Hanna</h2>
+								<h2 class="bdai-piba-about-title">A Planned Public Skateboarding Facility for North Padre Island</h2>
 
-								<p class="bdai-piba-about-lead">Bob Hall Pier is a public fishing and recreation pier located within Padre Balli Park on North Padre Island in Corpus Christi, Texas. The original pier had served generations of residents, anglers, and visitors before Hurricane Hanna severely damaged it in July 2020 and ultimately forced its closure.</p>
+								<p class="bdai-piba-about-lead">The Padre Island Skate Park is planned for Don and Sandy Billish Memorial Park in the Padre Isles area of Corpus Christi, Texas. Local reporting places the park near Gypsy Street on North Padre Island.</p>
 
-								<p class="bdai-piba-about-text">The Bob Hall Pier rebuild was undertaken as a full replacement rather than a minor repair. The completed project created an entirely new structure extending 1,240 feet over the Gulf, with a wider deck, improved public access, ADA-compliant access, stronger structural design, and features intended to support fishing and nighttime visitor use.</p>
+								<p class="bdai-piba-about-text">The project responds to the need for a dedicated skateboarding facility on Padre Island. Corpus Christi currently lists skate parks at Cole Park, Wranosky Park, and West Guth Park; the Billish Park project would provide another city-supported skate facility in the island community.</p>
 								<div class="bdai-piba-about-points">
 									<div class="bdai-piba-about-point">
-										<div class="bdai-piba-about-point-icon"><i class="bi bi-wind" aria-hidden="true"></i></div>
+										<div class="bdai-piba-about-point-icon"><i class="bi bi-building" aria-hidden="true"></i></div>
 										<div class="bdai-piba-about-point-copy">
 
-											<h3>Rebuilt After Hurricane Hanna</h3>
+											<h3>Planned for Billish Park</h3>
 
-											<p>Hurricane Hanna severely damaged the original Bob Hall Pier in 2020. Because the historic structure could not simply be restored, the remaining pier was demolished and replaced through a major reconstruction project.</p>
+											<p>The proposed facility is planned for Don and Sandy Billish Memorial Park on Padre Island. The project is separate from the city&rsquo;s existing skate parks at Cole Park, Wranosky Park, and West Guth Park.</p>
 										</div></div>
 									<div class="bdai-piba-about-point">
-										<div class="bdai-piba-about-point-icon"><i class="bi bi-water" aria-hidden="true"></i></div>
+										<div class="bdai-piba-about-point-icon"><i class="bi bi-plus-square" aria-hidden="true"></i></div>
 										<div class="bdai-piba-about-point-copy">
 
-											<h3>A 1,240-Foot Public Pier</h3>
+											<h3>Designed for Public Recreation</h3>
 
-											<p>The completed replacement pier extends approximately 1,240 feet over the Texas coast. Earlier project descriptions identified a deck approximately 20 feet wide, creating more room for pedestrians, anglers, and visitors to move along the pier.</p>
+											<p>The project is being developed as a public skate park intended to create a dedicated place for skateboarding and related recreational use within the Padre Island park system.</p>
 										</div></div>
 									<div class="bdai-piba-about-point">
-										<div class="bdai-piba-about-point-icon"><i class="bi bi-universal-access" aria-hidden="true"></i></div>
+										<div class="bdai-piba-about-point-icon"><i class="bi bi-people" aria-hidden="true"></i></div>
 										<div class="bdai-piba-about-point-copy">
 
-											<h3>Improved Access for More Visitors</h3>
+											<h3>Supported by Island Community Interest</h3>
 
-											<p>The rebuilt pier includes ADA-compliant access and wider walkways, helping make the fishing and recreation experience more usable for visitors with different mobility needs.</p>
+											<p>Local reporting has described community support for a new island skate park and continued public attention to its location, design, funding, and construction progress.</p>
 										</div></div></div></div></div></div>
 				</section>
 			</td>
@@ -89,40 +89,40 @@
 				<section class="bdai-piba-mission" id="bdai-piba-mission">
 					<div class="container">
 						<div class="bdai-piba-mission-heading">
-							<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">The Rebuild Project</div>
+							<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;"><span style="font-size: 11px;">Project Scope &amp; Design</span></div>
 
-							<h2 class="bdai-piba-mission-title">A Wider, More Accessible Pier for Padre Island</h2>
+							<h2 class="bdai-piba-mission-title">A Community Skate Park Moving From Concept Toward Construction</h2>
 
-							<p class="bdai-piba-mission-intro">The Bob Hall Pier redevelopment addressed the loss of a historic coastal landmark while creating a new public structure for fishing, recreation, and tourism. Construction began in 2024, and the rebuilt pier was completed in early 2026 before reopening to the public on February 24, 2026.</p>
+							<p class="bdai-piba-mission-intro">Available public information confirms the project location, purpose, and funding approvals. Specific details such as the final skate features, park footprint, contractor, construction start, and opening date should be treated as pending unless released through current city project documents.</p>
 						</div>
 						<div class="bdai-piba-mission-grid">
 							<article class="bdai-piba-mission-card">
-								<div class="bdai-piba-mission-icon"><i class="bi bi-building" aria-hidden="true"></i></div>
+								<div class="bdai-piba-mission-icon"><i class="bi bi-building-add" aria-hidden="true"></i></div>
 
-								<h3>Entirely New Pier Structure</h3>
+								<h3>New Billish Park Facility</h3>
 
-								<p>The project replaced the hurricane-damaged pier with a new 1,240-foot structure. The reconstruction was designed to provide enhanced structural durability for a demanding Gulf Coast environment.</p>
+								<p>The project would add a purpose-built skate park at Don and Sandy Billish Memorial Park on Padre Island. It is planned as a new recreational amenity rather than a renovation of one of Corpus Christi&rsquo;s existing skate parks.</p>
 							</article>
 							<article class="bdai-piba-mission-card">
-								<div class="bdai-piba-mission-icon"><i class="bi bi-arrows-expand" aria-hidden="true"></i></div>
+								<div class="bdai-piba-mission-icon"><i class="bi bi-tools" aria-hidden="true"></i></div>
 
-								<h3>Wider Deck and Walkways</h3>
+								<h3>Design and Procurement Process</h3>
 
-								<p>The rebuilt pier has a wider deck, reported in project descriptions at approximately 20 feet, to improve pedestrian flow and provide more usable space for anglers and visitors along the pier.</p>
+								<p>Earlier public information described concept and detailed-design work for a Padre Island skate park. Later city actions approved funding for the Billish Park project, but the sources reviewed do not identify the final contractor or a completed construction schedule.</p>
 							</article>
 							<article class="bdai-piba-mission-card">
-								<div class="bdai-piba-mission-icon"><i class="bi bi-universal-access-circle" aria-hidden="true"></i></div>
+								<div class="bdai-piba-mission-icon"><i class="bi bi-universal-access" aria-hidden="true"></i></div>
 
-								<h3>ADA-Compliant Public Access</h3>
+								<h3>Dedicated Action-Sports Space</h3>
 
-								<p>Accessibility was incorporated into the new pier design. ADA-compliant access gives more visitors the opportunity to reach the pier and enjoy its fishing and waterfront recreation areas.</p>
+								<p>The confirmed project purpose is to provide a skate park for Padre Island. The sources reviewed do not verify a final list of ramps, bowls, rails, lighting, seating, shade structures, or other site features, so those details are not presented as final here.</p>
 							</article>
 							<article class="bdai-piba-mission-card">
-								<div class="bdai-piba-mission-icon"><i class="bi bi-brightness-high" aria-hidden="true"></i></div>
+								<div class="bdai-piba-mission-icon"><i class="bi bi-droplet" aria-hidden="true"></i></div>
 
-								<h3>Fishing, Lighting, and Recreation</h3>
+								<h3>Final Features Still Subject to Documents</h3>
 
-								<p>The reopened pier supports saltwater fishing and general visitor use, with Gulf pier lights that are especially relevant to nighttime fishing for species such as spotted seatrout.</p>
+								<p>Public project information has not provided a complete final construction specification in the sources reviewed. The delivered layout and amenities should be confirmed through the city&rsquo;s final plans, bid documents, and construction updates.</p>
 							</article>
 						</div></div>
 				</section>
@@ -139,51 +139,51 @@
 					<div class="container">
 						<div class="bdai-piba-involvement-layout">
 							<div class="bdai-piba-involvement-copy">
-								<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;"><span style="font-size: 11px;">Timeline &amp; Development Progress</span></div>
+								<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;"><span style="font-size: 11px;">Location, Funding &amp; Progress</span></div>
 
-								<h2 class="bdai-piba-involvement-title">The Bob Hall Pier Rebuild Has Reached Public Reopening</h2>
+								<h2 class="bdai-piba-involvement-title">A Padre Island Park Project Backed by TIRZ Funding Approvals</h2>
 
-								<p class="bdai-piba-involvement-lead">The redevelopment followed several years of storm damage, demolition, design, permitting, construction, and public anticipation. The pier reconstruction itself is now complete, while separate property improvements around the pier should be understood as a different part of the broader redevelopment.</p>
+								<p class="bdai-piba-involvement-lead">The Padre Island Skate Park is planned for Don and Sandy Billish Memorial Park in Corpus Christi&rsquo;s Padre Island community. City and local reporting identify Tax Increment Reinvestment Zone No. 2 as the funding source associated with the project.</p>
 								<div class="bdai-piba-involvement-list">
 									<div class="bdai-piba-involvement-item">
-										<div class="bdai-piba-involvement-icon"><i class="bi bi-cloud-lightning" aria-hidden="true"></i></div>
+										<div class="bdai-piba-involvement-icon"><i class="bi bi-geo-alt" aria-hidden="true"></i></div>
 										<div class="bdai-piba-involvement-item-copy">
 
-											<h3>Hurricane Hanna Damaged the Original Pier</h3>
+											<h3>Located at Don and Sandy Billish Memorial Park</h3>
 
-											<p>Hurricane Hanna severely damaged Bob Hall Pier in July 2020. The historic pier had already been rebuilt multiple times over its history, but the 2020 storm damage led to the closure and eventual replacement of the remaining structure.</p>
+											<p>The proposed skate park is planned for Don and Sandy Billish Memorial Park on Padre Island in Corpus Christi, Texas. Local reporting identifies the approximately 11-acre park as being off Gypsy Street in the Padre Isles neighborhood.</p>
 										</div></div>
 									<div class="bdai-piba-involvement-item">
-										<div class="bdai-piba-involvement-icon"><i class="bi bi-cone-striped" aria-hidden="true"></i></div>
+										<div class="bdai-piba-involvement-icon"><i class="bi bi-cash-stack" aria-hidden="true"></i></div>
 										<div class="bdai-piba-involvement-item-copy">
 
-											<h3>Demolition and Replacement Planning Followed</h3>
+											<h3>Funding Increased to an Amount Not to Exceed $850,000</h3>
 
-											<p>Demolition of the remaining old pier began in 2022. County planning and design work continued before the rebuild moved into construction, with the final design approved in 2025 for the new pier and related restaurant space.</p>
+											<p>On October 21, 2025, Corpus Christi approved up to $850,000 for the Billish Park skatepark project. The city record states that the funds were appropriated and transferred from the Sand Dollar CIP TIRZ #2 Paper Street Project.</p>
 										</div></div>
 									<div class="bdai-piba-involvement-item">
-										<div class="bdai-piba-involvement-icon"><i class="bi bi-hammer" aria-hidden="true"></i></div>
+										<div class="bdai-piba-involvement-icon"><i class="bi bi-file-earmark-text" aria-hidden="true"></i></div>
 										<div class="bdai-piba-involvement-item-copy">
 
-											<h3>Construction Began in 2024</h3>
+											<h3>Earlier TIRZ Approval Identified $700,000</h3>
 
-											<p>Construction on the pier reconstruction began in 2024 after the county issued a notice to proceed and held a groundbreaking ceremony on October 7, 2024. The project created a completely new pier rather than repairing the storm-damaged structure.</p>
+											<p>Local reporting stated that the TIRZ 2 Board approved a $700,000 skatepark project in October 2025, with the funding associated with a reallocation from the Sand Dollar Avenue project. The later city action approved an amount not to exceed $850,000.</p>
 										</div></div>
 									<div class="bdai-piba-involvement-item">
-										<div class="bdai-piba-involvement-icon"><i class="bi bi-check2-circle" aria-hidden="true"></i></div>
+										<div class="bdai-piba-involvement-icon"><i class="bi bi-calendar3" aria-hidden="true"></i></div>
 										<div class="bdai-piba-involvement-item-copy">
 
-											<h3>Reopened to the Public in February 2026</h3>
+											<h3>No Official Opening Date Confirmed in the Sources Reviewed</h3>
 
-											<p>Construction finished in early 2026, and Bob Hall Pier officially reopened on February 24, 2026. The pier is now available for public fishing and recreation, with separate restaurant and concession-related work continuing independently of the pier reopening.</p>
+											<p>The sources reviewed confirm funding approvals and project advancement, but they do not provide a verified construction start date or public opening date. The timeline should be updated when the city releases final procurement, construction, or opening information.</p>
 										</div></div></div></div>
 							<div class="bdai-piba-involvement-media">
-								<div class="bdai-piba-involvement-media-frame"><img src="https://images.pexels.com/photos/22840273/pexels-photo-22840273.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="coastal pier construction" class="img-rounded fr-fil fr-dib"></div>
+								<div class="bdai-piba-involvement-media-frame"><img src="https://images.pexels.com/photos/37784138/pexels-photo-37784138.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="island park grounds" class="img-rounded fr-fil fr-dib"></div>
 
 								<p>
 									<br>
 								</p>
-								<div class="bdai-piba-involvement-note"><strong>Completed Pier, Separate Property Work</strong> The reconstructed pier has reopened. Restaurant, concession, and related site improvements are separate components of the broader property redevelopment and should not be treated as part of the completed pier opening.</div></div></div></div>
+								<div class="bdai-piba-involvement-note"><strong>Project Status Requires Ongoing Verification</strong> The skate park has received public funding approvals, but final design details, construction timing, and opening information should be confirmed through current City of Corpus Christi records.</div></div></div></div>
 				</section>
 			</td>
 		</tr>
@@ -198,26 +198,26 @@
 					<div class="container">
 						<div class="bdai-piba-membership-layout">
 							<div class="bdai-piba-membership-media">
-								<div class="bdai-piba-membership-media-frame"><img src="https://images.pexels.com/photos/20988599/pexels-photo-20988599.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="anglers ocean pier" class="img-rounded fr-fil fr-dib"></div>
+								<div class="bdai-piba-membership-media-frame"><img src="https://images.pexels.com/photos/30499227/pexels-photo-30499227.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="beachfront park" class="img-rounded fr-fil fr-dib"></div>
 
 								<p>
 									<br>
 								</p>
 
-								<p class="bdai-piba-membership-caption">The completed Bob Hall Pier restores a long-standing public connection between Padre Island visitors and the Gulf of Mexico.</p>
+								<p class="bdai-piba-membership-caption">The proposed skate park would expand recreational opportunities for residents and visitors on Padre Island.</p>
 							</div>
 							<div class="bdai-piba-membership-copy">
-								<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">What the Rebuilt Pier Offers</div>
+								<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;"><span style="font-size: 11px;">What the Project Is Expected to Provide</span></div>
 
-								<h2 class="bdai-piba-membership-title">A More Usable, Accessible, and Durable Gulf Coast Destination</h2>
+								<h2 class="bdai-piba-membership-title">A Dedicated Skateboarding Destination for Padre Island</h2>
 
-								<p class="bdai-piba-membership-lead">The Bob Hall Pier rebuild improves the visitor experience by restoring access to a major North Padre Island fishing destination while addressing the structural and accessibility limitations exposed by the original pier&rsquo;s storm damage.</p>
+								<p class="bdai-piba-membership-lead">The project is expected to give the Padre Island community a dedicated public place for skateboarding within Billish Park. Its final size, layout, features, operating rules, and opening schedule remain dependent on the city&rsquo;s completed plans and construction process.</p>
 								<div class="bdai-piba-membership-details">
-									<div class="bdai-piba-membership-detail"><strong>Fishing and Waterfront Access</strong> The reopened pier provides saltwater anglers with renewed access to the Gulf. The nearby Packery Channel helps connect fish movement between the Gulf and the Upper Laguna Madre, contributing to the area&rsquo;s recreational fishing appeal.</div>
-									<div class="bdai-piba-membership-detail"><strong>Improved Movement and Accessibility</strong> The wider deck and ADA-compliant access make it easier for visitors to move along the pier and reach the waterfront, supporting a broader range of fishing, sightseeing, and recreational uses.</div>
-									<div class="bdai-piba-membership-detail"><strong>Nighttime Recreation and Gulf Views</strong> Gulf pier lighting supports nighttime visitor use and fishing, including opportunities to target spotted seatrout beneath the lights during favorable summer conditions.</div></div>
+									<div class="bdai-piba-membership-detail"><strong>Local Recreation Opportunity</strong> The project is intended to provide a skate park within the Padre Island community, reducing the need for island residents to travel to existing facilities elsewhere in Corpus Christi.</div>
+									<div class="bdai-piba-membership-detail"><strong>Public Park Setting</strong> The proposed skate park would be located inside Don and Sandy Billish Memorial Park, connecting the facility to an existing city park and its surrounding neighborhood.</div>
+									<div class="bdai-piba-membership-detail"><strong>City-Approved Project Funding</strong> The project has an approved funding authorization of up to $850,000 through the city&rsquo;s TIRZ #2 project funding process.</div></div>
 
-								<p class="bdai-piba-membership-text">Separate restaurant, concession, bait shop, restroom, parking, and access-road improvements have been discussed or developed as related property work. Those elements should be confirmed independently because they are not the same as the completed pier reconstruction and may have separate schedules or operating arrangements.</p><a class="bdai-piba-membership-link" href="https://tpwd.texas.gov/newsmedia/releases/?req=20260410b" target="_blank">Read the Reopening Information</a></div></div></div>
+								<p class="bdai-piba-membership-text">The public record currently supports describing the skate park as an approved and advancing project, not as a completed facility. Final construction documents should establish the delivered design, exact features, contractor, construction schedule, operating hours, and opening date.</p><a class="bdai-piba-membership-link" href="https://corpuschristi.legistar.com/LegislationDetail.aspx?GUID=CBE95528-BB2C-43BC-818B-D83E1123F436&ID=7704440&Options=&Search=" target="_blank">View City Project Record</a></div></div></div>
 				</section>
 			</td>
 		</tr>
@@ -232,16 +232,16 @@
 					<div class="container">
 						<div class="bdai-piba-contact-inner">
 							<div class="bdai-piba-contact-copy">
-								<div class="bdai-piba-contact-eyebrow" style="white-space:nowrap !important;width:fit-content;">Bob Hall Pier &ndash; Rebuild</div>
+								<div class="bdai-piba-contact-eyebrow" style="white-space:nowrap !important;width:fit-content;">Padre Island Skate Park Project</div>
 
-								<h2 class="bdai-piba-contact-title">A Reopened Landmark for North Padre Island</h2>
+								<h2 class="bdai-piba-contact-title">A New Public Recreation Investment at Billish Park</h2>
 
-								<p class="bdai-piba-contact-text">The completed Bob Hall Pier reconstruction restores a significant public destination to Padre Island after Hurricane Hanna destroyed the original pier. Its new structure, wider walkways, ADA accessibility, fishing access, lighting, and improved durability support residents, visitors, anglers, and the continued growth of North Padre Island as a coastal recreation destination.</p>
+								<p class="bdai-piba-contact-text">The Padre Island Skate Park is planned as a new public recreation facility at Don and Sandy Billish Memorial Park. City actions have approved up to $850,000 for the project through TIRZ #2 funding, while the final design, construction schedule, and opening date remain subject to official project updates.</p>
 							</div>
 							<div class="bdai-piba-contact-details">
-								<div class="bdai-piba-contact-detail"><i class="bi bi-rulers" aria-hidden="true"></i> Approximately 1,240 feet long</div>
-								<div class="bdai-piba-contact-detail"><i class="bi bi-arrows-expand" aria-hidden="true"></i> Approximately 20-foot-wide deck described in project plans</div>
-								<div class="bdai-piba-contact-detail"><i class="bi bi-universal-access" aria-hidden="true"></i> ADA-compliant access and wider walkways</div><a class="bdai-piba-contact-link" href="https://www.nuecesbeachparks.com/padre-balli-park/bob-hall-pier" target="_blank">View Bob Hall Pier Information</a></div></div></div>
+								<div class="bdai-piba-contact-detail"><i class="bi bi-geo-alt" aria-hidden="true"></i> Planned for Don and Sandy Billish Memorial Park on Padre Island</div>
+								<div class="bdai-piba-contact-detail"><i class="bi bi-cash-stack" aria-hidden="true"></i> City funding approved up to $850,000</div>
+								<div class="bdai-piba-contact-detail"><i class="bi bi-calendar3" aria-hidden="true"></i> Construction and opening timeline not officially confirmed in the sources reviewed</div><a class="bdai-piba-contact-link" href="https://www.corpuschristitx.gov/department-directory/parks-and-recreation/parks-and-facilities/skate-parks/" target="_blank">Visit Corpus Christi Parks Information</a></div></div></div>
 				</section>
 			</td>
 		</tr>
@@ -255,78 +255,78 @@
 				<section class="bdai-piba-faq" id="bdai-piba-faq">
 					<div class="container">
 						<div class="bdai-piba-faq-heading">
-							<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Bob Hall Pier Questions</div>
+							<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;"><span style="font-size: 11px;">Padre Island Skate Park Questions</span></div>
 
-							<h2 class="bdai-piba-faq-title">What to Know About the Bob Hall Pier Rebuild</h2>
+							<h2 class="bdai-piba-faq-title">What to Know About the Billish Park Skate Park Project</h2>
 
-							<p class="bdai-piba-faq-intro">These answers summarize publicly available information about the Hurricane Hanna damage, reconstruction, design, reopening, visitor access, and related development at Bob Hall Pier on North Padre Island.</p>
+							<p class="bdai-piba-faq-intro">The answers below summarize verified information about the proposed location, project purpose, funding approvals, design status, and timeline. Details may change as Corpus Christi releases additional project and construction records.</p>
 						</div>
 						<div class="bdai-piba-faq-columns">
 							<div class="bdai-piba-faq-column">
 								<article class="bdai-piba-faq-card">
 
-									<h3 class="bdai-piba-faq-question">What is the Bob Hall Pier rebuild?</h3>
+									<h3 class="bdai-piba-faq-question">What is the Padre Island Skate Park project?</h3>
 									<div class="bdai-piba-faq-answer">
 
-										<p>The Bob Hall Pier rebuild is the full replacement of the historic fishing pier at Padre Balli Park on North Padre Island. The original pier was severely damaged by Hurricane Hanna in 2020, and the completed project created a new 1,240-foot pier with wider walkways, ADA accessibility, enhanced structural durability, lighting, and renewed public fishing access.</p>
+										<p>It is a proposed public skate park planned for Don and Sandy Billish Memorial Park on Padre Island in Corpus Christi, Texas. The project is intended to add a dedicated skateboarding facility to the island community.</p>
 									</div>
 								</article>
 								<article class="bdai-piba-faq-card">
 
-									<h3 class="bdai-piba-faq-question">Why was Bob Hall Pier rebuilt?</h3>
+									<h3 class="bdai-piba-faq-question">Where will the skate park be located?</h3>
 									<div class="bdai-piba-faq-answer">
 
-										<p>Hurricane Hanna severely damaged Bob Hall Pier in July 2020. The storm damage forced the pier to close and left the remaining structure unsuitable for continued public use, so the county pursued demolition and construction of an entirely new pier rather than a limited repair.</p>
+										<p>The project is planned for Don and Sandy Billish Memorial Park in the Padre Isles area of North Padre Island. Local reporting identifies the approximately 11-acre park as being off Gypsy Street.</p>
 									</div>
 								</article>
 								<article class="bdai-piba-faq-card">
 
-									<h3 class="bdai-piba-faq-question">How long is the rebuilt Bob Hall Pier?</h3>
+									<h3 class="bdai-piba-faq-question">Why is the skate park being planned?</h3>
 									<div class="bdai-piba-faq-answer">
 
-										<p>The completed Bob Hall Pier is approximately 1,240 feet long and extends over the Gulf of Mexico from Padre Balli Park. Project descriptions also identified a deck approximately 20 feet wide, providing more usable space than the previous pier configuration.</p>
+										<p>The project is intended to provide Padre Island with a dedicated public place for skateboarding and action-sports recreation. It would add a new recreational amenity within an existing city park.</p>
 									</div>
 								</article>
 								<article class="bdai-piba-faq-card">
 
-									<h3 class="bdai-piba-faq-question">When did the rebuilt Bob Hall Pier reopen?</h3>
+									<h3 class="bdai-piba-faq-question">What funding has been approved?</h3>
 									<div class="bdai-piba-faq-answer">
 
-										<p>Bob Hall Pier officially reopened to the public on February 24, 2026, after construction finished in early 2026. The reopening marked the return of public fishing and recreation access following several years of closure.</p>
+										<p>Corpus Christi approved an amount not to exceed $850,000 for the Billish Park skatepark project on October 21, 2025. The city record identifies the funding as appropriated and transferred from the Sand Dollar CIP TIRZ #2 Paper Street Project.</p>
 									</div>
 								</article>
 							</div>
 							<div class="bdai-piba-faq-column">
 								<article class="bdai-piba-faq-card">
 
-									<h3 class="bdai-piba-faq-question">What features were added to the new pier?</h3>
+									<h3 class="bdai-piba-faq-question">What is known about the design?</h3>
 									<div class="bdai-piba-faq-answer">
 
-										<p>Documented improvements include a wider deck and walkways, ADA-compliant access, enhanced structural durability, renewed saltwater fishing access, and Gulf pier lighting for nighttime use. The new structure is intended to provide a more durable and accessible public waterfront experience.</p>
+										<p>Public information confirms that the project has moved through concept and design-related planning, but the sources reviewed do not provide a verified final list of skate features or a complete construction specification. Final plans should control the description of the delivered facility.</p>
 									</div>
 								</article>
 								<article class="bdai-piba-faq-card">
 
-									<h3 class="bdai-piba-faq-question">Is the rebuilt pier accessible to visitors with disabilities?</h3>
+									<h3 class="bdai-piba-faq-question">Is the project approved?</h3>
 									<div class="bdai-piba-faq-answer">
 
-										<p>Yes. Public information about the completed reconstruction identifies ADA accessibility as one of the project improvements. The wider walkways and accessible design are intended to make the pier more usable for visitors with different mobility needs.</p>
+										<p>Yes. TIRZ 2 approved funding for the project in October 2025, and the City of Corpus Christi later approved up to $850,000 for the Billish Park skatepark project on October 21, 2025.</p>
 									</div>
 								</article>
 								<article class="bdai-piba-faq-card">
 
-									<h3 class="bdai-piba-faq-question">Are the restaurant and concession improvements part of the completed pier?</h3>
+									<h3 class="bdai-piba-faq-question">When will construction begin?</h3>
 									<div class="bdai-piba-faq-answer">
 
-										<p>They are related but separate components of the broader Bob Hall Pier property redevelopment. Restaurant, concession, bait shop, restroom, parking, and access improvements have been discussed or developed independently, and their schedules, operators, and availability should not be assumed from the completed pier reopening.</p>
+										<p>The sources reviewed do not provide a verified official construction start date. Project timing should be confirmed through current city procurement, bid, or construction updates rather than assumed from earlier planning reports.</p>
 									</div>
 								</article>
 								<article class="bdai-piba-faq-card">
 
-									<h3 class="bdai-piba-faq-question">Why is the Bob Hall Pier rebuild important to Padre Island?</h3>
+									<h3 class="bdai-piba-faq-question">When will the skate park open?</h3>
 									<div class="bdai-piba-faq-answer">
 
-										<p>Bob Hall Pier is a recognizable fishing and recreation destination for North Padre Island, Corpus Christi, and visiting anglers. Rebuilding it restores a long-standing public connection to the Gulf, improves access and durability, supports tourism and recreation, and reinforces Padre Island&rsquo;s role as a major coastal destination.</p>
+										<p>No official public opening date was identified in the sources reviewed. The opening timeline will depend on final design, procurement, construction, inspections, and the city&rsquo;s decision to place the facility into operation.</p>
 									</div>
 								</article>
 							</div></div></div>
@@ -335,7 +335,6 @@
 		</tr>
 	</tbody>
 </table>
-
 
 
 .bdai-piba-hero  {
@@ -955,6 +954,7 @@
  .froala-table section > .container > * + *  {
    margin-top: 16px;
 }
+
 
 <script>
 (function($){

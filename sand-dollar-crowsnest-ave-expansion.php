@@ -6,22 +6,22 @@
 					<div class="container">
 						<div class="bdai-piba-hero-layout">
 							<div class="bdai-piba-hero-copy">
-								<div class="bdai-piba-hero-eyebrow" style="white-space:nowrap !important;width:fit-content;">Padre Island Developments</div>
+								<div class="bdai-piba-hero-eyebrow" style="white-space:nowrap !important;width:fit-content;">North Padre Island Infrastructure</div>
 
-								<h1 class="bdai-piba-hero-title">Bob Hall Pier &ndash; Rebuild: A Completed Padre Island Redevelopment</h1>
+								<h1 class="bdai-piba-hero-title">Sand Dollar and Crowsnest Avenue Expansion: North Padre Island Street Improvements</h1>
 
-								<p class="bdai-piba-hero-lead">Bob Hall Pier has reopened on North Padre Island after a major reconstruction created a new, wider, more accessible pier following the severe damage caused by Hurricane Hanna in 2020.</p>
+								<p class="bdai-piba-hero-lead">The City of Corpus Christi is planning street construction on Sand Dollar Avenue and Crowsnest Avenue to improve the North Padre Island transportation network in Corpus Christi, Texas.</p>
 
-								<p class="bdai-piba-hero-copy-text">The completed redevelopment replaces the historic pier with a new 1,240-foot structure designed for fishing, recreation, public access, and greater durability along the Gulf Coast. The rebuilt pier includes wider walkways, ADA accessibility, structural improvements, lighting, and renewed access to one of Padre Island&rsquo;s best-known public waterfront destinations.</p>
-								<div class="bdai-piba-hero-actions"><a class="bdai-piba-hero-primary" href="https://www.nuecesbeachparks.com/padre-balli-park/bob-hall-pier" target="_blank">Learn About Bob Hall Pier</a> <a class="bdai-piba-hero-secondary" href="#bdai-piba-involvement">Explore the Rebuild</a></div></div>
+								<p class="bdai-piba-hero-copy-text">The two projects address previously unbuilt or incomplete street connections on the island. City capital-planning documents identify Sand Dollar Avenue between Verdemar Drive and State Highway 361, and Crowsnest Avenue from Beach Access 4 to Whitecap Boulevard with the connection continuing toward Park Road 22.</p>
+								<div class="bdai-piba-hero-actions"><a class="bdai-piba-hero-primary" href="https://www.corpuschristitx.gov/department-directory/engineering-services/street-projects/" target="_blank">View City Street Projects</a> <a class="bdai-piba-hero-secondary" href="#bdai-piba-involvement">Explore the Project</a></div></div>
 							<div class="bdai-piba-hero-media">
-								<div class="bdai-piba-hero-media-frame"><img src="https://images.pexels.com/photos/20538161/pexels-photo-20538161.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="ocean pier sunset" class="img-rounded fr-fil fr-dib"></div>
+								<div class="bdai-piba-hero-media-frame"><img src="https://images.pexels.com/photos/36547712/pexels-photo-36547712.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="coastal roadway" class="img-rounded fr-fil fr-dib"></div>
 
 								<p>
 									<br>
 								</p>
 
-								<p class="bdai-piba-hero-caption">The Bob Hall Pier rebuild restored public access to a signature North Padre Island fishing and recreation destination after Hurricane Hanna destroyed the original structure.</p>
+								<p class="bdai-piba-hero-caption">The Sand Dollar and Crowsnest projects are part of the City&rsquo;s broader effort to complete key North Padre Island street connections.</p>
 							</div></div></div>
 				</section>
 			</td>
@@ -37,44 +37,44 @@
 					<div class="container">
 						<div class="bdai-piba-about-layout">
 							<div class="bdai-piba-about-media">
-								<div class="bdai-piba-about-media-frame"><img src="https://images.pexels.com/photos/33595364/pexels-photo-33595364.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="fishing pier walkway" class="img-rounded fr-fil fr-dib"></div>
+								<div class="bdai-piba-about-media-frame"><img src="https://images.pexels.com/photos/33053824/pexels-photo-33053824.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="island roadway" class="img-rounded fr-fil fr-dib"></div>
 
 								<p>
 									<br>
 								</p>
-								<div class="bdai-piba-about-note"><strong>A New 1,240-Foot Gulf Pier</strong> The rebuilt Bob Hall Pier is a new public structure on North Padre Island with wider walkways, ADA accessibility, enhanced durability, and renewed saltwater fishing access.</div></div>
+								<div class="bdai-piba-about-note"><strong>Two Separate North Padre Island Street Projects</strong> City planning materials identify separate capital projects for Sand Dollar Avenue and Crowsnest Avenue, with each project covering a different segment of the island&rsquo;s street network.</div></div>
 							<div class="bdai-piba-about-copy">
-								<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;"><span style="font-size: 11px;">What Is Bob Hall Pier &ndash; Rebuild?</span></div>
+								<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">About the Avenue Expansion</div>
 
-								<h2 class="bdai-piba-about-title">A New Coastal Landmark Built After Hurricane Hanna</h2>
+								<h2 class="bdai-piba-about-title">Completing Important Street Connections on North Padre Island</h2>
 
-								<p class="bdai-piba-about-lead">Bob Hall Pier is a public fishing and recreation pier located within Padre Balli Park on North Padre Island in Corpus Christi, Texas. The original pier had served generations of residents, anglers, and visitors before Hurricane Hanna severely damaged it in July 2020 and ultimately forced its closure.</p>
+								<p class="bdai-piba-about-lead">Sand Dollar Avenue and Crowsnest Avenue are identified in City of Corpus Christi capital-planning and mobility documents as planned North Padre Island transportation improvements. The projects are intended to provide constructed roadway connections where the City&rsquo;s plans identify paper-street gaps.</p>
 
-								<p class="bdai-piba-about-text">The Bob Hall Pier rebuild was undertaken as a full replacement rather than a minor repair. The completed project created an entirely new structure extending 1,240 feet over the Gulf, with a wider deck, improved public access, ADA-compliant access, stronger structural design, and features intended to support fishing and nighttime visitor use.</p>
+								<p class="bdai-piba-about-text">The project locations are documented by their street limits rather than as one continuous corridor. Sand Dollar Avenue is identified between Verdemar Drive and State Highway 361. Crowsnest Avenue is identified from Beach Access 4 to Whitecap Boulevard and continuing to Park Road 22.</p>
 								<div class="bdai-piba-about-points">
 									<div class="bdai-piba-about-point">
-										<div class="bdai-piba-about-point-icon"><i class="bi bi-wind" aria-hidden="true"></i></div>
+										<div class="bdai-piba-about-point-icon"><i class="bi bi-signpost-2" aria-hidden="true"></i></div>
 										<div class="bdai-piba-about-point-copy">
 
-											<h3>Rebuilt After Hurricane Hanna</h3>
+											<h3>Sand Dollar Avenue Limits</h3>
 
-											<p>Hurricane Hanna severely damaged the original Bob Hall Pier in 2020. Because the historic structure could not simply be restored, the remaining pier was demolished and replaced through a major reconstruction project.</p>
+											<p>City budget materials identify the Sand Dollar Avenue project as the segment between Verdemar Drive and State Highway 361. The project is listed as CIP project 24130 in City capital-planning references.</p>
 										</div></div>
 									<div class="bdai-piba-about-point">
-										<div class="bdai-piba-about-point-icon"><i class="bi bi-water" aria-hidden="true"></i></div>
+										<div class="bdai-piba-about-point-icon"><i class="bi bi-signpost-split" aria-hidden="true"></i></div>
 										<div class="bdai-piba-about-point-copy">
 
-											<h3>A 1,240-Foot Public Pier</h3>
+											<h3>Crowsnest Avenue Limits</h3>
 
-											<p>The completed replacement pier extends approximately 1,240 feet over the Texas coast. Earlier project descriptions identified a deck approximately 20 feet wide, creating more room for pedestrians, anglers, and visitors to move along the pier.</p>
+											<p>City planning documents identify Crowsnest Avenue from Beach Access 4 to Whitecap Boulevard and continuing to Park Road 22. The project is listed as CIP project 24134 in City capital-planning references.</p>
 										</div></div>
 									<div class="bdai-piba-about-point">
-										<div class="bdai-piba-about-point-icon"><i class="bi bi-universal-access" aria-hidden="true"></i></div>
+										<div class="bdai-piba-about-point-icon"><i class="bi bi-diagram-3" aria-hidden="true"></i></div>
 										<div class="bdai-piba-about-point-copy">
 
-											<h3>Improved Access for More Visitors</h3>
+											<h3>Purpose of the Connections</h3>
 
-											<p>The rebuilt pier includes ADA-compliant access and wider walkways, helping make the fishing and recreation experience more usable for visitors with different mobility needs.</p>
+											<p>The documented purpose is to advance street construction on North Padre Island and connect existing destinations and roadway segments through planned infrastructure rather than leaving the identified corridors as unbuilt paper streets.</p>
 										</div></div></div></div></div></div>
 				</section>
 			</td>
@@ -89,40 +89,40 @@
 				<section class="bdai-piba-mission" id="bdai-piba-mission">
 					<div class="container">
 						<div class="bdai-piba-mission-heading">
-							<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">The Rebuild Project</div>
+							<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;"><span style="font-size: 11px;">Planned Improvements &amp; Project Scope</span></div>
 
-							<h2 class="bdai-piba-mission-title">A Wider, More Accessible Pier for Padre Island</h2>
+							<h2 class="bdai-piba-mission-title">Street Construction Supported by City Mobility and Capital Plans</h2>
 
-							<p class="bdai-piba-mission-intro">The Bob Hall Pier redevelopment addressed the loss of a historic coastal landmark while creating a new public structure for fishing, recreation, and tourism. Construction began in 2024, and the rebuilt pier was completed in early 2026 before reopening to the public on February 24, 2026.</p>
+							<p class="bdai-piba-mission-intro">The City&rsquo;s public planning documents describe the projects as roadway construction on North Padre Island. The available records establish the project corridors, planning purpose, and funding framework, while final construction details remain subject to approved plans, contracts, and active City updates.</p>
 						</div>
 						<div class="bdai-piba-mission-grid">
 							<article class="bdai-piba-mission-card">
-								<div class="bdai-piba-mission-icon"><i class="bi bi-building" aria-hidden="true"></i></div>
+								<div class="bdai-piba-mission-icon"><i class="bi bi-signpost-2" aria-hidden="true"></i></div>
 
-								<h3>Entirely New Pier Structure</h3>
+								<h3>Sand Dollar Roadway Connection</h3>
 
-								<p>The project replaced the hurricane-damaged pier with a new 1,240-foot structure. The reconstruction was designed to provide enhanced structural durability for a demanding Gulf Coast environment.</p>
+								<p>The Sand Dollar Avenue project covers the planned street segment between Verdemar Drive and State Highway 361. City records identify this work as a North Padre Island paper-street construction project.</p>
 							</article>
 							<article class="bdai-piba-mission-card">
-								<div class="bdai-piba-mission-icon"><i class="bi bi-arrows-expand" aria-hidden="true"></i></div>
+								<div class="bdai-piba-mission-icon"><i class="bi bi-signpost-split" aria-hidden="true"></i></div>
 
-								<h3>Wider Deck and Walkways</h3>
+								<h3>Crowsnest Roadway Connection</h3>
 
-								<p>The rebuilt pier has a wider deck, reported in project descriptions at approximately 20 feet, to improve pedestrian flow and provide more usable space for anglers and visitors along the pier.</p>
+								<p>The Crowsnest Avenue project covers the corridor from Beach Access 4 to Whitecap Boulevard and continuing to Park Road 22. The City&rsquo;s capital documents identify the work as street construction.</p>
 							</article>
 							<article class="bdai-piba-mission-card">
-								<div class="bdai-piba-mission-icon"><i class="bi bi-universal-access-circle" aria-hidden="true"></i></div>
+								<div class="bdai-piba-mission-icon"><i class="bi bi-map" aria-hidden="true"></i></div>
 
-								<h3>ADA-Compliant Public Access</h3>
+								<h3>Island Mobility Network</h3>
 
-								<p>Accessibility was incorporated into the new pier design. ADA-compliant access gives more visitors the opportunity to reach the pier and enjoy its fishing and waterfront recreation areas.</p>
+								<p>The February 2026 Padre/Mustang Island Mobility Plan identifies project funding for the design, permitting, and construction of Sand Dollar and Crowsnest Avenues to improve the island transportation network.</p>
 							</article>
 							<article class="bdai-piba-mission-card">
-								<div class="bdai-piba-mission-icon"><i class="bi bi-brightness-high" aria-hidden="true"></i></div>
+								<div class="bdai-piba-mission-icon"><i class="bi bi-water" aria-hidden="true"></i></div>
 
-								<h3>Fishing, Lighting, and Recreation</h3>
+								<h3>Related Water Infrastructure</h3>
 
-								<p>The reopened pier supports saltwater fishing and general visitor use, with Gulf pier lights that are especially relevant to nighttime fishing for species such as spotted seatrout.</p>
+								<p>A separate Sand Dollar waterline project is also documented by the City. It includes a 16-inch waterline and a 20-inch redundancy line connected to the Sand Dollar Pump Station and Coral Vine Elevated Storage Tank.</p>
 							</article>
 						</div></div>
 				</section>
@@ -139,51 +139,51 @@
 					<div class="container">
 						<div class="bdai-piba-involvement-layout">
 							<div class="bdai-piba-involvement-copy">
-								<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;"><span style="font-size: 11px;">Timeline &amp; Development Progress</span></div>
+								<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;"><span style="font-size: 11px;">Funding &amp; Project Status</span></div>
 
-								<h2 class="bdai-piba-involvement-title">The Bob Hall Pier Rebuild Has Reached Public Reopening</h2>
+								<h2 class="bdai-piba-involvement-title">North Padre Island Improvements Moving Through City Capital Planning</h2>
 
-								<p class="bdai-piba-involvement-lead">The redevelopment followed several years of storm damage, demolition, design, permitting, construction, and public anticipation. The pier reconstruction itself is now complete, while separate property improvements around the pier should be understood as a different part of the broader redevelopment.</p>
+								<p class="bdai-piba-involvement-lead">The Sand Dollar and Crowsnest Avenue projects appear in City of Corpus Christi capital-planning materials and the Padre/Mustang Island Mobility Plan. The records show planned funding and project programming, but the public materials reviewed do not establish that both street projects are complete.</p>
 								<div class="bdai-piba-involvement-list">
 									<div class="bdai-piba-involvement-item">
-										<div class="bdai-piba-involvement-icon"><i class="bi bi-cloud-lightning" aria-hidden="true"></i></div>
+										<div class="bdai-piba-involvement-icon"><i class="bi bi-cash-stack" aria-hidden="true"></i></div>
 										<div class="bdai-piba-involvement-item-copy">
 
-											<h3>Hurricane Hanna Damaged the Original Pier</h3>
+											<h3>Mobility Plan Funding Reference</h3>
 
-											<p>Hurricane Hanna severely damaged Bob Hall Pier in July 2020. The historic pier had already been rebuilt multiple times over its history, but the 2020 storm damage led to the closure and eventual replacement of the remaining structure.</p>
+											<p>The February 17, 2026 Padre/Mustang Island Mobility Plan identifies $7.2 million for the design, permitting, and construction of Sand Dollar and Crows Nest Avenues to Padre Island Access Road.</p>
 										</div></div>
 									<div class="bdai-piba-involvement-item">
-										<div class="bdai-piba-involvement-icon"><i class="bi bi-cone-striped" aria-hidden="true"></i></div>
+										<div class="bdai-piba-involvement-icon"><i class="bi bi-file-earmark-bar-graph" aria-hidden="true"></i></div>
 										<div class="bdai-piba-involvement-item-copy">
 
-											<h3>Demolition and Replacement Planning Followed</h3>
+											<h3>Capital Improvement Programming</h3>
 
-											<p>Demolition of the remaining old pier began in 2022. County planning and design work continued before the rebuild moved into construction, with the final design approved in 2025 for the new pier and related restaurant space.</p>
+											<p>City capital-budget materials separately identify Sand Dollar Avenue as CIP project 24130 and Crowsnest as CIP project 24134. Budgeted amounts and schedules can change as projects move through design, procurement, appropriations, and construction.</p>
 										</div></div>
 									<div class="bdai-piba-involvement-item">
-										<div class="bdai-piba-involvement-icon"><i class="bi bi-hammer" aria-hidden="true"></i></div>
+										<div class="bdai-piba-involvement-icon"><i class="bi bi-water" aria-hidden="true"></i></div>
 										<div class="bdai-piba-involvement-item-copy">
 
-											<h3>Construction Began in 2024</h3>
+											<h3>Sand Dollar Waterline Project</h3>
 
-											<p>Construction on the pier reconstruction began in 2024 after the county issued a notice to proceed and held a groundbreaking ceremony on October 7, 2024. The project created a completely new pier rather than repairing the storm-damaged structure.</p>
+											<p>The City approved a $9,997,672 construction contract and a $201,025 professional-services contract for a separate Sand Dollar waterline project. Its stated purpose is to connect the Sand Dollar Pump Station, improve control of the Coral Vine Elevated Storage Tank, increase distribution capacity, and provide redundancy.</p>
 										</div></div>
 									<div class="bdai-piba-involvement-item">
-										<div class="bdai-piba-involvement-icon"><i class="bi bi-check2-circle" aria-hidden="true"></i></div>
+										<div class="bdai-piba-involvement-icon"><i class="bi bi-calendar3" aria-hidden="true"></i></div>
 										<div class="bdai-piba-involvement-item-copy">
 
-											<h3>Reopened to the Public in February 2026</h3>
+											<h3>Construction Timeline</h3>
 
-											<p>Construction finished in early 2026, and Bob Hall Pier officially reopened on February 24, 2026. The pier is now available for public fishing and recreation, with separate restaurant and concession-related work continuing independently of the pier reopening.</p>
+											<p>The City&rsquo;s waterline announcement scheduled construction to begin in October 2025, with completion planned for December 2026. For the Sand Dollar and Crowsnest street construction projects, the public records reviewed establish planned programming but do not provide a confirmed final street-completion date.</p>
 										</div></div></div></div>
 							<div class="bdai-piba-involvement-media">
-								<div class="bdai-piba-involvement-media-frame"><img src="https://images.pexels.com/photos/22840273/pexels-photo-22840273.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="coastal pier construction" class="img-rounded fr-fil fr-dib"></div>
+								<div class="bdai-piba-involvement-media-frame"><img src="https://images.pexels.com/photos/37784138/pexels-photo-37784138.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="island road construction" class="img-rounded fr-fil fr-dib"></div>
 
 								<p>
 									<br>
 								</p>
-								<div class="bdai-piba-involvement-note"><strong>Completed Pier, Separate Property Work</strong> The reconstructed pier has reopened. Restaurant, concession, and related site improvements are separate components of the broader property redevelopment and should not be treated as part of the completed pier opening.</div></div></div></div>
+								<div class="bdai-piba-involvement-note"><strong>Street Completion Has Not Been Confirmed</strong> City records reviewed for this page document the planned corridors, funding references, and related waterline work. They do not confirm that the Sand Dollar and Crowsnest street construction is complete or provide a final delivered scope.</div></div></div></div>
 				</section>
 			</td>
 		</tr>
@@ -198,26 +198,26 @@
 					<div class="container">
 						<div class="bdai-piba-membership-layout">
 							<div class="bdai-piba-membership-media">
-								<div class="bdai-piba-membership-media-frame"><img src="https://images.pexels.com/photos/20988599/pexels-photo-20988599.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="anglers ocean pier" class="img-rounded fr-fil fr-dib"></div>
+								<div class="bdai-piba-membership-media-frame"><img src="https://images.pexels.com/photos/30499227/pexels-photo-30499227.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="coastal street view" class="img-rounded fr-fil fr-dib"></div>
 
 								<p>
 									<br>
 								</p>
 
-								<p class="bdai-piba-membership-caption">The completed Bob Hall Pier restores a long-standing public connection between Padre Island visitors and the Gulf of Mexico.</p>
+								<p class="bdai-piba-membership-caption">The planned roadway connections are intended to support movement between North Padre Island destinations while coordinating with related infrastructure investments.</p>
 							</div>
 							<div class="bdai-piba-membership-copy">
-								<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">What the Rebuilt Pier Offers</div>
+								<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;"><span style="font-size: 11px;">What the Expansion Will Provide</span></div>
 
-								<h2 class="bdai-piba-membership-title">A More Usable, Accessible, and Durable Gulf Coast Destination</h2>
+								<h2 class="bdai-piba-membership-title">More Complete Street Connections for North Padre Island</h2>
 
-								<p class="bdai-piba-membership-lead">The Bob Hall Pier rebuild improves the visitor experience by restoring access to a major North Padre Island fishing destination while addressing the structural and accessibility limitations exposed by the original pier&rsquo;s storm damage.</p>
+								<p class="bdai-piba-membership-lead">The Sand Dollar and Crowsnest projects are planned roadway improvements rather than a single building development. Their documented role is to construct important street segments and strengthen connections across the North Padre Island transportation network.</p>
 								<div class="bdai-piba-membership-details">
-									<div class="bdai-piba-membership-detail"><strong>Fishing and Waterfront Access</strong> The reopened pier provides saltwater anglers with renewed access to the Gulf. The nearby Packery Channel helps connect fish movement between the Gulf and the Upper Laguna Madre, contributing to the area&rsquo;s recreational fishing appeal.</div>
-									<div class="bdai-piba-membership-detail"><strong>Improved Movement and Accessibility</strong> The wider deck and ADA-compliant access make it easier for visitors to move along the pier and reach the waterfront, supporting a broader range of fishing, sightseeing, and recreational uses.</div>
-									<div class="bdai-piba-membership-detail"><strong>Nighttime Recreation and Gulf Views</strong> Gulf pier lighting supports nighttime visitor use and fishing, including opportunities to target spotted seatrout beneath the lights during favorable summer conditions.</div></div>
+									<div class="bdai-piba-membership-detail"><strong>Defined Street Limits</strong> Sand Dollar Avenue is planned between Verdemar Drive and State Highway 361, while Crowsnest Avenue is planned from Beach Access 4 to Whitecap Boulevard and continuing to Park Road 22.</div>
+									<div class="bdai-piba-membership-detail"><strong>Design, Permitting, and Construction</strong> The February 2026 island mobility plan identifies funding for the design, permitting, and construction of both avenues, with the plan describing the projects as connections to Padre Island Access Road.</div>
+									<div class="bdai-piba-membership-detail"><strong>Coordinated Utility Planning</strong> Separate City records document Sand Dollar waterline work involving a 16-inch distribution line and a 20-inch redundancy line tied to the Sand Dollar Pump Station and Coral Vine Elevated Storage Tank.</div></div>
 
-								<p class="bdai-piba-membership-text">Separate restaurant, concession, bait shop, restroom, parking, and access-road improvements have been discussed or developed as related property work. Those elements should be confirmed independently because they are not the same as the completed pier reconstruction and may have separate schedules or operating arrangements.</p><a class="bdai-piba-membership-link" href="https://tpwd.texas.gov/newsmedia/releases/?req=20260410b" target="_blank">Read the Reopening Information</a></div></div></div>
+								<p class="bdai-piba-membership-text">The available public records do not establish final lane configurations, exact construction phasing, final utility layouts for the street projects, or a confirmed completion date for the roadway construction. Those details should be confirmed through the City&rsquo;s current project records and approved construction documents.</p><a class="bdai-piba-membership-link" href="https://www.corpuschristitx.gov/department-directory/engineering-services/street-projects/" target="_blank">View City Street Projects</a></div></div></div>
 				</section>
 			</td>
 		</tr>
@@ -232,16 +232,16 @@
 					<div class="container">
 						<div class="bdai-piba-contact-inner">
 							<div class="bdai-piba-contact-copy">
-								<div class="bdai-piba-contact-eyebrow" style="white-space:nowrap !important;width:fit-content;">Bob Hall Pier &ndash; Rebuild</div>
+								<div class="bdai-piba-contact-eyebrow" style="white-space:nowrap !important;width:fit-content;">Sand Dollar / Crowsnest Avenue Expansion</div>
 
-								<h2 class="bdai-piba-contact-title">A Reopened Landmark for North Padre Island</h2>
+								<h2 class="bdai-piba-contact-title">A Planned Transportation Investment for North Padre Island</h2>
 
-								<p class="bdai-piba-contact-text">The completed Bob Hall Pier reconstruction restores a significant public destination to Padre Island after Hurricane Hanna destroyed the original pier. Its new structure, wider walkways, ADA accessibility, fishing access, lighting, and improved durability support residents, visitors, anglers, and the continued growth of North Padre Island as a coastal recreation destination.</p>
+								<p class="bdai-piba-contact-text">The City of Corpus Christi has identified Sand Dollar Avenue and Crowsnest Avenue as planned North Padre Island street projects. The documented corridors cover Verdemar Drive to State Highway 361 on Sand Dollar and Beach Access 4 through Whitecap Boulevard toward Park Road 22 on Crowsnest.</p>
 							</div>
 							<div class="bdai-piba-contact-details">
-								<div class="bdai-piba-contact-detail"><i class="bi bi-rulers" aria-hidden="true"></i> Approximately 1,240 feet long</div>
-								<div class="bdai-piba-contact-detail"><i class="bi bi-arrows-expand" aria-hidden="true"></i> Approximately 20-foot-wide deck described in project plans</div>
-								<div class="bdai-piba-contact-detail"><i class="bi bi-universal-access" aria-hidden="true"></i> ADA-compliant access and wider walkways</div><a class="bdai-piba-contact-link" href="https://www.nuecesbeachparks.com/padre-balli-park/bob-hall-pier" target="_blank">View Bob Hall Pier Information</a></div></div></div>
+								<div class="bdai-piba-contact-detail"><i class="bi bi-signpost-2" aria-hidden="true"></i> Sand Dollar Avenue between Verdemar Drive and State Highway 361</div>
+								<div class="bdai-piba-contact-detail"><i class="bi bi-signpost-split" aria-hidden="true"></i> Crowsnest Avenue from Beach Access 4 to Whitecap Boulevard and Park Road 22</div>
+								<div class="bdai-piba-contact-detail"><i class="bi bi-water" aria-hidden="true"></i> Related Sand Dollar waterline work includes 16-inch and 20-inch lines</div><a class="bdai-piba-contact-link" href="https://www.corpuschristitx.gov/department-directory/engineering-services/street-projects/" target="_blank">Visit City Project Information</a></div></div></div>
 				</section>
 			</td>
 		</tr>
@@ -255,78 +255,78 @@
 				<section class="bdai-piba-faq" id="bdai-piba-faq">
 					<div class="container">
 						<div class="bdai-piba-faq-heading">
-							<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Bob Hall Pier Questions</div>
+							<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;"><span style="font-size: 11px;">Sand Dollar and Crowsnest Questions</span></div>
 
-							<h2 class="bdai-piba-faq-title">What to Know About the Bob Hall Pier Rebuild</h2>
+							<h2 class="bdai-piba-faq-title">What to Know About the North Padre Island Avenue Expansion</h2>
 
-							<p class="bdai-piba-faq-intro">These answers summarize publicly available information about the Hurricane Hanna damage, reconstruction, design, reopening, visitor access, and related development at Bob Hall Pier on North Padre Island.</p>
+							<p class="bdai-piba-faq-intro">The answers below summarize verifiable City of Corpus Christi planning, budget, mobility, and project information about the Sand Dollar Avenue and Crowsnest Avenue improvements. Project details may change as design, funding, procurement, and construction progress.</p>
 						</div>
 						<div class="bdai-piba-faq-columns">
 							<div class="bdai-piba-faq-column">
 								<article class="bdai-piba-faq-card">
 
-									<h3 class="bdai-piba-faq-question">What is the Bob Hall Pier rebuild?</h3>
+									<h3 class="bdai-piba-faq-question">What is the Sand Dollar and Crowsnest Avenue expansion?</h3>
 									<div class="bdai-piba-faq-answer">
 
-										<p>The Bob Hall Pier rebuild is the full replacement of the historic fishing pier at Padre Balli Park on North Padre Island. The original pier was severely damaged by Hurricane Hanna in 2020, and the completed project created a new 1,240-foot pier with wider walkways, ADA accessibility, enhanced structural durability, lighting, and renewed public fishing access.</p>
+										<p>It is a pair of planned North Padre Island street construction projects identified by the City of Corpus Christi. The projects are intended to complete roadway connections on Sand Dollar Avenue and Crowsnest Avenue.</p>
 									</div>
 								</article>
 								<article class="bdai-piba-faq-card">
 
-									<h3 class="bdai-piba-faq-question">Why was Bob Hall Pier rebuilt?</h3>
+									<h3 class="bdai-piba-faq-question">Where is Sand Dollar Avenue included?</h3>
 									<div class="bdai-piba-faq-answer">
 
-										<p>Hurricane Hanna severely damaged Bob Hall Pier in July 2020. The storm damage forced the pier to close and left the remaining structure unsuitable for continued public use, so the county pursued demolition and construction of an entirely new pier rather than a limited repair.</p>
+										<p>City capital-budget materials identify the Sand Dollar Avenue project between Verdemar Drive and State Highway 361. The project is referenced as CIP project 24130 in City planning materials.</p>
 									</div>
 								</article>
 								<article class="bdai-piba-faq-card">
 
-									<h3 class="bdai-piba-faq-question">How long is the rebuilt Bob Hall Pier?</h3>
+									<h3 class="bdai-piba-faq-question">Where is Crowsnest Avenue included?</h3>
 									<div class="bdai-piba-faq-answer">
 
-										<p>The completed Bob Hall Pier is approximately 1,240 feet long and extends over the Gulf of Mexico from Padre Balli Park. Project descriptions also identified a deck approximately 20 feet wide, providing more usable space than the previous pier configuration.</p>
+										<p>City planning documents identify Crowsnest Avenue from Beach Access 4 to Whitecap Boulevard and continuing to Park Road 22. The project is referenced as CIP project 24134.</p>
 									</div>
 								</article>
 								<article class="bdai-piba-faq-card">
 
-									<h3 class="bdai-piba-faq-question">When did the rebuilt Bob Hall Pier reopen?</h3>
+									<h3 class="bdai-piba-faq-question">What is the purpose of the street projects?</h3>
 									<div class="bdai-piba-faq-answer">
 
-										<p>Bob Hall Pier officially reopened to the public on February 24, 2026, after construction finished in early 2026. The reopening marked the return of public fishing and recreation access following several years of closure.</p>
+										<p>The documented purpose is to construct planned North Padre Island street connections and improve the island mobility network. The February 2026 mobility plan identifies design, permitting, and construction funding for the two avenues.</p>
 									</div>
 								</article>
 							</div>
 							<div class="bdai-piba-faq-column">
 								<article class="bdai-piba-faq-card">
 
-									<h3 class="bdai-piba-faq-question">What features were added to the new pier?</h3>
+									<h3 class="bdai-piba-faq-question">How are the projects funded?</h3>
 									<div class="bdai-piba-faq-answer">
 
-										<p>Documented improvements include a wider deck and walkways, ADA-compliant access, enhanced structural durability, renewed saltwater fishing access, and Gulf pier lighting for nighttime use. The new structure is intended to provide a more durable and accessible public waterfront experience.</p>
+										<p>The February 17, 2026 Padre/Mustang Island Mobility Plan identifies $7.2 million for the design, permitting, and construction of Sand Dollar and Crows Nest Avenues to Padre Island Access Road. City capital-budget documents also list separate CIP projects for the two corridors.</p>
 									</div>
 								</article>
 								<article class="bdai-piba-faq-card">
 
-									<h3 class="bdai-piba-faq-question">Is the rebuilt pier accessible to visitors with disabilities?</h3>
+									<h3 class="bdai-piba-faq-question">Are utilities part of the work?</h3>
 									<div class="bdai-piba-faq-answer">
 
-										<p>Yes. Public information about the completed reconstruction identifies ADA accessibility as one of the project improvements. The wider walkways and accessible design are intended to make the pier more usable for visitors with different mobility needs.</p>
+										<p>A separate Sand Dollar waterline project is documented by the City. Its scope includes a 16-inch waterline to increase water-distribution capacity and a 20-inch waterline for redundancy, connecting the Sand Dollar Pump Station with the Coral Vine Elevated Storage Tank.</p>
 									</div>
 								</article>
 								<article class="bdai-piba-faq-card">
 
-									<h3 class="bdai-piba-faq-question">Are the restaurant and concession improvements part of the completed pier?</h3>
+									<h3 class="bdai-piba-faq-question">What is the current status?</h3>
 									<div class="bdai-piba-faq-answer">
 
-										<p>They are related but separate components of the broader Bob Hall Pier property redevelopment. Restaurant, concession, bait shop, restroom, parking, and access improvements have been discussed or developed independently, and their schedules, operators, and availability should not be assumed from the completed pier reopening.</p>
+										<p>The public records reviewed show the street projects in City mobility and capital-planning programs, but they do not confirm that the Sand Dollar and Crowsnest street construction is complete. The related Sand Dollar waterline project was scheduled for construction beginning in October 2025, with planned completion in December 2026.</p>
 									</div>
 								</article>
 								<article class="bdai-piba-faq-card">
 
-									<h3 class="bdai-piba-faq-question">Why is the Bob Hall Pier rebuild important to Padre Island?</h3>
+									<h3 class="bdai-piba-faq-question">Is there a confirmed completion date for the avenue expansion?</h3>
 									<div class="bdai-piba-faq-answer">
 
-										<p>Bob Hall Pier is a recognizable fishing and recreation destination for North Padre Island, Corpus Christi, and visiting anglers. Rebuilding it restores a long-standing public connection to the Gulf, improves access and durability, supports tourism and recreation, and reinforces Padre Island&rsquo;s role as a major coastal destination.</p>
+										<p>No final street-completion date was confirmed in the City sources reviewed for this page. The timing for the roadway projects remains dependent on design, permitting, procurement, construction contracts, and subsequent City updates.</p>
 									</div>
 								</article>
 							</div></div></div>
@@ -335,7 +335,6 @@
 		</tr>
 	</tbody>
 </table>
-
 
 
 .bdai-piba-hero  {
@@ -955,6 +954,7 @@
  .froala-table section > .container > * + *  {
    margin-top: 16px;
 }
+
 
 <script>
 (function($){

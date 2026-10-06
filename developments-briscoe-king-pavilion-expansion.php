@@ -42,7 +42,7 @@
 								<p>
 									<br>
 								</p>
-								<div class="bdai-piba-about-note"><strong>An Existing Padre Balli Park Gathering Place</strong> <span>Briscoe King Pavilion is a public rental facility within Padre Balli Park on Padre Island, where the existing beachfront pavilion serves gatherings near the island&rsquo;s coastal recreation areas.</span></div></div>
+								<div class="bdai-piba-about-note"><strong>An Existing Padre Balli Park Gathering Place</strong> Briscoe King Pavilion is a public rental facility within Padre Balli Park on Padre Island, where the existing beachfront pavilion serves gatherings near the island&rsquo;s coastal recreation areas.</div></div>
 							<div class="bdai-piba-about-copy">
 								<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">About Briscoe King Pavilion</div>
 
@@ -89,7 +89,7 @@
 				<section class="bdai-piba-mission" id="bdai-piba-mission">
 					<div class="container">
 						<div class="bdai-piba-mission-heading">
-							<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Expansion Plans and Project Scope</div>
+							<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;"><span style="font-size: 11px;">Expansion Plans &amp; Project Scope</span></div>
 
 							<h2 class="bdai-piba-mission-title">A New Assembly Venue Paired With Renovation of the Existing Pavilion</h2>
 
@@ -139,7 +139,7 @@
 					<div class="container">
 						<div class="bdai-piba-involvement-layout">
 							<div class="bdai-piba-involvement-copy">
-								<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Location and Development Progress</div>
+								<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;"><span style="font-size: 11px;">Location &amp; Development Progress</span></div>
 
 								<h2 class="bdai-piba-involvement-title">A Padre Balli Park Project Advancing Through Procurement and Construction</h2>
 
@@ -183,7 +183,7 @@
 								<p>
 									<br>
 								</p>
-								<div class="bdai-piba-involvement-note"><strong>Construction Is Not Yet Presented as Complete</strong> <span>Public information describes an active project involving a new assembly facility and renovation of the existing pavilion. Construction progress, final completion timing, and delivered features should be confirmed through the county&rsquo;s current project records.</span></div></div></div></div>
+								<div class="bdai-piba-involvement-note"><strong>Construction Is Not Yet Presented as Complete</strong> Public information describes an active project involving a new assembly facility and renovation of the existing pavilion. Construction progress, final completion timing, and delivered features should be confirmed through the county&rsquo;s current project records.</div></div></div></div>
 				</section>
 			</td>
 		</tr>
@@ -207,15 +207,15 @@
 								<p class="bdai-piba-membership-caption">The completed project is expected to add modern indoor gathering space while keeping the existing pavilion connected to the Padre Balli Park experience.</p>
 							</div>
 							<div class="bdai-piba-membership-copy">
-								<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">What the Expansion Will Provide</div>
+								<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;"><span style="font-size: 11px;">What the Expansion Will Provide</span></div>
 
 								<h2 class="bdai-piba-membership-title">More Flexible Public Assembly Space on North Padre Island</h2>
 
 								<p class="bdai-piba-membership-lead">The Briscoe King Pavilion Expansion is expected to improve the property by combining a new climate-controlled assembly venue with continued use and renovation of the existing pavilion. The project&rsquo;s documented scope focuses on public gathering space, access, building functionality, and support facilities.</p>
 								<div class="bdai-piba-membership-details">
-									<div class="bdai-piba-membership-detail"><strong>New Indoor Meeting Capacity</strong> <span>The new approximately 6,730-square-foot facility is planned as an air-conditioned assembly venue, with earlier public descriptions identifying capacity for approximately 300 people.</span></div>
-									<div class="bdai-piba-membership-detail"><strong>Improved Visitor Access</strong> <span>Documented scope includes accessible parking and walkways, along with new restroom facilities intended to support visitors using the expanded property.</span></div>
-									<div class="bdai-piba-membership-detail"><strong>Renovated Existing Building</strong> <span>The current pavilion is expected to remain part of the site and receive renovation or repair work, including documented improvements related to finishes, doors, plumbing, windows, and fans.</span></div></div>
+									<div class="bdai-piba-membership-detail"><strong>New Indoor Meeting Capacity</strong> The new approximately 6,730-square-foot facility is planned as an air-conditioned assembly venue, with earlier public descriptions identifying capacity for approximately 300 people.</div>
+									<div class="bdai-piba-membership-detail"><strong>Improved Visitor Access</strong> Documented scope includes accessible parking and walkways, along with new restroom facilities intended to support visitors using the expanded property.</div>
+									<div class="bdai-piba-membership-detail"><strong>Renovated Existing Building</strong> The current pavilion is expected to remain part of the site and receive renovation or repair work, including documented improvements related to finishes, doors, plumbing, windows, and fans.</div></div>
 
 								<p class="bdai-piba-membership-text">The completed scope, operating details, availability, and final construction schedule remain dependent on the active county project and construction documents. The new facility is not a replacement for the existing pavilion, and public information states that air conditioning will be provided in the new building rather than added to the old one.</p><a class="bdai-piba-membership-link" href="https://www.nuecesbeachparks.com/padre-balli-park/briscoe-king-pavilion" target="_blank">View Pavilion Information</a></div></div></div>
 				</section>
@@ -239,9 +239,9 @@
 								<p class="bdai-piba-contact-text">The Briscoe King Pavilion Expansion is planned as a coordinated improvement to an existing Padre Balli Park facility. By adding a new air-conditioned assembly venue, renovating the current pavilion, and improving access and building support features, the project is expected to strengthen a public gathering property serving North Padre Island and the Corpus Christi coastal community.</p>
 							</div>
 							<div class="bdai-piba-contact-details">
-								<div class="bdai-piba-contact-detail"><i class="bi bi-rulers" aria-hidden="true"></i> <span>Approximately 6,730 square feet of new facility construction</span></div>
-								<div class="bdai-piba-contact-detail"><i class="bi bi-people" aria-hidden="true"></i> <span>New air-conditioned assembly venue planned for approximately 300 people</span></div>
-								<div class="bdai-piba-contact-detail"><i class="bi bi-universal-access" aria-hidden="true"></i> <span>Documented accessible parking, walkways, and restroom improvements</span></div><a class="bdai-piba-contact-link" href="https://www.nuecesbeachparks.com/padre-balli-park/briscoe-king-pavilion" target="_blank">Visit Pavilion Information</a></div></div></div>
+								<div class="bdai-piba-contact-detail"><i class="bi bi-rulers" aria-hidden="true"></i> Approximately 6,730 square feet of new facility construction</div>
+								<div class="bdai-piba-contact-detail"><i class="bi bi-people" aria-hidden="true"></i> New air-conditioned assembly venue planned for approximately 300 people</div>
+								<div class="bdai-piba-contact-detail"><i class="bi bi-universal-access" aria-hidden="true"></i> Documented accessible parking, walkways, and restroom improvements</div><a class="bdai-piba-contact-link" href="https://www.nuecesbeachparks.com/padre-balli-park/briscoe-king-pavilion" target="_blank">Visit Pavilion Information</a></div></div></div>
 				</section>
 			</td>
 		</tr>
@@ -255,7 +255,7 @@
 				<section class="bdai-piba-faq" id="bdai-piba-faq">
 					<div class="container">
 						<div class="bdai-piba-faq-heading">
-							<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Briscoe King Pavilion Questions</div>
+							<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;"><span style="font-size: 11px;">Briscoe King Pavilion Questions</span></div>
 
 							<h2 class="bdai-piba-faq-title">What to Know About the Briscoe King Pavilion Expansion</h2>
 
@@ -336,9 +336,7 @@
 	</tbody>
 </table>
 
-
-<style>
-    .bdai-piba-hero  {
+.bdai-piba-hero  {
    position:relative;
    overflow:hidden;
    padding:72px 0;
@@ -455,23 +453,53 @@
    gap:16px;
    color:rgb(24,46,69);
 }
+
+/* ===== IMAGE FRAMES: size follows the editor's width/height ===== */
  .bdai-piba-hero-media-frame, .bdai-piba-about-media-frame, .bdai-piba-involvement-media-frame, .bdai-piba-membership-media-frame  {
-   width:100%;
+   position:relative;
+   display:flex;
+   align-items:center;
+   justify-content:center;
+   width:fit-content;
    max-width:100%;
    min-width:0;
-   overflow:hidden;
+   align-self:center;
+   overflow:visible;
+   background:transparent;
    border-radius:16px;
    box-shadow:18px 18px 0 rgba(253,158,37,.22);
 }
- .bdai-piba-hero-media-frame img, .bdai-piba-about-media-frame img, .bdai-piba-involvement-media-frame img, .bdai-piba-membership-media-frame img  {
-   display:block;
-   width:100%;
-   height:440px;
-   max-width:100% !important;
-   margin:0 !important;
-   object-fit:cover;
+ .bdai-piba-hero-media-frame::before, .bdai-piba-about-media-frame::before, .bdai-piba-involvement-media-frame::before, .bdai-piba-membership-media-frame::before  {
+   position:absolute;
+   top:18px;
+   right:-18px;
+   bottom:-18px;
+   left:18px;
+   z-index:0;
+   background:rgb(214,234,246);
    border-radius:16px;
+   content:"";
 }
+ .bdai-piba-hero-media-frame::after, .bdai-piba-about-media-frame::after, .bdai-piba-involvement-media-frame::after, .bdai-piba-membership-media-frame::after  {
+   position:absolute;
+   inset:0;
+   z-index:1;
+   background:rgb(255,255,255);
+   border-radius:16px;
+   content:"";
+}
+ .bdai-piba-hero-media-frame img, .bdai-piba-about-media-frame img, .bdai-piba-involvement-media-frame img, .bdai-piba-membership-media-frame img  {
+   position:relative;
+   z-index:2;
+   display:block;
+   max-width:100%;
+   height:auto;
+   margin:0 !important;
+   object-fit:fill;
+   border-radius:16px !important;
+}
+/* ===== END IMAGE FRAMES ===== */
+
  .bdai-piba-hero-caption, .bdai-piba-membership-caption  {
    margin:0;
    padding:14px 16px;
@@ -872,6 +900,25 @@
      grid-template-columns:1fr;
   }
 }
+@media (max-width:900px){
+   .bdai-piba-hero-media-frame,
+   .bdai-piba-about-media-frame,
+   .bdai-piba-involvement-media-frame,
+   .bdai-piba-membership-media-frame {
+      align-self:flex-start;
+      max-width:calc(100% - 14px);
+      box-shadow:14px 14px 0 rgba(253,158,37,.22);
+   }
+   .bdai-piba-hero-media-frame::before,
+   .bdai-piba-about-media-frame::before,
+   .bdai-piba-involvement-media-frame::before,
+   .bdai-piba-membership-media-frame::before {
+      top:14px;
+      right:-14px;
+      bottom:-14px;
+      left:14px;
+   }
+}
  @media (max-width:700px)  {
    .bdai-piba-mission-grid, .bdai-piba-faq-columns  {
      grid-template-columns:1fr;
@@ -884,9 +931,6 @@
   }
    .bdai-piba-hero-lead  {
      font-size:20px;
-  }
-   .bdai-piba-hero-media-frame img, .bdai-piba-about-media-frame img, .bdai-piba-involvement-media-frame img, .bdai-piba-membership-media-frame img  {
-     height:280px;
   }
    .bdai-piba-contact-inner  {
      padding:28px;
@@ -909,7 +953,6 @@
  .froala-table section > .container > * + *  {
    margin-top: 16px;
 }
-</style>
 
 <script>
 (function($){

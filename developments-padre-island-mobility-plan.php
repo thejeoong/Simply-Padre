@@ -42,9 +42,9 @@
 								<p>
 									<br>
 								</p>
-								<div class="bdai-piba-about-note"><strong>A Multimodal Plan for Padre and Mustang Islands</strong> <span>The plan addresses pedestrian, bicycle, golf cart, vehicular, and watercraft movement while considering connections between residential neighborhoods and the island&rsquo;s activity centers.</span></div></div>
+								<div class="bdai-piba-about-note"><strong>A Multimodal Plan for Padre and Mustang Islands</strong> The plan addresses pedestrian, bicycle, golf cart, vehicular, and watercraft movement while considering connections between residential neighborhoods and the island&rsquo;s activity centers.</div></div>
 							<div class="bdai-piba-about-copy">
-								<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">What Is the Padre Island Mobility Plan?</div>
+								<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Padre Island Mobility Plan</div>
 
 								<h2 class="bdai-piba-about-title">A Transportation Framework Designed Around How the Island Moves</h2>
 
@@ -139,7 +139,7 @@
 					<div class="container">
 						<div class="bdai-piba-involvement-layout">
 							<div class="bdai-piba-involvement-copy">
-								<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Roads, Safety, and Recommendations</div>
+								<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;"><span style="font-size: 11px;">Roads, Safety, &amp; Recommendations</span></div>
 
 								<h2 class="bdai-piba-involvement-title">A Plan That Connects Local Mobility With Regional Transportation Decisions</h2>
 
@@ -183,7 +183,7 @@
 								<p>
 									<br>
 								</p>
-								<div class="bdai-piba-involvement-note"><strong>Recommendations Are Not the Same as Completed Projects</strong> <span>The adopted plan provides a framework for future transportation decisions and investment. Public sources do not establish a universal construction timeline, final funding package, or completion date for every recommendation.</span></div></div></div></div>
+								<div class="bdai-piba-involvement-note"><strong>Recommendations Are Not the Same as Completed Projects</strong> The adopted plan provides a framework for future transportation decisions and investment. Public sources do not establish a universal construction timeline, final funding package, or completion date for every recommendation.</div></div></div></div>
 				</section>
 			</td>
 		</tr>
@@ -207,15 +207,15 @@
 								<p class="bdai-piba-membership-caption">A connected island transportation network can help link homes, businesses, beaches, recreation areas, public facilities, and waterways through multiple travel choices.</p>
 							</div>
 							<div class="bdai-piba-membership-copy">
-								<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Pedestrian, Bicycle, and Island Connectivity</div>
+								<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;"><span style="font-size: 9px;">Pedestrian, Bicycle, &amp; Island Connectivity</span></div>
 
 								<h2 class="bdai-piba-membership-title">Making Short Trips and Everyday Connections Easier to Consider</h2>
 
 								<p class="bdai-piba-membership-lead">The mobility plan treats walking, bicycling, golf carts, and watercraft as important parts of the transportation conversation. It is intended to help the island evaluate connections between residential areas and activity centers while improving safety, accessibility, and long-term transportation choices.</p>
 								<div class="bdai-piba-membership-details">
-									<div class="bdai-piba-membership-detail"><strong>Pedestrian and Bicycle Connections</strong> <span>The plan evaluates walking and cycling pathways as part of a connected network. Public materials describe the goal broadly and do not establish that every proposed sidewalk, trail, crossing, or bicycle facility has been approved for construction.</span></div>
-									<div class="bdai-piba-membership-detail"><strong>Golf Cart Mobility</strong> <span>Golf carts are specifically included in the plan&rsquo;s multimodal scope, reflecting the island&rsquo;s local travel patterns. The plan provides transportation guidance and recommendations rather than a blanket authorization for golf carts on every roadway.</span></div>
-									<div class="bdai-piba-membership-detail"><strong>Watercraft and Coastal Connections</strong> <span>Watercraft are also included because the island&rsquo;s waterways and waterfront destinations are part of how people experience and access the area. The plan considers water travel alongside land-based transportation modes.</span></div></div>
+									<div class="bdai-piba-membership-detail"><strong>Pedestrian and Bicycle Connections</strong> The plan evaluates walking and cycling pathways as part of a connected network. Public materials describe the goal broadly and do not establish that every proposed sidewalk, trail, crossing, or bicycle facility has been approved for construction.</div>
+									<div class="bdai-piba-membership-detail"><strong>Golf Cart Mobility</strong> Golf carts are specifically included in the plan&rsquo;s multimodal scope, reflecting the island&rsquo;s local travel patterns. The plan provides transportation guidance and recommendations rather than a blanket authorization for golf carts on every roadway.</div>
+									<div class="bdai-piba-membership-detail"><strong>Watercraft and Coastal Connections</strong> Watercraft are also included because the island&rsquo;s waterways and waterfront destinations are part of how people experience and access the area. The plan considers water travel alongside land-based transportation modes.</div></div>
 
 								<p class="bdai-piba-membership-text">The plan&rsquo;s value is in bringing these modes into one transportation framework. Specific routes, designs, responsibilities, costs, and construction timing should be confirmed through the adopted plan and future project decisions rather than assumed from the plan&rsquo;s general goals.</p><a class="bdai-piba-membership-link" href="https://www.corpuschristitx.gov/news/posts/city-council-incorporates-padremustang-island-mobility-plan-into-the-plan-cc-comprehensive-plan/" target="_blank">Read the City&rsquo;s Plan Update</a></div></div></div>
 				</section>
@@ -239,9 +239,9 @@
 								<p class="bdai-piba-contact-text">Corpus Christi City Council approved the Padre/Mustang Island Mobility Plan in February 2026 and incorporated it into the Plan CC Comprehensive Plan. That action establishes the plan as a framework for future transportation decisions, policies, programs, and public investments; it does not mean that every recommendation has already been designed, funded, constructed, or assigned a completion date.</p>
 							</div>
 							<div class="bdai-piba-contact-details">
-								<div class="bdai-piba-contact-detail"><i class="bi bi-calendar-check" aria-hidden="true"></i> <span>Adopted by City Council in February 2026</span></div>
-								<div class="bdai-piba-contact-detail"><i class="bi bi-diagram-3" aria-hidden="true"></i> <span>Incorporated into the Plan CC Comprehensive Plan</span></div>
-								<div class="bdai-piba-contact-detail"><i class="bi bi-signpost-split" aria-hidden="true"></i> <span>Guides future island transportation decisions and investments</span></div><a class="bdai-piba-contact-link" href="https://www.corpuschristitx.gov/media/iluhulk2/2026-02-17-island-mobility-plan-low-res.pdf" target="_blank">View the Adopted Plan</a></div></div></div>
+								<div class="bdai-piba-contact-detail"><i class="bi bi-calendar-check" aria-hidden="true"></i> Adopted by City Council in February 2026</div>
+								<div class="bdai-piba-contact-detail"><i class="bi bi-diagram-3" aria-hidden="true"></i> Incorporated into the Plan CC Comprehensive Plan</div>
+								<div class="bdai-piba-contact-detail"><i class="bi bi-signpost-split" aria-hidden="true"></i> Guides future island transportation decisions and investments</div><a class="bdai-piba-contact-link" href="https://www.corpuschristitx.gov/media/iluhulk2/2026-02-17-island-mobility-plan-low-res.pdf" target="_blank">View the Adopted Plan</a></div></div></div>
 				</section>
 			</td>
 		</tr>
@@ -255,7 +255,7 @@
 				<section class="bdai-piba-faq" id="bdai-piba-faq">
 					<div class="container">
 						<div class="bdai-piba-faq-heading">
-							<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Padre Island Mobility Plan Questions</div>
+							<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Mobility Plan Questions</div>
 
 							<h2 class="bdai-piba-faq-title">What to Know About Padre Island Transportation Planning</h2>
 
@@ -337,8 +337,7 @@
 </table>
 
 
-<style>
-    .bdai-piba-hero  {
+.bdai-piba-hero  {
    position:relative;
    overflow:hidden;
    padding:72px 0;
@@ -455,23 +454,53 @@
    gap:16px;
    color:rgb(24,46,69);
 }
+
+/* ===== IMAGE FRAMES: size follows the editor's width/height ===== */
  .bdai-piba-hero-media-frame, .bdai-piba-about-media-frame, .bdai-piba-involvement-media-frame, .bdai-piba-membership-media-frame  {
-   width:100%;
+   position:relative;
+   display:flex;
+   align-items:center;
+   justify-content:center;
+   width:fit-content;
    max-width:100%;
    min-width:0;
-   overflow:hidden;
+   align-self:center;
+   overflow:visible;
+   background:transparent;
    border-radius:16px;
    box-shadow:18px 18px 0 rgba(253,158,37,.22);
 }
- .bdai-piba-hero-media-frame img, .bdai-piba-about-media-frame img, .bdai-piba-involvement-media-frame img, .bdai-piba-membership-media-frame img  {
-   display:block;
-   width:100%;
-   height:440px;
-   max-width:100% !important;
-   margin:0 !important;
-   object-fit:cover;
+ .bdai-piba-hero-media-frame::before, .bdai-piba-about-media-frame::before, .bdai-piba-involvement-media-frame::before, .bdai-piba-membership-media-frame::before  {
+   position:absolute;
+   top:18px;
+   right:-18px;
+   bottom:-18px;
+   left:18px;
+   z-index:0;
+   background:rgb(214,234,246);
    border-radius:16px;
+   content:"";
 }
+ .bdai-piba-hero-media-frame::after, .bdai-piba-about-media-frame::after, .bdai-piba-involvement-media-frame::after, .bdai-piba-membership-media-frame::after  {
+   position:absolute;
+   inset:0;
+   z-index:1;
+   background:rgb(255,255,255);
+   border-radius:16px;
+   content:"";
+}
+ .bdai-piba-hero-media-frame img, .bdai-piba-about-media-frame img, .bdai-piba-involvement-media-frame img, .bdai-piba-membership-media-frame img  {
+   position:relative;
+   z-index:2;
+   display:block;
+   max-width:100%;
+   height:auto;
+   margin:0 !important;
+   object-fit:fill;
+   border-radius:16px !important;
+}
+/* ===== END IMAGE FRAMES ===== */
+
  .bdai-piba-hero-caption, .bdai-piba-membership-caption  {
    margin:0;
    padding:14px 16px;
@@ -872,6 +901,25 @@
      grid-template-columns:1fr;
   }
 }
+@media (max-width:900px){
+   .bdai-piba-hero-media-frame,
+   .bdai-piba-about-media-frame,
+   .bdai-piba-involvement-media-frame,
+   .bdai-piba-membership-media-frame {
+      align-self:flex-start;
+      max-width:calc(100% - 14px);
+      box-shadow:14px 14px 0 rgba(253,158,37,.22);
+   }
+   .bdai-piba-hero-media-frame::before,
+   .bdai-piba-about-media-frame::before,
+   .bdai-piba-involvement-media-frame::before,
+   .bdai-piba-membership-media-frame::before {
+      top:14px;
+      right:-14px;
+      bottom:-14px;
+      left:14px;
+   }
+}
  @media (max-width:700px)  {
    .bdai-piba-mission-grid, .bdai-piba-faq-columns  {
      grid-template-columns:1fr;
@@ -884,9 +932,6 @@
   }
    .bdai-piba-hero-lead  {
      font-size:20px;
-  }
-   .bdai-piba-hero-media-frame img, .bdai-piba-about-media-frame img, .bdai-piba-involvement-media-frame img, .bdai-piba-membership-media-frame img  {
-     height:280px;
   }
    .bdai-piba-contact-inner  {
      padding:28px;
@@ -909,7 +954,7 @@
  .froala-table section > .container > * + *  {
    margin-top: 16px;
 }
-</style>
+
 
 <script>
 (function($){

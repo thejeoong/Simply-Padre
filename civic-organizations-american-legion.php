@@ -6,18 +6,21 @@
 					<div class="container">
 						<div class="bdai-piba-hero-layout">
 							<div class="bdai-piba-hero-copy">
-								<div class="bdai-piba-hero-eyebrow" style="white-space:nowrap !important;width:fit-content;">Serving Veterans and Communities</div>
+								<div class="bdai-piba-hero-eyebrow" style="white-space:nowrap !important;width:fit-content;"><span style="font-size: 12px;">Serving Veterans and Communities</span></div>
 
-								<h1 class="bdai-piba-hero-title"><span style="font-size: 42px;">American Legion Post 0229 &quot;The Islander Post&quot;</span></h1>
+								<h1 class="bdai-piba-hero-title">American Legion Post 0229 &quot;The Islander Post&quot;</h1>
 
-								<p class="bdai-piba-hero-lead">The American Legion brings veterans, military families, and community-minded citizens together through service, advocacy, remembrance, and local action.</p>
+								<p class="bdai-piba-hero-lead"><span style="font-size: 21px;">The American Legion brings veterans, military families, and community-minded citizens together through service, advocacy, remembrance, and local action.</span></p>
 
-								<p class="bdai-piba-hero-copy-text">Padre Island is home to local American Legion Post 0229&nbsp;which connects veterans with fellow service members and creates opportunities to support families, recognize military service, participate in community activities, and stay involved in the future of the Coastal Bend.</p>
-								<div class="bdai-piba-hero-actions"><a class="bdai-piba-hero-primary" href="https://post229.org/membership-and-requirements" title="American Legion Post 0229 membership " target="_blank" rel="noopener noreferrer">Join American Legion Post 0229</a> <a class="bdai-piba-hero-secondary" href="https://post229.org/" target="_blank" title="American Legion Post 0229 - Islander Post. " rel="noopener noreferrer">American Legion Website</a></div></div>
-							<div class="bdai-piba-hero-media"><img src="https://www.simplypadre.com/images/640cfaec376eb274622e76c2d00617574302be8d.webp" alt="American Legion meeting banner" class="img-rounded fr-fic fr-dii" fetchpriority="high" decoding="async" width="1200" height="514" loading="lazy">
+								<p class="bdai-piba-hero-copy-text">Padre Island is home to local American Legion Post 0229 which connects veterans with fellow service members and creates opportunities to support families, recognize military service, participate in community activities, and stay involved in the future of the Coastal Bend.</p>
+								<div class="bdai-piba-hero-actions"><a class="bdai-piba-hero-primary" href="https://post229.org/membership-and-requirements" target="_blank" rel="noopener noreferrer" title="American Legion Post 0229 membership ">Join American Legion Post 0229</a><a class="bdai-piba-hero-secondary" href="https://post229.org/" target="_blank" title="American Legion Post 0229 - Islander Post. " rel="noopener noreferrer">American Legion Website</a></div></div>
+							<div class="bdai-piba-hero-media">
+								<div class="bdai-piba-image-frame"><img src="https://www.simplypadre.com/images/640cfaec376eb274622e76c2d00617574302be8d.webp" alt="Padre Isles waterfront community" class="img-rounded fr-fic fr-dii" loading="lazy" style="width: 700px;" width="700" height="137"></div>
 
-								<p class="bdai-piba-hero-caption">Local American Legion posts provide places for veterans and supporters to connect, organize, remember, and serve.</p>
-							</div></div></div>
+								<p>
+									<br>
+								</p>
+								<div class="bdai-piba-hero-note">Local American Legion posts provide places for veterans and supporters to connect, organize, remember, and serve.</div></div></div></div>
 				</section>
 			</td>
 		</tr>
@@ -31,9 +34,10 @@
 				<section class="bdai-piba-about" id="bdai-piba-about">
 					<div class="container">
 						<div class="bdai-piba-about-layout">
-							<div class="bdai-piba-about-media"><img src="https://www.legion.org/getmedia/8c5b6b10-7ac5-4268-9a0b-1651dc2ed505/TAL-brand-primary-RGB.png" alt="The American Legion emblem" class="img-rounded fr-fil fr-dib" loading="lazy" decoding="async">
+							<div class="bdai-piba-about-media">
+								<div class="bdai-piba-image-frame"><img src="https://www.legion.org/getmedia/8c5b6b10-7ac5-4268-9a0b-1651dc2ed505/TAL-brand-primary-RGB.png" alt="Padre Isles Property Owners Association logo" class="img-rounded fr-dib fr-fil" loading="lazy" decoding="async" style="width: 700px;" width="700" height="108"></div>
 								<br>
-								<div class="bdai-piba-about-note"><strong>Veterans Strengthening America</strong> The American Legion describes its vision as &ldquo;Veterans Strengthening America,&rdquo; with local posts carrying that spirit into their communities.</div></div>
+								<div class="bdai-piba-about-note"><strong>Veterans Strengthening America</strong>The American Legion describes its vision as &ldquo;Veterans Strengthening America,&rdquo; with local posts carrying that spirit into their communities.</div></div>
 							<div class="bdai-piba-about-copy">
 								<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">About the American Legion</div>
 
@@ -82,9 +86,9 @@
 						<div class="bdai-piba-mission-heading">
 							<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Mission and Purpose</div>
 
-							<h2 class="bdai-piba-mission-title">Helping Businesses Grow While Protecting What Makes the Islands Unique</h2>
+							<h2 class="bdai-piba-mission-title">Serving Veterans, Families, Military Members, and Communities</h2>
 
-							<p class="bdai-piba-mission-intro">PIBA&rsquo;s mission combines economic development, civic advocacy, education, and community character. That balance gives the organization a broad role in the future of Padre Island and Mustang Island.</p>
+							<p class="bdai-piba-mission-intro">The American Legion&rsquo;s national mission gives local posts a broad service framework. Its work combines veteran support, national security, Americanism, and programs for children and youth.</p>
 						</div>
 						<div class="bdai-piba-mission-grid">
 							<article class="bdai-piba-mission-card">
@@ -158,7 +162,7 @@
 
 											<h3>Community Participation</h3>
 
-											<p>Posts may participate in public events, local service activities, gatherings, and partnerships that strengthen relationships between veterans and the Corpus Christi community.</p>
+											<p>Costs may participate in public events, local service activities, gatherings, and partnerships that strengthen relationships between veterans and the Corpus Christi community.</p>
 										</div></div>
 									<div class="bdai-piba-involvement-item">
 										<div class="bdai-piba-involvement-icon"><i class="bi bi-award" aria-hidden="true"></i></div>
@@ -168,8 +172,13 @@
 
 											<p>The national organization identifies youth mentoring, education, and leadership development as important parts of its service to families and communities.</p>
 										</div></div></div></div>
-							<div class="bdai-piba-involvement-media"><img src="https://www.simplypadre.com/images/162c8309f956dd5a785e68ca6d21a3022388d9fd.webp" alt="American Legion local post leadership" class="img-rounded fr-fic fr-dii" loading="lazy" decoding="async" width="1200" height="420">
-								<div class="bdai-piba-involvement-note"><strong>Local Service Is Post-Based</strong> Programs, meeting schedules, and activities can vary by post. Confirm current details directly with the Corpus Christi post you plan to visit.</div></div></div></div>
+							<div class="bdai-piba-involvement-media">
+								<div class="bdai-piba-image-frame"><img src="https://www.simplypadre.com/images/162c8309f956dd5a785e68ca6d21a3022388d9fd.webp" alt="Padre Isles canal neighborhood" class="img-rounded fr-fic fr-dii" loading="lazy" style="width: 700px;" width="700" height="307"></div>
+
+								<p>
+									<br>
+								</p>
+								<div class="bdai-piba-involvement-note"><strong>Local Service Is Post-Based</strong>Programs, meeting schedules, and activities can vary by post. Confirm current details directly with the Corpus Christi post you plan to visit.</div></div></div></div>
 				</section>
 			</td>
 		</tr>
@@ -183,23 +192,30 @@
 				<section class="bdai-piba-membership" id="bdai-piba-membership">
 					<div class="container">
 						<div class="bdai-piba-membership-layout">
-							<div class="bdai-piba-membership-media"><img src="https://www.simplypadre.com/images/b9404f8294f2e2549fb16bb22c31026eb5a04e9c.webp" alt="American Legion community gathering" class="img-rounded fr-fic fr-dii" loading="lazy" decoding="async" width="1047" height="1566">
-								<br>
+							<div class="bdai-piba-membership-media">
+								<div class="bdai-piba-image-frame"><img src="https://www.simplypadre.com/images/b9404f8294f2e2549fb16bb22c31026eb5a04e9c.webp" alt="Padre Isles canal neighborhood" class="img-rounded fr-fic fr-dii" loading="lazy" style="width: 700px;" width="700" height="249"></div>
 
-								<p class="bdai-piba-membership-caption">Joining or visiting a local post can be a practical way to meet other veterans, learn about activities, and support service in Corpus Christi.</p>
+								<p>
+									<br>
+								</p>
+								<div class="bdai-piba-about-note">Joining or visiting a local post can be a practical way to meet other veterans, learn about activities, and support service in Corpus Christi.</div>
+
+								<p>
+									<br>
+								</p>
 							</div>
 							<div class="bdai-piba-membership-copy">
-								<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Membership and Getting Involved</div>
+								<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;"><span style="font-size: 12px;">Membership and Getting Involved</span></div>
 
 								<h2 class="bdai-piba-membership-title">Connect With American Legion Post 0229</h2>
 
-								<p class="bdai-piba-membership-lead">Membership eligibility, dues, application steps, and available activities are handled through the American Legion and its local posts. Because details can change, prospective members should confirm current requirements directly with the post they are considering.</p>
+								<p class="bdai-piba-membership-text">Membership eligibility, dues, application steps, and available activities are handled through the American Legion and its local posts. Because details can change, prospective members should confirm current requirements directly with the post they are considering.</p>
 								<div class="bdai-piba-membership-details">
-									<div class="bdai-piba-membership-detail"><strong>Start With a Local Conversation</strong> Ask about meetings, membership requirements, veteran support, volunteer opportunities, and current post activities before planning a visit.</div>
-									<div class="bdai-piba-membership-detail"><strong>Choose the Right Local Contact</strong> Corpus Christi has more than one documented American Legion post, so contact information and schedules depend on the post you want to reach.</div>
-									<div class="bdai-piba-membership-detail"><strong>Support the Wider Legion Family</strong> The American Legion Family includes the Legion, the American Legion Auxiliary, and Sons of The American Legion, with participation varying by eligibility and local availability.</div></div>
-
-								<p class="bdai-piba-membership-text">The official American Legion post finder is the best starting point for confirming locations and identifying the post that serves your area or fits your interests.</p><a class="bdai-piba-membership-link" href="https://post229.org/membership-and-requirements" target="_blank" title="Contact us. " rel="noopener noreferrer">Contact American Legion Post 0229</a></div></div></div>
+									<div class="bdai-piba-membership-detail"><strong>Start With a Local Conversation</strong>Ask about meetings, membership requirements, veteran support, volunteer opportunities, and current post activities before planning a visit.</div>
+									<div class="bdai-piba-membership-detail"><strong>Choose the Right Local Contact</strong>Corpus Christi has more than one documented American Legion post, so contact information and schedules depend on the post you want to reach.</div>
+									<div class="bdai-piba-membership-detail"><strong>Support the Wider Legion Family</strong>The American Legion Family includes the Legion, the American Legion Auxiliary, and Sons of The American Legion, with participation varying by eligibility and local availability.
+										<br>
+										<br>The official American Legion post finder is the best starting point for confirming locations and identifying the post that serves your area or fits your interests.</div></div><a class="bdai-piba-membership-link" href="https://post229.org/membership-and-requirements" target="_blank" rel="noopener noreferrer" title="Contact us. ">Contact American Legion Post 0229</a></div></div></div>
 				</section>
 			</td>
 		</tr>
@@ -221,14 +237,8 @@
 								<p class="bdai-piba-contact-text">Whether you are a veteran looking for local connection, a family member seeking information, or a community supporter interested in service, we would be glad to meet you and welcome you to our growing legion post.&nbsp;</p>
 							</div>
 							<div class="bdai-piba-contact-details">
-								<div class="bdai-piba-contact-detail">
-									<br>
-								</div>
 								<div class="bdai-piba-contact-detail"><i class="bi bi-telephone" aria-hidden="true"></i>Post 229: (361)688-3549</div>
-								<div class="bdai-piba-contact-detail"><i class="bi bi-envelope" aria-hidden="true"></i><a href="mailto:commander@post229.org">commander@post229.org</a></div>
-
-								<p><a href='mailto:a href="mailto:commander@post229.org?subject=Would%20like%20more%20information%20about%20American%20Legion%20post%200229"Contact American Legion Post 0229/a' class="btn btn-primary btn-lg">Click here to send an email</a></p>
-							</div></div></div>
+								<div class="bdai-piba-contact-detail"><i class="bi bi-envelope" aria-hidden="true"></i><a href="mailto:padreisles@pipoa.net">commander@post229.org</a></div><a class="bdai-piba-contact-link" href="mailto:a%20href=%22mailto:commander@post229.org?subject=Would%20like%20more%20information%20about%20American%20Legion%20post%200229%22Contact%20American%20Legion%20Post%200229/a">Click here to send an email</a></div></div></div>
 				</section>
 			</td>
 		</tr>
@@ -242,7 +252,7 @@
 				<section class="bdai-piba-faq" id="bdai-piba-faq">
 					<div class="container">
 						<div class="bdai-piba-faq-heading">
-							<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">American Legion Questions</div>
+							<div class="bdai-piba-section-eyebrow" style="white-space:nowrap !important;width:fit-content;"><span style="font-size: 9px;">American Legion Corpus Christi Questions</span></div>
 
 							<h2 class="bdai-piba-faq-title">Helpful Answers for Veterans and Supporters</h2>
 
@@ -323,9 +333,8 @@
 	</tbody>
 </table>
 
-<style>
-    .bdai-piba-hero  {
-   position:relative;
+.bdai-piba-hero  {
+	position:relative;
    overflow:hidden;
    padding:72px 0;
    background:linear-gradient(135deg,rgb(214,234,246),rgb(255,255,255));
@@ -392,7 +401,7 @@
    min-width:0;
    color:rgb(24,46,69);
 }
- .bdai-piba-hero-primary,.bdai-piba-hero-secondary,.bdai-piba-membership-link,.bdai-piba-contact-link,.bdai-piba-local-card-link  {
+ .bdai-piba-hero-primary,.bdai-piba-hero-secondary,.bdai-piba-membership-link,.bdai-piba-contact-link  {
    display:inline-flex;
    align-items:center;
    justify-content:center;
@@ -412,7 +421,7 @@
    -webkit-background-clip:padding-box;
    background-clip:padding-box;
 }
- .bdai-piba-hero-primary:hover,.bdai-piba-hero-primary:focus,.bdai-piba-membership-link:hover,.bdai-piba-membership-link:focus,.bdai-piba-contact-link:hover,.bdai-piba-contact-link:focus,.bdai-piba-local-card-link:hover,.bdai-piba-local-card-link:focus  {
+ .bdai-piba-hero-primary:hover,.bdai-piba-hero-primary:focus,.bdai-piba-membership-link:hover,.bdai-piba-membership-link:focus,.bdai-piba-contact-link:hover,.bdai-piba-contact-link:focus  {
    background:rgb(214,124,18);
    color:rgb(255,255,255) !important;
    border-color:rgb(214,124,18);
@@ -441,22 +450,69 @@
    gap:16px;
    color:rgb(24,46,69);
 }
- .bdai-piba-hero-media img,.bdai-piba-about-media img,.bdai-piba-involvement-media img,.bdai-piba-membership-media img  {
-   display:block;
-   width:100%;
-   height:440px;
-   max-width:100% !important;
-   margin:0 !important;
-   object-fit:cover;
+ .bdai-piba-hero-note  {
+   display:flex;
+   flex-direction:column;
+   gap:8px;
+   padding:20px;
+   background:rgb(214,234,246);
+   color:rgb(24,46,69);
+   border-left:4px solid rgb(253,158,37);
+   border-radius:12px;
+   font-size:15px;
+   line-height:1.6;
+}
+ .bdai-piba-hero-note strong  {
+   color:rgb(24,46,69);
+   font-size:18px;
+   font-weight:800;
+}
+ .bdai-piba-hero-note span  {
+   color:rgb(24,46,69);
+}
+.bdai-piba-hero .bdai-piba-image-frame,.bdai-piba-about .bdai-piba-image-frame,.bdai-piba-involvement .bdai-piba-image-frame,.bdai-piba-membership .bdai-piba-image-frame  {
+   position:relative;
+   display:flex;
+   align-items:center;
+   justify-content:center;
+   width:fit-content;
+   max-width:100%;
+   min-width:0;
+   align-self:center;
+   overflow:visible;
+   background:transparent;
+   color:rgb(24,46,69);
    border-radius:16px;
    box-shadow:18px 18px 0 rgba(253,158,37,.22);
 }
- .bdai-piba-about-media img  {
-   height:320px;
-   object-fit:contain;
-   padding:32px;
+ .bdai-piba-hero .bdai-piba-image-frame::before,.bdai-piba-about .bdai-piba-image-frame::before,.bdai-piba-involvement .bdai-piba-image-frame::before,.bdai-piba-membership .bdai-piba-image-frame::before  {
+   position:absolute;
+   top:18px;
+   right:-18px;
+   bottom:-18px;
+   left:18px;
+   z-index:0;
+   background:rgb(214,234,246);
+   color:rgb(44,110,150);
+   border-radius:16px;
+   content:"";
+}
+ .bdai-piba-hero .bdai-piba-image-frame::after,.bdai-piba-about .bdai-piba-image-frame::after,.bdai-piba-involvement .bdai-piba-image-frame::after,.bdai-piba-membership .bdai-piba-image-frame::after  {
+   position:absolute;
+   inset:0;
+   z-index:1;
    background:rgb(255,255,255);
-   color:rgb(24,46,69);
+   border-radius:16px;
+   content:"";
+}
+.bdai-piba-hero .bdai-piba-image-frame img,.bdai-piba-about .bdai-piba-image-frame img,.bdai-piba-involvement .bdai-piba-image-frame img,.bdai-piba-membership .bdai-piba-image-frame img  {
+   position:relative;
+   z-index:2;
+   display:block;
+   max-width:100%;
+   margin:0 !important;
+   object-fit:fill;
+   border-radius:16px !important;
 }
  .bdai-piba-hero-caption,.bdai-piba-membership-caption  {
    margin:0;
@@ -468,7 +524,7 @@
    font-size:14px;
    line-height:1.55;
 }
- .bdai-piba-about,.bdai-piba-involvement,.bdai-piba-local  {
+ .bdai-piba-about  {
    padding:72px 0;
    background:rgb(255,255,255);
    color:rgb(24,46,69);
@@ -489,14 +545,14 @@
    gap:20px;
    color:rgb(24,46,69);
 }
- .bdai-piba-about-title,.bdai-piba-mission-title,.bdai-piba-involvement-title,.bdai-piba-membership-title,.bdai-piba-faq-title,.bdai-piba-local-title  {
+ .bdai-piba-about-title,.bdai-piba-mission-title,.bdai-piba-involvement-title,.bdai-piba-membership-title,.bdai-piba-faq-title  {
    margin:0;
    color:rgb(24,46,69);
    font-size:42px;
    font-weight:700;
    line-height:1.16;
 }
- .bdai-piba-about-lead,.bdai-piba-mission-intro,.bdai-piba-faq-intro,.bdai-piba-local-intro  {
+ .bdai-piba-about-lead,.bdai-piba-mission-intro,.bdai-piba-faq-intro  {
    margin:0;
    color:rgb(24,46,69);
    font-size:18px;
@@ -542,7 +598,7 @@
  .bdai-piba-about-point:last-child,.bdai-piba-involvement-item:last-child  {
    border-bottom:none;
 }
- .bdai-piba-about-point-icon,.bdai-piba-involvement-icon,.bdai-piba-mission-icon,.bdai-piba-local-card-icon  {
+ .bdai-piba-about-point-icon,.bdai-piba-involvement-icon,.bdai-piba-mission-icon  {
    display:flex;
    align-items:center;
    justify-content:center;
@@ -575,12 +631,12 @@
    font-size:16px;
    line-height:1.7;
 }
- .bdai-piba-mission,.bdai-piba-membership,.bdai-piba-faq  {
+ .bdai-piba-mission  {
    padding:72px 0;
    background:rgb(244,248,250);
    color:rgb(24,46,69);
 }
- .bdai-piba-mission-heading,.bdai-piba-faq-heading,.bdai-piba-local-heading  {
+ .bdai-piba-mission-heading,.bdai-piba-faq-heading  {
    display:flex;
    align-items:center;
    flex-direction:column;
@@ -597,13 +653,21 @@
    gap:24px;
    color:rgb(41,41,41);
 }
- .bdai-piba-mission-card,.bdai-piba-local-card  {
+ .bdai-piba-mission-card-list  {
+   display:grid;
+   grid-template-columns:repeat(4,1fr);
+   gap:24px;
+   min-width:0;
+   color:rgb(41,41,41);
+}
+ .bdai-piba-mission-card  {
    display:flex;
    align-items:flex-start;
    flex-direction:column;
    gap:16px;
    min-width:0;
-   padding:28px;
+   height:100%;
+   padding:28px 24px;
    background:rgb(255,255,255);
    color:rgb(41,41,41);
    border:1px solid rgb(235,238,240);
@@ -611,24 +675,34 @@
    box-shadow:0 2px 8px rgba(0,0,0,.06),0 8px 24px rgba(0,0,0,.06);
    transition:transform .2s ease,box-shadow .2s ease,border-color .2s ease;
 }
- .bdai-piba-mission-card:hover,.bdai-piba-mission-card:focus,.bdai-piba-local-card:hover,.bdai-piba-local-card:focus-within  {
+ .bdai-piba-mission-card:hover,.bdai-piba-mission-card:focus  {
    color:rgb(41,41,41);
    border-color:rgba(253,158,37,.58);
    box-shadow:0 8px 20px rgba(0,0,0,.08),0 16px 32px rgba(253,158,37,.12);
    transform:translateY(-6px);
 }
- .bdai-piba-mission-card h3,.bdai-piba-local-card h3  {
+ .bdai-piba-mission-card h3  {
    margin:0;
    color:rgb(62,62,62);
    font-size:21px;
    font-weight:800;
    line-height:1.3;
 }
- .bdai-piba-mission-card p,.bdai-piba-local-card p  {
+ .bdai-piba-mission-card p  {
    margin:0;
    color:rgb(41,41,41);
    font-size:16px;
    line-height:1.7;
+}
+ .bdai-piba-involvement  {
+   padding:72px 0;
+   background:rgb(255,255,255);
+   color:rgb(24,46,69);
+}
+ .bdai-piba-membership  {
+   padding:72px 0;
+   background:rgb(244,248,250);
+   color:rgb(24,46,69);
 }
  .bdai-piba-membership-detail  {
    display:flex;
@@ -643,53 +717,6 @@
 }
  .bdai-piba-membership-link  {
    margin-right:auto;
-}
- .bdai-piba-local-heading  {
-   margin-bottom:40px;
-}
- .bdai-piba-local-grid  {
-   display:grid;
-   grid-template-columns:1fr 1fr;
-   align-items:stretch;
-   gap:24px;
-   min-width:0;
-   color:rgb(41,41,41);
-}
- .bdai-piba-local-card  {
-   gap:16px;
-}
- .bdai-piba-local-card-icon  {
-   background:rgba(62,126,163,.14);
-   color:rgb(44,110,150);
-}
- .bdai-piba-local-card-detail  {
-   display:flex;
-   width:100%;
-   min-width:0;
-   flex-direction:column;
-   gap:8px;
-   padding-top:12px;
-   color:rgb(41,41,41);
-   border-top:1px solid rgb(235,238,240);
-}
- .bdai-piba-local-card-detail strong  {
-   color:rgb(62,62,62);
-   font-size:14px;
-   font-weight:800;
-   letter-spacing:.04em;
-   text-transform:uppercase;
-}
- .bdai-piba-local-card-detail span,.bdai-piba-local-card-detail a  {
-   color:rgb(41,41,41) !important;
-   font-size:15px;
-   line-height:1.6;
-   word-wrap:break-word;
-}
- .bdai-piba-local-card-detail a:hover,.bdai-piba-local-card-detail a:focus  {
-   color:rgb(44,110,150) !important;
-}
- .bdai-piba-local-card-link  {
-   margin-top:auto;
 }
  .bdai-piba-contact  {
    padding:72px 0;
@@ -771,11 +798,16 @@
  .bdai-piba-contact-link  {
    margin-left:auto;
 }
+ .bdai-piba-faq  {
+   padding:72px 0;
+   background:rgb(244,248,250);
+   color:rgb(24,46,69);
+}
  .bdai-piba-faq-columns  {
    display:grid;
    grid-template-columns:1fr 1fr;
    align-items:start;
-   gap:16px;
+   gap:24px;
    min-width:0;
    color:rgb(41,41,41);
 }
@@ -872,11 +904,15 @@
    display:none;
 }
  .bdai-piba-faq-answer p  {
+   margin:16px 0 0;
    color:rgb(41,41,41);
    font-size:15px;
    line-height:1.7;
 }
- .bdai-piba-mission-heading .bdai-piba-section-eyebrow,.bdai-piba-faq-heading .bdai-piba-section-eyebrow,.bdai-piba-local-heading .bdai-piba-section-eyebrow  {
+ .bdai-piba-mission-heading .bdai-piba-section-eyebrow  {
+   margin:0 auto;
+}
+ .bdai-piba-faq-heading .bdai-piba-section-eyebrow  {
    margin:0 auto;
 }
  @media (max-width:1000px)  {
@@ -890,23 +926,17 @@
   }
 }
  @media (max-width:700px)  {
-   .bdai-piba-mission-grid,.bdai-piba-local-grid,.bdai-piba-faq-columns  {
+   .bdai-piba-mission-grid,.bdai-piba-faq-columns  {
      grid-template-columns:1fr;
   }
-   .bdai-piba-hero,.bdai-piba-about,.bdai-piba-mission,.bdai-piba-involvement,.bdai-piba-membership,.bdai-piba-local,.bdai-piba-contact,.bdai-piba-faq  {
+   .bdai-piba-hero,.bdai-piba-about,.bdai-piba-mission,.bdai-piba-involvement,.bdai-piba-membership,.bdai-piba-contact,.bdai-piba-faq  {
      padding:56px 0;
   }
-   .bdai-piba-about-title,.bdai-piba-mission-title,.bdai-piba-involvement-title,.bdai-piba-membership-title,.bdai-piba-contact-title,.bdai-piba-faq-title,.bdai-piba-local-title  {
+   .bdai-piba-about-title,.bdai-piba-mission-title,.bdai-piba-involvement-title,.bdai-piba-membership-title,.bdai-piba-contact-title,.bdai-piba-faq-title  {
      font-size:34px;
   }
    .bdai-piba-hero-lead  {
      font-size:20px;
-  }
-   .bdai-piba-hero-media img,.bdai-piba-involvement-media img,.bdai-piba-membership-media img  {
-     height:280px;
-  }
-   .bdai-piba-about-media img  {
-     height:240px;
   }
    .bdai-piba-contact-inner  {
      padding:28px;
@@ -922,14 +952,34 @@
   }
 }
  @media (prefers-reduced-motion:reduce)  {
-   .bdai-piba-mission-card,.bdai-piba-local-card,.bdai-piba-faq-card,.bdai-piba-hero-primary,.bdai-piba-hero-secondary,.bdai-piba-membership-link,.bdai-piba-contact-link,.bdai-piba-local-card-link,.bdai-piba-faq-icon,.bdai-piba-faq-trigger  {
+   .bdai-piba-mission-card,.bdai-piba-faq-card,.bdai-piba-hero-primary,.bdai-piba-hero-secondary,.bdai-piba-membership-link,.bdai-piba-contact-link,.bdai-piba-faq-icon,.bdai-piba-faq-trigger  {
      transition:none;
   }
 }
  .froala-table section > .container > * + *  {
-   margin-top: 16px;
+   margin-top:16px;
+
 }
-</style>
+
+@media (max-width:900px){
+   .bdai-piba-hero .bdai-piba-image-frame,
+   .bdai-piba-about .bdai-piba-image-frame,
+   .bdai-piba-involvement .bdai-piba-image-frame,
+   .bdai-piba-membership .bdai-piba-image-frame{
+      align-self:flex-start;
+      max-width:calc(100% - 14px);
+      box-shadow:14px 14px 0 rgba(253,158,37,.22);
+   }
+   .bdai-piba-hero .bdai-piba-image-frame::before,
+   .bdai-piba-about .bdai-piba-image-frame::before,
+   .bdai-piba-involvement .bdai-piba-image-frame::before,
+   .bdai-piba-membership .bdai-piba-image-frame::before{
+      top:14px;
+      right:-14px;
+      bottom:-14px;
+      left:14px;
+   }
+}
 
 <script>
 (function($){
@@ -939,16 +989,16 @@
     return;
   }
 
-  bdaiFaqCards.each(function(bdaiIndex){
+  bdaiFaqCards.each(function(bdaiFaqIndex){
     var bdaiCard = $(this);
-    var bdaiQuestion = bdaiCard.find('.bdai-piba-faq-question').first();
-    var bdaiAnswerText = bdaiCard.find('.bdai-piba-faq-answer').first();
+    var bdaiQuestionHeading = bdaiCard.children('.bdai-piba-faq-question').first();
+    var bdaiAnswerText = bdaiCard.children('.bdai-piba-faq-answer').first();
 
-    if (bdaiCard.find('.bdai-piba-faq-trigger').length || !bdaiQuestion.length || !bdaiAnswerText.length) {
+    if (!bdaiQuestionHeading.length || !bdaiAnswerText.length || bdaiCard.children('.bdai-piba-faq-trigger').length) {
       return;
     }
 
-    var bdaiAnswerId = 'bdai-piba-faq-answer-' + (bdaiIndex + 1);
+    var bdaiAnswerId = 'bdai-piba-faq-answer-' + (bdaiFaqIndex + 1);
     var bdaiTrigger = $('<button type="button"></button>');
     var bdaiIcon = $('<i aria-hidden="true"></i>');
     var bdaiIconWrap = $('<span></span>');
@@ -956,20 +1006,17 @@
     bdaiTrigger.addClass('bdai-piba-faq-trigger');
     bdaiTrigger.attr('aria-expanded', 'false');
     bdaiTrigger.attr('aria-controls', bdaiAnswerId);
-
     bdaiIcon.addClass('bi bi-chevron-down');
     bdaiIconWrap.addClass('bdai-piba-faq-icon');
     bdaiIconWrap.append(bdaiIcon);
-
-    bdaiTrigger.append(bdaiQuestion);
+    bdaiTrigger.append(bdaiQuestionHeading);
     bdaiTrigger.append(bdaiIconWrap);
-
     bdaiAnswerText.attr('id', bdaiAnswerId);
     bdaiAnswerText.prop('hidden', true);
-
     bdaiCard.empty();
     bdaiCard.append(bdaiTrigger);
     bdaiCard.append(bdaiAnswerText);
+    bdaiCard.removeClass('bdai-faq-open');
 
     bdaiTrigger.on('click', function(){
       var bdaiIsOpen = bdaiTrigger.attr('aria-expanded') === 'true';
