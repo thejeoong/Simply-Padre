@@ -6,18 +6,18 @@
 					<div class="container">
 						<div class="bdai-whitecap-hero-layout bdai-reveal">
 							<div class="bdai-whitecap-hero-copy">
-								<div class="bdai-whitecap-hero-eyebrow" style="white-space:nowrap !important;width:fit-content;">Mustang Island</div>
+								<div class="bdai-whitecap-hero-eyebrow" style="white-space:nowrap !important;width:fit-content;">North Padre Island</div>
 
-								<h1 class="bdai-whitecap-hero-title">Mustang Island, Texas: Open Beaches and Coastal Adventure</h1>
+								<h1 class="bdai-whitecap-hero-title">Padre Balli Park, a Relaxed Gulf Coast Escape in Corpus Christi</h1>
 
-								<p class="bdai-whitecap-hero-lead">Mustang Island stretches along the Texas Gulf Coast between Corpus Christi and Port Aransas, offering long sandy beaches, bay waters, dunes, fishing grounds, wildlife habitat, and the relaxed character of a true barrier island.</p>
+								<p class="bdai-whitecap-hero-lead">Padre Balli Park brings together a wide Gulf beach, coastal camping, easy access to the water, and the laid-back atmosphere that makes North Padre Island special.</p>
 
-								<p class="bdai-whitecap-hero-copy-text">Use this local guide to plan a Mustang Island beach day, explore Mustang Island State Park, find fishing and boating experiences, choose nearby accommodations, and discover local businesses and attractions throughout the Coastal Bend.</p>
-								<div class="bdai-whitecap-hero-actions"><a class="bdai-whitecap-hero-primary" href="https://www.simplypadre.com" target="_blank">Explore Mustang Island</a>&nbsp; &nbsp;<a class="bdai-whitecap-hero-secondary" href="https://www.visitcorpuschristi.com/beaches/locations/bob-hall-pier-and-padre-balli-park/" target="_blank">Visit Mustang Island State Park</a></div></div>
+								<p class="bdai-whitecap-hero-copy-text">Use this local guide to plan a beach day, choose a camping option, understand parking and beach rules, prepare for changing conditions, and discover nearby restaurants, accommodations, fishing, boating, and attractions through Simply Padre.</p>
+								<div class="bdai-whitecap-hero-actions"><a class="bdai-whitecap-hero-primary" href="https://www.simplypadre.com" target="_blank">Explore Simply Padre</a> <a class="bdai-whitecap-hero-secondary" href="https://www.visitcorpuschristi.com/beaches/locations/bob-hall-pier-and-padre-balli-park/" target="_blank">Check Visitor Information</a></div></div>
 							<div class="bdai-whitecap-hero-media"><img src="https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_avif,h_597,q_65,w_640/v1/clients/corpuschristitx/DJI_0122_large_1__3d61a127-4007-423e-ba8b-cdaa7798264e.jpg" alt="Aerial view of Padre Balli Park beach and North Padre Island coastline" class="img-rounded fr-fil fr-dib" fetchpriority="high" decoding="async">
 								<br>
 
-								<p class="bdai-whitecap-hero-caption">Mustang Island brings together wide Gulf beaches, shifting dunes, calm bay waters, coastal communities, and easy access to the restaurants, rentals, lodging, and attractions of Port Aransas and Corpus Christi.</p>
+								<p class="bdai-whitecap-hero-caption">Padre Balli Park offers a convenient North Padre Island setting where visitors can move easily between the beach, campground, picnic areas, and nearby coastal attractions.</p>
 							</div></div></div>
 				</section>
 			</td>
@@ -32,33 +32,33 @@
 				<section class="bdai-whitecap-about" id="bdai-whitecap-about">
 					<div class="container">
 						<div class="bdai-whitecap-about-heading bdai-reveal">
-							<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">A Barrier Island in texas coast</div>
+							<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">An Island Coastal Park</div>
 
-							<h2 class="bdai-whitecap-about-title">About Mustang Island</h2>
+							<h2 class="bdai-whitecap-about-title">About Padre Balli Park</h2>
 
-							<p class="bdai-whitecap-about-intro">Mustang Island is a barrier island on the central Texas coast, running along the Gulf of Mexico from the Corpus Christi area north toward Port Aransas. Its beaches, dunes, grasslands, bays, tidal flats, and coastal neighborhoods create a landscape that feels both naturally open and closely connected to local life. Port Aransas occupies the northern end of the island, while Mustang Island State Park protects a substantial section of shoreline farther south.</p>
+							<p class="bdai-whitecap-about-intro">Padre Balli Park is a large coastal park on North Padre Island in Corpus Christi, Texas, managed by Nueces County. The park covers approximately 374.5 acres and includes more than a mile of Gulf beachfront, making it one of the most useful places on the island for combining beach time, camping, fishing, picnicking, and easy access to the surrounding coastal community.</p>
 						</div>
 						<div class="bdai-whitecap-about-grid">
 							<article class="bdai-whitecap-about-card bdai-reveal">
-								<div class="bdai-whitecap-about-icon"><i class="bi bi-compass" aria-hidden="true"></i></div>
-
-								<h3 class="bdai-whitecap-card-title">A Central Texas Gulf Coast Location</h3>
-
-								<p class="bdai-whitecap-card-copy">Mustang Island is reached from Corpus Christi by traveling along North Padre Island and State Highway 361, or from the Port Aransas area by using the island road network and ferry connection. Its position makes it an easy base for exploring the wider Coastal Bend.</p>
-							</article>
-							<article class="bdai-whitecap-about-card bdai-reveal">
 								<div class="bdai-whitecap-about-icon"><i class="bi bi-water" aria-hidden="true"></i></div>
 
-								<h3 class="bdai-whitecap-card-title">Gulf Beaches and Bay Waters</h3>
+								<h3 class="bdai-whitecap-card-title">A Gulf Beach Park Near Corpus Christi</h3>
 
-								<p class="bdai-whitecap-card-copy">The island faces the Gulf of Mexico on its eastern side and Corpus Christi Bay on its western side. Visitors can move from surf, sand, and beach driving to kayaking, shallow-water fishing, birding, and calm-water exploration within the same coastal region.</p>
+								<p class="bdai-whitecap-card-copy">Padre Balli Park is reached from South Padre Island Drive and Padre Balli Park Road on North Padre Island. Its beachfront setting gives locals and visitors a practical place to swim, relax, walk the shoreline, enjoy a picnic, or watch the changing light across the Gulf.</p>
+							</article>
+							<article class="bdai-whitecap-about-card bdai-reveal">
+								<div class="bdai-whitecap-about-icon"><i class="bi bi-car-front" aria-hidden="true"></i></div>
+
+								<h3 class="bdai-whitecap-card-title">A Convenient Base for Island Exploring</h3>
+
+								<p class="bdai-whitecap-card-copy">The park sits close to Access Roads 4, 5, and 6, the Padre Balli Beach area, Bob Hall Pier activities, local restaurants, lodging, vacation rentals, and outdoor businesses. It works well as a short beach stop, a full-day outing, or a starting point for a longer North Padre Island visit.</p>
 							</article>
 							<article class="bdai-whitecap-about-card bdai-reveal">
 								<div class="bdai-whitecap-about-icon"><i class="bi bi-tree" aria-hidden="true"></i></div>
 
-								<h3 class="bdai-whitecap-card-title">Nature with a Local Community Feel</h3>
+								<h3 class="bdai-whitecap-card-title">Open Space for Locals and Visitors</h3>
 
-								<p class="bdai-whitecap-card-copy">Mustang Island combines protected shoreline and wildlife habitat with the restaurants, homes, vacation rentals, outfitters, marinas, and locally owned businesses of Port Aransas and the surrounding communities. That mix gives the island a welcoming rhythm for both residents and visitors.</p>
+								<p class="bdai-whitecap-card-copy">The combination of broad beach access, campsites, coastal views, fishing areas, and nearby services gives Padre Balli Park a welcoming community feel. Visitors can enjoy the shoreline at their own pace while still remaining close to the businesses and conveniences of North Padre Island.</p>
 							</article>
 						</div></div>
 				</section>
@@ -75,11 +75,11 @@
 					<div class="container">
 						<div class="bdai-whitecap-things-layout">
 							<div class="bdai-whitecap-things-copy bdai-reveal">
-								<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Make the Most of Island</div>
+								<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Make the Most of the Coast</div>
 
-								<h2 class="bdai-whitecap-things-title">Things to Do on Mustang Island</h2>
+								<h2 class="bdai-whitecap-things-title">Things to Do at Padre Balli Park</h2>
 
-								<p class="bdai-whitecap-things-lead">Mustang Island makes it easy to build a full day around the water, the shoreline, and the surrounding community. Choose a quiet morning on the sand, an active afternoon on the bay, or a longer stay that combines outdoor recreation with Port Aransas dining and local experiences.</p>
+								<p class="bdai-whitecap-things-lead">Padre Balli Park is an easy place to slow down and enjoy the coast. Plan around the weather, surf, tides, beach conditions, and the supplies you bring with you, then choose from simple outdoor activities that work for a quick visit or a full weekend.</p>
 								<div class="bdai-whitecap-things-list">
 									<div class="bdai-whitecap-things-item">
 										<div class="bdai-whitecap-things-icon"><i class="bi bi-umbrella" aria-hidden="true"></i></div>
@@ -87,68 +87,68 @@
 
 											<h3 class="bdai-whitecap-things-item-title">Swim and Relax on the Beach</h3>
 
-											<p class="bdai-whitecap-things-item-text">Spend the day in the sun, cool off in the Gulf when conditions are suitable, build sandcastles, read beside the water, or enjoy a sunset walk. Check surf and rip-current information before swimming and supervise children closely.</p>
+											<p class="bdai-whitecap-things-item-text">Set up near the shoreline, enjoy the breeze, wade or swim when conditions are appropriate, and spend an unhurried afternoon on Padre Balli Beach. Check the surf before entering the water and supervise children closely.</p>
 										</div></div>
 									<div class="bdai-whitecap-things-item">
-										<div class="bdai-whitecap-things-icon"><i class="bi bi-water" aria-hidden="true"></i></div>
+										<div class="bdai-whitecap-things-icon"><i class="bi bi-fish" aria-hidden="true"></i></div>
 										<div class="bdai-whitecap-things-item-copy">
 
-											<h3 class="bdai-whitecap-things-item-title">Fish from the Surf or Bay</h3>
+											<h3 class="bdai-whitecap-things-item-title">Fish from the Shore</h3>
 
-											<p class="bdai-whitecap-things-item-text">Mustang Island fishing includes surf fishing along the Gulf, shallow-water fishing in Corpus Christi Bay, and guided trips departing from nearby marinas. Confirm current Texas regulations, license requirements, seasons, size limits, and local access conditions before casting a line.</p>
+											<p class="bdai-whitecap-things-item-text">Padre Balli Park provides access to fishing areas along the coast, and nearby Bob Hall Pier information adds another option when pier fishing is available. Bring suitable equipment and confirm current Texas licensing and local regulations before fishing.</p>
 										</div></div>
 									<div class="bdai-whitecap-things-item">
-										<div class="bdai-whitecap-things-icon"><i class="bi bi-wind" aria-hidden="true"></i></div>
+										<div class="bdai-whitecap-things-icon"><i class="bi bi-house" aria-hidden="true"></i></div>
 										<div class="bdai-whitecap-things-item-copy">
 
-											<h3 class="bdai-whitecap-things-item-title">Surf, Paddle, and Play on the Water</h3>
+											<h3 class="bdai-whitecap-things-item-title">Camp Beside the Coast</h3>
 
-											<p class="bdai-whitecap-things-item-text">Surfing, boogie boarding, stand-up paddleboarding, kayaking, and wind-based activities are popular along the island and nearby bay waters. Match your route and equipment to the wind, tides, waves, weather, and experience level of your group.</p>
-										</div></div>
-									<div class="bdai-whitecap-things-item">
-										<div class="bdai-whitecap-things-icon"><i class="bi bi-life-preserver" aria-hidden="true"></i></div>
-										<div class="bdai-whitecap-things-item-copy">
-
-											<h3 class="bdai-whitecap-things-item-title"><strong>Boat, Sail, and Book a Coastal Guide</strong></h3>
-
-											<p class="bdai-whitecap-things-item-text">Explore Mustang Island by joining a fishing charter, booking a dolphin or wildlife trip, renting a kayak, or launching on the bay where access allows. Port Aransas and nearby marinas provide services for visitors who want a guided or equipment-supported experience.</p>
-										</div></div>
-									<div class="bdai-whitecap-things-item">
-										<div class="bdai-whitecap-things-icon"><i class="bi bi-moon-stars" aria-hidden="true"></i></div>
-										<div class="bdai-whitecap-things-item-copy">
-
-											<h3 class="bdai-whitecap-things-item-title">Camp Near the Coast</h3>
-
-											<p class="bdai-whitecap-things-item-text">Mustang Island State Park offers water-and-electric campsites, primitive drive-up beach sites, and tent camping on the beach. Developed campsites sit behind the dunes, while primitive areas have fewer services and can be affected by weather, tides, and beach conditions.</p>
-										</div></div>
-									<div class="bdai-whitecap-things-item">
-										<div class="bdai-whitecap-things-icon"><i class="bi bi-binoculars" aria-hidden="true"></i></div>
-										<div class="bdai-whitecap-things-item-copy">
-
-											<h3 class="bdai-whitecap-things-item-title">Watch Birds and Coastal Wildlife</h3>
-
-											<p class="bdai-whitecap-things-item-text">Beaches, dunes, wetlands, bay shorelines, and open water attract shorebirds, wading birds, migratory species, and other coastal wildlife. Spring and fall migrations can be especially rewarding, and visitors should keep distance from animals and protected habitat.</p>
+											<p class="bdai-whitecap-things-item-text">Stay in an RV site with utilities or choose a tent camping area, depending on availability and your preferred level of comfort. The campground places visitors within walking distance of the Gulf and provides a convenient base for exploring North Padre Island.</p>
 										</div></div>
 									<div class="bdai-whitecap-things-item">
 										<div class="bdai-whitecap-things-icon"><i class="bi bi-person-walking" aria-hidden="true"></i></div>
 										<div class="bdai-whitecap-things-item-copy">
 
-											<h3 class="bdai-whitecap-things-item-title">Walk, Beachcomb, and Sightsee</h3>
+											<h3 class="bdai-whitecap-things-item-title">Walk and Sightsee</h3>
 
-											<p class="bdai-whitecap-things-item-text">Walk the shoreline, search for shells, explore the dunes from permitted access points, visit the Port Aransas area, or follow a bay-side nature route. Leave shells, plants, driftwood, fishing line, and wildlife undisturbed wherever rules require it.</p>
+											<p class="bdai-whitecap-things-item-text">Walk the beach, look for shells, watch the waves, and follow the shoreline as conditions allow. The park is also a useful starting point for exploring nearby access roads, the island&rsquo;s coastal views, and the broader Corpus Christi beach community.</p>
+										</div></div>
+									<div class="bdai-whitecap-things-item">
+										<div class="bdai-whitecap-things-icon"><i class="bi bi-cup-hot" aria-hidden="true"></i></div>
+										<div class="bdai-whitecap-things-item-copy">
+
+											<h3 class="bdai-whitecap-things-item-title">Enjoy a Picnic Outdoors</h3>
+
+											<p class="bdai-whitecap-things-item-text">Bring a meal, snacks, drinks, shade, and a blanket for a relaxed coastal picnic. Keep food and trash secured, use available facilities responsibly, and pack out anything that is not collected in a park trash container.</p>
+										</div></div>
+									<div class="bdai-whitecap-things-item">
+										<div class="bdai-whitecap-things-icon"><i class="bi bi-binoculars" aria-hidden="true"></i></div>
+										<div class="bdai-whitecap-things-item-copy">
+
+											<h3 class="bdai-whitecap-things-item-title">Watch Coastal Wildlife</h3>
+
+											<p class="bdai-whitecap-things-item-text">Look for shorebirds, seabirds, dolphins offshore, and the changing wildlife activity that comes with wind, tide, and season. Observe from a respectful distance and never disturb animals, nests, or protected habitat.</p>
 										</div></div>
 									<div class="bdai-whitecap-things-item">
 										<div class="bdai-whitecap-things-icon"><i class="bi bi-camera" aria-hidden="true"></i></div>
 										<div class="bdai-whitecap-things-item-copy">
 
-											<h3 class="bdai-whitecap-things-item-title">Photograph the Island</h3>
+											<h3 class="bdai-whitecap-things-item-title">Photograph the Coast</h3>
 
-											<p class="bdai-whitecap-things-item-text">Capture sunrise surf, beach tracks, dunes, sea oats, fishing boats, bay reflections, shorebirds, piers, and evening light. Give nesting areas and wildlife plenty of space, and use the changing tide and sky to create a different view of Mustang Island each time you visit.</p>
+											<p class="bdai-whitecap-things-item-text">Capture sunrise colors, beach textures, waves, dunes, campground scenes, seabirds, fishing moments, and wide North Padre Island horizons. Early morning and evening light can add depth to photographs without requiring a long hike.</p>
+										</div></div>
+									<div class="bdai-whitecap-things-item">
+										<div class="bdai-whitecap-things-icon"><i class="bi bi-compass" aria-hidden="true"></i></div>
+										<div class="bdai-whitecap-things-item-copy">
+
+											<h3 class="bdai-whitecap-things-item-title">Explore Nearby Island Activities</h3>
+
+											<p class="bdai-whitecap-things-item-text">Use Padre Balli Park as a starting point for nearby boating, fishing, beach rentals, restaurants, lodging, vacation rentals, and other things to do on North Padre Island. Local conditions and business schedules can change, so check details before heading out.</p>
 										</div></div></div></div>
 							<div class="bdai-whitecap-things-media bdai-reveal"><img src="https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,h_375,q_75,w_500/v1/clients/corpuschristitx/IMG_8753_a60863ba-128a-4021-9b47-925e0ac021ce.jpg" alt="Padre Balli Park Gulf beach and coastal recreation area" class="img-rounded fr-fil fr-dib">
 								<br>
 
-								<p class="bdai-whitecap-things-note">Bring drinking water, sun protection, food, suitable footwear, first-aid supplies, and layers for changing wind. Services vary by beach area, and remote shoreline travel requires more preparation than a visit to the developed Port Aransas beach zone.</p>
+								<p class="bdai-whitecap-things-note">Pack drinking water, sunscreen, a hat, beach footwear, food, first-aid supplies, and layers for wind. Beach conditions, services, and access can vary, so check current local information before traveling.</p>
 							</div></div></div>
 				</section>
 			</td>
@@ -170,75 +170,67 @@
 								</p>
 								<div class="bdai-whitecap-before-badge"><strong>Plan for a coastal park, not a full-service resort</strong> <span>Padre Balli Park offers beach access and camping close to North Padre Island services, but visitors should still arrive prepared with water, food, sun protection, weather-appropriate clothing, and any supplies needed for their group.</span></div></div>
 							<div class="bdai-whitecap-before-copy bdai-reveal">
-								<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">What to Know Before You Go</div>
+								<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Park and Beach Information</div>
 
-								<h2 class="bdai-whitecap-before-title">Plan a Safer Mustang Island Visit</h2>
+								<h2 class="bdai-whitecap-before-title">Prepare for a Comfortable Padre Balli Park Visit</h2>
 
-								<p class="bdai-whitecap-before-lead">Mustang Island includes city-managed beaches, state park land, residential and vacation areas, bay access points, and more remote stretches of shoreline. Rules, fees, facilities, and road conditions can vary by location, so use the correct local guidance for the part of the island you plan to visit.</p>
+								<p class="bdai-whitecap-before-lead">Padre Balli Park is useful because it combines a Gulf beach, camping, facilities, and nearby island services in one coastal setting. The details below reflect available visitor information, but access, availability, rules, prices, and operating conditions can change. Confirm current information with Nueces County Coastal Parks or local beach operations before your visit.</p>
 								<div class="bdai-whitecap-before-details">
 									<div class="bdai-whitecap-before-detail">
 										<div class="bdai-whitecap-before-detail-icon"><i class="bi bi-sign-turn-right" aria-hidden="true"></i></div>
 										<div class="bdai-whitecap-before-detail-copy">
 
-											<h3 class="bdai-whitecap-before-detail-title">Getting to Mustang Island</h3>
-
-											<p class="bdai-whitecap-before-detail-text">From Corpus Christi, follow the route toward North Padre Island and continue along State Highway 361 toward Mustang Island State Park and Port Aransas. Port Aransas can also be reached by the ferry system from the mainland. Allow additional time during busy weekends, holidays, spring break, and summer travel.</p>
-										</div></div>
-									<div class="bdai-whitecap-before-detail">
-										<div class="bdai-whitecap-before-detail-icon"><i class="bi bi-car-front" aria-hidden="true"></i></div>
-										<div class="bdai-whitecap-before-detail-copy">
-
 											<h3 class="bdai-whitecap-before-detail-title">Beach Access and Parking</h3>
 
-											<p class="bdai-whitecap-before-detail-text">Access points and parking rules depend on whether you are visiting a Port Aransas city beach, Mustang Island State Park, or another island access area. Port Aransas requires a beach parking permit for vehicles parked on the beach in its managed beach zone. Do not assume that a city beach permit replaces state park admission.</p>
+											<p class="bdai-whitecap-before-detail-text">Padre Balli Park is accessible from Padre Balli Park Road, with additional beach access near Access Roads 4, 5, and 6. Parking permits are required to park on the beach and may be purchased from the Padre Balli Park Office, on the beach, or through listed local sales locations. Beach conditions can affect where vehicles can safely travel.</p>
 										</div></div>
 									<div class="bdai-whitecap-before-detail">
-										<div class="bdai-whitecap-before-detail-icon"><i class="bi bi-ticket-perforated" aria-hidden="true"></i></div>
+										<div class="bdai-whitecap-before-detail-icon"><i class="bi bi-house-heart" aria-hidden="true"></i></div>
 										<div class="bdai-whitecap-before-detail-copy">
 
-											<h3 class="bdai-whitecap-before-detail-title">Admission, Permits, and Fees</h3>
+											<h3 class="bdai-whitecap-before-detail-title">Camping Options</h3>
 
-											<p class="bdai-whitecap-before-detail-text">Available visitor information identifies bathrooms, a bathhouse, shower facilities, WiFi for campers, a park office, trash services, and campground amenities. Services may be distributed across the park, so campers should check the current facility information and bring essentials rather than assuming every service is available at every site.</p>
+											<p class="bdai-whitecap-before-detail-text">The park provides paved RV campsites, full-hookup RV camping, and hardtop tent areas with water and electrical hookups. Nueces County Coastal Parks lists campsite information and reservations through the park office. Current availability, rates, stay limits, and reservation requirements should be confirmed before arrival.</p>
 										</div></div>
 									<div class="bdai-whitecap-before-detail">
 										<div class="bdai-whitecap-before-detail-icon"><i class="bi bi-building" aria-hidden="true"></i></div>
 										<div class="bdai-whitecap-before-detail-copy">
 
-											<h3 class="bdai-whitecap-before-detail-title">Restrooms and Facilities</h3>
+											<h3 class="bdai-whitecap-before-detail-title">Restrooms and Park Facilities</h3>
 
-											<p class="bdai-whitecap-before-detail-text">Mustang Island State Park provides full restrooms and hot-water showers near the water-and-electric campground, portable toilets along portions of the beach, picnic areas, a park store, and scheduled ranger programs. Facilities outside the park vary by beach access point, so bring water and supplies when visiting a less developed area.</p>
+											<p class="bdai-whitecap-before-detail-text">Available visitor information identifies bathrooms, a bathhouse, shower facilities, WiFi for campers, a park office, trash services, and campground amenities. Services may be distributed across the park, so campers should check the current facility information and bring essentials rather than assuming every service is available at every site.</p>
+										</div></div>
+									<div class="bdai-whitecap-before-detail">
+										<div class="bdai-whitecap-before-detail-icon"><i class="bi bi-cup-straw" aria-hidden="true"></i></div>
+										<div class="bdai-whitecap-before-detail-copy">
+
+											<h3 class="bdai-whitecap-before-detail-title">Picnic Areas and Day Visits</h3>
+
+											<p class="bdai-whitecap-before-detail-text">Padre Balli Park supports relaxed day visits along the beach and around the park&rsquo;s developed areas. Bring your own picnic supplies, shade, water, and waste bags, and use designated facilities when available. Keep the shoreline and campground clean for the next family, angler, camper, or local visitor.</p>
 										</div></div>
 									<div class="bdai-whitecap-before-detail">
 										<div class="bdai-whitecap-before-detail-icon"><i class="bi bi-universal-access" aria-hidden="true"></i></div>
 										<div class="bdai-whitecap-before-detail-copy">
 
-											<h3 class="bdai-whitecap-before-detail-title">Accessibility and Beach Conditions</h3>
+											<h3 class="bdai-whitecap-before-detail-title">Accessibility</h3>
 
-											<p class="bdai-whitecap-before-detail-text">Mustang Island State Park currently lists two beach wheelchairs available to borrow at no charge, subject to availability. Sand, tides, weather, and distance from facilities can affect access. Contact the destination directly for current conditions and the most useful route for your needs.</p>
-										</div></div>
-									<div class="bdai-whitecap-before-detail">
-										<div class="bdai-whitecap-before-detail-icon"><i class="bi bi-moon-stars" aria-hidden="true"></i></div>
-										<div class="bdai-whitecap-before-detail-copy">
-
-											<h3 class="bdai-whitecap-before-detail-title">Camping and Reservations</h3>
-
-											<p class="bdai-whitecap-before-detail-text">The state park has 48 water-and-electric campsites, 50 primitive drive-up sites, and tent camping on the beach. Developed campsites are behind the dunes and near restrooms and showers, while primitive beach camping has no hookups. Reservations are strongly recommended because the park can reach capacity.</p>
+											<p class="bdai-whitecap-before-detail-text">Visitor information identifies ADA-accessible amenities at Padre Balli Park and complimentary beach wheelchairs available through the Padre Balli Park Office. Availability and reservation procedures can change, so contact the office before visiting if your group needs a beach wheelchair or specific accessible facility information.</p>
 										</div></div>
 									<div class="bdai-whitecap-before-detail">
 										<div class="bdai-whitecap-before-detail-icon"><i class="bi bi-heart-pulse" aria-hidden="true"></i></div>
 										<div class="bdai-whitecap-before-detail-copy">
 
-											<h3 class="bdai-whitecap-before-detail-title">Pets, Swimming, and Safety</h3>
+											<h3 class="bdai-whitecap-before-detail-title">Pets and Beach Safety</h3>
 
-											<p class="bdai-whitecap-before-detail-text">Dogs are allowed in many Mustang Island areas, but leash requirements and location-specific rules apply. Confirm the rules for the exact beach or park entrance before arriving. Check rip-current guidance, water quality information, heat, wind, storms, and available lifeguard coverage before entering the Gulf.</p>
+											<p class="bdai-whitecap-before-detail-text">Dogs are allowed in the beach area but must remain on a leash. Swimmers should check surf conditions, watch for rip currents, and supervise children. Mobile lifeguard patrols are reported during the summer season, but visitors should not assume constant lifeguard coverage and should call 911 in an emergency.</p>
 										</div></div>
 									<div class="bdai-whitecap-before-detail">
 										<div class="bdai-whitecap-before-detail-icon"><i class="bi bi-shield-check" aria-hidden="true"></i></div>
 										<div class="bdai-whitecap-before-detail-copy">
 
-											<h3 class="bdai-whitecap-before-detail-title">Fishing and Conservation Rules</h3>
+											<h3 class="bdai-whitecap-before-detail-title">Beach Rules and Regulations</h3>
 
-											<p class="bdai-whitecap-before-detail-text">Carry the required Texas fishing license when applicable and follow current Texas Parks and Wildlife regulations. Stay off dunes and vegetation, keep trash secured, remove fishing line, respect wildlife and nesting areas, follow posted closures, and never drive farther onto the beach than conditions safely allow.</p>
+											<p class="bdai-whitecap-before-detail-text">Beach parking permits are required for vehicles parked on the beach. Beach camping is not allowed between Access Roads 4 and 6, while beach camping is reported south of Access Road 6 near Mile Marker 235. Campfires are permitted south of Access Road 6 when allowed by current rules and must be no larger than 3 by 3 by 3 feet, fully extinguished, and followed by filling the hole. Pallets and building materials may not be used in fires.</p>
 										</div></div></div></div></div></div>
 				</section>
 			</td>
@@ -253,40 +245,40 @@
 				<section class="bdai-whitecap-rules" id="bdai-whitecap-rules">
 					<div class="container">
 						<div class="bdai-whitecap-rules-heading bdai-reveal">
-							<div class="bdai-whitecap-section-eyebrow" style="width:fit-content;white-space:nowrap !important;text-align:center;">Respect the Texas Coast</div>
+							<div class="bdai-whitecap-section-eyebrow" style="width:fit-content;white-space:nowrap !important;text-align:center;">Respect the Coast</div>
 
-							<h2 class="bdai-whitecap-rules-title" style="text-align:left;">Simple Rules for a Better Island Visit</h2>
+							<h2 class="bdai-whitecap-rules-title" style="text-align:left;">Simple Rules for a Better Padre Balli Park Visit</h2>
 
-							<p class="bdai-whitecap-rules-intro" style="text-align:left;">Mustang Island is shared by swimmers, anglers, campers, paddlers, beach drivers, birders, families, residents, and wildlife. A few thoughtful choices help protect the dunes, beaches, bay waters, and community that make the island special.</p>
+							<p class="bdai-whitecap-rules-intro" style="text-align:left;">Padre Balli Park is shared by campers, swimmers, anglers, families, beach drivers, local residents, wildlife, and visitors. A few thoughtful habits help protect the beach while keeping the park enjoyable for everyone.</p>
 						</div>
 						<div class="bdai-whitecap-rules-grid">
 							<article class="bdai-whitecap-rule-card bdai-reveal">
 								<div class="bdai-whitecap-rule-number">01</div>
 
-								<h3 class="bdai-whitecap-rule-title">Leave the Beach Clean</h3>
+								<h3 class="bdai-whitecap-rule-title">Park Legally</h3>
 
-								<p class="bdai-whitecap-rule-copy">Pack out trash, secure food, collect fishing line, extinguish fires with water where permitted, and leave shells and natural features undisturbed.</p>
+								<p class="bdai-whitecap-rule-copy">Purchase the required beach parking permit before parking on the beach, follow posted access guidance, and avoid driving farther than current sand, tide, weather, and vehicle conditions safely allow.</p>
 							</article>
 							<article class="bdai-whitecap-rule-card bdai-reveal">
 								<div class="bdai-whitecap-rule-number">02</div>
 
-								<h3 class="bdai-whitecap-rule-title">Protect Dunes and Wildlife</h3>
+								<h3 class="bdai-whitecap-rule-title">Keep Dogs Leashed</h3>
 
-								<p class="bdai-whitecap-rule-copy">Use designated access routes, stay off dunes and vegetation, and keep a respectful distance from birds, nests, sea turtles, and other wildlife.</p>
+								<p class="bdai-whitecap-rule-copy">Dogs are allowed on the beach with a leash. Keep pets under control, clean up after them, and prevent them from disturbing people, birds, nests, or other wildlife.</p>
 							</article>
 							<article class="bdai-whitecap-rule-card bdai-reveal">
 								<div class="bdai-whitecap-rule-number">03</div>
 
-								<h3 class="bdai-whitecap-rule-title">Follow the Local Rules</h3>
+								<h3 class="bdai-whitecap-rule-title">Use Fires Responsibly</h3>
 
-								<p class="bdai-whitecap-rule-copy">Confirm the correct permit, admission fee, leash requirement, camping rule, fishing regulation, and beach restriction for the exact area you plan to visit.</p>
+								<p class="bdai-whitecap-rule-copy">Where current rules allow a fire south of Access Road 6, keep it within the stated size limit, fully extinguish it, fill the hole, and never burn pallets or building materials.</p>
 							</article>
 							<article class="bdai-whitecap-rule-card bdai-reveal">
 								<div class="bdai-whitecap-rule-number">04</div>
 
-								<h3 class="bdai-whitecap-rule-title">Travel for the Conditions</h3>
+								<h3 class="bdai-whitecap-rule-title">Leave No Trace</h3>
 
-								<p class="bdai-whitecap-rule-copy">Check tides, wind, surf, flooding, storms, and sand conditions before driving, launching, swimming, or setting up camp.</p>
+								<p class="bdai-whitecap-rule-copy">Secure food and trash, use available trash containers, collect fishing line, pack out waste, and leave shells, plants, driftwood, dunes, and wildlife habitat undisturbed.</p>
 							</article>
 						</div></div>
 				</section>
@@ -303,14 +295,14 @@
 					<div class="container">
 						<div class="bdai-whitecap-gallery-layout">
 							<div class="bdai-whitecap-gallery-copy bdai-reveal">
-								<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Scenes from Mustang Island</div>
+								<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Scenes From the Island</div>
 
-								<h2 class="bdai-whitecap-gallery-title">Mustang Island Photo Journal</h2>
+								<h2 class="bdai-whitecap-gallery-title">Padre Balli Park Photo Journal</h2>
 
-								<p class="bdai-whitecap-gallery-intro">The island changes with every tide, wind shift, season, and hour of light. Gulf surf, open sand, dunes, bay water, fishing boats, campsites, and shorebirds create a coastal story that feels expansive while remaining connected to the communities of Port Aransas and Corpus Christi.</p>
+								<p class="bdai-whitecap-gallery-intro">Padre Balli Park has the kind of coastal scenery that rewards a slow visit: broad sand, Gulf water, low dunes, campground views, beach access roads, and long horizons shaped by sun, wind, and tide.</p>
 
-								<p class="bdai-whitecap-gallery-copy-text">Bring a camera for beach sunrise, dune grasses, shallow-water fishing, paddling routes, birdwatching, shoreline textures, beach driving, and evening skies. Photograph responsibly by keeping wildlife space and staying outside marked nesting or protected areas.</p>
-								<div class="bdai-whitecap-gallery-tip"><i class="bi bi-camera" aria-hidden="true"></i> <span>For stronger Mustang Island photographs, combine the beach, water, sky, dunes, and human-scale details such as footprints, fishing gear, paddles, boats, or a distant vehicle.</span></div></div>
+								<p class="bdai-whitecap-gallery-copy-text">Bring a camera for morning beach walks, family picnic moments, fishing scenes, camper life, seabirds, sunset colors, and the shoreline around North Padre Island. Photograph responsibly by keeping wildlife space and following current beach and park guidance.</p>
+								<div class="bdai-whitecap-gallery-tip"><i class="bi bi-camera" aria-hidden="true"></i> <span>For stronger coastal photographs, combine the beach, sky, water, campground details, and human-scale elements such as a chair, fishing rod, tent, or distant vehicle.</span></div></div>
 							<div class="bdai-whitecap-gallery-visual bdai-reveal">
 								<div class="bdai-collage-grid">
 									<div class="bdai-collage-tile"><img src="https://www.corpuschristitx.gov/media/3gmjdicj/padre-balli-park-img.png" alt="Padre Balli Park beach and coastal landscape" class="img-rounded fr-fil fr-dib" loading="lazy" decoding="async"></div>
@@ -330,37 +322,37 @@
 				<section class="bdai-whitecap-nearby" id="bdai-whitecap-nearby">
 					<div class="container">
 						<div class="bdai-whitecap-nearby-heading bdai-reveal">
-							<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Keep Exploring the Coast</div>
+							<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Keep Exploring the Island</div>
 
-							<h2 class="bdai-whitecap-nearby-title">Nearby Places to Add to the Trip</h2>
+							<h2 class="bdai-whitecap-nearby-title">Nearby Places to Add to the Day</h2>
 
-							<p class="bdai-whitecap-nearby-intro">Mustang Island is a natural starting point for a longer Coastal Bend itinerary. Pair time on the beach with Port Aransas restaurants and lodging, fishing and boating services, nature preserves, nearby parks, and the attractions of Corpus Christi.</p>
+							<p class="bdai-whitecap-nearby-intro">Padre Balli Park is close to many of the places that make a Corpus Christi beach trip easy to extend. Pair a morning at the park with a local meal, a nearby stay, outdoor recreation, or another coastal attraction.</p>
 						</div>
 						<div class="bdai-whitecap-nearby-grid">
 							<article class="bdai-whitecap-nearby-card bdai-reveal">
 								<div class="bdai-whitecap-nearby-icon"><i class="bi bi-shop" aria-hidden="true"></i></div>
 
-								<h3 class="bdai-whitecap-nearby-card-title">Port Aransas Restaurants and Shops</h3>
+								<h3 class="bdai-whitecap-nearby-card-title">Restaurants and Coffee</h3>
 
-								<p class="bdai-whitecap-nearby-card-copy">Explore seafood restaurants, caf&eacute;s, casual dining, beach shops, galleries, and locally owned businesses in Port Aransas before or after a Mustang Island beach day.</p><a class="bdai-whitecap-nearby-link" href="https://www.simplypadre.com" target="_blank">Explore Local Businesses</a></article>
+								<p class="bdai-whitecap-nearby-card-copy">Nearby food options listed for the Padre Balli Beach area include Padre Island Burger Company, Doc&rsquo;s Seafood &amp; Steaks, Snoopy&rsquo;s Pier, and Island Joe&rsquo;s Coffee &amp; Gallery. Check current hours and availability before visiting.</p><a class="bdai-whitecap-nearby-link" href="https://www.simplypadre.com" target="_blank">Find Local Businesses</a></article>
 							<article class="bdai-whitecap-nearby-card bdai-reveal">
 								<div class="bdai-whitecap-nearby-icon"><i class="bi bi-house-heart" aria-hidden="true"></i></div>
 
-								<h3 class="bdai-whitecap-nearby-card-title">Hotels, Resorts, and Vacation Rentals</h3>
+								<h3 class="bdai-whitecap-nearby-card-title">Hotels and Vacation Rentals</h3>
 
-								<p class="bdai-whitecap-nearby-card-copy">Find hotels, resorts, vacation homes, condos, RV parks, and other accommodations around Port Aransas, North Padre Island, and the wider Mustang Island area.</p><a class="bdai-whitecap-nearby-link" href="https://www.simplypadre.com" target="_blank">Find a Place to Stay</a></article>
+								<p class="bdai-whitecap-nearby-card-copy">Lodging options identified near Padre Balli Park include Lively Beach, Hawthorn Suites, Island House, Gulfstream Condos, Holiday Inn Express, Padre Escapes Vacation Rentals, El Constante, and Aruba Bay Resort.</p><a class="bdai-whitecap-nearby-link" href="https://www.simplypadre.com" target="_blank">Explore Places to Stay</a></article>
 							<article class="bdai-whitecap-nearby-card bdai-reveal">
 								<div class="bdai-whitecap-nearby-icon"><i class="bi bi-bicycle" aria-hidden="true"></i></div>
 
 								<h3 class="bdai-whitecap-nearby-card-title">Fishing and Boating Services</h3>
 
-								<p class="bdai-whitecap-nearby-card-copy">Look for local fishing guides, offshore charters, bay trips, kayak rentals, paddle equipment, boat services, marinas, and coastal outfitters serving Mustang Island.</p><a class="bdai-whitecap-nearby-link" href="https://www.simplypadre.com" target="_blank">Browse Island Activities</a></article>
+								<p class="bdai-whitecap-nearby-card-copy">The surrounding North Padre Island area supports fishing, pier fishing information, boating, beach equipment, water activities, and other outdoor services. Browse local providers to find current rentals, guides, and trip details.</p><a class="bdai-whitecap-nearby-link" href="https://www.simplypadre.com" target="_blank">Browse Island Activities</a></article>
 							<article class="bdai-whitecap-nearby-card bdai-reveal">
 								<div class="bdai-whitecap-nearby-icon"><i class="bi bi-water" aria-hidden="true"></i></div>
 
-								<h3 class="bdai-whitecap-nearby-card-title">Parks, Nature Areas, and Attractions</h3>
+								<h3 class="bdai-whitecap-nearby-card-title">Beaches and Coastal Attractions</h3>
 
-								<p class="bdai-whitecap-nearby-card-copy">Continue to Mustang Island State Park, Port Aransas nature preserves, nearby beaches, the Leonabelle Turnbull Birding Center, Corpus Christi attractions, and other Coastal Bend destinations.</p><a class="bdai-whitecap-nearby-link" href="https://www.simplypadre.com" target="_blank">Explore Nearby Places</a></article>
+								<p class="bdai-whitecap-nearby-card-copy">Continue along the North Padre Island shoreline, explore nearby beach access areas, learn about current Bob Hall Pier developments, or plan another Corpus Christi activity such as a sea turtle release when programs are available.</p><a class="bdai-whitecap-nearby-link" href="https://www.simplypadre.com" target="_blank">Explore Nearby Places</a></article>
 						</div></div>
 				</section>
 			</td>
@@ -375,72 +367,78 @@
 				<section class="bdai-whitecap-faq" id="bdai-whitecap-faq">
 					<div class="container">
 						<div class="bdai-whitecap-faq-heading bdai-reveal">
-							<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Mustang Island Questions</div>
+							<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Padre Balli Park Questions</div>
 
 							<h2 class="bdai-whitecap-faq-title">Helpful Answers Before Your Visit</h2>
 
-							<p class="bdai-whitecap-faq-intro">Mustang Island includes several different beach, park, and community areas. Confirm the latest information with the destination you are visiting because fees, facilities, permits, pet rules, and conditions can vary.</p>
+							<p class="bdai-whitecap-faq-intro">Padre Balli Park is a county-managed coastal park with Gulf beach access, camping, nearby services, and changing beach conditions. Confirm current details before traveling.</p>
 						</div>
 						<div class="bdai-whitecap-faq-grid">
 							<article class="bdai-whitecap-faq-card bdai-reveal">
 
-								<h3 class="bdai-whitecap-faq-question">Where is Mustang Island?</h3>
+								<h3 class="bdai-whitecap-faq-question">Where is Padre Balli Park?</h3>
 
-								<p class="bdai-whitecap-faq-answer">Mustang Island is a barrier island on the central Texas Gulf Coast near Corpus Christi and Port Aransas. It faces the Gulf of Mexico on the east and Corpus Christi Bay on the west. Port Aransas is located at the northern end of the island, while Mustang Island State Park is farther south along State Highway 361.</p>
+								<p class="bdai-whitecap-faq-answer">Padre Balli Park is on North Padre Island in Corpus Christi, Texas. It is reached from South Padre Island Drive by following Padre Balli Park Road toward the Gulf beach and campground area.</p>
 							</article>
 							<article class="bdai-whitecap-faq-card bdai-reveal">
 
-								<h3 class="bdai-whitecap-faq-question">What is Mustang Island known for?</h3>
+								<h3 class="bdai-whitecap-faq-question">Is Padre Balli Park open to visitors?</h3>
 
-								<p class="bdai-whitecap-faq-answer">Mustang Island is known for Gulf beaches, beach driving in permitted areas, fishing, surfing, paddling, boating, camping, birdwatching, wildlife, dunes, bay waters, and the coastal community of Port Aransas. It offers both developed visitor services and more natural shoreline experiences.</p>
+								<p class="bdai-whitecap-faq-answer">Padre Balli Park is identified as a public coastal park with beach access, camping, facilities, and visitor services. Access, campground availability, beach conditions, and individual facility operations can change, so check current information with Nueces County Coastal Parks before visiting.</p>
 							</article>
 							<article class="bdai-whitecap-faq-card bdai-reveal">
 
-								<h3 class="bdai-whitecap-faq-question">What beaches are on Mustang Island?</h3>
+								<h3 class="bdai-whitecap-faq-question">Is camping available?</h3>
 
-								<p class="bdai-whitecap-faq-answer">Notable beach areas include the Port Aransas city-managed beach, Mustang Island State Park beach, and other public access areas along the island. Beach conditions, parking rules, permits, facilities, and vehicle access vary by location. North Padre Island and Padre Island National Seashore are separate destinations south of Mustang Island.</p>
+								<p class="bdai-whitecap-faq-answer">Yes. Padre Balli Park provides camping managed through Nueces County Coastal Parks, including RV camping and tent camping options near the Gulf shoreline.</p>
+							</article>
+							<article class="bdai-whitecap-faq-card bdai-reveal">
+
+								<h3 class="bdai-whitecap-faq-question">What camping options are available?</h3>
+
+								<p class="bdai-whitecap-faq-answer">Available visitor information identifies paved RV campsites, full-hookup RV camping, and hardtop tent areas with water and electrical hookups. Confirm current rates, availability, reservations, site details, and stay limits with the park office.</p>
+							</article>
+							<article class="bdai-whitecap-faq-card bdai-reveal">
+
+								<h3 class="bdai-whitecap-faq-question">Is parking available?</h3>
+
+								<p class="bdai-whitecap-faq-answer">Yes. Parking is available in developed areas and along the beach where permitted. Vehicles parked on the beach require a parking permit, and beach conditions may affect safe vehicle access.</p>
+							</article>
+							<article class="bdai-whitecap-faq-card bdai-reveal">
+
+								<h3 class="bdai-whitecap-faq-question">Is there beach access?</h3>
+
+								<p class="bdai-whitecap-faq-answer">Yes. Padre Balli Park provides Gulf beach access from Padre Balli Park Road, with additional access points near Access Roads 4, 5, and 6. Conditions may vary along the beach, especially farther from maintained areas.</p>
+							</article>
+							<article class="bdai-whitecap-faq-card bdai-reveal">
+
+								<h3 class="bdai-whitecap-faq-question">Are restrooms available?</h3>
+
+								<p class="bdai-whitecap-faq-answer">Visitor information identifies bathrooms, a bathhouse, shower facilities, and campground amenities at Padre Balli Park. Facility locations and operating conditions can change, so campers should confirm current details before arrival.</p>
+							</article>
+							<article class="bdai-whitecap-faq-card bdai-reveal">
+
+								<h3 class="bdai-whitecap-faq-question">Is fishing allowed?</h3>
+
+								<p class="bdai-whitecap-faq-answer">Yes. Fishing areas are identified as part of the Padre Balli Park and Padre Balli Beach area. Anglers should bring appropriate gear, confirm current Texas fishing license requirements, and follow posted beach and fishing regulations.</p>
+							</article>
+							<article class="bdai-whitecap-faq-card bdai-reveal">
+
+								<h3 class="bdai-whitecap-faq-question">Are dogs allowed?</h3>
+
+								<p class="bdai-whitecap-faq-answer">Dogs are allowed on the beach but must be kept on a leash. Owners should clean up after pets and prevent them from disturbing wildlife, nests, campers, and other beach visitors.</p>
 							</article>
 							<article class="bdai-whitecap-faq-card bdai-reveal">
 
 								<h3 class="bdai-whitecap-faq-question">What activities can visitors do?</h3>
 
-								<p class="bdai-whitecap-faq-answer">Visitors can swim, relax, surf, boogie board, paddle, kayak, fish, boat, camp, birdwatch, beachcomb, walk, photograph the coast, join ranger programs, explore Port Aransas, and book guided fishing or wildlife experiences. Choose activities based on current weather, wind, surf, tide, and road conditions.</p>
-							</article>
-							<article class="bdai-whitecap-faq-card bdai-reveal">
-
-								<h3 class="bdai-whitecap-faq-question">Is fishing allowed on Mustang Island?</h3>
-
-								<p class="bdai-whitecap-faq-answer">Yes. Surf fishing is available along the Gulf, and bay-side fishing is available in appropriate areas, including opportunities connected with Mustang Island State Park and nearby guides. Follow current Texas Parks and Wildlife regulations and confirm license, season, size, bag, and gear requirements before fishing.</p>
-							</article>
-							<article class="bdai-whitecap-faq-card bdai-reveal">
-
-								<h3 class="bdai-whitecap-faq-question">Is camping available on Mustang Island?</h3>
-
-								<p class="bdai-whitecap-faq-answer">Yes. Mustang Island State Park offers water-and-electric campsites, primitive drive-up beach sites, and tent camping on the beach. Developed sites have more nearby services, while primitive beach sites have no hookups and may be affected by weather, tides, closures, or beach conditions. Reservations are recommended because the park can fill.</p>
-							</article>
-							<article class="bdai-whitecap-faq-card bdai-reveal">
-
-								<h3 class="bdai-whitecap-faq-question">Are dogs allowed on Mustang Island beaches?</h3>
-
-								<p class="bdai-whitecap-faq-answer">Dogs are allowed in many Mustang Island areas, but leash requirements and other restrictions depend on the exact beach, park, or public access point. Port Aransas beach guidance identifies dogs as allowed on the beach when leashed. Check the current rule for your destination before arriving.</p>
-							</article>
-							<article class="bdai-whitecap-faq-card bdai-reveal">
-
-								<h3 class="bdai-whitecap-faq-question">Is beach parking available?</h3>
-
-								<p class="bdai-whitecap-faq-answer">Beach parking is available in designated areas, but access and requirements vary. Port Aransas requires a beach parking permit for vehicles parked on the beach in its managed beach zone. State park visitors must follow Mustang Island State Park admission and parking guidance, which is separate from the city beach permit.</p>
-							</article>
-							<article class="bdai-whitecap-faq-card bdai-reveal">
-
-								<h3 class="bdai-whitecap-faq-question">Are permits required on Mustang Island?</h3>
-
-								<p class="bdai-whitecap-faq-answer">Some areas require admission fees or permits. Mustang Island State Park currently lists a daily entrance fee for adults, while Port Aransas currently requires an annual beach parking sticker for vehicles parked on the beach. Fishing licenses, camping arrangements, pier access, or special activities may have additional requirements.</p>
+								<p class="bdai-whitecap-faq-answer">Visitors can swim when conditions are appropriate, relax on the beach, fish, camp, walk, picnic, watch wildlife, photograph the coastline, explore nearby beach access areas, and connect with local fishing, boating, dining, lodging, and outdoor businesses.</p>
 							</article>
 							<article class="bdai-whitecap-faq-card bdai-reveal">
 
 								<h3 class="bdai-whitecap-faq-question">What should visitors know before visiting?</h3>
 
-								<p class="bdai-whitecap-faq-answer">ring water, food, sun protection, suitable footwear, first-aid supplies, and layers for wind. Check weather, tides, surf, water quality, beach conditions, road access, park capacity, current fees, closures, pet rules, and fishing regulations. Do not drive onto soft sand or remote beach areas unless your vehicle and experience are appropriate for the conditions.</p>
+								<p class="bdai-whitecap-faq-answer">Bring water, food, sun protection, suitable footwear, a first-aid kit, and layers for wind. Check current beach conditions, parking permit requirements, camping availability, pet rules, fire rules, weather, surf, and road conditions. Do not assume lifeguard coverage or that every service is available in every part of the park.</p>
 							</article>
 						</div></div>
 				</section>
@@ -450,7 +448,7 @@
 </table>
 
 <style>
-  .bdai-whitecap-hero  {
+    .bdai-whitecap-hero  {
    position:relative;
    overflow:hidden;
    padding:72px 0;
@@ -1187,7 +1185,6 @@
 }
 </style>
 
----Header---
 <script>
 (function($){
   var bdaiFaqCards = $('.bdai-whitecap-faq-card');
@@ -1236,133 +1233,5 @@
       bdaiAnswerText.prop('hidden', bdaiIsOpen);
     });
   });
-})(jQuery);
-</script>
-
----Footer---
-<script>
-(function($){
-  var bdaiWrapGroups = function(bdaiGridSelector, bdaiGroupSize, bdaiCardClass){
-    var bdaiGrid = $(bdaiGridSelector);
-    var bdaiChildren;
-    var bdaiIndex;
-    var bdaiCard;
-    var bdaiGroup;
-
-    if (!bdaiGrid.length || bdaiGrid.children('.' + bdaiCardClass).length) {
-      return;
-    }
-
-    bdaiChildren = bdaiGrid.children().detach();
-
-    for (bdaiIndex = 0; bdaiIndex < bdaiChildren.length; bdaiIndex += bdaiGroupSize) {
-      bdaiGroup = bdaiChildren.slice(bdaiIndex, bdaiIndex + bdaiGroupSize);
-
-      if (bdaiGroup.length !== bdaiGroupSize) {
-        bdaiGrid.append(bdaiGroup);
-        continue;
-      }
-
-      bdaiCard = $('<div></div>');
-      bdaiCard.addClass(bdaiCardClass);
-      bdaiCard.append(bdaiGroup);
-      bdaiGrid.append(bdaiCard);
-    }
-  };
-
-  var bdaiBuildFaqCards = function(){
-    var bdaiFaqGrid = $('.bdai-whitecap-faq-grid');
-    var bdaiFaqChildren;
-    var bdaiFaqIndex;
-    var bdaiFaqCard;
-    var bdaiFaqGroup;
-
-    if (!bdaiFaqGrid.length || bdaiFaqGrid.children('.bdai-whitecap-faq-card').length) {
-      return;
-    }
-
-    bdaiFaqChildren = bdaiFaqGrid.children().detach();
-
-    for (bdaiFaqIndex = 0; bdaiFaqIndex < bdaiFaqChildren.length; bdaiFaqIndex += 2) {
-      bdaiFaqGroup = bdaiFaqChildren.slice(bdaiFaqIndex, bdaiFaqIndex + 2);
-
-      if (bdaiFaqGroup.length !== 2) {
-        bdaiFaqGrid.append(bdaiFaqGroup);
-        continue;
-      }
-
-      bdaiFaqCard = $('<div></div>');
-      bdaiFaqCard.addClass('bdai-whitecap-faq-card');
-      bdaiFaqCard.append(bdaiFaqGroup);
-      bdaiFaqGrid.append(bdaiFaqCard);
-    }
-  };
-
-  var bdaiActivateFaqs = function(){
-    var bdaiFaqCards = $('.bdai-whitecap-faq-card');
-
-    if (!bdaiFaqCards.length) {
-      return;
-    }
-
-    bdaiFaqCards.each(function(bdaiIndex){
-      var bdaiCard = $(this);
-      var bdaiQuestion = bdaiCard.find('.bdai-whitecap-faq-question').first();
-      var bdaiAnswerText = bdaiCard.find('.bdai-whitecap-faq-answer').first();
-      var bdaiAnswerId;
-      var bdaiTrigger;
-      var bdaiIcon;
-      var bdaiIconWrap;
-
-      if (bdaiCard.find('.bdai-whitecap-faq-trigger').length || !bdaiQuestion.length || !bdaiAnswerText.length) {
-        return;
-      }
-
-      bdaiAnswerId = 'bdai-whitecap-faq-answer-' + (bdaiIndex + 1);
-      bdaiTrigger = $('<button type="button"></button>');
-      bdaiIcon = $('<i aria-hidden="true"></i>');
-      bdaiIconWrap = $('<span></span>');
-
-      bdaiTrigger.addClass('bdai-whitecap-faq-trigger');
-      bdaiTrigger.attr('aria-expanded', 'false');
-      bdaiTrigger.attr('aria-controls', bdaiAnswerId);
-
-      bdaiIcon.addClass('bi bi-chevron-down');
-      bdaiIconWrap.addClass('bdai-whitecap-faq-icon');
-      bdaiIconWrap.append(bdaiIcon);
-
-      bdaiTrigger.append(bdaiQuestion);
-      bdaiTrigger.append(bdaiIconWrap);
-
-      bdaiAnswerText.attr('id', bdaiAnswerId);
-      bdaiAnswerText.prop('hidden', true);
-
-      bdaiCard.empty();
-      bdaiCard.append(bdaiTrigger);
-      bdaiCard.append(bdaiAnswerText);
-
-      bdaiTrigger.on('click', function(){
-        var bdaiIsOpen = bdaiTrigger.attr('aria-expanded') === 'true';
-
-        bdaiTrigger.attr('aria-expanded', bdaiIsOpen ? 'false' : 'true');
-        bdaiCard.toggleClass('bdai-faq-open', !bdaiIsOpen);
-        bdaiAnswerText.prop('hidden', bdaiIsOpen);
-      });
-    });
-  };
-
-  var bdaiInitializePage = function(){
-    bdaiWrapGroups('.bdai-whitecap-about-grid', 3, 'bdai-whitecap-about-card');
-    bdaiWrapGroups('.bdai-whitecap-rules-grid', 3, 'bdai-whitecap-rule-card');
-    bdaiWrapGroups('.bdai-whitecap-nearby-grid', 4, 'bdai-whitecap-nearby-card');
-    bdaiBuildFaqCards();
-    bdaiActivateFaqs();
-  };
-
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', bdaiInitializePage);
-  } else {
-    bdaiInitializePage();
-  }
 })(jQuery);
 </script>

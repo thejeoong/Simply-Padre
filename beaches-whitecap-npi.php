@@ -1,3 +1,5 @@
+
+
 <table class="froala-table" style="width:100%;padding:0;margin:0;">
 	<tbody>
 		<tr>
@@ -6,18 +8,18 @@
 					<div class="container">
 						<div class="bdai-whitecap-hero-layout bdai-reveal">
 							<div class="bdai-whitecap-hero-copy">
-								<div class="bdai-whitecap-hero-eyebrow" style="white-space:nowrap !important;width:fit-content;">Mustang Island State Park</div>
+								<div class="bdai-whitecap-hero-eyebrow" style="white-space:nowrap !important;width:fit-content;">Whitecap Beach</div>
 
-								<h1 class="bdai-whitecap-hero-title">Mustang Island State Park, a Wide-Open Texas Beach Escape</h1>
+								<h1 class="bdai-whitecap-hero-title">Whitecap Beach, a Local Favorite on North Padre Island</h1>
 
-								<p class="bdai-whitecap-hero-lead">Mustang Island State Park brings more than five miles of open Gulf shoreline, rolling dunes, shallow bay waters, and relaxed coastal recreation to the Texas coast near Corpus Christi.</p>
+								<p class="bdai-whitecap-hero-lead">Whitecap Beach is a wide, welcoming stretch of Gulf shoreline at the end of Whitecap Boulevard in Corpus Christi, where locals and visitors come for swimming, beach walks, fishing, surfing, camping, and long afternoons beside the water.</p>
 
-								<p class="bdai-whitecap-hero-copy-text">Use this local guide to plan a beach day or camping trip, understand park fees and reservations, choose activities, prepare for changing coastal conditions, and discover nearby businesses, accommodations, beaches, and attractions through Simply Padre.</p>
-								<div class="bdai-whitecap-hero-actions"><a class="bdai-whitecap-hero-primary" href="https://www.simplypadre.com" target="_blank">Explore Simply Padre</a> <a class="bdai-whitecap-hero-secondary" href="https://tpwd.texas.gov/state-parks/mustang-island" target="_blank">Plan Your Visit</a></div></div>
-							<div class="bdai-whitecap-hero-media"><img src="https://tpwd.texas.gov/state-parks/mustang-island/gallery/mustangisland-168.jpg" alt="Mustang Island State Park Gulf beach and shoreline" class="img-rounded fr-fil fr-dib" fetchpriority="high" decoding="async">
+								<p class="bdai-whitecap-hero-copy-text">Use this local guide to plan a visit to Whitecap Beach, understand access and parking permits, review current beach rules, find nearby places to eat and stay, and discover more ways to enjoy the North Padre Island coast.</p>
+								<div class="bdai-whitecap-hero-actions"><a class="bdai-whitecap-hero-primary" href="https://www.simplypadre.com" target="_blank">Explore Simply Padre</a> <a class="bdai-whitecap-hero-secondary" href="https://www.visitcorpuschristi.com/beaches/locations/whitecap-beach/" target="_blank">Plan Your Visit</a></div></div>
+							<div class="bdai-whitecap-hero-media"><img src="https://www.corpuschristitx.gov/media/srdcidwr/whitecap-beach-img.png" alt="Whitecap Beach shoreline on North Padre Island" class="img-rounded fr-fil fr-dib" fetchpriority="high" decoding="async" style="width: 700px;" width="700" height="221">
 								<br>
 
-								<p class="bdai-whitecap-hero-caption">Mustang Island State Park combines a broad Gulf beach with dunes, coastal wildlife habitat, bay access, camping, and the open-water character that makes Mustang Island special.</p>
+								<p class="bdai-whitecap-hero-caption">Whitecap Beach offers easy access to the Gulf, open sand, broad horizons, and a relaxed North Padre Island setting for beach days, water activities, fishing, camping, and coastal photography.</p>
 							</div></div></div>
 				</section>
 			</td>
@@ -32,33 +34,33 @@
 				<section class="bdai-whitecap-about" id="bdai-whitecap-about">
 					<div class="container">
 						<div class="bdai-whitecap-about-heading bdai-reveal">
-							<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Protected Island Landscape</div>
+							<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Local North Padre Guide</div>
 
-							<h2 class="bdai-whitecap-about-title">About Mustang Island State Park</h2>
+							<h2 class="bdai-whitecap-about-title">About Whitecap Beach</h2>
 
-							<p class="bdai-whitecap-about-intro">Mustang Island State Park is a Texas state park on Mustang Island along the Gulf Coast, at 9394 State Highway 361 near Corpus Christi and Port Aransas. The park protects more than five miles of coastline and gives visitors room to enjoy the beach, dunes, bay waters, and coastal landscape without confusing the park with Mustang Island as a whole or with neighboring Padre Island.</p>
+							<p class="bdai-whitecap-about-intro">Whitecap Beach is located at the end of Whitecap Boulevard on North Padre Island in Corpus Christi, Texas, between Michael J. Ellis Beach and Padre Balli Park. The beach includes a pedestrian shoreline area and a separate area where vehicles can access the sand, giving visitors several ways to enjoy the Gulf Coast. Its open setting, easy access, and mix of recreation make it one of the most approachable beaches in Corpus Christi for both short visits and full beach days.</p>
 						</div>
 						<div class="bdai-whitecap-about-grid">
 							<article class="bdai-whitecap-about-card bdai-reveal">
-								<div class="bdai-whitecap-about-icon"><i class="bi bi-tree" aria-hidden="true"></i></div>
-
-								<h3 class="bdai-whitecap-card-title">A Texas State Park on Mustang Island</h3>
-
-								<p class="bdai-whitecap-card-copy">The park is a designated Texas State Park located along State Highway 361 on the central portion of Mustang Island. Its protected shoreline offers a different experience from the busier commercial areas of Port Aransas and the developed beach communities elsewhere along the coast.</p>
-							</article>
-							<article class="bdai-whitecap-about-card bdai-reveal">
 								<div class="bdai-whitecap-about-icon"><i class="bi bi-water" aria-hidden="true"></i></div>
 
-								<h3 class="bdai-whitecap-card-title">Gulf Beach, Dunes, and Bay Waters</h3>
+								<h3 class="bdai-whitecap-card-title">A Wide Gulf Coast Beach</h3>
 
-								<p class="bdai-whitecap-card-copy">The park&rsquo;s natural setting includes a wide Gulf beach, sand dunes, shallow bayside waters, and an expansive horizon. The contrast between surf, sand, wind, and bay scenery makes it appealing for swimming, fishing, beach walks, paddling, and quiet sightseeing.</p>
+								<p class="bdai-whitecap-card-copy">Whitecap Beach gives visitors room to spread out along the sand, walk beside the water, build sandcastles, play near the shoreline, or settle in with a chair and umbrella. The broad coastal view makes it easy to slow down and enjoy a classic Corpus Christi beach day.</p>
 							</article>
 							<article class="bdai-whitecap-about-card bdai-reveal">
-								<div class="bdai-whitecap-about-icon"><i class="bi bi-feather" aria-hidden="true"></i></div>
+								<div class="bdai-whitecap-about-icon"><i class="bi bi-geo-alt" aria-hidden="true"></i></div>
 
-								<h3 class="bdai-whitecap-card-title">A Coastal Refuge for Wildlife</h3>
+								<h3 class="bdai-whitecap-card-title">An Easy North Padre Island Base</h3>
 
-								<p class="bdai-whitecap-card-copy">Spring and fall migrations bring especially good birding opportunities, while the paddling trail provides views across shallow-water habitat and coastal bird areas. Dunes, beaches, and bay edges support a changing mix of birds and other coastal wildlife throughout the year.</p>
+								<p class="bdai-whitecap-card-copy">Whitecap Beach sits close to other North Padre Island beaches, restaurants, accommodations, rental vendors, and outdoor attractions. Visitors can make it the main destination or use it as one stop during a longer day exploring the island.</p>
+							</article>
+							<article class="bdai-whitecap-about-card bdai-reveal">
+								<div class="bdai-whitecap-about-icon"><i class="bi bi-sun" aria-hidden="true"></i></div>
+
+								<h3 class="bdai-whitecap-card-title">A Beach for Locals and Visitors</h3>
+
+								<p class="bdai-whitecap-card-copy">Whitecap Beach works for many kinds of visitors, from families looking for open sand to anglers, surfers, joggers, campers, photographers, and anyone who wants a quieter place to watch the Gulf. The beach can feel active and social while still offering peaceful stretches for relaxing.</p>
 							</article>
 						</div></div>
 				</section>
@@ -75,80 +77,64 @@
 					<div class="container">
 						<div class="bdai-whitecap-things-layout">
 							<div class="bdai-whitecap-things-copy bdai-reveal">
-								<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Make the Most of the Coast</div>
+								<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Make the Most of THE Beach</div>
 
-								<h2 class="bdai-whitecap-things-title">Things to Do at Mustang Island State Park</h2>
+								<h2 class="bdai-whitecap-things-title">Things to Do at Whitecap Beach</h2>
 
-								<p class="bdai-whitecap-things-lead">Mustang Island State Park is built for flexible outdoor days. You can settle into a beach chair, follow the shoreline, launch a paddle trip, cast into the surf, or stay overnight while the Gulf changes from morning light to evening sky.</p>
+								<p class="bdai-whitecap-things-lead">Whitecap Beach is a flexible place to spend time on the Gulf, whether you want an active morning, a relaxed afternoon, or a sunset stop before dinner. Plan around the weather, surf, wind, heat, and comfort level of your group.</p>
 								<div class="bdai-whitecap-things-list">
 									<div class="bdai-whitecap-things-item">
 										<div class="bdai-whitecap-things-icon"><i class="bi bi-umbrella" aria-hidden="true"></i></div>
 										<div class="bdai-whitecap-things-item-copy">
 
-											<h3 class="bdai-whitecap-things-item-title">Swim and Enjoy the Beach</h3>
+											<h3 class="bdai-whitecap-things-item-title">Swim and Relax</h3>
 
-											<p class="bdai-whitecap-things-item-text">Spend time in the Gulf, relax on the sand, surf when conditions and experience allow, or build sandcastles with the family. There are no lifeguards at the primitive beach camping area, so check conditions, supervise children, and swim at your own risk.</p>
+											<p class="bdai-whitecap-things-item-text">Spend time in the shallows when conditions are appropriate, cool off near the shoreline, read in the sand, or enjoy a slow beach day with family and friends. Watch the Gulf carefully because surf, currents, weather, and water conditions can change.</p>
 										</div></div>
 									<div class="bdai-whitecap-things-item">
 										<div class="bdai-whitecap-things-icon"><i class="bi bi-person-walking" aria-hidden="true"></i></div>
 										<div class="bdai-whitecap-things-item-copy">
 
-											<h3 class="bdai-whitecap-things-item-title">Walk, Beachcomb, and Explore</h3>
+											<h3 class="bdai-whitecap-things-item-title">Walk, Jog, and Explore</h3>
 
-											<p class="bdai-whitecap-things-item-text">Walk more than five miles of open shoreline, look for changing beach patterns, enjoy the dunes from appropriate access areas, and take in the wide views across the Gulf. Leave wildlife, dunes, vegetation, and natural features undisturbed.</p>
+											<p class="bdai-whitecap-things-item-text">The shoreline is well suited for a morning walk, a beach jog, shell watching, sandcastle building, and unhurried sightseeing. Walk with awareness around vehicles, fishing equipment, changing sand, and areas where waves reach farther up the beach.</p>
 										</div></div>
 									<div class="bdai-whitecap-things-item">
 										<div class="bdai-whitecap-things-icon"><i class="bi bi-fish" aria-hidden="true"></i></div>
 										<div class="bdai-whitecap-things-item-copy">
 
-											<h3 class="bdai-whitecap-things-item-title">Fish the Surf and Bay</h3>
+											<h3 class="bdai-whitecap-things-item-title">Fish Along the Gulf</h3>
 
-											<p class="bdai-whitecap-things-item-text">Surf fishing and bay fishing are available, and the shallow-water paddling trail passes through areas known for fishing. Bring the equipment and licenses required for your trip, and check current Texas regulations before casting.</p>
-										</div></div>
-									<div class="bdai-whitecap-things-item">
-										<div class="bdai-whitecap-things-icon"><i class="bi bi-moon-stars" aria-hidden="true"></i></div>
-										<div class="bdai-whitecap-things-item-copy">
-
-											<h3 class="bdai-whitecap-things-item-title">Camp Beside the Coast</h3>
-
-											<p class="bdai-whitecap-things-item-text">Choose a reserved water-and-electric campsite about 400 yards from the water or a drive-up primitive site along a 1.5-mile stretch of beach. The two camping styles create different experiences, from supported campground stays to more direct beach access.</p>
+											<p class="bdai-whitecap-things-item-text">Surf fishing is one of the activities visitors can enjoy along Whitecap Beach. Bring suitable gear, check current Texas fishing regulations, and plan around wind, tide, surf, and weather conditions before setting up near the water.</p>
 										</div></div>
 									<div class="bdai-whitecap-things-item">
 										<div class="bdai-whitecap-things-icon"><i class="bi bi-wind" aria-hidden="true"></i></div>
 										<div class="bdai-whitecap-things-item-copy">
 
-											<h3 class="bdai-whitecap-things-item-title">Paddle the Bay</h3>
+											<h3 class="bdai-whitecap-things-item-title">Surf and Enjoy the Water</h3>
 
-											<p class="bdai-whitecap-things-item-text">The Mustang Island State Park Paddling Trail includes three segments and follows the island&rsquo;s western shoreline in Corpus Christi Bay. The full trail totals 20 miles and offers shallow-water scenery, fishing access, and coastal-bird viewing for prepared paddlers.</p>
+											<p class="bdai-whitecap-things-item-text">Whitecap Beach is known as a place for surfing and other Gulf water activities when conditions cooperate. Check the forecast and surf before entering the water, use appropriate equipment, and choose activities that match the day and your experience.</p>
 										</div></div>
 									<div class="bdai-whitecap-things-item">
-										<div class="bdai-whitecap-things-icon"><i class="bi bi-binoculars" aria-hidden="true"></i></div>
+										<div class="bdai-whitecap-things-icon"><i class="bi bi-moon-stars" aria-hidden="true"></i></div>
 										<div class="bdai-whitecap-things-item-copy">
 
-											<h3 class="bdai-whitecap-things-item-title">Watch Birds and Wildlife</h3>
+											<h3 class="bdai-whitecap-things-item-title">Camp and Watch the Stars</h3>
 
-											<p class="bdai-whitecap-things-item-text">Birding is especially rewarding during spring and fall migration, but coastal birds can be enjoyed year-round. Join a ranger program when available, bring binoculars, and observe wildlife from a respectful distance along the beach, dunes, and bay.</p>
-										</div></div>
-									<div class="bdai-whitecap-things-item">
-										<div class="bdai-whitecap-things-icon"><i class="bi bi-compass" aria-hidden="true"></i></div>
-										<div class="bdai-whitecap-things-item-copy">
-
-											<h3 class="bdai-whitecap-things-item-title">Join Ranger Programs</h3>
-
-											<p class="bdai-whitecap-things-item-text">Depending on the season and schedule, the park may offer birding, stargazing, beachcombing, and nature-walk programs. Geocaching and volunteer opportunities also give returning visitors new ways to connect with the park.</p>
+											<p class="bdai-whitecap-things-item-text">Camping is allowed on Gulf beach areas under current city rules, with limits on consecutive nights and monthly stays. Campfires must stay within the posted size limits, be fully extinguished, and follow any active burn-ban or beach-operation instructions.</p>
 										</div></div>
 									<div class="bdai-whitecap-things-item">
 										<div class="bdai-whitecap-things-icon"><i class="bi bi-camera" aria-hidden="true"></i></div>
 										<div class="bdai-whitecap-things-item-copy">
 
-											<h3 class="bdai-whitecap-things-item-title">Photograph the Coast</h3>
+											<h3 class="bdai-whitecap-things-item-title">Photograph the Shoreline</h3>
 
-											<p class="bdai-whitecap-things-item-text">Photograph Gulf surf, dune textures, bay reflections, fishing scenes, campground details, shorebirds, sunrise, and evening light. Keep your composition natural by giving wildlife space and avoiding fragile dunes and protected areas.</p>
+											<p class="bdai-whitecap-things-item-text">Whitecap Beach creates natural photo opportunities throughout the day, from sunrise colors and rolling surf to beach vehicles, footprints, fishing lines, clouds, and wide-open evening skies. Keep people, pets, and moving vehicles in mind when choosing a viewpoint.</p>
 										</div></div></div></div>
-							<div class="bdai-whitecap-things-media bdai-reveal"><img src="https://tpwd.texas.gov/state-parks/mustang-island/gallery/mustang-island_3462.jpg" alt="Mustang Island State Park beach and coastal dunes" class="img-rounded fr-fil fr-dib" loading="lazy" decoding="async">
+							<div class="bdai-whitecap-things-media bdai-reveal"><img src="https://images.pexels.com/photos/31701990/pexels-photo-31701990.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="surfers beach" class="img-rounded fr-fil fr-dib" style="width: 700px;" width="700" height="294">
 								<br>
 
-								<p class="bdai-whitecap-things-note">Bring drinking water, sun protection, food, fishing supplies, suitable footwear, first-aid items, and layers for changing wind. The park store offers some supplies, but services are limited compared with the nearby communities.</p>
+								<p class="bdai-whitecap-things-note">Whitecap Beach is an outdoor destination, so bring drinking water, sun protection, suitable footwear, towels, and layers for changing wind. Check current beach conditions before heading out, especially after storms or during periods of strong surf.</p>
 							</div></div></div>
 				</section>
 			</td>
@@ -163,82 +149,66 @@
 				<section class="bdai-whitecap-before" id="bdai-whitecap-before">
 					<div class="container">
 						<div class="bdai-whitecap-before-layout">
-							<div class="bdai-whitecap-before-media bdai-reveal"><img src="https://tpwd.texas.gov/state-parks/mustang-island/gallery/misp_rv_3422.jpg" alt="Mustang Island State Park campground and coastal camping area" class="img-rounded fr-fil fr-dib" loading="lazy" decoding="async">
+							<div class="bdai-whitecap-before-media bdai-reveal"><img src="https://images.pexels.com/photos/4858444/pexels-photo-4858444.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="beach vehicle" class="img-rounded fr-fil fr-dib">
 
 								<p>
 									<br>
 								</p>
-								<div class="bdai-whitecap-before-badge"><strong>Plan for a coastal state park</strong> <span>Mustang Island State Park offers beach access and useful facilities, but weather, tides, surf, sand, and capacity can affect the experience. Reserve ahead when possible and check conditions before leaving for the coast.</span></div></div>
+								<div class="bdai-whitecap-before-badge"><strong>Plan around the coast</strong> <span>Whitecap Beach is shaped by weather, tides, surf, wind, sand, and seasonal beach operations. Confirm current rules and conditions before you leave, and be prepared to adjust your plans when the Gulf changes.</span></div></div>
 							<div class="bdai-whitecap-before-copy bdai-reveal">
 								<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">What to Know Before You Go</div>
 
-								<h2 class="bdai-whitecap-before-title">Mustang Island State Park Information</h2>
+								<h2 class="bdai-whitecap-before-title">Prepare for a Comfortable Whitecap Beach Visit</h2>
 
-								<p class="bdai-whitecap-before-lead">The park is open daily from 8:00 a.m. to 5:00 p.m. Adult entrance is $7 per day, and children age 12 and under enter free. Because the park can reach capacity, Texas Parks and Wildlife recommends reservations for camping and day use when available.</p>
+								<p class="bdai-whitecap-before-lead">Whitecap Beach is easy to reach, but visitors should plan for a beach environment rather than a staffed resort. The city and visitor information identify parking, permits, camping, portable toilets, trash services, rental vendors, and seasonal lifeguard coverage, while specific amenities and operating conditions can change.</p>
 								<div class="bdai-whitecap-before-details">
 									<div class="bdai-whitecap-before-detail">
 										<div class="bdai-whitecap-before-detail-icon"><i class="bi bi-sign-turn-right" aria-hidden="true"></i></div>
 										<div class="bdai-whitecap-before-detail-copy">
 
-											<h3 class="bdai-whitecap-before-detail-title">Access, Address, and Parking</h3>
+											<h3 class="bdai-whitecap-before-detail-title">Beach Access and Parking</h3>
 
-											<p class="bdai-whitecap-before-detail-text">Mustang Island State Park is located at 9394 State Highway 361, Corpus Christi, Texas 78418, between the Corpus Christi area and Port Aransas on Mustang Island. Day-use and camping access are subject to park capacity and current conditions, so reserve a day pass when possible and follow posted parking and beach-access guidance.</p>
+											<p class="bdai-whitecap-before-detail-text">Whitecap Beach is located at the end of Whitecap Boulevard on North Padre Island. Visitors can also reach the area from Access Road 4 off South Padre Island Drive. The city describes a pedestrian shoreline area and a separate area for cars, so follow access signs and stay alert around beach traffic.</p>
 										</div></div>
 									<div class="bdai-whitecap-before-detail">
 										<div class="bdai-whitecap-before-detail-icon"><i class="bi bi-ticket-perforated" aria-hidden="true"></i></div>
 										<div class="bdai-whitecap-before-detail-copy">
 
-											<h3 class="bdai-whitecap-before-detail-title">Entrance Fees and Reservations</h3>
+											<h3 class="bdai-whitecap-before-detail-title">Parking Permits and Current Fees</h3>
 
-											<p class="bdai-whitecap-before-detail-text">The current standard entrance fee is $7 per adult per day, while children age 12 and under enter free. Reservations can be made online or by calling 512-389-8900. A reservation is highly recommended for both day use and camping because the park may fill to capacity.</p>
-										</div></div>
-									<div class="bdai-whitecap-before-detail">
-										<div class="bdai-whitecap-before-detail-icon"><i class="bi bi-house-heart" aria-hidden="true"></i></div>
-										<div class="bdai-whitecap-before-detail-copy">
-
-											<h3 class="bdai-whitecap-before-detail-title">Camping Options and Campsites</h3>
-
-											<p class="bdai-whitecap-before-detail-text">The park has 48 water-and-electric campsites located about 400 yards from the water and 50 drive-up primitive sites along a 1.5-mile beach stretch. Water-and-electric sites cost $25 per night plus the daily entrance fee and include water, a 50-amp hookup, a picnic table, grill, and shade shelter. Primitive sites cost $13 per night plus the daily entrance fee and are non-reservable.</p>
+											<p class="bdai-whitecap-before-detail-text">A beach parking permit is required to park on the beach at Whitecap Beach. Visitor information lists the annual permit at $12, valid from January 1 through December 31, with permits available through designated city, county, visitor-center, retail, and park locations. Check current city information before arriving because enforcement and purchasing locations can change.</p>
 										</div></div>
 									<div class="bdai-whitecap-before-detail">
 										<div class="bdai-whitecap-before-detail-icon"><i class="bi bi-building" aria-hidden="true"></i></div>
 										<div class="bdai-whitecap-before-detail-copy">
 
-											<h3 class="bdai-whitecap-before-detail-title">Restrooms, Showers, and Picnic Areas</h3>
+											<h3 class="bdai-whitecap-before-detail-title">Restrooms and Beach Facilities</h3>
 
-											<p class="bdai-whitecap-before-detail-text">Full restrooms and hot-water showers are located near the water-and-electric campground. Primitive campers have access to restrooms at varying distances from the beach sites, and portable toilets are available along portions of the beach. Picnic tables, grills, shade shelters, a park store, and beach areas support day trips and overnight stays.</p>
-										</div></div>
-									<div class="bdai-whitecap-before-detail">
-										<div class="bdai-whitecap-before-detail-icon"><i class="bi bi-fish" aria-hidden="true"></i></div>
-										<div class="bdai-whitecap-before-detail-copy">
-
-											<h3 class="bdai-whitecap-before-detail-title">Fishing and Water Activities</h3>
-
-											<p class="bdai-whitecap-before-detail-text">Surf fishing and bay fishing are available, and the 20-mile Mustang Island State Park Paddling Trail follows the western shoreline through shallow-water areas. Check current weather, wind, tides, water conditions, fishing regulations, and launch guidance before paddling or fishing.</p>
+											<p class="bdai-whitecap-before-detail-text">Whitecap Beach visitor information lists portable toilets on site, trash cans at beach entrances and along the beach, and complimentary trash bags at blue boxes near beach access roads. The available information does not confirm permanent restrooms, showers, changing rooms, or drinking-water stations directly at Whitecap Beach.</p>
 										</div></div>
 									<div class="bdai-whitecap-before-detail">
 										<div class="bdai-whitecap-before-detail-icon"><i class="bi bi-universal-access" aria-hidden="true"></i></div>
 										<div class="bdai-whitecap-before-detail-copy">
 
-											<h3 class="bdai-whitecap-before-detail-title">Accessibility and Beach Wheelchairs</h3>
+											<h3 class="bdai-whitecap-before-detail-title">Accessibility and Camping</h3>
 
-											<p class="bdai-whitecap-before-detail-text">The park has two beach wheelchairs available to borrow at no charge. Ask park staff about availability when you arrive. Conditions on sand, dunes, and the shoreline can change, so visitors should confirm the most suitable access information directly with the park.</p>
+											<p class="bdai-whitecap-before-detail-text">Whitecap Beach is described as an easy-access beach, but current visitor information does not confirm specific ADA parking, beach matting, accessible paths, beach wheelchairs, or other formal accessibility features. Camping is allowed on Gulf beach areas, with camping prohibited in front of condos and hotels, a maximum of 3 consecutive days and nights, and no more than 6 total days within a month.</p>
 										</div></div>
 									<div class="bdai-whitecap-before-detail">
 										<div class="bdai-whitecap-before-detail-icon"><i class="bi bi-heart-pulse" aria-hidden="true"></i></div>
 										<div class="bdai-whitecap-before-detail-copy">
 
-											<h3 class="bdai-whitecap-before-detail-title">Swimming, Pets, and Safety</h3>
+											<h3 class="bdai-whitecap-before-detail-title">Dogs, Lifeguards, and Safety</h3>
 
-											<p class="bdai-whitecap-before-detail-text">Swimming, surfing, and beach recreation are available, but no lifeguards are present at the primitive beach camping area. Pet restrictions can vary by park area and current policy, so confirm the latest rules with park staff before bringing a dog. Keep pets controlled and away from wildlife.</p>
+											<p class="bdai-whitecap-before-detail-text">Dogs are allowed when kept on a leash or under verbal command, but Whitecap Beach is off-limits to dogs on major holidays. Mobile lifeguards patrol the beach, and lifeguard stands are present during the summer season from Memorial Day through Labor Day. Check the current schedule, obey posted warnings, and call 911 in an emergency.</p>
 										</div></div>
 									<div class="bdai-whitecap-before-detail">
 										<div class="bdai-whitecap-before-detail-icon"><i class="bi bi-shield-check" aria-hidden="true"></i></div>
 										<div class="bdai-whitecap-before-detail-copy">
 
-											<h3 class="bdai-whitecap-before-detail-title">Beach Rules and Changing Conditions</h3>
+											<h3 class="bdai-whitecap-before-detail-title">Beach Rules and Visitor Tips</h3>
 
-											<p class="bdai-whitecap-before-detail-text">Respect posted closures, protect dunes and vegetation, secure food and trash, and leave wildlife and natural features undisturbed. Small beach campfires are allowed in the primitive beach camping area, while campfires are not allowed at water-and-electric campsites; always follow current fire guidance and weather restrictions.</p>
+											<p class="bdai-whitecap-before-detail-text">Remove trash, use available receptacles and bag stations, keep glass containers off the beach, follow the 15 mph Gulf beach speed limit, and never leave canopies overnight. Gulf beach fires may be no larger than 3 feet by 3 feet by 3 feet, must be extinguished completely, and cannot use pallets or construction materials. Follow any current burn ban or posted beach closure.</p>
 										</div></div></div></div></div></div>
 				</section>
 			</td>
@@ -253,40 +223,40 @@
 				<section class="bdai-whitecap-rules" id="bdai-whitecap-rules">
 					<div class="container">
 						<div class="bdai-whitecap-rules-heading bdai-reveal">
-							<div class="bdai-whitecap-section-eyebrow" style="width:fit-content;white-space:nowrap !important;text-align:center;">Respect the Protected Coast</div>
+							<div class="bdai-whitecap-section-eyebrow" style="width:fit-content;white-space:nowrap !important;text-align:center;">Respect the Gulf Coast</div>
 
-							<h2 class="bdai-whitecap-rules-title" style="text-align:left;">Simple Rules for a Better Park Visit</h2>
+							<h2 class="bdai-whitecap-rules-title" style="text-align:left;">Simple Rules for a Better Whitecap Beach Visit</h2>
 
-							<p class="bdai-whitecap-rules-intro" style="text-align:left;">Mustang Island State Park is shared by swimmers, anglers, campers, paddlers, birders, families, beach walkers, and wildlife. A few thoughtful choices help protect the dunes, shoreline, bay waters, and coastal habitat that make the park worth visiting.</p>
+							<p class="bdai-whitecap-rules-intro" style="text-align:left;">Whitecap Beach is shared by swimmers, anglers, campers, families, joggers, beach drivers, pet owners, and local residents. A few simple habits help protect the shoreline and keep the beach enjoyable for everyone.</p>
 						</div>
 						<div class="bdai-whitecap-rules-grid">
 							<article class="bdai-whitecap-rule-card bdai-reveal">
 								<div class="bdai-whitecap-rule-number">01</div>
 
-								<h3 class="bdai-whitecap-rule-title">Protect Wildlife</h3>
+								<h3 class="bdai-whitecap-rule-title">Leave No Trace</h3>
 
-								<p class="bdai-whitecap-rule-copy">Give birds and other wildlife plenty of space, avoid disturbing nests or habitat, and never chase, feed, or handle wild animals.</p>
+								<p class="bdai-whitecap-rule-copy">Use trash cans and blue-bag stations, collect fishing line and tackle, and take all personal items with you when you leave the shoreline.</p>
 							</article>
 							<article class="bdai-whitecap-rule-card bdai-reveal">
 								<div class="bdai-whitecap-rule-number">02</div>
 
-								<h3 class="bdai-whitecap-rule-title">Protect the Dunes</h3>
+								<h3 class="bdai-whitecap-rule-title">Respect the Water</h3>
 
-								<p class="bdai-whitecap-rule-copy">Stay on appropriate access routes, avoid trampling dune vegetation, and follow signs or closures that protect fragile coastal areas.</p>
+								<p class="bdai-whitecap-rule-copy">Check surf and weather conditions, stay aware of changing currents, and choose swimming, surfing, and other water activities that match the day.</p>
 							</article>
 							<article class="bdai-whitecap-rule-card bdai-reveal">
 								<div class="bdai-whitecap-rule-number">03</div>
 
-								<h3 class="bdai-whitecap-rule-title">Leave No Trace</h3>
+								<h3 class="bdai-whitecap-rule-title">Keep Dogs Under Control</h3>
 
-								<p class="bdai-whitecap-rule-copy">Pack out trash, secure food, dispose of fishing line properly, follow fire rules, and leave shells, plants, and other natural features in place.</p>
+								<p class="bdai-whitecap-rule-copy">Dogs must remain on a leash or under verbal command, pet waste must be collected, and Whitecap Beach is closed to dogs on major holidays.</p>
 							</article>
 							<article class="bdai-whitecap-rule-card bdai-reveal">
 								<div class="bdai-whitecap-rule-number">04</div>
 
-								<h3 class="bdai-whitecap-rule-title">Travel for Conditions</h3>
+								<h3 class="bdai-whitecap-rule-title">Follow Beach Regulations</h3>
 
-								<p class="bdai-whitecap-rule-copy">Check weather, wind, tides, surf, beach conditions, and capacity before driving, swimming, camping, fishing, or paddling.</p>
+								<p class="bdai-whitecap-rule-copy">Display the required parking permit, follow the Gulf beach speed limit, keep glass off the beach, and observe camping, fire, and posted safety rules.</p>
 							</article>
 						</div></div>
 				</section>
@@ -303,20 +273,20 @@
 					<div class="container">
 						<div class="bdai-whitecap-gallery-layout">
 							<div class="bdai-whitecap-gallery-copy bdai-reveal">
-								<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Scenes From the island</div>
+								<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Scenes From THE Island</div>
 
-								<h2 class="bdai-whitecap-gallery-title">Mustang Island State Park Photo Journal</h2>
+								<h2 class="bdai-whitecap-gallery-title">Whitecap Beach Photo Journal</h2>
 
-								<p class="bdai-whitecap-gallery-intro">The park&rsquo;s visual character comes from the meeting of Gulf water, open sand, dunes, shallow bay, campground life, and long coastal horizons. Every season and tide brings different light, textures, birds, and beach conditions.</p>
+								<p class="bdai-whitecap-gallery-intro">Whitecap Beach is defined by open Gulf water, pale sand, beach roads, rolling surf, coastal wind, and a changing sky. The scenery shifts from quiet morning shoreline to active afternoon recreation and colorful evening light.</p>
 
-								<p class="bdai-whitecap-gallery-copy-text">Bring a camera for shoreline patterns, fishing scenes, dune grasses, campground mornings, paddling views, birds, and evening color. Photograph responsibly by staying clear of sensitive habitat and giving wildlife room.</p>
-								<div class="bdai-whitecap-gallery-tip"><i class="bi bi-camera" aria-hidden="true"></i> <span>For stronger coastal photographs, combine the beach, sky, dunes, water, and a human-scale detail such as a fishing rod, tent, paddle, or distant beach walker.</span></div></div>
+								<p class="bdai-whitecap-gallery-copy-text">Bring a camera for sunrise reflections, surf lines, sand patterns, beach walks, fishing setups, campfire evenings, and wide views toward the North Padre Island horizon. Be mindful of other visitors and never photograph private activity without permission.</p>
+								<div class="bdai-whitecap-gallery-tip"><i class="bi bi-camera" aria-hidden="true"></i><span>For stronger coastal photographs, combine the beach, water, sky, and human-scale details such as footprints, fishing gear, chairs, surfboards, or a distant beach vehicle.</span></div></div>
 							<div class="bdai-whitecap-gallery-visual bdai-reveal">
 								<div class="bdai-collage-grid">
-									<div class="bdai-collage-tile"><img src="https://tpwd.texas.gov/state-parks/mustang-island/gallery/mustangisland-168.jpg" alt="Mustang Island State Park open Gulf beach" class="img-rounded fr-fil fr-dib" loading="lazy" decoding="async"></div>
-									<div class="bdai-collage-tile"><img src="https://tpwd.texas.gov/state-parks/mustang-island/gallery/misp_rv_3422.jpg" alt="Mustang Island State Park RV campground" class="img-rounded fr-fil fr-dib" loading="lazy" decoding="async"></div>
-									<div class="bdai-collage-tile"><img src="https://tpwd.texas.gov/state-parks/mustang-island/gallery/mustang-island-fishing.jpg" alt="Fishing at Mustang Island State Park coast" class="img-rounded fr-fil fr-dib" loading="lazy" decoding="async"></div>
-									<div class="bdai-collage-tile"><img src="https://tpwd.texas.gov/state-parks/mustang-island/gallery/mustang-island949_5_321.jpg" alt="Mustang Island State Park coastal scenery and dunes" class="img-rounded fr-fil fr-dib" loading="lazy" decoding="async"></div></div></div></div></div>
+									<div class="bdai-collage-tile"><img src="https://images.pexels.com/photos/35637997/pexels-photo-35637997.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="Whitecap shoreline" class="img-rounded fr-fil fr-dib"></div>
+									<div class="bdai-collage-tile"><img src="https://images.pexels.com/photos/29738888/pexels-photo-29738888.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="beach walkers" class="img-rounded fr-fil fr-dib"></div>
+									<div class="bdai-collage-tile"><img src="https://images.pexels.com/photos/39049759/pexels-photo-39049759.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="surf fishing" class="img-rounded fr-fil fr-dib"></div>
+									<div class="bdai-collage-tile"><img src="https://images.pexels.com/photos/28647242/pexels-photo-28647242.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="beach camping" class="img-rounded fr-fil fr-dib"></div></div></div></div></div>
 				</section>
 			</td>
 		</tr>
@@ -330,37 +300,37 @@
 				<section class="bdai-whitecap-nearby" id="bdai-whitecap-nearby">
 					<div class="container">
 						<div class="bdai-whitecap-nearby-heading bdai-reveal">
-							<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Keep Exploring the island</div>
+							<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Keep Exploring THe Island</div>
 
-							<h2 class="bdai-whitecap-nearby-title">Nearby Places to Add to the Trip</h2>
+							<h2 class="bdai-whitecap-nearby-title">Nearby Places to Add to the Day</h2>
 
-							<p class="bdai-whitecap-nearby-intro">Mustang Island State Park works well as the outdoor anchor for a longer coastal itinerary. Use the park for beach time and camping, then explore the businesses, lodging, water activities, beaches, and attractions available around Mustang Island, Port Aransas, and Corpus Christi.</p>
+							<p class="bdai-whitecap-nearby-intro">Whitecap Beach is close to many of the places that make a North Padre Island visit easy to extend. Pair beach time with a local meal, an overnight stay, equipment rental, another beach, or an outdoor attraction.</p>
 						</div>
 						<div class="bdai-whitecap-nearby-grid">
 							<article class="bdai-whitecap-nearby-card bdai-reveal">
 								<div class="bdai-whitecap-nearby-icon"><i class="bi bi-shop" aria-hidden="true"></i></div>
 
-								<h3 class="bdai-whitecap-nearby-card-title">Restaurants and Local Dining</h3>
+								<h3 class="bdai-whitecap-nearby-card-title">Island Restaurants</h3>
 
-								<p class="bdai-whitecap-nearby-card-copy">Plan breakfast, lunch, dinner, seafood, coffee, or a post-beach meal by exploring restaurants and local food businesses in the Mustang Island, Port Aransas, and Corpus Christi areas.</p><a class="bdai-whitecap-nearby-link" href="https://www.simplypadre.com" target="_blank">Explore Local Businesses</a></article>
+								<p class="bdai-whitecap-nearby-card-copy">Nearby dining options include Padre Island Burger Company, Doc&rsquo;s Seafood &amp; Steaks, Snoopy&rsquo;s Pier, and Island Joe&rsquo;s Coffee &amp; Gallery. Check current hours before leaving the beach.</p><a class="bdai-whitecap-nearby-link" href="https://www.simplypadre.com" target="_blank">Explore Local Businesses</a></article>
 							<article class="bdai-whitecap-nearby-card bdai-reveal">
 								<div class="bdai-whitecap-nearby-icon"><i class="bi bi-house-heart" aria-hidden="true"></i></div>
 
-								<h3 class="bdai-whitecap-nearby-card-title">Hotels and Vacation Rentals</h3>
+								<h3 class="bdai-whitecap-nearby-card-title">Hotels and Accommodations</h3>
 
-								<p class="bdai-whitecap-nearby-card-copy">Camping is available inside the park, while hotels, condos, vacation rentals, and other accommodations can be found in nearby Mustang Island, Port Aransas, and Corpus Christi.</p><a class="bdai-whitecap-nearby-link" href="https://www.simplypadre.com" target="_blank">Explore Places to Stay</a></article>
+								<p class="bdai-whitecap-nearby-card-copy">North Padre Island stays include Lively Beach, Hawthorn Suites, Island House, Gulfstream Condos, Holiday Inn Express, El Constante, Aruba Bay Resort, and vacation rentals.</p><a class="bdai-whitecap-nearby-link" href="https://www.simplypadre.com" target="_blank">Find a Place to Stay</a></article>
 							<article class="bdai-whitecap-nearby-card bdai-reveal">
 								<div class="bdai-whitecap-nearby-icon"><i class="bi bi-bicycle" aria-hidden="true"></i></div>
 
-								<h3 class="bdai-whitecap-nearby-card-title">Fishing and Boating Services</h3>
+								<h3 class="bdai-whitecap-nearby-card-title">Rentals and Outdoor Gear</h3>
 
-								<p class="bdai-whitecap-nearby-card-copy">Look for local fishing guides, bait and tackle shops, kayak resources, boat services, paddling equipment, and other businesses that support time on the Gulf and bay.</p><a class="bdai-whitecap-nearby-link" href="https://www.simplypadre.com" target="_blank">Browse Island Activities</a></article>
+								<p class="bdai-whitecap-nearby-card-copy">Rental vendors near the beach include Gulf Coast Mokes, Love Shack Tiki Hut, Corpus Beach Rentals, Joyride Rentals, Pretty Picnics, and Paint and Picnic.</p><a class="bdai-whitecap-nearby-link" href="https://www.simplypadre.com" target="_blank">Browse Island Rentals</a></article>
 							<article class="bdai-whitecap-nearby-card bdai-reveal">
 								<div class="bdai-whitecap-nearby-icon"><i class="bi bi-water" aria-hidden="true"></i></div>
 
-								<h3 class="bdai-whitecap-nearby-card-title">Beaches, Park, and Attractions</h3>
+								<h3 class="bdai-whitecap-nearby-card-title">Nearby Beaches and Parks</h3>
 
-								<p class="bdai-whitecap-nearby-card-copy">Continue exploring Mustang Island&rsquo;s coastline, Port Aransas, the broader Corpus Christi area, nearby beaches, coastal parks, nature experiences, and family-friendly attractions.</p><a class="bdai-whitecap-nearby-link" href="https://www.simplypadre.com" target="_blank">Explore Nearby Places</a></article>
+								<p class="bdai-whitecap-nearby-card-copy">Continue along the coast to Michael J. Ellis Beach &amp; Seawall, Padre Balli Park, Mustang Island State Park, or other North Padre Island beach access points.</p><a class="bdai-whitecap-nearby-link" href="https://www.simplypadre.com" target="_blank">Explore Local Beaches</a></article>
 						</div></div>
 				</section>
 			</td>
@@ -375,84 +345,66 @@
 				<section class="bdai-whitecap-faq" id="bdai-whitecap-faq">
 					<div class="container">
 						<div class="bdai-whitecap-faq-heading bdai-reveal">
-							<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">island State Park Questions</div>
+							<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Whitecap Beach Questions</div>
 
 							<h2 class="bdai-whitecap-faq-title">Helpful Answers Before Your Visit</h2>
 
-							<p class="bdai-whitecap-faq-intro">Mustang Island State Park is a popular Texas beach destination with limited capacity, changing coastal conditions, camping choices, and park-specific policies. Confirm the latest information before traveling.</p>
+							<p class="bdai-whitecap-faq-intro">Whitecap Beach is a public Gulf beach with changing weather, surf, seasonal operations, and current city rules. Confirm the latest information before traveling, especially for permits, lifeguard coverage, camping conditions, and beach access.</p>
 						</div>
 						<div class="bdai-whitecap-faq-grid">
 							<article class="bdai-whitecap-faq-card bdai-reveal">
 
-								<h3 class="bdai-whitecap-faq-question">Where is Mustang Island State Park?</h3>
+								<h3 class="bdai-whitecap-faq-question">Where is Whitecap Beach?</h3>
 
-								<p class="bdai-whitecap-faq-answer">Mustang Island State Park is at 9394 State Highway 361 near Corpus Christi and Port Aransas on Mustang Island, Texas. It is a Texas state park with more than five miles of Gulf coastline and is separate from the broader Mustang Island destination.</p>
+								<p class="bdai-whitecap-faq-answer">Whitecap Beach is at the end of Whitecap Boulevard on North Padre Island in Corpus Christi, Texas. Visitors can also reach the area from Access Road 4 off South Padre Island Drive. It sits between Michael J. Ellis Beach and Padre Balli Park.</p>
 							</article>
 							<article class="bdai-whitecap-faq-card bdai-reveal">
 
-								<h3 class="bdai-whitecap-faq-question">What are the park&rsquo;s hours?</h3>
+								<h3 class="bdai-whitecap-faq-question">Is parking available at Whitecap Beach?</h3>
 
-								<p class="bdai-whitecap-faq-answer">The park is listed as open daily from 8:00 a.m. to 5:00 p.m. Hours, access, and capacity can be affected by conditions or park operations, so check current information before leaving.</p>
+								<p class="bdai-whitecap-faq-answer">Yes. The city identifies a separate area for cars at Whitecap Beach, and visitors can access the beach from Whitecap Boulevard or Access Road 4. Follow current signs and beach-traffic instructions when you arrive.</p>
 							</article>
 							<article class="bdai-whitecap-faq-card bdai-reveal">
 
-								<h3 class="bdai-whitecap-faq-question">Is there an entrance fee?</h3>
+								<h3 class="bdai-whitecap-faq-question">Is a beach parking permit required?</h3>
 
-								<p class="bdai-whitecap-faq-answer">Yes. The current standard entrance fee is $7 per adult per day. Children age 12 and under enter free. Camping and other facilities have separate charges.</p>
+								<p class="bdai-whitecap-faq-answer">Yes. A beach parking permit is required to park on the beach at Whitecap Beach. Visitor information lists the annual permit at $12, valid from January 1 through December 31. Verify current pricing and purchase locations before your visit.</p>
 							</article>
 							<article class="bdai-whitecap-faq-card bdai-reveal">
 
-								<h3 class="bdai-whitecap-faq-question">Is camping available?</h3>
+								<h3 class="bdai-whitecap-faq-question">Can visitors bring dogs?</h3>
 
-								<p class="bdai-whitecap-faq-answer">Yes. Mustang Island State Park offers water-and-electric campsites and drive-up primitive beach campsites. Because the park can reach capacity, reservations are recommended for day use and reservable camping.</p>
+								<p class="bdai-whitecap-faq-answer">Dogs are allowed at Whitecap Beach when they are on a leash or under verbal command, and owners must properly dispose of pet waste. Whitecap Beach is off-limits to dogs on major holidays, so check current holiday guidance before bringing a pet.</p>
 							</article>
 							<article class="bdai-whitecap-faq-card bdai-reveal">
 
-								<h3 class="bdai-whitecap-faq-question">What types of campsites are available?</h3>
+								<h3 class="bdai-whitecap-faq-question">Is camping allowed at Whitecap Beach?</h3>
 
-								<p class="bdai-whitecap-faq-answer">There are 48 water-and-electric sites about 400 yards from the water and 50 drive-up primitive sites along a 1.5-mile beach area. Electric sites cost $25 per night plus entrance, while primitive sites cost $13 per night plus entrance and are non-reservable.</p>
+								<p class="bdai-whitecap-faq-answer">Camping is allowed on Gulf beach areas under current city rules, except in front of condos and hotels. Camping is limited to 3 consecutive days and nights and no more than 6 total days within a month. Follow posted instructions and any active burn-ban notice.</p>
 							</article>
 							<article class="bdai-whitecap-faq-card bdai-reveal">
 
-								<h3 class="bdai-whitecap-faq-question">Can visitors swim at the beach?</h3>
+								<h3 class="bdai-whitecap-faq-question">Are restrooms available?</h3>
 
-								<p class="bdai-whitecap-faq-answer">Swimming is an available park activity, along with surfing and other beach recreation. No lifeguards are present at the primitive beach camping area, so check conditions, understand surf and current risks, and swim at your own risk.</p>
+								<p class="bdai-whitecap-faq-answer">Whitecap Beach visitor information lists portable toilets on site, along with trash cans at beach entrances and along the beach. The available information does not confirm permanent restrooms, showers, changing rooms, or drinking-water stations directly at the beach.</p>
 							</article>
 							<article class="bdai-whitecap-faq-card bdai-reveal">
 
-								<h3 class="bdai-whitecap-faq-question">Is fishing allowed?</h3>
+								<h3 class="bdai-whitecap-faq-question">Are lifeguards available?</h3>
 
-								<p class="bdai-whitecap-faq-answer">Yes. Surf fishing and bay fishing are available, and the park&rsquo;s paddling trail passes through shallow-water fishing areas. Check current Texas fishing regulations and license requirements before your trip.</p>
-							</article>
-							<article class="bdai-whitecap-faq-card bdai-reveal">
-
-								<h3 class="bdai-whitecap-faq-question">Are dogs allowed?</h3>
-
-								<p class="bdai-whitecap-faq-answer">Pet restrictions can vary by park area and current policy. Confirm the latest rules with Mustang Island State Park before bringing a dog, keep pets controlled, and prevent them from disturbing wildlife or protected habitat.</p>
-							</article>
-							<article class="bdai-whitecap-faq-card bdai-reveal">
-
-								<h3 class="bdai-whitecap-faq-question">Are restrooms and showers available?</h3>
-
-								<p class="bdai-whitecap-faq-answer">Yes. Full restrooms and hot-water showers are located near the water-and-electric campground. Primitive beach campers have access to restrooms at varying distances, and portable toilets are available along portions of the beach.</p>
-							</article>
-							<article class="bdai-whitecap-faq-card bdai-reveal">
-
-								<h3 class="bdai-whitecap-faq-question">Can visitors make reservations?</h3>
-
-								<p class="bdai-whitecap-faq-answer">Reservations can be made online or by calling 512-389-8900. Reservations are recommended for day use and camping because the park may fill to capacity. Primitive drive-up beach sites are non-reservable.</p>
+								<p class="bdai-whitecap-faq-answer">Mobile lifeguards patrol Whitecap Beach, and lifeguard stands are present during the summer season from Memorial Day through Labor Day. Coverage can vary, so check the current Corpus Christi Parks &amp; Recreation lifeguard schedule and never rely on lifeguards as a substitute for water safety.</p>
 							</article>
 							<article class="bdai-whitecap-faq-card bdai-reveal">
 
 								<h3 class="bdai-whitecap-faq-question">What activities can visitors do?</h3>
 
-								<p class="bdai-whitecap-faq-answer">Visitors can swim, surf, walk the beach, fish, camp, picnic, paddle, birdwatch, photograph the coast, explore nature, attend ranger programs, stargaze, beachcomb, geocache, and enjoy the park&rsquo;s open Gulf and bay scenery.</p>
+								<p class="bdai-whitecap-faq-answer">Visitors can swim when conditions are appropriate, relax, walk, jog, fish, surf, build sandcastles, camp, photograph the coast, and enjoy other beach recreation. Rental vendors and nearby businesses offer additional ways to spend time around North Padre Island.</p>
 							</article>
 							<article class="bdai-whitecap-faq-card bdai-reveal">
 
 								<h3 class="bdai-whitecap-faq-question">What should visitors know before visiting?</h3>
 
-								<p class="bdai-whitecap-faq-answer">Bring water, food, sun protection, suitable footwear, fishing supplies, first-aid items, and layers for wind. Check capacity, weather, tides, surf, beach conditions, fire restrictions, pet rules, and reservation availability before traveling.</p>
+								<p class="bdai-whitecap-faq-answer">Bring water, sun protection, suitable shoes, layers for wind, and a way to carry your trash. Display the required parking permit, follow the 15 mph Gulf beach speed limit, keep glass off the beach, check surf and weather conditions, and confirm current camping, fire, lifeguard, and access information before you go.</p>
 							</article>
 						</div></div>
 				</section>
@@ -462,7 +414,7 @@
 </table>
 
 <style>
-  .bdai-whitecap-hero  {
+.bdai-whitecap-hero  {
    position:relative;
    overflow:hidden;
    padding:72px 0;

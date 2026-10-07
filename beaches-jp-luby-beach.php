@@ -6,18 +6,18 @@
 					<div class="container">
 						<div class="bdai-whitecap-hero-layout bdai-reveal">
 							<div class="bdai-whitecap-hero-copy">
-								<div class="bdai-whitecap-hero-eyebrow" style="white-space:nowrap !important;width:fit-content;">Mustang Island State Park</div>
+								<div class="bdai-whitecap-hero-eyebrow" style="white-space:nowrap !important;width:fit-content;">JP Luby Beach</div>
 
-								<h1 class="bdai-whitecap-hero-title">Mustang Island State Park, a Wide-Open Texas Beach Escape</h1>
+								<h1 class="bdai-whitecap-hero-title">JP Luby Beach, Where North Padre Island Meets the Surf</h1>
 
-								<p class="bdai-whitecap-hero-lead">Mustang Island State Park brings more than five miles of open Gulf shoreline, rolling dunes, shallow bay waters, and relaxed coastal recreation to the Texas coast near Corpus Christi.</p>
+								<p class="bdai-whitecap-hero-lead">JP Luby Beach, also known as North Packery Beach or JP Luby Surf Park, is one of the most active Gulf beach areas near Corpus Christi, Texas. Located along Mustang Island near North Packery Channel, it brings together wide sand, open Gulf water, strong coastal breezes, and room for a full day outdoors.</p>
 
-								<p class="bdai-whitecap-hero-copy-text">Use this local guide to plan a beach day or camping trip, understand park fees and reservations, choose activities, prepare for changing coastal conditions, and discover nearby businesses, accommodations, beaches, and attractions through Simply Padre.</p>
-								<div class="bdai-whitecap-hero-actions"><a class="bdai-whitecap-hero-primary" href="https://www.simplypadre.com" target="_blank">Explore Simply Padre</a> <a class="bdai-whitecap-hero-secondary" href="https://tpwd.texas.gov/state-parks/mustang-island" target="_blank">Plan Your Visit</a></div></div>
-							<div class="bdai-whitecap-hero-media"><img src="https://tpwd.texas.gov/state-parks/mustang-island/gallery/mustangisland-168.jpg" alt="Mustang Island State Park Gulf beach and shoreline" class="img-rounded fr-fil fr-dib" fetchpriority="high" decoding="async">
+								<p class="bdai-whitecap-hero-copy-text">Use this local guide to plan your visit, understand beach parking and camping rules, choose activities that fit current conditions, and discover restaurants, accommodations, rentals, and attractions around North Padre Island.</p>
+								<div class="bdai-whitecap-hero-actions"><a class="bdai-whitecap-hero-primary" href="https://www.simplypadre.com" target="_blank">Explore Simply Padre</a> <a class="bdai-whitecap-hero-secondary" href="https://www.corpuschristitx.gov/department-directory/parks-and-recreation/beaches/beach-rules/" target="_blank">Review Beach Rules</a></div></div>
+							<div class="bdai-whitecap-hero-media"><img src="https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,h_375,q_75,w_500/v1/clients/corpuschristitx/Screenshot_2025_01_02_at_1_29_32_PM_a1eabdcb-68f2-498c-9ee1-d08655a4d35f.png" alt="JP Luby Beach coastal shoreline" class="img-rounded fr-fil fr-dib" fetchpriority="high" decoding="async">
 								<br>
 
-								<p class="bdai-whitecap-hero-caption">Mustang Island State Park combines a broad Gulf beach with dunes, coastal wildlife habitat, bay access, camping, and the open-water character that makes Mustang Island special.</p>
+								<p class="bdai-whitecap-hero-caption">A breezy North Padre Island shoreline near North Packery Channel, with open Gulf views and space for surfing, fishing, beach driving, and relaxing by the water.</p>
 							</div></div></div>
 				</section>
 			</td>
@@ -32,33 +32,33 @@
 				<section class="bdai-whitecap-about" id="bdai-whitecap-about">
 					<div class="container">
 						<div class="bdai-whitecap-about-heading bdai-reveal">
-							<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Protected Island Landscape</div>
+							<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Local North Padre Guide</div>
 
-							<h2 class="bdai-whitecap-about-title">About Mustang Island State Park</h2>
+							<h2 class="bdai-whitecap-about-title">About JP Luby Beach</h2>
 
-							<p class="bdai-whitecap-about-intro">Mustang Island State Park is a Texas state park on Mustang Island along the Gulf Coast, at 9394 State Highway 361 near Corpus Christi and Port Aransas. The park protects more than five miles of coastline and gives visitors room to enjoy the beach, dunes, bay waters, and coastal landscape without confusing the park with Mustang Island as a whole or with neighboring Padre Island.</p>
+							<p class="bdai-whitecap-about-intro">JP Luby Beach is the local name commonly used for North Packery Beach on Mustang Island in Corpus Christi. The beach stretches along the Gulf near North Packery Channel and is associated with the area around mile markers 207 through 195. Visitors reach it from State Highway 361 through Zahn Road or Newport Pass Road, making it a practical destination for both locals and travelers exploring the North Padre Island coast.</p>
 						</div>
 						<div class="bdai-whitecap-about-grid">
 							<article class="bdai-whitecap-about-card bdai-reveal">
-								<div class="bdai-whitecap-about-icon"><i class="bi bi-tree" aria-hidden="true"></i></div>
-
-								<h3 class="bdai-whitecap-card-title">A Texas State Park on Mustang Island</h3>
-
-								<p class="bdai-whitecap-card-copy">The park is a designated Texas State Park located along State Highway 361 on the central portion of Mustang Island. Its protected shoreline offers a different experience from the busier commercial areas of Port Aransas and the developed beach communities elsewhere along the coast.</p>
-							</article>
-							<article class="bdai-whitecap-about-card bdai-reveal">
 								<div class="bdai-whitecap-about-icon"><i class="bi bi-water" aria-hidden="true"></i></div>
 
-								<h3 class="bdai-whitecap-card-title">Gulf Beach, Dunes, and Bay Waters</h3>
+								<h3 class="bdai-whitecap-card-title">A Watersports-Focused Beach</h3>
 
-								<p class="bdai-whitecap-card-copy">The park&rsquo;s natural setting includes a wide Gulf beach, sand dunes, shallow bayside waters, and an expansive horizon. The contrast between surf, sand, wind, and bay scenery makes it appealing for swimming, fishing, beach walks, paddling, and quiet sightseeing.</p>
+								<p class="bdai-whitecap-card-copy">JP Luby stands out for its connection to North Packery Channel and its reputation as a watersports destination. Surfing, kiteboarding, wakeboarding, jet-skiing, and surf fishing all fit naturally into the area when wind, waves, and safety conditions cooperate.</p>
 							</article>
 							<article class="bdai-whitecap-about-card bdai-reveal">
-								<div class="bdai-whitecap-about-icon"><i class="bi bi-feather" aria-hidden="true"></i></div>
+								<div class="bdai-whitecap-about-icon"><i class="bi bi-geo-alt" aria-hidden="true"></i></div>
 
-								<h3 class="bdai-whitecap-card-title">A Coastal Refuge for Wildlife</h3>
+								<h3 class="bdai-whitecap-card-title">A North Padre Island Location</h3>
 
-								<p class="bdai-whitecap-card-copy">Spring and fall migrations bring especially good birding opportunities, while the paddling trail provides views across shallow-water habitat and coastal bird areas. Dunes, beaches, and bay edges support a changing mix of birds and other coastal wildlife throughout the year.</p>
+								<p class="bdai-whitecap-card-copy">The beach offers a different pace from a formal city park: visitors can arrive for a quick walk, spend hours near the water, or use the packed sand as part of a longer coastal outing. Its position near the channel also makes it a useful base for exploring nearby island businesses and attractions.</p>
+							</article>
+							<article class="bdai-whitecap-about-card bdai-reveal">
+								<div class="bdai-whitecap-about-icon"><i class="bi bi-wind" aria-hidden="true"></i></div>
+
+								<h3 class="bdai-whitecap-card-title">An Open Gulf Coast Experience</h3>
+
+								<p class="bdai-whitecap-card-copy">Expect a broad, active shoreline shaped by wind, surf, tides, and changing weather. JP Luby can feel energetic during favorable watersports conditions and spacious during a quieter beach walk, giving visitors plenty of ways to enjoy the coast at their own pace.</p>
 							</article>
 						</div></div>
 				</section>
@@ -75,67 +75,35 @@
 					<div class="container">
 						<div class="bdai-whitecap-things-layout">
 							<div class="bdai-whitecap-things-copy bdai-reveal">
-								<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Make the Most of the Coast</div>
+								<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Make the Most of JP Luby</div>
 
-								<h2 class="bdai-whitecap-things-title">Things to Do at Mustang Island State Park</h2>
+								<h2 class="bdai-whitecap-things-title">Things to Do at JP Luby Beach</h2>
 
-								<p class="bdai-whitecap-things-lead">Mustang Island State Park is built for flexible outdoor days. You can settle into a beach chair, follow the shoreline, launch a paddle trip, cast into the surf, or stay overnight while the Gulf changes from morning light to evening sky.</p>
+								<p class="bdai-whitecap-things-lead">JP Luby Beach is especially appealing when you want an active Gulf Coast day rather than a tightly scheduled attraction. Match your plans to the surf, wind, tide, beach traffic, and the comfort level of everyone in your group.</p>
 								<div class="bdai-whitecap-things-list">
 									<div class="bdai-whitecap-things-item">
-										<div class="bdai-whitecap-things-icon"><i class="bi bi-umbrella" aria-hidden="true"></i></div>
+										<div class="bdai-whitecap-things-icon"><i class="bi bi-water" aria-hidden="true"></i></div>
 										<div class="bdai-whitecap-things-item-copy">
 
-											<h3 class="bdai-whitecap-things-item-title">Swim and Enjoy the Beach</h3>
+											<h3 class="bdai-whitecap-things-item-title">Surf and Ride the Water</h3>
 
-											<p class="bdai-whitecap-things-item-text">Spend time in the Gulf, relax on the sand, surf when conditions and experience allow, or build sandcastles with the family. There are no lifeguards at the primitive beach camping area, so check conditions, supervise children, and swim at your own risk.</p>
+											<p class="bdai-whitecap-things-item-text">Surfing is one of the main reasons visitors seek out JP Luby, where offshore winds can create favorable watersports conditions. Jet-skiing, kiteboarding, and wakeboarding are also associated with the North Packery area; always check current conditions and use equipment appropriate for your experience.</p>
+										</div></div>
+									<div class="bdai-whitecap-things-item">
+										<div class="bdai-whitecap-things-icon"><i class="bi bi-geo-alt" aria-hidden="true"></i></div>
+										<div class="bdai-whitecap-things-item-copy">
+
+											<h3 class="bdai-whitecap-things-item-title">Fish the Surf</h3>
+
+											<p class="bdai-whitecap-things-item-text">Surf fishing gives visitors a relaxed way to spend time along the shoreline. Bring suitable gear, protect bait and equipment from the wind, and stay aware of swimmers, vehicles, changing water depth, and other beach users.</p>
 										</div></div>
 									<div class="bdai-whitecap-things-item">
 										<div class="bdai-whitecap-things-icon"><i class="bi bi-person-walking" aria-hidden="true"></i></div>
 										<div class="bdai-whitecap-things-item-copy">
 
-											<h3 class="bdai-whitecap-things-item-title">Walk, Beachcomb, and Explore</h3>
+											<h3 class="bdai-whitecap-things-item-title">Walk, Swim, and Relax</h3>
 
-											<p class="bdai-whitecap-things-item-text">Walk more than five miles of open shoreline, look for changing beach patterns, enjoy the dunes from appropriate access areas, and take in the wide views across the Gulf. Leave wildlife, dunes, vegetation, and natural features undisturbed.</p>
-										</div></div>
-									<div class="bdai-whitecap-things-item">
-										<div class="bdai-whitecap-things-icon"><i class="bi bi-fish" aria-hidden="true"></i></div>
-										<div class="bdai-whitecap-things-item-copy">
-
-											<h3 class="bdai-whitecap-things-item-title">Fish the Surf and Bay</h3>
-
-											<p class="bdai-whitecap-things-item-text">Surf fishing and bay fishing are available, and the shallow-water paddling trail passes through areas known for fishing. Bring the equipment and licenses required for your trip, and check current Texas regulations before casting.</p>
-										</div></div>
-									<div class="bdai-whitecap-things-item">
-										<div class="bdai-whitecap-things-icon"><i class="bi bi-moon-stars" aria-hidden="true"></i></div>
-										<div class="bdai-whitecap-things-item-copy">
-
-											<h3 class="bdai-whitecap-things-item-title">Camp Beside the Coast</h3>
-
-											<p class="bdai-whitecap-things-item-text">Choose a reserved water-and-electric campsite about 400 yards from the water or a drive-up primitive site along a 1.5-mile stretch of beach. The two camping styles create different experiences, from supported campground stays to more direct beach access.</p>
-										</div></div>
-									<div class="bdai-whitecap-things-item">
-										<div class="bdai-whitecap-things-icon"><i class="bi bi-wind" aria-hidden="true"></i></div>
-										<div class="bdai-whitecap-things-item-copy">
-
-											<h3 class="bdai-whitecap-things-item-title">Paddle the Bay</h3>
-
-											<p class="bdai-whitecap-things-item-text">The Mustang Island State Park Paddling Trail includes three segments and follows the island&rsquo;s western shoreline in Corpus Christi Bay. The full trail totals 20 miles and offers shallow-water scenery, fishing access, and coastal-bird viewing for prepared paddlers.</p>
-										</div></div>
-									<div class="bdai-whitecap-things-item">
-										<div class="bdai-whitecap-things-icon"><i class="bi bi-binoculars" aria-hidden="true"></i></div>
-										<div class="bdai-whitecap-things-item-copy">
-
-											<h3 class="bdai-whitecap-things-item-title">Watch Birds and Wildlife</h3>
-
-											<p class="bdai-whitecap-things-item-text">Birding is especially rewarding during spring and fall migration, but coastal birds can be enjoyed year-round. Join a ranger program when available, bring binoculars, and observe wildlife from a respectful distance along the beach, dunes, and bay.</p>
-										</div></div>
-									<div class="bdai-whitecap-things-item">
-										<div class="bdai-whitecap-things-icon"><i class="bi bi-compass" aria-hidden="true"></i></div>
-										<div class="bdai-whitecap-things-item-copy">
-
-											<h3 class="bdai-whitecap-things-item-title">Join Ranger Programs</h3>
-
-											<p class="bdai-whitecap-things-item-text">Depending on the season and schedule, the park may offer birding, stargazing, beachcombing, and nature-walk programs. Geocaching and volunteer opportunities also give returning visitors new ways to connect with the park.</p>
+											<p class="bdai-whitecap-things-item-text">Take a shoreline walk, settle into the sand, or enjoy a swim when conditions are suitable. Swimming areas may be sectioned off during summer, so look for current beach guidance and remain near lifeguards whenever they are on duty.</p>
 										</div></div>
 									<div class="bdai-whitecap-things-item">
 										<div class="bdai-whitecap-things-icon"><i class="bi bi-camera" aria-hidden="true"></i></div>
@@ -143,12 +111,12 @@
 
 											<h3 class="bdai-whitecap-things-item-title">Photograph the Coast</h3>
 
-											<p class="bdai-whitecap-things-item-text">Photograph Gulf surf, dune textures, bay reflections, fishing scenes, campground details, shorebirds, sunrise, and evening light. Keep your composition natural by giving wildlife space and avoiding fragile dunes and protected areas.</p>
+											<p class="bdai-whitecap-things-item-text">The channel, open Gulf, moving clouds, surf equipment, beach traffic, and changing light create strong opportunities for coastal photography. Sunrise and sunset can bring a quieter mood, while windy days highlight the active character of JP Luby.</p>
 										</div></div></div></div>
-							<div class="bdai-whitecap-things-media bdai-reveal"><img src="https://tpwd.texas.gov/state-parks/mustang-island/gallery/mustang-island_3462.jpg" alt="Mustang Island State Park beach and coastal dunes" class="img-rounded fr-fil fr-dib" loading="lazy" decoding="async">
+							<div class="bdai-whitecap-things-media bdai-reveal"><img src="https://tpwd.texas.gov/state-parks/mustang-island/gallery/mustangisland-168.jpg" alt="Mustang Island Gulf beach shoreline" class="img-rounded fr-fil fr-dib" loading="lazy" decoding="async">
 								<br>
 
-								<p class="bdai-whitecap-things-note">Bring drinking water, sun protection, food, fishing supplies, suitable footwear, first-aid items, and layers for changing wind. The park store offers some supplies, but services are limited compared with the nearby communities.</p>
+								<p class="bdai-whitecap-things-note">Bring drinking water, sunscreen, shade, towels, suitable footwear, and waste bags. The Gulf can change quickly, so check surf reports, tide information, wind, weather, and current beach safety notices before entering the water.</p>
 							</div></div></div>
 				</section>
 			</td>
@@ -163,82 +131,50 @@
 				<section class="bdai-whitecap-before" id="bdai-whitecap-before">
 					<div class="container">
 						<div class="bdai-whitecap-before-layout">
-							<div class="bdai-whitecap-before-media bdai-reveal"><img src="https://tpwd.texas.gov/state-parks/mustang-island/gallery/misp_rv_3422.jpg" alt="Mustang Island State Park campground and coastal camping area" class="img-rounded fr-fil fr-dib" loading="lazy" decoding="async">
+							<div class="bdai-whitecap-before-media bdai-reveal"><img src="https://tpwd.texas.gov/state-parks/mustang-island/gallery/misp_6234.jpg" alt="Mustang Island beach access and sand" class="img-rounded fr-fil fr-dib" loading="lazy" decoding="async">
 
 								<p>
 									<br>
 								</p>
-								<div class="bdai-whitecap-before-badge"><strong>Plan for a coastal state park</strong> <span>Mustang Island State Park offers beach access and useful facilities, but weather, tides, surf, sand, and capacity can affect the experience. Reserve ahead when possible and check conditions before leaving for the coast.</span></div></div>
+								<div class="bdai-whitecap-before-badge"><strong>Plan for changing conditions</strong> <span>JP Luby is an open Gulf beach where wind, surf, tides, weather, beach traffic, and access conditions can change. Check current information before you leave.</span></div></div>
 							<div class="bdai-whitecap-before-copy bdai-reveal">
 								<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">What to Know Before You Go</div>
 
-								<h2 class="bdai-whitecap-before-title">Mustang Island State Park Information</h2>
+								<h2 class="bdai-whitecap-before-title">Prepare for a Flexible Beach Day</h2>
 
-								<p class="bdai-whitecap-before-lead">The park is open daily from 8:00 a.m. to 5:00 p.m. Adult entrance is $7 per day, and children age 12 and under enter free. Because the park can reach capacity, Texas Parks and Wildlife recommends reservations for camping and day use when available.</p>
+								<p class="bdai-whitecap-before-lead">JP Luby Beach combines drive-on Gulf beach access with an active watersports setting near North Packery Channel. A little preparation makes it easier to arrive with the right permit, supplies, safety plan, and expectations for a natural beach environment.</p>
 								<div class="bdai-whitecap-before-details">
 									<div class="bdai-whitecap-before-detail">
 										<div class="bdai-whitecap-before-detail-icon"><i class="bi bi-sign-turn-right" aria-hidden="true"></i></div>
 										<div class="bdai-whitecap-before-detail-copy">
 
-											<h3 class="bdai-whitecap-before-detail-title">Access, Address, and Parking</h3>
+											<h3 class="bdai-whitecap-before-detail-title">Access, Parking, and Permits</h3>
 
-											<p class="bdai-whitecap-before-detail-text">Mustang Island State Park is located at 9394 State Highway 361, Corpus Christi, Texas 78418, between the Corpus Christi area and Port Aransas on Mustang Island. Day-use and camping access are subject to park capacity and current conditions, so reserve a day pass when possible and follow posted parking and beach-access guidance.</p>
-										</div></div>
-									<div class="bdai-whitecap-before-detail">
-										<div class="bdai-whitecap-before-detail-icon"><i class="bi bi-ticket-perforated" aria-hidden="true"></i></div>
-										<div class="bdai-whitecap-before-detail-copy">
-
-											<h3 class="bdai-whitecap-before-detail-title">Entrance Fees and Reservations</h3>
-
-											<p class="bdai-whitecap-before-detail-text">The current standard entrance fee is $7 per adult per day, while children age 12 and under enter free. Reservations can be made online or by calling 512-389-8900. A reservation is highly recommended for both day use and camping because the park may fill to capacity.</p>
-										</div></div>
-									<div class="bdai-whitecap-before-detail">
-										<div class="bdai-whitecap-before-detail-icon"><i class="bi bi-house-heart" aria-hidden="true"></i></div>
-										<div class="bdai-whitecap-before-detail-copy">
-
-											<h3 class="bdai-whitecap-before-detail-title">Camping Options and Campsites</h3>
-
-											<p class="bdai-whitecap-before-detail-text">The park has 48 water-and-electric campsites located about 400 yards from the water and 50 drive-up primitive sites along a 1.5-mile beach stretch. Water-and-electric sites cost $25 per night plus the daily entrance fee and include water, a 50-amp hookup, a picnic table, grill, and shade shelter. Primitive sites cost $13 per night plus the daily entrance fee and are non-reservable.</p>
+											<p class="bdai-whitecap-before-detail-text">From State Highway 361, visitors can reach the area through Zahn Road or Newport Pass Road. JP Luby is a Gulf beach where a beach parking permit is required for parking on the beach. The City of Corpus Christi lists the annual permit sticker at $12; confirm current purchase details and access conditions before traveling.</p>
 										</div></div>
 									<div class="bdai-whitecap-before-detail">
 										<div class="bdai-whitecap-before-detail-icon"><i class="bi bi-building" aria-hidden="true"></i></div>
 										<div class="bdai-whitecap-before-detail-copy">
 
-											<h3 class="bdai-whitecap-before-detail-title">Restrooms, Showers, and Picnic Areas</h3>
+											<h3 class="bdai-whitecap-before-detail-title">Restrooms and Beach Facilities</h3>
 
-											<p class="bdai-whitecap-before-detail-text">Full restrooms and hot-water showers are located near the water-and-electric campground. Primitive campers have access to restrooms at varying distances from the beach sites, and portable toilets are available along portions of the beach. Picnic tables, grills, shade shelters, a park store, and beach areas support day trips and overnight stays.</p>
-										</div></div>
-									<div class="bdai-whitecap-before-detail">
-										<div class="bdai-whitecap-before-detail-icon"><i class="bi bi-fish" aria-hidden="true"></i></div>
-										<div class="bdai-whitecap-before-detail-copy">
-
-											<h3 class="bdai-whitecap-before-detail-title">Fishing and Water Activities</h3>
-
-											<p class="bdai-whitecap-before-detail-text">Surf fishing and bay fishing are available, and the 20-mile Mustang Island State Park Paddling Trail follows the western shoreline through shallow-water areas. Check current weather, wind, tides, water conditions, fishing regulations, and launch guidance before paddling or fishing.</p>
+											<p class="bdai-whitecap-before-detail-text">Visitor information for North Packery Beach identifies port-o-potties, outdoor showers, trash cans at beach entrances and along the beach, and free trash-bag stations in blue boxes near access roads. Bring water and personal supplies because facilities can be distributed across a wide beach area.</p>
 										</div></div>
 									<div class="bdai-whitecap-before-detail">
 										<div class="bdai-whitecap-before-detail-icon"><i class="bi bi-universal-access" aria-hidden="true"></i></div>
 										<div class="bdai-whitecap-before-detail-copy">
 
-											<h3 class="bdai-whitecap-before-detail-title">Accessibility and Beach Wheelchairs</h3>
+											<h3 class="bdai-whitecap-before-detail-title">Accessibility and Water Safety</h3>
 
-											<p class="bdai-whitecap-before-detail-text">The park has two beach wheelchairs available to borrow at no charge. Ask park staff about availability when you arrive. Conditions on sand, dunes, and the shoreline can change, so visitors should confirm the most suitable access information directly with the park.</p>
+											<p class="bdai-whitecap-before-detail-text">No JP Luby-specific information confirms accessible beach mats, adaptive equipment, or other dedicated accessibility features. For current beach-wheelchair or access questions, contact Corpus Christi Beach Operations at (361) 826-3469. Swim near lifeguards when they are present, never swim alone, and review current surf and flag conditions.</p>
 										</div></div>
 									<div class="bdai-whitecap-before-detail">
-										<div class="bdai-whitecap-before-detail-icon"><i class="bi bi-heart-pulse" aria-hidden="true"></i></div>
+										<div class="bdai-whitecap-before-detail-icon"><i class="bi bi-moon-stars" aria-hidden="true"></i></div>
 										<div class="bdai-whitecap-before-detail-copy">
 
-											<h3 class="bdai-whitecap-before-detail-title">Swimming, Pets, and Safety</h3>
+											<h3 class="bdai-whitecap-before-detail-title">Camping, Dogs, and Campfires</h3>
 
-											<p class="bdai-whitecap-before-detail-text">Swimming, surfing, and beach recreation are available, but no lifeguards are present at the primitive beach camping area. Pet restrictions can vary by park area and current policy, so confirm the latest rules with park staff before bringing a dog. Keep pets controlled and away from wildlife.</p>
-										</div></div>
-									<div class="bdai-whitecap-before-detail">
-										<div class="bdai-whitecap-before-detail-icon"><i class="bi bi-shield-check" aria-hidden="true"></i></div>
-										<div class="bdai-whitecap-before-detail-copy">
-
-											<h3 class="bdai-whitecap-before-detail-title">Beach Rules and Changing Conditions</h3>
-
-											<p class="bdai-whitecap-before-detail-text">Respect posted closures, protect dunes and vegetation, secure food and trash, and leave wildlife and natural features undisturbed. Small beach campfires are allowed in the primitive beach camping area, while campfires are not allowed at water-and-electric campsites; always follow current fire guidance and weather restrictions.</p>
+											<p class="bdai-whitecap-before-detail-text">Camping is allowed on the Gulf beach for up to three consecutive days and nights, with no more than six days within a month, but camping is prohibited in front of condos and hotels. Campfires may be no larger than 3 feet by 3 feet by 3 feet, must be fully extinguished, and may not leave residue or open holes. Dogs are allowed but must be leashed or under verbal command, and North Packery Beach is off-limits to dogs on major holidays.</p>
 										</div></div></div></div></div></div>
 				</section>
 			</td>
@@ -253,40 +189,40 @@
 				<section class="bdai-whitecap-rules" id="bdai-whitecap-rules">
 					<div class="container">
 						<div class="bdai-whitecap-rules-heading bdai-reveal">
-							<div class="bdai-whitecap-section-eyebrow" style="width:fit-content;white-space:nowrap !important;text-align:center;">Respect the Protected Coast</div>
+							<div class="bdai-whitecap-section-eyebrow" style="width:fit-content;white-space:nowrap !important;text-align:center;">Respect the Gulf Beach</div>
 
-							<h2 class="bdai-whitecap-rules-title" style="text-align:left;">Simple Rules for a Better Park Visit</h2>
+							<h2 class="bdai-whitecap-rules-title" style="text-align:left;">Simple Rules for a Better JP Luby Visit</h2>
 
-							<p class="bdai-whitecap-rules-intro" style="text-align:left;">Mustang Island State Park is shared by swimmers, anglers, campers, paddlers, birders, families, beach walkers, and wildlife. A few thoughtful choices help protect the dunes, shoreline, bay waters, and coastal habitat that make the park worth visiting.</p>
+							<p class="bdai-whitecap-rules-intro" style="text-align:left;">JP Luby Beach is a shared public shoreline used by swimmers, anglers, watersports enthusiasts, families, drivers, and wildlife watchers. These reminders help protect the beach and make room for everyone.</p>
 						</div>
 						<div class="bdai-whitecap-rules-grid">
 							<article class="bdai-whitecap-rule-card bdai-reveal">
 								<div class="bdai-whitecap-rule-number">01</div>
 
-								<h3 class="bdai-whitecap-rule-title">Protect Wildlife</h3>
+								<h3 class="bdai-whitecap-rule-title">Keep the Sand Clean</h3>
 
-								<p class="bdai-whitecap-rule-copy">Give birds and other wildlife plenty of space, avoid disturbing nests or habitat, and never chase, feed, or handle wild animals.</p>
+								<p class="bdai-whitecap-rule-copy">Use trash receptacles and free trash-bag stations, collect pet waste, and take responsibility for everything your group brings to the beach.</p>
 							</article>
 							<article class="bdai-whitecap-rule-card bdai-reveal">
 								<div class="bdai-whitecap-rule-number">02</div>
 
-								<h3 class="bdai-whitecap-rule-title">Protect the Dunes</h3>
+								<h3 class="bdai-whitecap-rule-title">Leave Glass at Home</h3>
 
-								<p class="bdai-whitecap-rule-copy">Stay on appropriate access routes, avoid trampling dune vegetation, and follow signs or closures that protect fragile coastal areas.</p>
+								<p class="bdai-whitecap-rule-copy">Glass containers are prohibited on Corpus Christi beaches. Choose safer containers for drinks, food, fishing supplies, and beach equipment.</p>
 							</article>
 							<article class="bdai-whitecap-rule-card bdai-reveal">
 								<div class="bdai-whitecap-rule-number">03</div>
 
-								<h3 class="bdai-whitecap-rule-title">Leave No Trace</h3>
+								<h3 class="bdai-whitecap-rule-title">Drive With Care</h3>
 
-								<p class="bdai-whitecap-rule-copy">Pack out trash, secure food, dispose of fishing line properly, follow fire rules, and leave shells, plants, and other natural features in place.</p>
+								<p class="bdai-whitecap-rule-copy">The Gulf beach speed limit is 15 mph. Watch carefully for pedestrians, children, pets, anglers, changing sand, and other vehicles.</p>
 							</article>
 							<article class="bdai-whitecap-rule-card bdai-reveal">
 								<div class="bdai-whitecap-rule-number">04</div>
 
-								<h3 class="bdai-whitecap-rule-title">Travel for Conditions</h3>
+								<h3 class="bdai-whitecap-rule-title">Leave Every Fire Safe</h3>
 
-								<p class="bdai-whitecap-rule-copy">Check weather, wind, tides, surf, beach conditions, and capacity before driving, swimming, camping, fishing, or paddling.</p>
+								<p class="bdai-whitecap-rule-copy">Keep campfires within the official size limit, extinguish them completely, fill holes, leave no residue, and never use pallets or construction materials.</p>
 							</article>
 						</div></div>
 				</section>
@@ -303,20 +239,20 @@
 					<div class="container">
 						<div class="bdai-whitecap-gallery-layout">
 							<div class="bdai-whitecap-gallery-copy bdai-reveal">
-								<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Scenes From the island</div>
+								<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Scenes From N. Padre Island</div>
 
-								<h2 class="bdai-whitecap-gallery-title">Mustang Island State Park Photo Journal</h2>
+								<h2 class="bdai-whitecap-gallery-title">JP Luby Beach Photo Journal</h2>
 
-								<p class="bdai-whitecap-gallery-intro">The park&rsquo;s visual character comes from the meeting of Gulf water, open sand, dunes, shallow bay, campground life, and long coastal horizons. Every season and tide brings different light, textures, birds, and beach conditions.</p>
+								<p class="bdai-whitecap-gallery-intro">JP Luby Beach is part of a larger North Padre Island landscape where the Gulf, channel, dunes, sand, wind, and wide horizon shape the day. The surrounding coast can feel active and adventurous near the water or calm and spacious during a slower walk.</p>
 
-								<p class="bdai-whitecap-gallery-copy-text">Bring a camera for shoreline patterns, fishing scenes, dune grasses, campground mornings, paddling views, birds, and evening color. Photograph responsibly by staying clear of sensitive habitat and giving wildlife room.</p>
-								<div class="bdai-whitecap-gallery-tip"><i class="bi bi-camera" aria-hidden="true"></i> <span>For stronger coastal photographs, combine the beach, sky, dunes, water, and a human-scale detail such as a fishing rod, tent, paddle, or distant beach walker.</span></div></div>
+								<p class="bdai-whitecap-gallery-copy-text">Use these coastal scenes as inspiration, then plan around the conditions you find when you arrive. Wind, tide, surf, beach traffic, weather, and seasonal activity all influence the experience.</p>
+								<div class="bdai-whitecap-gallery-tip"><i class="bi bi-camera" aria-hidden="true"></i><span>Bring a camera for the surf, channel, shoreline, and changing sky, but leave room to enjoy JP Luby Beach without viewing the whole visit through a screen.</span></div></div>
 							<div class="bdai-whitecap-gallery-visual bdai-reveal">
 								<div class="bdai-collage-grid">
-									<div class="bdai-collage-tile"><img src="https://tpwd.texas.gov/state-parks/mustang-island/gallery/mustangisland-168.jpg" alt="Mustang Island State Park open Gulf beach" class="img-rounded fr-fil fr-dib" loading="lazy" decoding="async"></div>
-									<div class="bdai-collage-tile"><img src="https://tpwd.texas.gov/state-parks/mustang-island/gallery/misp_rv_3422.jpg" alt="Mustang Island State Park RV campground" class="img-rounded fr-fil fr-dib" loading="lazy" decoding="async"></div>
-									<div class="bdai-collage-tile"><img src="https://tpwd.texas.gov/state-parks/mustang-island/gallery/mustang-island-fishing.jpg" alt="Fishing at Mustang Island State Park coast" class="img-rounded fr-fil fr-dib" loading="lazy" decoding="async"></div>
-									<div class="bdai-collage-tile"><img src="https://tpwd.texas.gov/state-parks/mustang-island/gallery/mustang-island949_5_321.jpg" alt="Mustang Island State Park coastal scenery and dunes" class="img-rounded fr-fil fr-dib" loading="lazy" decoding="async"></div></div></div></div></div>
+									<div class="bdai-collage-tile"><img src="https://tpwd.texas.gov/state-parks/mustang-island/gallery/misp_rv_3422.jpg" alt="Mustang Island coastal camping area" class="img-rounded fr-fil fr-dib" loading="lazy" decoding="async"></div>
+									<div class="bdai-collage-tile"><img src="https://tpwd.texas.gov/state-parks/mustang-island/gallery/mustang-island949_5_321.jpg" alt="Mustang Island beach and Gulf water" class="img-rounded fr-fil fr-dib" loading="lazy" decoding="async"></div>
+									<div class="bdai-collage-tile"><img src="https://tpwd.texas.gov/state-parks/mustang-island/gallery/mustang-island-20050026.jpg" alt="Mustang Island coastal shoreline and dunes" class="img-rounded fr-fil fr-dib" loading="lazy" decoding="async"></div>
+									<div class="bdai-collage-tile"><img src="https://tpwd.texas.gov/state-parks/mustang-island/gallery/mustang-island-fishing.jpg" alt="Mustang Island surf fishing scene" class="img-rounded fr-fil fr-dib" loading="lazy" decoding="async"></div></div></div></div></div>
 				</section>
 			</td>
 		</tr>
@@ -330,37 +266,37 @@
 				<section class="bdai-whitecap-nearby" id="bdai-whitecap-nearby">
 					<div class="container">
 						<div class="bdai-whitecap-nearby-heading bdai-reveal">
-							<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Keep Exploring the island</div>
+							<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Keep Exploring THe Island</div>
 
-							<h2 class="bdai-whitecap-nearby-title">Nearby Places to Add to the Trip</h2>
+							<h2 class="bdai-whitecap-nearby-title">Nearby Places to Add to the Day</h2>
 
-							<p class="bdai-whitecap-nearby-intro">Mustang Island State Park works well as the outdoor anchor for a longer coastal itinerary. Use the park for beach time and camping, then explore the businesses, lodging, water activities, beaches, and attractions available around Mustang Island, Port Aransas, and Corpus Christi.</p>
+							<p class="bdai-whitecap-nearby-intro">JP Luby Beach makes a strong starting point for a wider Corpus Christi outing. Pair time on the sand with a local meal, a comfortable place to stay, equipment rentals, a state park visit, or another North Padre Island attraction.</p>
 						</div>
 						<div class="bdai-whitecap-nearby-grid">
 							<article class="bdai-whitecap-nearby-card bdai-reveal">
 								<div class="bdai-whitecap-nearby-icon"><i class="bi bi-shop" aria-hidden="true"></i></div>
 
-								<h3 class="bdai-whitecap-nearby-card-title">Restaurants and Local Dining</h3>
+								<h3 class="bdai-whitecap-nearby-card-title">Island Restaurants</h3>
 
-								<p class="bdai-whitecap-nearby-card-copy">Plan breakfast, lunch, dinner, seafood, coffee, or a post-beach meal by exploring restaurants and local food businesses in the Mustang Island, Port Aransas, and Corpus Christi areas.</p><a class="bdai-whitecap-nearby-link" href="https://www.simplypadre.com" target="_blank">Explore Local Businesses</a></article>
+								<p class="bdai-whitecap-nearby-card-copy">Refuel after the beach at established North Padre Island restaurants including Padre Island Burger Company, Doc&rsquo;s Seafood &amp; Steaks, Snoopy&rsquo;s Pier, and Island Joe&rsquo;s Coffee &amp; Gallery.</p><a class="bdai-whitecap-nearby-link" href="https://www.simplypadre.com" target="_blank">Explore Local Businesses</a></article>
 							<article class="bdai-whitecap-nearby-card bdai-reveal">
 								<div class="bdai-whitecap-nearby-icon"><i class="bi bi-house-heart" aria-hidden="true"></i></div>
 
-								<h3 class="bdai-whitecap-nearby-card-title">Hotels and Vacation Rentals</h3>
+								<h3 class="bdai-whitecap-nearby-card-title">Hotels and Accommodations</h3>
 
-								<p class="bdai-whitecap-nearby-card-copy">Camping is available inside the park, while hotels, condos, vacation rentals, and other accommodations can be found in nearby Mustang Island, Port Aransas, and Corpus Christi.</p><a class="bdai-whitecap-nearby-link" href="https://www.simplypadre.com" target="_blank">Explore Places to Stay</a></article>
+								<p class="bdai-whitecap-nearby-card-copy">Extend your beach time with nearby lodging options such as Lively Beach, El Constante, and Aruba Bay Resort, or compare additional places to stay through the local directory.</p><a class="bdai-whitecap-nearby-link" href="https://www.simplypadre.com" target="_blank">Find a Place to Stay</a></article>
 							<article class="bdai-whitecap-nearby-card bdai-reveal">
 								<div class="bdai-whitecap-nearby-icon"><i class="bi bi-bicycle" aria-hidden="true"></i></div>
 
-								<h3 class="bdai-whitecap-nearby-card-title">Fishing and Boating Services</h3>
+								<h3 class="bdai-whitecap-nearby-card-title">Equipment and Rentals</h3>
 
-								<p class="bdai-whitecap-nearby-card-copy">Look for local fishing guides, bait and tackle shops, kayak resources, boat services, paddling equipment, and other businesses that support time on the Gulf and bay.</p><a class="bdai-whitecap-nearby-link" href="https://www.simplypadre.com" target="_blank">Browse Island Activities</a></article>
+								<p class="bdai-whitecap-nearby-card-copy">Look for local options including Joyride Rentals, Love Shack Tiki Hut, and Corpus Beach Rentals when you need equipment, beach gear, or another way to enjoy the island.</p><a class="bdai-whitecap-nearby-link" href="https://www.simplypadre.com" target="_blank">Browse Island Rentals</a></article>
 							<article class="bdai-whitecap-nearby-card bdai-reveal">
-								<div class="bdai-whitecap-nearby-icon"><i class="bi bi-water" aria-hidden="true"></i></div>
+								<div class="bdai-whitecap-nearby-icon"><i class="bi bi-tree" aria-hidden="true"></i></div>
 
-								<h3 class="bdai-whitecap-nearby-card-title">Beaches, Park, and Attractions</h3>
+								<h3 class="bdai-whitecap-nearby-card-title">Mustang Island State Park</h3>
 
-								<p class="bdai-whitecap-nearby-card-copy">Continue exploring Mustang Island&rsquo;s coastline, Port Aransas, the broader Corpus Christi area, nearby beaches, coastal parks, nature experiences, and family-friendly attractions.</p><a class="bdai-whitecap-nearby-link" href="https://www.simplypadre.com" target="_blank">Explore Nearby Places</a></article>
+								<p class="bdai-whitecap-nearby-card-copy">For more beach, fishing, kayaking, bird-watching, nature walks, and camping, Mustang Island State Park offers more than five miles of coastline south of JP Luby.</p><a class="bdai-whitecap-nearby-link" href="https://tpwd.texas.gov/state-parks/mustang-island" target="_blank">Visit State Park Information</a></article>
 						</div></div>
 				</section>
 			</td>
@@ -375,84 +311,60 @@
 				<section class="bdai-whitecap-faq" id="bdai-whitecap-faq">
 					<div class="container">
 						<div class="bdai-whitecap-faq-heading bdai-reveal">
-							<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">island State Park Questions</div>
+							<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">JP Luby Beach Questions</div>
 
 							<h2 class="bdai-whitecap-faq-title">Helpful Answers Before Your Visit</h2>
 
-							<p class="bdai-whitecap-faq-intro">Mustang Island State Park is a popular Texas beach destination with limited capacity, changing coastal conditions, camping choices, and park-specific policies. Confirm the latest information before traveling.</p>
+							<p class="bdai-whitecap-faq-intro">JP Luby Beach conditions and access can change with weather, surf, tides, seasonal operations, and city rules. These answers summarize current visitor information and point you toward official guidance when details need to be confirmed.</p>
 						</div>
 						<div class="bdai-whitecap-faq-grid">
 							<article class="bdai-whitecap-faq-card bdai-reveal">
 
-								<h3 class="bdai-whitecap-faq-question">Where is Mustang Island State Park?</h3>
+								<h3 class="bdai-whitecap-faq-question">Where is JP Luby Beach?</h3>
 
-								<p class="bdai-whitecap-faq-answer">Mustang Island State Park is at 9394 State Highway 361 near Corpus Christi and Port Aransas on Mustang Island, Texas. It is a Texas state park with more than five miles of Gulf coastline and is separate from the broader Mustang Island destination.</p>
+								<p class="bdai-whitecap-faq-answer">JP Luby Beach is on North Packery Channel Beach on Mustang Island in Corpus Christi, Texas. It is commonly called JP Luby Surf Park or North Packery Beach and can be reached from State Highway 361 through Zahn Road or Newport Pass Road.</p>
 							</article>
 							<article class="bdai-whitecap-faq-card bdai-reveal">
 
-								<h3 class="bdai-whitecap-faq-question">What are the park&rsquo;s hours?</h3>
+								<h3 class="bdai-whitecap-faq-question">Is JP Luby Beach the same as North Packery Beach?</h3>
 
-								<p class="bdai-whitecap-faq-answer">The park is listed as open daily from 8:00 a.m. to 5:00 p.m. Hours, access, and capacity can be affected by conditions or park operations, so check current information before leaving.</p>
+								<p class="bdai-whitecap-faq-answer">Yes. Local and visitor information commonly uses JP Luby, JP Luby Surf Park, and North Packery Beach for this watersports-oriented Gulf beach area near North Packery Channel.</p>
 							</article>
 							<article class="bdai-whitecap-faq-card bdai-reveal">
 
-								<h3 class="bdai-whitecap-faq-question">Is there an entrance fee?</h3>
+								<h3 class="bdai-whitecap-faq-question">Do I need a parking permit?</h3>
 
-								<p class="bdai-whitecap-faq-answer">Yes. The current standard entrance fee is $7 per adult per day. Children age 12 and under enter free. Camping and other facilities have separate charges.</p>
+								<p class="bdai-whitecap-faq-answer">Yes. A beach parking permit is required for parking on the Gulf beach. The City of Corpus Christi and local visitor information list the annual permit sticker at $12. Confirm current purchase locations and enforcement details before your visit.</p>
 							</article>
 							<article class="bdai-whitecap-faq-card bdai-reveal">
 
-								<h3 class="bdai-whitecap-faq-question">Is camping available?</h3>
+								<h3 class="bdai-whitecap-faq-question">Can I drive on JP Luby Beach?</h3>
 
-								<p class="bdai-whitecap-faq-answer">Yes. Mustang Island State Park offers water-and-electric campsites and drive-up primitive beach campsites. Because the park can reach capacity, reservations are recommended for day use and reservable camping.</p>
+								<p class="bdai-whitecap-faq-answer">Driving on the packed sand is associated with JP Luby and North Packery Beach, but beach conditions can affect vehicle access. Follow the 15 mph Gulf beach speed limit, use caution around pedestrians, and check current access conditions before arriving.</p>
 							</article>
 							<article class="bdai-whitecap-faq-card bdai-reveal">
 
-								<h3 class="bdai-whitecap-faq-question">What types of campsites are available?</h3>
+								<h3 class="bdai-whitecap-faq-question">What activities are popular there?</h3>
 
-								<p class="bdai-whitecap-faq-answer">There are 48 water-and-electric sites about 400 yards from the water and 50 drive-up primitive sites along a 1.5-mile beach area. Electric sites cost $25 per night plus entrance, while primitive sites cost $13 per night plus entrance and are non-reservable.</p>
-							</article>
-							<article class="bdai-whitecap-faq-card bdai-reveal">
-
-								<h3 class="bdai-whitecap-faq-question">Can visitors swim at the beach?</h3>
-
-								<p class="bdai-whitecap-faq-answer">Swimming is an available park activity, along with surfing and other beach recreation. No lifeguards are present at the primitive beach camping area, so check conditions, understand surf and current risks, and swim at your own risk.</p>
-							</article>
-							<article class="bdai-whitecap-faq-card bdai-reveal">
-
-								<h3 class="bdai-whitecap-faq-question">Is fishing allowed?</h3>
-
-								<p class="bdai-whitecap-faq-answer">Yes. Surf fishing and bay fishing are available, and the park&rsquo;s paddling trail passes through shallow-water fishing areas. Check current Texas fishing regulations and license requirements before your trip.</p>
+								<p class="bdai-whitecap-faq-answer">Popular activities include surfing, surf fishing, swimming when conditions are appropriate, jet-skiing, kiteboarding, wakeboarding, walking, sunbathing, beach driving, photography, and relaxing near the Gulf. Choose activities based on current wind, waves, currents, and your experience.</p>
 							</article>
 							<article class="bdai-whitecap-faq-card bdai-reveal">
 
 								<h3 class="bdai-whitecap-faq-question">Are dogs allowed?</h3>
 
-								<p class="bdai-whitecap-faq-answer">Pet restrictions can vary by park area and current policy. Confirm the latest rules with Mustang Island State Park before bringing a dog, keep pets controlled, and prevent them from disturbing wildlife or protected habitat.</p>
+								<p class="bdai-whitecap-faq-answer">Dogs are allowed when they are on a leash or under verbal command, and pet waste must be disposed of properly. North Packery Beach is off-limits to dogs on major holidays, so check the current city guidance before bringing a pet.</p>
 							</article>
 							<article class="bdai-whitecap-faq-card bdai-reveal">
 
-								<h3 class="bdai-whitecap-faq-question">Are restrooms and showers available?</h3>
+								<h3 class="bdai-whitecap-faq-question">Can I camp at JP Luby Beach?</h3>
 
-								<p class="bdai-whitecap-faq-answer">Yes. Full restrooms and hot-water showers are located near the water-and-electric campground. Primitive beach campers have access to restrooms at varying distances, and portable toilets are available along portions of the beach.</p>
+								<p class="bdai-whitecap-faq-answer">Camping is allowed on the Gulf beach for three consecutive days and nights, with no more than six days within a month. Camping is prohibited in front of condos and hotels. Campfires must stay within the 3-foot-by-3-foot-by-3-foot limit, be fully extinguished, and leave no residue.</p>
 							</article>
 							<article class="bdai-whitecap-faq-card bdai-reveal">
 
-								<h3 class="bdai-whitecap-faq-question">Can visitors make reservations?</h3>
+								<h3 class="bdai-whitecap-faq-question">Are restrooms and lifeguards available?</h3>
 
-								<p class="bdai-whitecap-faq-answer">Reservations can be made online or by calling 512-389-8900. Reservations are recommended for day use and camping because the park may fill to capacity. Primitive drive-up beach sites are non-reservable.</p>
-							</article>
-							<article class="bdai-whitecap-faq-card bdai-reveal">
-
-								<h3 class="bdai-whitecap-faq-question">What activities can visitors do?</h3>
-
-								<p class="bdai-whitecap-faq-answer">Visitors can swim, surf, walk the beach, fish, camp, picnic, paddle, birdwatch, photograph the coast, explore nature, attend ranger programs, stargaze, beachcomb, geocache, and enjoy the park&rsquo;s open Gulf and bay scenery.</p>
-							</article>
-							<article class="bdai-whitecap-faq-card bdai-reveal">
-
-								<h3 class="bdai-whitecap-faq-question">What should visitors know before visiting?</h3>
-
-								<p class="bdai-whitecap-faq-answer">Bring water, food, sun protection, suitable footwear, fishing supplies, first-aid items, and layers for wind. Check capacity, weather, tides, surf, beach conditions, fire restrictions, pet rules, and reservation availability before traveling.</p>
+								<p class="bdai-whitecap-faq-answer">Visitor information identifies port-o-potties, outdoor showers, trash cans, and free trash-bag stations near the beach. Mobile lifeguards patrol the beach, but published schedules and exact coverage can vary. Swim near lifeguards when they are present and call 911 for emergencies.</p>
 							</article>
 						</div></div>
 				</section>
@@ -461,8 +373,9 @@
 	</tbody>
 </table>
 
+
 <style>
-  .bdai-whitecap-hero  {
+ .bdai-whitecap-hero  {
    position:relative;
    overflow:hidden;
    padding:72px 0;
@@ -1196,7 +1109,7 @@
 }
  .froala-table section > .container > * + *  {
    margin-top: 16px;
-}
+}   
 </style>
 
 <script>

@@ -6,18 +6,18 @@
 					<div class="container">
 						<div class="bdai-whitecap-hero-layout bdai-reveal">
 							<div class="bdai-whitecap-hero-copy">
-								<div class="bdai-whitecap-hero-eyebrow" style="white-space:nowrap !important;width:fit-content;">Mustang Island</div>
+								<div class="bdai-whitecap-hero-eyebrow" style="white-space:nowrap !important;width:fit-content;">Aransas Pass</div>
 
-								<h1 class="bdai-whitecap-hero-title">Mustang Island, Texas: Open Beaches and Coastal Adventure</h1>
+								<h1 class="bdai-whitecap-hero-title">Aransas Pass, a Laid-Back Coastal Gateway in Texas</h1>
 
-								<p class="bdai-whitecap-hero-lead">Mustang Island stretches along the Texas Gulf Coast between Corpus Christi and Port Aransas, offering long sandy beaches, bay waters, dunes, fishing grounds, wildlife habitat, and the relaxed character of a true barrier island.</p>
+								<p class="bdai-whitecap-hero-lead">Aransas Pass is a welcoming Coastal Bend community where working waterfronts, calm bay waters, fishing traditions, marshes, local restaurants, and easy access to nearby beaches come together.</p>
 
-								<p class="bdai-whitecap-hero-copy-text">Use this local guide to plan a Mustang Island beach day, explore Mustang Island State Park, find fishing and boating experiences, choose nearby accommodations, and discover local businesses and attractions throughout the Coastal Bend.</p>
-								<div class="bdai-whitecap-hero-actions"><a class="bdai-whitecap-hero-primary" href="https://www.simplypadre.com" target="_blank">Explore Mustang Island</a>&nbsp; &nbsp;<a class="bdai-whitecap-hero-secondary" href="https://www.visitcorpuschristi.com/beaches/locations/bob-hall-pier-and-padre-balli-park/" target="_blank">Visit Mustang Island State Park</a></div></div>
-							<div class="bdai-whitecap-hero-media"><img src="https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_avif,h_597,q_65,w_640/v1/clients/corpuschristitx/DJI_0122_large_1__3d61a127-4007-423e-ba8b-cdaa7798264e.jpg" alt="Aerial view of Padre Balli Park beach and North Padre Island coastline" class="img-rounded fr-fil fr-dib" fetchpriority="high" decoding="async">
+								<p class="bdai-whitecap-hero-copy-text">Use this local guide to plan things to do in Aransas Pass, find fishing and boating opportunities, understand nearby coastal destinations, prepare for changing conditions, and discover businesses and experiences through Simply Padre.</p>
+								<div class="bdai-whitecap-hero-actions"><a class="bdai-whitecap-hero-primary" href="https://www.simplypadre.com" target="_blank">Explore Aransas Pass</a> <a class="bdai-whitecap-hero-secondary" href="https://aptx.gov/35/Visiting" target="_blank">Visit Aransas Pass</a></div></div>
+							<div class="bdai-whitecap-hero-media"><img src="https://images.pexels.com/photos/15241799/pexels-photo-15241799.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="harbor boats" class="img-rounded fr-fil fr-dib">
 								<br>
 
-								<p class="bdai-whitecap-hero-caption">Mustang Island brings together wide Gulf beaches, shifting dunes, calm bay waters, coastal communities, and easy access to the restaurants, rentals, lodging, and attractions of Port Aransas and Corpus Christi.</p>
+								<p class="bdai-whitecap-hero-caption">Aransas Pass connects travelers with the bays, marshes, channels, barrier islands, and coastal communities that make the Texas Coastal Bend a favorite destination for outdoor recreation.</p>
 							</div></div></div>
 				</section>
 			</td>
@@ -32,33 +32,33 @@
 				<section class="bdai-whitecap-about" id="bdai-whitecap-about">
 					<div class="container">
 						<div class="bdai-whitecap-about-heading bdai-reveal">
-							<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">A Barrier Island in texas coast</div>
+							<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">A Coastal Bend Community</div>
 
-							<h2 class="bdai-whitecap-about-title">About Mustang Island</h2>
+							<h2 class="bdai-whitecap-about-title">About Aransas Pass, Texas</h2>
 
-							<p class="bdai-whitecap-about-intro">Mustang Island is a barrier island on the central Texas coast, running along the Gulf of Mexico from the Corpus Christi area north toward Port Aransas. Its beaches, dunes, grasslands, bays, tidal flats, and coastal neighborhoods create a landscape that feels both naturally open and closely connected to local life. Port Aransas occupies the northern end of the island, while Mustang Island State Park protects a substantial section of shoreline farther south.</p>
+							<p class="bdai-whitecap-about-intro">Aransas Pass is a city in San Patricio County on the Texas Coastal Bend, positioned near the channels and bay waters between the mainland and Mustang Island. Its location makes it a practical starting point for fishing trips, boat outings, paddling routes, birdwatching, waterfront sunsets, and day trips toward Port Aransas, Rockport, and Corpus Christi.</p>
 						</div>
 						<div class="bdai-whitecap-about-grid">
 							<article class="bdai-whitecap-about-card bdai-reveal">
 								<div class="bdai-whitecap-about-icon"><i class="bi bi-compass" aria-hidden="true"></i></div>
 
-								<h3 class="bdai-whitecap-card-title">A Central Texas Gulf Coast Location</h3>
+								<h3 class="bdai-whitecap-card-title">A Gateway to the Coastal Bend</h3>
 
-								<p class="bdai-whitecap-card-copy">Mustang Island is reached from Corpus Christi by traveling along North Padre Island and State Highway 361, or from the Port Aransas area by using the island road network and ferry connection. Its position makes it an easy base for exploring the wider Coastal Bend.</p>
+								<p class="bdai-whitecap-card-copy">Aransas Pass sits close to Redfish Bay, the Lydia Ann Channel, Mustang Island, and the ferry connection to Port Aransas. The city offers a more local, working-waterfront perspective while keeping major coastal attractions within an easy drive.</p>
 							</article>
 							<article class="bdai-whitecap-about-card bdai-reveal">
 								<div class="bdai-whitecap-about-icon"><i class="bi bi-water" aria-hidden="true"></i></div>
 
-								<h3 class="bdai-whitecap-card-title">Gulf Beaches and Bay Waters</h3>
+								<h3 class="bdai-whitecap-card-title">Water, Marsh, and Working Harbor</h3>
 
-								<p class="bdai-whitecap-card-copy">The island faces the Gulf of Mexico on its eastern side and Corpus Christi Bay on its western side. Visitors can move from surf, sand, and beach driving to kayaking, shallow-water fishing, birding, and calm-water exploration within the same coastal region.</p>
+								<p class="bdai-whitecap-card-copy">The area is shaped by bay channels, shallow flats, tidal wetlands, boat traffic, marinas, fishing activity, and changing coastal weather. That mix gives Aransas Pass an authentic waterfront identity beyond a traditional beach-town experience.</p>
 							</article>
 							<article class="bdai-whitecap-about-card bdai-reveal">
-								<div class="bdai-whitecap-about-icon"><i class="bi bi-tree" aria-hidden="true"></i></div>
+								<div class="bdai-whitecap-about-icon"><i class="bi bi-people" aria-hidden="true"></i></div>
 
-								<h3 class="bdai-whitecap-card-title">Nature with a Local Community Feel</h3>
+								<h3 class="bdai-whitecap-card-title">Worth Visiting Year-Round</h3>
 
-								<p class="bdai-whitecap-card-copy">Mustang Island combines protected shoreline and wildlife habitat with the restaurants, homes, vacation rentals, outfitters, marinas, and locally owned businesses of Port Aransas and the surrounding communities. That mix gives the island a welcoming rhythm for both residents and visitors.</p>
+								<p class="bdai-whitecap-card-copy">Locals come for everyday meals, outdoor recreation, parks, and access to the water, while visitors use Aransas Pass as a relaxed base for fishing, boating, nature trips, beach days, and Coastal Bend exploration.</p>
 							</article>
 						</div></div>
 				</section>
@@ -75,80 +75,72 @@
 					<div class="container">
 						<div class="bdai-whitecap-things-layout">
 							<div class="bdai-whitecap-things-copy bdai-reveal">
-								<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Make the Most of Island</div>
+								<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Make the Most of the Coast</div>
 
-								<h2 class="bdai-whitecap-things-title">Things to Do on Mustang Island</h2>
+								<h2 class="bdai-whitecap-things-title">Things to Do in Aransas Pass</h2>
 
-								<p class="bdai-whitecap-things-lead">Mustang Island makes it easy to build a full day around the water, the shoreline, and the surrounding community. Choose a quiet morning on the sand, an active afternoon on the bay, or a longer stay that combines outdoor recreation with Port Aransas dining and local experiences.</p>
+								<p class="bdai-whitecap-things-lead">Aransas Pass is a natural choice for visitors who want access to saltwater recreation without giving up local restaurants, services, parks, and a community atmosphere. Plan around tides, wind, heat, storms, and the conditions of your chosen activity.</p>
 								<div class="bdai-whitecap-things-list">
 									<div class="bdai-whitecap-things-item">
-										<div class="bdai-whitecap-things-icon"><i class="bi bi-umbrella" aria-hidden="true"></i></div>
+										<div class="bdai-whitecap-things-icon"><i class="bi bi-fish" aria-hidden="true"></i></div>
 										<div class="bdai-whitecap-things-item-copy">
 
-											<h3 class="bdai-whitecap-things-item-title">Swim and Relax on the Beach</h3>
+											<h3 class="bdai-whitecap-things-item-title">Fish the Bays and Gulf Waters</h3>
 
-											<p class="bdai-whitecap-things-item-text">Spend the day in the sun, cool off in the Gulf when conditions are suitable, build sandcastles, read beside the water, or enjoy a sunset walk. Check surf and rip-current information before swimming and supervise children closely.</p>
-										</div></div>
-									<div class="bdai-whitecap-things-item">
-										<div class="bdai-whitecap-things-icon"><i class="bi bi-water" aria-hidden="true"></i></div>
-										<div class="bdai-whitecap-things-item-copy">
-
-											<h3 class="bdai-whitecap-things-item-title">Fish from the Surf or Bay</h3>
-
-											<p class="bdai-whitecap-things-item-text">Mustang Island fishing includes surf fishing along the Gulf, shallow-water fishing in Corpus Christi Bay, and guided trips departing from nearby marinas. Confirm current Texas regulations, license requirements, seasons, size limits, and local access conditions before casting a line.</p>
-										</div></div>
-									<div class="bdai-whitecap-things-item">
-										<div class="bdai-whitecap-things-icon"><i class="bi bi-wind" aria-hidden="true"></i></div>
-										<div class="bdai-whitecap-things-item-copy">
-
-											<h3 class="bdai-whitecap-things-item-title">Surf, Paddle, and Play on the Water</h3>
-
-											<p class="bdai-whitecap-things-item-text">Surfing, boogie boarding, stand-up paddleboarding, kayaking, and wind-based activities are popular along the island and nearby bay waters. Match your route and equipment to the wind, tides, waves, weather, and experience level of your group.</p>
+											<p class="bdai-whitecap-things-item-text">Aransas Pass is well known as a fishing community with access to bay fishing, shallow-water flats, channels, piers, marinas, and offshore trips. Anglers should confirm current Texas Parks and Wildlife Department seasons, size limits, bag limits, license requirements, and special regulations before fishing.</p>
 										</div></div>
 									<div class="bdai-whitecap-things-item">
 										<div class="bdai-whitecap-things-icon"><i class="bi bi-life-preserver" aria-hidden="true"></i></div>
 										<div class="bdai-whitecap-things-item-copy">
 
-											<h3 class="bdai-whitecap-things-item-title"><strong>Boat, Sail, and Book a Coastal Guide</strong></h3>
+											<h3 class="bdai-whitecap-things-item-title">Go Boating and Paddling</h3>
 
-											<p class="bdai-whitecap-things-item-text">Explore Mustang Island by joining a fishing charter, booking a dolphin or wildlife trip, renting a kayak, or launching on the bay where access allows. Port Aransas and nearby marinas provide services for visitors who want a guided or equipment-supported experience.</p>
-										</div></div>
-									<div class="bdai-whitecap-things-item">
-										<div class="bdai-whitecap-things-icon"><i class="bi bi-moon-stars" aria-hidden="true"></i></div>
-										<div class="bdai-whitecap-things-item-copy">
-
-											<h3 class="bdai-whitecap-things-item-title">Camp Near the Coast</h3>
-
-											<p class="bdai-whitecap-things-item-text">Mustang Island State Park offers water-and-electric campsites, primitive drive-up beach sites, and tent camping on the beach. Developed campsites sit behind the dunes, while primitive areas have fewer services and can be affected by weather, tides, and beach conditions.</p>
+											<p class="bdai-whitecap-things-item-text">Boat ramps, marinas, guides, kayak outfitters, and waterfront businesses make it possible to explore the surrounding bays and channels. The Lighthouse Lakes Paddling Trail near Aransas Pass is especially suited to kayaking, shallow-water scenery, fishing, and quiet wildlife observation.</p>
 										</div></div>
 									<div class="bdai-whitecap-things-item">
 										<div class="bdai-whitecap-things-icon"><i class="bi bi-binoculars" aria-hidden="true"></i></div>
 										<div class="bdai-whitecap-things-item-copy">
 
-											<h3 class="bdai-whitecap-things-item-title">Watch Birds and Coastal Wildlife</h3>
+											<h3 class="bdai-whitecap-things-item-title">Watch Wildlife in Coastal Habitat</h3>
 
-											<p class="bdai-whitecap-things-item-text">Beaches, dunes, wetlands, bay shorelines, and open water attract shorebirds, wading birds, migratory species, and other coastal wildlife. Spring and fall migrations can be especially rewarding, and visitors should keep distance from animals and protected habitat.</p>
+											<p class="bdai-whitecap-things-item-text">Tidal flats, marsh edges, bay shorelines, and nearby wildlife areas can reveal herons, egrets, pelicans, shorebirds, dolphins, and other coastal species. Watch from a respectful distance, avoid nesting areas, and keep wildlife and habitat undisturbed.</p>
 										</div></div>
 									<div class="bdai-whitecap-things-item">
-										<div class="bdai-whitecap-things-icon"><i class="bi bi-person-walking" aria-hidden="true"></i></div>
+										<div class="bdai-whitecap-things-icon"><i class="bi bi-feather" aria-hidden="true"></i></div>
 										<div class="bdai-whitecap-things-item-copy">
 
-											<h3 class="bdai-whitecap-things-item-title">Walk, Beachcomb, and Sightsee</h3>
+											<h3 class="bdai-whitecap-things-item-title">Birdwatch Along the Bays</h3>
 
-											<p class="bdai-whitecap-things-item-text">Walk the shoreline, search for shells, explore the dunes from permitted access points, visit the Port Aransas area, or follow a bay-side nature route. Leave shells, plants, driftwood, fishing line, and wildlife undisturbed wherever rules require it.</p>
+											<p class="bdai-whitecap-things-item-text">The Coastal Bend is a productive birding region, particularly during migration and cooler months. Bring binoculars, choose quiet shoreline viewpoints, and look across marshes, channels, mudflats, and open water for changing bird activity throughout the day.</p>
+										</div></div>
+									<div class="bdai-whitecap-things-item">
+										<div class="bdai-whitecap-things-icon"><i class="bi bi-sun" aria-hidden="true"></i></div>
+										<div class="bdai-whitecap-things-item-copy">
+
+											<h3 class="bdai-whitecap-things-item-title">Enjoy Beaches and Coastal Days</h3>
+
+											<p class="bdai-whitecap-things-item-text">Aransas Pass itself is a waterfront city rather than a Gulf beach destination. Visitors can use the city as a base for nearby beaches in Port Aransas, Mustang Island State Park, and other Coastal Bend communities, while returning to Aransas Pass for meals, lodging, supplies, and local services.</p>
 										</div></div>
 									<div class="bdai-whitecap-things-item">
 										<div class="bdai-whitecap-things-icon"><i class="bi bi-camera" aria-hidden="true"></i></div>
 										<div class="bdai-whitecap-things-item-copy">
 
-											<h3 class="bdai-whitecap-things-item-title">Photograph the Island</h3>
+											<h3 class="bdai-whitecap-things-item-title">Walk, Sightsee, and Photograph</h3>
 
-											<p class="bdai-whitecap-things-item-text">Capture sunrise surf, beach tracks, dunes, sea oats, fishing boats, bay reflections, shorebirds, piers, and evening light. Give nesting areas and wildlife plenty of space, and use the changing tide and sky to create a different view of Mustang Island each time you visit.</p>
+											<p class="bdai-whitecap-things-item-text">Photograph boats leaving the harbor, changing light over the water, marsh grasses, working waterfront scenes, birds, bridges, sunsets, and the broad coastal horizon. Local streets, parks, marinas, and nearby causeways offer different perspectives throughout the day.</p>
+										</div></div>
+									<div class="bdai-whitecap-things-item">
+										<div class="bdai-whitecap-things-icon"><i class="bi bi-shop" aria-hidden="true"></i></div>
+										<div class="bdai-whitecap-things-item-copy">
+
+											<h3 class="bdai-whitecap-things-item-title">Explore Local Recreation and Events</h3>
+
+											<p class="bdai-whitecap-things-item-text">Look for community parks, aquatic recreation, seasonal events, local markets, waterfront businesses, family activities, and dining spots that reflect the character of Aransas Pass. Check current schedules directly because event dates, hours, and availability can change.</p>
 										</div></div></div></div>
-							<div class="bdai-whitecap-things-media bdai-reveal"><img src="https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,h_375,q_75,w_500/v1/clients/corpuschristitx/IMG_8753_a60863ba-128a-4021-9b47-925e0ac021ce.jpg" alt="Padre Balli Park Gulf beach and coastal recreation area" class="img-rounded fr-fil fr-dib">
+							<div class="bdai-whitecap-things-media bdai-reveal"><img src="https://images.pexels.com/photos/18303282/pexels-photo-18303282.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="kayak marsh" class="img-rounded fr-fil fr-dib">
 								<br>
 
-								<p class="bdai-whitecap-things-note">Bring drinking water, sun protection, food, suitable footwear, first-aid supplies, and layers for changing wind. Services vary by beach area, and remote shoreline travel requires more preparation than a visit to the developed Port Aransas beach zone.</p>
+								<p class="bdai-whitecap-things-note">Bring water, sun protection, insect repellent, safe footwear, charged communication devices, and the equipment your activity requires. Before launching or heading out, check wind, tides, heat, thunderstorms, navigation conditions, and current local guidance.</p>
 							</div></div></div>
 				</section>
 			</td>
@@ -163,82 +155,90 @@
 				<section class="bdai-whitecap-before" id="bdai-whitecap-before">
 					<div class="container">
 						<div class="bdai-whitecap-before-layout">
-							<div class="bdai-whitecap-before-media bdai-reveal"><img src="https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_jpg,g_xy_center,h_257,q_65,w_257,x_3395,y_2806/v1/clients/corpuschristitx/DJI_0612_6a898fb0-bd23-477d-9210-bd025bac8ac4.jpg" alt="Padre Balli Park coastal campground and beach setting" class="img-rounded fr-fil fr-dib" style="width: 700px;" width="700" height="393">
+							<div class="bdai-whitecap-before-media bdai-reveal"><img src="https://images.pexels.com/photos/20470329/pexels-photo-20470329.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="marina sunset" class="img-rounded fr-fil fr-dib">
 
 								<p>
 									<br>
 								</p>
-								<div class="bdai-whitecap-before-badge"><strong>Plan for a coastal park, not a full-service resort</strong> <span>Padre Balli Park offers beach access and camping close to North Padre Island services, but visitors should still arrive prepared with water, food, sun protection, weather-appropriate clothing, and any supplies needed for their group.</span></div></div>
+								<div class="bdai-whitecap-before-badge"><strong>Plan for changing coastal conditions</strong> <span>Aransas Pass is easy to reach, but water activities, fishing access, ferry travel, heat, wind, thunderstorms, tides, and storms can affect your plans. Check current conditions before heading out.</span></div></div>
 							<div class="bdai-whitecap-before-copy bdai-reveal">
 								<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">What to Know Before You Go</div>
 
-								<h2 class="bdai-whitecap-before-title">Plan a Safer Mustang Island Visit</h2>
+								<h2 class="bdai-whitecap-before-title">Prepare for an Aransas Pass Visit</h2>
 
-								<p class="bdai-whitecap-before-lead">Mustang Island includes city-managed beaches, state park land, residential and vacation areas, bay access points, and more remote stretches of shoreline. Rules, fees, facilities, and road conditions can vary by location, so use the correct local guidance for the part of the island you plan to visit.</p>
+								<p class="bdai-whitecap-before-lead">A little preparation helps you enjoy Aransas Pass responsibly. The city has local services and waterfront access, while specific facilities, launch conditions, rules, and operating hours vary by location and provider.</p>
 								<div class="bdai-whitecap-before-details">
 									<div class="bdai-whitecap-before-detail">
 										<div class="bdai-whitecap-before-detail-icon"><i class="bi bi-sign-turn-right" aria-hidden="true"></i></div>
 										<div class="bdai-whitecap-before-detail-copy">
 
-											<h3 class="bdai-whitecap-before-detail-title">Getting to Mustang Island</h3>
+											<h3 class="bdai-whitecap-before-detail-title">Getting to Aransas Pass</h3>
 
-											<p class="bdai-whitecap-before-detail-text">From Corpus Christi, follow the route toward North Padre Island and continue along State Highway 361 toward Mustang Island State Park and Port Aransas. Port Aransas can also be reached by the ferry system from the mainland. Allow additional time during busy weekends, holidays, spring break, and summer travel.</p>
+											<p class="bdai-whitecap-before-detail-text">Aransas Pass is reached by road from the Corpus Christi area and other Coastal Bend communities. State Highway 361 connects the area toward Port Aransas and Mustang Island, while routes through Portland, Rockport, and Corpus Christi provide additional approaches. Use the exact address of your destination because marinas, ramps, restaurants, and parks are spread across the community.</p>
 										</div></div>
 									<div class="bdai-whitecap-before-detail">
-										<div class="bdai-whitecap-before-detail-icon"><i class="bi bi-car-front" aria-hidden="true"></i></div>
+										<div class="bdai-whitecap-before-detail-icon"><i class="bi bi-p-square" aria-hidden="true"></i></div>
 										<div class="bdai-whitecap-before-detail-copy">
 
-											<h3 class="bdai-whitecap-before-detail-title">Beach Access and Parking</h3>
+											<h3 class="bdai-whitecap-before-detail-title">Parking and Access</h3>
 
-											<p class="bdai-whitecap-before-detail-text">Access points and parking rules depend on whether you are visiting a Port Aransas city beach, Mustang Island State Park, or another island access area. Port Aransas requires a beach parking permit for vehicles parked on the beach in its managed beach zone. Do not assume that a city beach permit replaces state park admission.</p>
+											<p class="bdai-whitecap-before-detail-text">Parking rules depend on the park, business, public waterfront, boat ramp, or beach destination you choose. Read posted signs, avoid blocking launch lanes or private access, and allow room for trailers and emergency vehicles. Beach parking rules in Port Aransas and at Mustang Island State Park are separate from Aransas Pass rules.</p>
+										</div></div>
+									<div class="bdai-whitecap-before-detail">
+										<div class="bdai-whitecap-before-detail-icon"><i class="bi bi-water" aria-hidden="true"></i></div>
+										<div class="bdai-whitecap-before-detail-copy">
+
+											<h3 class="bdai-whitecap-before-detail-title">Boat Launches and Marinas</h3>
+
+											<p class="bdai-whitecap-before-detail-text">The Aransas Pass area provides access to marinas, boat ramps, kayak launch points, guides, and water-service businesses, but amenities and fees vary by facility. Confirm current launch access, parking, hours, trailer space, restrooms, wash-down areas, and weather closures directly with the operator before arrival.</p>
 										</div></div>
 									<div class="bdai-whitecap-before-detail">
 										<div class="bdai-whitecap-before-detail-icon"><i class="bi bi-ticket-perforated" aria-hidden="true"></i></div>
 										<div class="bdai-whitecap-before-detail-copy">
 
-											<h3 class="bdai-whitecap-before-detail-title">Admission, Permits, and Fees</h3>
+											<h3 class="bdai-whitecap-before-detail-title">Fishing Regulations</h3>
 
-											<p class="bdai-whitecap-before-detail-text">Available visitor information identifies bathrooms, a bathhouse, shower facilities, WiFi for campers, a park office, trash services, and campground amenities. Services may be distributed across the park, so campers should check the current facility information and bring essentials rather than assuming every service is available at every site.</p>
+											<p class="bdai-whitecap-before-detail-text">Texas saltwater anglers should review current Texas Parks and Wildlife Department regulations before fishing. Licensing, seasons, length limits, daily bag limits, protected species, gear rules, and special provisions can change. Redfish Bay seagrass protections also make careful boating important in shallow-water areas.</p>
 										</div></div>
 									<div class="bdai-whitecap-before-detail">
 										<div class="bdai-whitecap-before-detail-icon"><i class="bi bi-building" aria-hidden="true"></i></div>
 										<div class="bdai-whitecap-before-detail-copy">
 
-											<h3 class="bdai-whitecap-before-detail-title">Restrooms and Facilities</h3>
+											<h3 class="bdai-whitecap-before-detail-title">Restrooms and Visitor Facilities</h3>
 
-											<p class="bdai-whitecap-before-detail-text">Mustang Island State Park provides full restrooms and hot-water showers near the water-and-electric campground, portable toilets along portions of the beach, picnic areas, a park store, and scheduled ranger programs. Facilities outside the park vary by beach access point, so bring water and supplies when visiting a less developed area.</p>
+											<p class="bdai-whitecap-before-detail-text">Restrooms, showers, food, fuel, ice, bait, rentals, and other services are provided by different businesses and public facilities throughout the area. Do not assume every waterfront access point has the same amenities. Check current business information and bring essential supplies when traveling to remote launch or nature areas.</p>
 										</div></div>
 									<div class="bdai-whitecap-before-detail">
 										<div class="bdai-whitecap-before-detail-icon"><i class="bi bi-universal-access" aria-hidden="true"></i></div>
 										<div class="bdai-whitecap-before-detail-copy">
 
-											<h3 class="bdai-whitecap-before-detail-title">Accessibility and Beach Conditions</h3>
+											<h3 class="bdai-whitecap-before-detail-title">Accessibility and Outdoor Safety</h3>
 
-											<p class="bdai-whitecap-before-detail-text">Mustang Island State Park currently lists two beach wheelchairs available to borrow at no charge, subject to availability. Sand, tides, weather, and distance from facilities can affect access. Contact the destination directly for current conditions and the most useful route for your needs.</p>
+											<p class="bdai-whitecap-before-detail-text">Accessibility varies by park, ramp, trail, business, and shoreline. Contact the specific destination before visiting to confirm accessible parking, paths, restrooms, boarding areas, and surface conditions. Heat, sun, wind, uneven ground, slippery surfaces, and changing water conditions should be considered for every outdoor activity.</p>
 										</div></div>
 									<div class="bdai-whitecap-before-detail">
 										<div class="bdai-whitecap-before-detail-icon"><i class="bi bi-moon-stars" aria-hidden="true"></i></div>
 										<div class="bdai-whitecap-before-detail-copy">
 
-											<h3 class="bdai-whitecap-before-detail-title">Camping and Reservations</h3>
+											<h3 class="bdai-whitecap-before-detail-title">Camping and Overnight Stays</h3>
 
-											<p class="bdai-whitecap-before-detail-text">The state park has 48 water-and-electric campsites, 50 primitive drive-up sites, and tent camping on the beach. Developed campsites are behind the dunes and near restrooms and showers, while primitive beach camping has no hookups. Reservations are strongly recommended because the park can reach capacity.</p>
+											<p class="bdai-whitecap-before-detail-text">Aransas Pass has hotels, motels, vacation rentals, RV options, and other accommodations, while established camping is available at nearby destinations such as Mustang Island State Park and other Coastal Bend campgrounds. Confirm reservations, hookups, pet rules, check-in policies, and storm-related changes with the property or park before traveling.</p>
 										</div></div>
 									<div class="bdai-whitecap-before-detail">
 										<div class="bdai-whitecap-before-detail-icon"><i class="bi bi-heart-pulse" aria-hidden="true"></i></div>
 										<div class="bdai-whitecap-before-detail-copy">
 
-											<h3 class="bdai-whitecap-before-detail-title">Pets, Swimming, and Safety</h3>
+											<h3 class="bdai-whitecap-before-detail-title">Pets, Wildlife, and Local Rules</h3>
 
-											<p class="bdai-whitecap-before-detail-text">Dogs are allowed in many Mustang Island areas, but leash requirements and location-specific rules apply. Confirm the rules for the exact beach or park entrance before arriving. Check rip-current guidance, water quality information, heat, wind, storms, and available lifeguard coverage before entering the Gulf.</p>
+											<p class="bdai-whitecap-before-detail-text">Pet rules vary by park, trail, business, boat operator, beach, and wildlife area. Keep dogs controlled, clean up after them, and never allow pets to chase wildlife or enter restricted habitat. Follow posted regulations, observe private-property boundaries, secure trash, and check local ordinances before using public spaces.</p>
 										</div></div>
 									<div class="bdai-whitecap-before-detail">
 										<div class="bdai-whitecap-before-detail-icon"><i class="bi bi-shield-check" aria-hidden="true"></i></div>
 										<div class="bdai-whitecap-before-detail-copy">
 
-											<h3 class="bdai-whitecap-before-detail-title">Fishing and Conservation Rules</h3>
+											<h3 class="bdai-whitecap-before-detail-title">Weather, Tides, and Storm Awareness</h3>
 
-											<p class="bdai-whitecap-before-detail-text">Carry the required Texas fishing license when applicable and follow current Texas Parks and Wildlife regulations. Stay off dunes and vegetation, keep trash secured, remove fishing line, respect wildlife and nesting areas, follow posted closures, and never drive farther onto the beach than conditions safely allow.</p>
+											<p class="bdai-whitecap-before-detail-text">Coastal weather can change quickly, especially during thunderstorms, high winds, extreme heat, tropical weather, and hurricane season. Check forecasts, tide information, marine conditions, road updates, ferry information, and emergency alerts. Never launch, paddle, fish, or travel across exposed areas when conditions exceed your experience or equipment.</p>
 										</div></div></div></div></div></div>
 				</section>
 			</td>
@@ -253,40 +253,40 @@
 				<section class="bdai-whitecap-rules" id="bdai-whitecap-rules">
 					<div class="container">
 						<div class="bdai-whitecap-rules-heading bdai-reveal">
-							<div class="bdai-whitecap-section-eyebrow" style="width:fit-content;white-space:nowrap !important;text-align:center;">Respect the Texas Coast</div>
+							<div class="bdai-whitecap-section-eyebrow" style="width:fit-content;white-space:nowrap !important;text-align:center;">Respect the coast</div>
 
-							<h2 class="bdai-whitecap-rules-title" style="text-align:left;">Simple Rules for a Better Island Visit</h2>
+							<h2 class="bdai-whitecap-rules-title" style="text-align: center;">Simple Rules for a Better Aransas Pass Visit</h2>
 
-							<p class="bdai-whitecap-rules-intro" style="text-align:left;">Mustang Island is shared by swimmers, anglers, campers, paddlers, beach drivers, birders, families, residents, and wildlife. A few thoughtful choices help protect the dunes, beaches, bay waters, and community that make the island special.</p>
+							<p class="bdai-whitecap-rules-intro" style="text-align:left;">Aransas Pass is shared by anglers, boaters, paddlers, families, businesses, wildlife, residents, and visitors. Thoughtful choices help protect the water, support the community, and keep the coast enjoyable for everyone.</p>
 						</div>
 						<div class="bdai-whitecap-rules-grid">
 							<article class="bdai-whitecap-rule-card bdai-reveal">
 								<div class="bdai-whitecap-rule-number">01</div>
 
-								<h3 class="bdai-whitecap-rule-title">Leave the Beach Clean</h3>
+								<h3 class="bdai-whitecap-rule-title">Protect Coastal Habitat</h3>
 
-								<p class="bdai-whitecap-rule-copy">Pack out trash, secure food, collect fishing line, extinguish fires with water where permitted, and leave shells and natural features undisturbed.</p>
+								<p class="bdai-whitecap-rule-copy">Stay out of marked sensitive areas, avoid disturbing seagrass and marsh habitat, keep wildlife at a distance, and leave nesting and resting animals undisturbed.</p>
 							</article>
 							<article class="bdai-whitecap-rule-card bdai-reveal">
 								<div class="bdai-whitecap-rule-number">02</div>
 
-								<h3 class="bdai-whitecap-rule-title">Protect Dunes and Wildlife</h3>
+								<h3 class="bdai-whitecap-rule-title">Keep Waterways Clean</h3>
 
-								<p class="bdai-whitecap-rule-copy">Use designated access routes, stay off dunes and vegetation, and keep a respectful distance from birds, nests, sea turtles, and other wildlife.</p>
+								<p class="bdai-whitecap-rule-copy">Secure trash, fishing line, bait containers, fuel, and loose equipment. Pack out what you bring and report spills or hazards through the appropriate local channel.</p>
 							</article>
 							<article class="bdai-whitecap-rule-card bdai-reveal">
 								<div class="bdai-whitecap-rule-number">03</div>
 
-								<h3 class="bdai-whitecap-rule-title">Follow the Local Rules</h3>
+								<h3 class="bdai-whitecap-rule-title">Follow Fishing and Boating Rules</h3>
 
-								<p class="bdai-whitecap-rule-copy">Confirm the correct permit, admission fee, leash requirement, camping rule, fishing regulation, and beach restriction for the exact area you plan to visit.</p>
+								<p class="bdai-whitecap-rule-copy">Carry required licenses, follow current size and bag limits, respect no-wake areas, protect seagrass, observe navigation markers, and operate watercraft within your experience level.</p>
 							</article>
 							<article class="bdai-whitecap-rule-card bdai-reveal">
 								<div class="bdai-whitecap-rule-number">04</div>
 
-								<h3 class="bdai-whitecap-rule-title">Travel for the Conditions</h3>
+								<h3 class="bdai-whitecap-rule-title">Respect Local Spaces</h3>
 
-								<p class="bdai-whitecap-rule-copy">Check tides, wind, surf, flooding, storms, and sand conditions before driving, launching, swimming, or setting up camp.</p>
+								<p class="bdai-whitecap-rule-copy">Use designated parking, respect private property and business rules, control pets, observe posted access restrictions, and remember that Aransas Pass is a working community as well as a visitor destination.</p>
 							</article>
 						</div></div>
 				</section>
@@ -303,20 +303,20 @@
 					<div class="container">
 						<div class="bdai-whitecap-gallery-layout">
 							<div class="bdai-whitecap-gallery-copy bdai-reveal">
-								<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Scenes from Mustang Island</div>
+								<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Scenes From Aransas Pass</div>
 
-								<h2 class="bdai-whitecap-gallery-title">Mustang Island Photo Journal</h2>
+								<h2 class="bdai-whitecap-gallery-title">Aransas Pass Photo Journal</h2>
 
-								<p class="bdai-whitecap-gallery-intro">The island changes with every tide, wind shift, season, and hour of light. Gulf surf, open sand, dunes, bay water, fishing boats, campsites, and shorebirds create a coastal story that feels expansive while remaining connected to the communities of Port Aransas and Corpus Christi.</p>
+								<p class="bdai-whitecap-gallery-intro">Aransas Pass is a place of changing light, working boats, quiet channels, marsh edges, birds, fishing scenes, and broad coastal skies. The surrounding Coastal Bend adds beaches, barrier-island views, nature preserves, and waterfront communities to the story.</p>
 
-								<p class="bdai-whitecap-gallery-copy-text">Bring a camera for beach sunrise, dune grasses, shallow-water fishing, paddling routes, birdwatching, shoreline textures, beach driving, and evening skies. Photograph responsibly by keeping wildlife space and staying outside marked nesting or protected areas.</p>
-								<div class="bdai-whitecap-gallery-tip"><i class="bi bi-camera" aria-hidden="true"></i> <span>For stronger Mustang Island photographs, combine the beach, water, sky, dunes, and human-scale details such as footprints, fishing gear, paddles, boats, or a distant vehicle.</span></div></div>
+								<p class="bdai-whitecap-gallery-copy-text">Bring a camera for harbor activity, kayak routes, bay sunsets, shorebirds, bridges, marsh grasses, fishing gear, and the details that make the area feel both active and unhurried. Photograph responsibly by giving boat operators, residents, wildlife, and private property appropriate space.</p>
+								<div class="bdai-whitecap-gallery-tip"><i class="bi bi-camera" aria-hidden="true"></i> <span>For stronger coastal photographs, combine water, sky, boats, marsh, wildlife, and human-scale details such as docks, paddles, fishing rods, or distant shorelines.</span></div></div>
 							<div class="bdai-whitecap-gallery-visual bdai-reveal">
 								<div class="bdai-collage-grid">
-									<div class="bdai-collage-tile"><img src="https://www.corpuschristitx.gov/media/3gmjdicj/padre-balli-park-img.png" alt="Padre Balli Park beach and coastal landscape" class="img-rounded fr-fil fr-dib" loading="lazy" decoding="async"></div>
-									<div class="bdai-collage-tile"><img src="https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,h_375,q_75,w_500/v1/clients/corpuschristitx/Screenshot_2025_01_02_at_2_27_39_PM_741867cc-52ff-4543-9e5c-db3e46dbc0d9.png" alt="Padre Balli Park visitor amenities and beach access" class="img-rounded fr-fil fr-dib" loading="lazy" decoding="async"></div>
-									<div class="bdai-collage-tile"><img src="https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_jpg,g_xy_center,h_257,q_65,w_257,x_3395,y_2806/v1/clients/corpuschristitx/DJI_0612_6a898fb0-bd23-477d-9210-bd025bac8ac4.jpg" alt="Padre Balli Park campground near the Gulf shoreline" class="img-rounded fr-fil fr-dib" loading="lazy" decoding="async"></div>
-									<div class="bdai-collage-tile"><img src="https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,h_375,q_75,w_500/v1/clients/corpuschristitx/IMG_8753_a60863ba-128a-4021-9b47-925e0ac021ce.jpg" alt="Padre Balli Park beach recreation area on North Padre Island" class="img-rounded fr-fil fr-dib" loading="lazy" decoding="async"></div></div></div></div></div>
+									<div class="bdai-collage-tile"><img src="https://images.pexels.com/photos/36242767/pexels-photo-36242767.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="fishing harbor" class="img-rounded fr-fil fr-dib"></div>
+									<div class="bdai-collage-tile"><img src="https://images.pexels.com/photos/8194521/pexels-photo-8194521.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="coastal bird" class="img-rounded fr-fil fr-dib"></div>
+									<div class="bdai-collage-tile"><img src="https://images.pexels.com/photos/5378292/pexels-photo-5378292.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="bay sunset" class="img-rounded fr-fil fr-dib"></div>
+									<div class="bdai-collage-tile"><img src="https://images.pexels.com/photos/38949714/pexels-photo-38949714.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="paddle water" class="img-rounded fr-fil fr-dib"></div></div></div></div></div>
 				</section>
 			</td>
 		</tr>
@@ -330,37 +330,37 @@
 				<section class="bdai-whitecap-nearby" id="bdai-whitecap-nearby">
 					<div class="container">
 						<div class="bdai-whitecap-nearby-heading bdai-reveal">
-							<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Keep Exploring the Coast</div>
+							<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Keep exploring the island</div>
 
-							<h2 class="bdai-whitecap-nearby-title">Nearby Places to Add to the Trip</h2>
+							<h2 class="bdai-whitecap-nearby-title">Keep Exploring Around Aransas Pass</h2>
 
-							<p class="bdai-whitecap-nearby-intro">Mustang Island is a natural starting point for a longer Coastal Bend itinerary. Pair time on the beach with Port Aransas restaurants and lodging, fishing and boating services, nature preserves, nearby parks, and the attractions of Corpus Christi.</p>
+							<p class="bdai-whitecap-nearby-intro">Aransas Pass is a useful home base for exploring the Coastal Bend. The destinations below are nearby but distinct from the city, so confirm the exact location, rules, hours, reservations, and access details before visiting.</p>
 						</div>
 						<div class="bdai-whitecap-nearby-grid">
 							<article class="bdai-whitecap-nearby-card bdai-reveal">
 								<div class="bdai-whitecap-nearby-icon"><i class="bi bi-shop" aria-hidden="true"></i></div>
 
-								<h3 class="bdai-whitecap-nearby-card-title">Port Aransas Restaurants and Shops</h3>
+								<h3 class="bdai-whitecap-nearby-card-title">Aransas Pass Restaurants and Local Shops</h3>
 
-								<p class="bdai-whitecap-nearby-card-copy">Explore seafood restaurants, caf&eacute;s, casual dining, beach shops, galleries, and locally owned businesses in Port Aransas before or after a Mustang Island beach day.</p><a class="bdai-whitecap-nearby-link" href="https://www.simplypadre.com" target="_blank">Explore Local Businesses</a></article>
+								<p class="bdai-whitecap-nearby-card-copy">Explore seafood restaurants, caf&eacute;s, casual dining, bait shops, marinas, markets, and locally owned businesses in Aransas Pass. Local businesses can help with meals, supplies, fishing information, rentals, and day-to-day coastal needs.</p><a class="bdai-whitecap-nearby-link" href="https://www.simplypadre.com" target="_blank">Explore Local Businesses</a></article>
 							<article class="bdai-whitecap-nearby-card bdai-reveal">
 								<div class="bdai-whitecap-nearby-icon"><i class="bi bi-house-heart" aria-hidden="true"></i></div>
 
-								<h3 class="bdai-whitecap-nearby-card-title">Hotels, Resorts, and Vacation Rentals</h3>
+								<h3 class="bdai-whitecap-nearby-card-title">Hotels, RV Options, and Vacation Rentals</h3>
 
-								<p class="bdai-whitecap-nearby-card-copy">Find hotels, resorts, vacation homes, condos, RV parks, and other accommodations around Port Aransas, North Padre Island, and the wider Mustang Island area.</p><a class="bdai-whitecap-nearby-link" href="https://www.simplypadre.com" target="_blank">Find a Place to Stay</a></article>
+								<p class="bdai-whitecap-nearby-card-copy">Find hotels, motels, vacation rentals, RV accommodations, and other places to stay in Aransas Pass and nearby communities. Staying locally makes it easier to plan early launches, fishing trips, beach days, and relaxed dinners.</p><a class="bdai-whitecap-nearby-link" href="https://www.simplypadre.com" target="_blank">Find Coastal Accommodations</a></article>
 							<article class="bdai-whitecap-nearby-card bdai-reveal">
-								<div class="bdai-whitecap-nearby-icon"><i class="bi bi-bicycle" aria-hidden="true"></i></div>
+								<div class="bdai-whitecap-nearby-icon"><i class="bi bi-life-preserver" aria-hidden="true"></i></div>
 
-								<h3 class="bdai-whitecap-nearby-card-title">Fishing and Boating Services</h3>
+								<h3 class="bdai-whitecap-nearby-card-title">Fishing Guides and Boating Services</h3>
 
-								<p class="bdai-whitecap-nearby-card-copy">Look for local fishing guides, offshore charters, bay trips, kayak rentals, paddle equipment, boat services, marinas, and coastal outfitters serving Mustang Island.</p><a class="bdai-whitecap-nearby-link" href="https://www.simplypadre.com" target="_blank">Browse Island Activities</a></article>
+								<p class="bdai-whitecap-nearby-card-copy">Browse local fishing guides, charter services, marinas, boat rentals, kayak providers, tackle shops, repair businesses, and other water-focused services serving Aransas Pass and the surrounding bays.</p><a class="bdai-whitecap-nearby-link" href="https://www.simplypadre.com" target="_blank">Browse Fishing and Boating</a></article>
 							<article class="bdai-whitecap-nearby-card bdai-reveal">
 								<div class="bdai-whitecap-nearby-icon"><i class="bi bi-water" aria-hidden="true"></i></div>
 
-								<h3 class="bdai-whitecap-nearby-card-title">Parks, Nature Areas, and Attractions</h3>
+								<h3 class="bdai-whitecap-nearby-card-title">Port Aransas, Beaches, and Island Access</h3>
 
-								<p class="bdai-whitecap-nearby-card-copy">Continue to Mustang Island State Park, Port Aransas nature preserves, nearby beaches, the Leonabelle Turnbull Birding Center, Corpus Christi attractions, and other Coastal Bend destinations.</p><a class="bdai-whitecap-nearby-link" href="https://www.simplypadre.com" target="_blank">Explore Nearby Places</a></article>
+								<p class="bdai-whitecap-nearby-card-copy">Port Aransas and its Gulf beaches are separate from Aransas Pass, though they are closely connected by the surrounding road and ferry network. Mustang Island State Park is also nearby and offers Gulf shoreline, paddling, fishing, birding, and camping opportunities.</p><a class="bdai-whitecap-nearby-link" href="https://www.simplypadre.com" target="_blank">Explore Nearby Coastal Places</a></article>
 						</div></div>
 				</section>
 			</td>
@@ -375,72 +375,72 @@
 				<section class="bdai-whitecap-faq" id="bdai-whitecap-faq">
 					<div class="container">
 						<div class="bdai-whitecap-faq-heading bdai-reveal">
-							<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Mustang Island Questions</div>
+							<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Aransas Pass Questions</div>
 
 							<h2 class="bdai-whitecap-faq-title">Helpful Answers Before Your Visit</h2>
 
-							<p class="bdai-whitecap-faq-intro">Mustang Island includes several different beach, park, and community areas. Confirm the latest information with the destination you are visiting because fees, facilities, permits, pet rules, and conditions can vary.</p>
+							<p class="bdai-whitecap-faq-intro">Aransas Pass is a working Coastal Bend community with access to bays, channels, marinas, local businesses, and nearby beaches. Confirm current conditions and destination-specific rules before traveling.</p>
 						</div>
 						<div class="bdai-whitecap-faq-grid">
 							<article class="bdai-whitecap-faq-card bdai-reveal">
 
-								<h3 class="bdai-whitecap-faq-question">Where is Mustang Island?</h3>
+								<h3 class="bdai-whitecap-faq-question">Where is Aransas Pass?</h3>
 
-								<p class="bdai-whitecap-faq-answer">Mustang Island is a barrier island on the central Texas Gulf Coast near Corpus Christi and Port Aransas. It faces the Gulf of Mexico on the east and Corpus Christi Bay on the west. Port Aransas is located at the northern end of the island, while Mustang Island State Park is farther south along State Highway 361.</p>
+								<p class="bdai-whitecap-faq-answer">Aransas Pass is in San Patricio County on the Texas Coastal Bend, near Redfish Bay and the waterways separating the mainland from Mustang Island. It is close to Port Aransas, Rockport, Portland, and Corpus Christi but is a separate city with its own local businesses, neighborhoods, parks, and waterfront access.</p>
 							</article>
 							<article class="bdai-whitecap-faq-card bdai-reveal">
 
-								<h3 class="bdai-whitecap-faq-question">What is Mustang Island known for?</h3>
+								<h3 class="bdai-whitecap-faq-question">What is Aransas Pass known for?</h3>
 
-								<p class="bdai-whitecap-faq-answer">Mustang Island is known for Gulf beaches, beach driving in permitted areas, fishing, surfing, paddling, boating, camping, birdwatching, wildlife, dunes, bay waters, and the coastal community of Port Aransas. It offers both developed visitor services and more natural shoreline experiences.</p>
+								<p class="bdai-whitecap-faq-answer">Aransas Pass is known for fishing, boating, marinas, bay access, coastal recreation, and its role as a gateway to the surrounding Coastal Bend. Its character comes from working waterfront activity and easy access to nearby island, beach, marsh, and wildlife destinations.</p>
 							</article>
 							<article class="bdai-whitecap-faq-card bdai-reveal">
 
-								<h3 class="bdai-whitecap-faq-question">What beaches are on Mustang Island?</h3>
+								<h3 class="bdai-whitecap-faq-question">What can visitors do in Aransas Pass?</h3>
 
-								<p class="bdai-whitecap-faq-answer">Notable beach areas include the Port Aransas city-managed beach, Mustang Island State Park beach, and other public access areas along the island. Beach conditions, parking rules, permits, facilities, and vehicle access vary by location. North Padre Island and Padre Island National Seashore are separate destinations south of Mustang Island.</p>
+								<p class="bdai-whitecap-faq-answer">Visitors can fish, launch boats, paddle, join guided water trips, watch birds and wildlife, photograph coastal scenery, explore local parks and businesses, enjoy seafood and casual dining, and use the city as a base for nearby beaches and Coastal Bend attractions.</p>
 							</article>
 							<article class="bdai-whitecap-faq-card bdai-reveal">
 
-								<h3 class="bdai-whitecap-faq-question">What activities can visitors do?</h3>
+								<h3 class="bdai-whitecap-faq-question">Is Aransas Pass good for fishing?</h3>
 
-								<p class="bdai-whitecap-faq-answer">Visitors can swim, relax, surf, boogie board, paddle, kayak, fish, boat, camp, birdwatch, beachcomb, walk, photograph the coast, join ranger programs, explore Port Aransas, and book guided fishing or wildlife experiences. Choose activities based on current weather, wind, surf, tide, and road conditions.</p>
+								<p class="bdai-whitecap-faq-answer">Yes. Aransas Pass is positioned near productive bay and channel waters and supports access to guides, marinas, tackle shops, ramps, and other fishing services. Fishing conditions vary by season, weather, tides, and water conditions, and anglers must follow current Texas regulations.</p>
 							</article>
 							<article class="bdai-whitecap-faq-card bdai-reveal">
 
-								<h3 class="bdai-whitecap-faq-question">Is fishing allowed on Mustang Island?</h3>
+								<h3 class="bdai-whitecap-faq-question">Are boating facilities available?</h3>
 
-								<p class="bdai-whitecap-faq-answer">Yes. Surf fishing is available along the Gulf, and bay-side fishing is available in appropriate areas, including opportunities connected with Mustang Island State Park and nearby guides. Follow current Texas Parks and Wildlife regulations and confirm license, season, size, bag, and gear requirements before fishing.</p>
+								<p class="bdai-whitecap-faq-answer">The Aransas Pass area has marinas, boat ramps, kayak launch points, guides, and boating businesses. Facilities are not identical, so confirm launch access, parking, trailer space, fees, hours, restrooms, and weather-related closures with the specific operator.</p>
 							</article>
 							<article class="bdai-whitecap-faq-card bdai-reveal">
 
-								<h3 class="bdai-whitecap-faq-question">Is camping available on Mustang Island?</h3>
+								<h3 class="bdai-whitecap-faq-question">What beaches are accessible from Aransas Pass?</h3>
 
-								<p class="bdai-whitecap-faq-answer">Yes. Mustang Island State Park offers water-and-electric campsites, primitive drive-up beach sites, and tent camping on the beach. Developed sites have more nearby services, while primitive beach sites have no hookups and may be affected by weather, tides, closures, or beach conditions. Reservations are recommended because the park can fill.</p>
+								<p class="bdai-whitecap-faq-answer">Aransas Pass is not itself a Gulf beach community. Nearby beach destinations include Port Aransas beaches and Mustang Island State Park, which are separate places reached through the surrounding Coastal Bend road and ferry network. Check each destination for parking, access, fees, pets, and beach rules.</p>
 							</article>
 							<article class="bdai-whitecap-faq-card bdai-reveal">
 
-								<h3 class="bdai-whitecap-faq-question">Are dogs allowed on Mustang Island beaches?</h3>
+								<h3 class="bdai-whitecap-faq-question">Are there camping options nearby?</h3>
 
-								<p class="bdai-whitecap-faq-answer">Dogs are allowed in many Mustang Island areas, but leash requirements and other restrictions depend on the exact beach, park, or public access point. Port Aransas beach guidance identifies dogs as allowed on the beach when leashed. Check the current rule for your destination before arriving.</p>
+								<p class="bdai-whitecap-faq-answer">Yes. Nearby Coastal Bend destinations offer established camping and RV options, including Mustang Island State Park and private campgrounds in the surrounding communities. Availability, reservations, hookups, pet policies, and weather closures vary, so verify details directly before arrival.</p>
 							</article>
 							<article class="bdai-whitecap-faq-card bdai-reveal">
 
-								<h3 class="bdai-whitecap-faq-question">Is beach parking available?</h3>
+								<h3 class="bdai-whitecap-faq-question">Are dogs allowed in public areas?</h3>
 
-								<p class="bdai-whitecap-faq-answer">Beach parking is available in designated areas, but access and requirements vary. Port Aransas requires a beach parking permit for vehicles parked on the beach in its managed beach zone. State park visitors must follow Mustang Island State Park admission and parking guidance, which is separate from the city beach permit.</p>
+								<p class="bdai-whitecap-faq-answer">Dog rules vary by public park, trail, waterfront, beach, wildlife area, business, and boat operator. Keep dogs controlled, clean up after them, and check the current rules for the exact destination. Do not assume rules in Aransas Pass also apply in Port Aransas, Rockport, or Mustang Island State Park.</p>
 							</article>
 							<article class="bdai-whitecap-faq-card bdai-reveal">
 
-								<h3 class="bdai-whitecap-faq-question">Are permits required on Mustang Island?</h3>
+								<h3 class="bdai-whitecap-faq-question">What attractions are near Aransas Pass?</h3>
 
-								<p class="bdai-whitecap-faq-answer">Some areas require admission fees or permits. Mustang Island State Park currently lists a daily entrance fee for adults, while Port Aransas currently requires an annual beach parking sticker for vehicles parked on the beach. Fishing licenses, camping arrangements, pier access, or special activities may have additional requirements.</p>
+								<p class="bdai-whitecap-faq-answer">Nearby attractions include Port Aransas beaches and waterfront activities, Mustang Island State Park, Rockport and Fulton coastal destinations, wildlife and birding areas, bay paddling routes, fishing services, marinas, local restaurants, and the broader Corpus Christi area. Each attraction is located in its own community or jurisdiction.</p>
 							</article>
 							<article class="bdai-whitecap-faq-card bdai-reveal">
 
 								<h3 class="bdai-whitecap-faq-question">What should visitors know before visiting?</h3>
 
-								<p class="bdai-whitecap-faq-answer">ring water, food, sun protection, suitable footwear, first-aid supplies, and layers for wind. Check weather, tides, surf, water quality, beach conditions, road access, park capacity, current fees, closures, pet rules, and fishing regulations. Do not drive onto soft sand or remote beach areas unless your vehicle and experience are appropriate for the conditions.</p>
+								<p class="bdai-whitecap-faq-answer">Plan for heat, sun, wind, insects, changing tides, thunderstorms, marine conditions, and limited services at some launch or nature locations. Check current fishing rules, boat access, parking, ferry information, business hours, event schedules, pet policies, and emergency alerts before leaving.</p>
 							</article>
 						</div></div>
 				</section>
@@ -450,7 +450,7 @@
 </table>
 
 <style>
-  .bdai-whitecap-hero  {
+    .bdai-whitecap-hero  {
    position:relative;
    overflow:hidden;
    padding:72px 0;
@@ -1187,7 +1187,6 @@
 }
 </style>
 
----Header---
 <script>
 (function($){
   var bdaiFaqCards = $('.bdai-whitecap-faq-card');
@@ -1236,133 +1235,5 @@
       bdaiAnswerText.prop('hidden', bdaiIsOpen);
     });
   });
-})(jQuery);
-</script>
-
----Footer---
-<script>
-(function($){
-  var bdaiWrapGroups = function(bdaiGridSelector, bdaiGroupSize, bdaiCardClass){
-    var bdaiGrid = $(bdaiGridSelector);
-    var bdaiChildren;
-    var bdaiIndex;
-    var bdaiCard;
-    var bdaiGroup;
-
-    if (!bdaiGrid.length || bdaiGrid.children('.' + bdaiCardClass).length) {
-      return;
-    }
-
-    bdaiChildren = bdaiGrid.children().detach();
-
-    for (bdaiIndex = 0; bdaiIndex < bdaiChildren.length; bdaiIndex += bdaiGroupSize) {
-      bdaiGroup = bdaiChildren.slice(bdaiIndex, bdaiIndex + bdaiGroupSize);
-
-      if (bdaiGroup.length !== bdaiGroupSize) {
-        bdaiGrid.append(bdaiGroup);
-        continue;
-      }
-
-      bdaiCard = $('<div></div>');
-      bdaiCard.addClass(bdaiCardClass);
-      bdaiCard.append(bdaiGroup);
-      bdaiGrid.append(bdaiCard);
-    }
-  };
-
-  var bdaiBuildFaqCards = function(){
-    var bdaiFaqGrid = $('.bdai-whitecap-faq-grid');
-    var bdaiFaqChildren;
-    var bdaiFaqIndex;
-    var bdaiFaqCard;
-    var bdaiFaqGroup;
-
-    if (!bdaiFaqGrid.length || bdaiFaqGrid.children('.bdai-whitecap-faq-card').length) {
-      return;
-    }
-
-    bdaiFaqChildren = bdaiFaqGrid.children().detach();
-
-    for (bdaiFaqIndex = 0; bdaiFaqIndex < bdaiFaqChildren.length; bdaiFaqIndex += 2) {
-      bdaiFaqGroup = bdaiFaqChildren.slice(bdaiFaqIndex, bdaiFaqIndex + 2);
-
-      if (bdaiFaqGroup.length !== 2) {
-        bdaiFaqGrid.append(bdaiFaqGroup);
-        continue;
-      }
-
-      bdaiFaqCard = $('<div></div>');
-      bdaiFaqCard.addClass('bdai-whitecap-faq-card');
-      bdaiFaqCard.append(bdaiFaqGroup);
-      bdaiFaqGrid.append(bdaiFaqCard);
-    }
-  };
-
-  var bdaiActivateFaqs = function(){
-    var bdaiFaqCards = $('.bdai-whitecap-faq-card');
-
-    if (!bdaiFaqCards.length) {
-      return;
-    }
-
-    bdaiFaqCards.each(function(bdaiIndex){
-      var bdaiCard = $(this);
-      var bdaiQuestion = bdaiCard.find('.bdai-whitecap-faq-question').first();
-      var bdaiAnswerText = bdaiCard.find('.bdai-whitecap-faq-answer').first();
-      var bdaiAnswerId;
-      var bdaiTrigger;
-      var bdaiIcon;
-      var bdaiIconWrap;
-
-      if (bdaiCard.find('.bdai-whitecap-faq-trigger').length || !bdaiQuestion.length || !bdaiAnswerText.length) {
-        return;
-      }
-
-      bdaiAnswerId = 'bdai-whitecap-faq-answer-' + (bdaiIndex + 1);
-      bdaiTrigger = $('<button type="button"></button>');
-      bdaiIcon = $('<i aria-hidden="true"></i>');
-      bdaiIconWrap = $('<span></span>');
-
-      bdaiTrigger.addClass('bdai-whitecap-faq-trigger');
-      bdaiTrigger.attr('aria-expanded', 'false');
-      bdaiTrigger.attr('aria-controls', bdaiAnswerId);
-
-      bdaiIcon.addClass('bi bi-chevron-down');
-      bdaiIconWrap.addClass('bdai-whitecap-faq-icon');
-      bdaiIconWrap.append(bdaiIcon);
-
-      bdaiTrigger.append(bdaiQuestion);
-      bdaiTrigger.append(bdaiIconWrap);
-
-      bdaiAnswerText.attr('id', bdaiAnswerId);
-      bdaiAnswerText.prop('hidden', true);
-
-      bdaiCard.empty();
-      bdaiCard.append(bdaiTrigger);
-      bdaiCard.append(bdaiAnswerText);
-
-      bdaiTrigger.on('click', function(){
-        var bdaiIsOpen = bdaiTrigger.attr('aria-expanded') === 'true';
-
-        bdaiTrigger.attr('aria-expanded', bdaiIsOpen ? 'false' : 'true');
-        bdaiCard.toggleClass('bdai-faq-open', !bdaiIsOpen);
-        bdaiAnswerText.prop('hidden', bdaiIsOpen);
-      });
-    });
-  };
-
-  var bdaiInitializePage = function(){
-    bdaiWrapGroups('.bdai-whitecap-about-grid', 3, 'bdai-whitecap-about-card');
-    bdaiWrapGroups('.bdai-whitecap-rules-grid', 3, 'bdai-whitecap-rule-card');
-    bdaiWrapGroups('.bdai-whitecap-nearby-grid', 4, 'bdai-whitecap-nearby-card');
-    bdaiBuildFaqCards();
-    bdaiActivateFaqs();
-  };
-
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', bdaiInitializePage);
-  } else {
-    bdaiInitializePage();
-  }
 })(jQuery);
 </script>

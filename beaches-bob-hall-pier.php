@@ -6,18 +6,18 @@
 					<div class="container">
 						<div class="bdai-whitecap-hero-layout bdai-reveal">
 							<div class="bdai-whitecap-hero-copy">
-								<div class="bdai-whitecap-hero-eyebrow" style="white-space:nowrap !important;width:fit-content;">Mustang Island State Park</div>
+								<div class="bdai-whitecap-hero-eyebrow" style="white-space:nowrap !important;width:fit-content;">Bob Hall Pier</div>
 
-								<h1 class="bdai-whitecap-hero-title">Mustang Island State Park, a Wide-Open Texas Beach Escape</h1>
+								<h1 class="bdai-whitecap-hero-title">Bob Hall Pier, A Gulf Coast Landmark in Corpus Christi</h1>
 
-								<p class="bdai-whitecap-hero-lead">Mustang Island State Park brings more than five miles of open Gulf shoreline, rolling dunes, shallow bay waters, and relaxed coastal recreation to the Texas coast near Corpus Christi.</p>
+								<p class="bdai-whitecap-hero-lead">Bob Hall Pier is a newly rebuilt North Padre Island destination where visitors can fish over the Gulf of Mexico, walk above the water, watch coastal wildlife, and take in wide-open views from the shoreline.</p>
 
-								<p class="bdai-whitecap-hero-copy-text">Use this local guide to plan a beach day or camping trip, understand park fees and reservations, choose activities, prepare for changing coastal conditions, and discover nearby businesses, accommodations, beaches, and attractions through Simply Padre.</p>
-								<div class="bdai-whitecap-hero-actions"><a class="bdai-whitecap-hero-primary" href="https://www.simplypadre.com" target="_blank">Explore Simply Padre</a> <a class="bdai-whitecap-hero-secondary" href="https://tpwd.texas.gov/state-parks/mustang-island" target="_blank">Plan Your Visit</a></div></div>
-							<div class="bdai-whitecap-hero-media"><img src="https://tpwd.texas.gov/state-parks/mustang-island/gallery/mustangisland-168.jpg" alt="Mustang Island State Park Gulf beach and shoreline" class="img-rounded fr-fil fr-dib" fetchpriority="high" decoding="async">
+								<p class="bdai-whitecap-hero-copy-text">Use this local guide to plan a visit to Bob Hall Pier, understand access and beach rules, explore fishing opportunities, find nearby camping and accommodations, and discover more places to enjoy around Corpus Christi.</p>
+								<div class="bdai-whitecap-hero-actions"><a class="bdai-whitecap-hero-primary" href="https://www.simplypadre.com" target="_blank">Explore Simply Padre</a> <a class="bdai-whitecap-hero-secondary" href="https://www.visitcorpuschristi.com/beaches/locations/bob-hall-pier-and-padre-balli-park/" target="_blank">Plan Your Visit</a></div></div>
+							<div class="bdai-whitecap-hero-media"><img src="https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,g_xy_center,h_562,q_75,w_1920,x_1017,y_606/v1/clients/corpuschristitx/laurielyng_gmail_com_LLimagery_BobHall8_1_2882031b-88d6-4d1a-b632-69ccc04f5371.jpg" alt="Bob Hall Pier extending over the Gulf of Mexico" class="img-rounded fr-fil fr-dib" fetchpriority="high" decoding="async">
 								<br>
 
-								<p class="bdai-whitecap-hero-caption">Mustang Island State Park combines a broad Gulf beach with dunes, coastal wildlife habitat, bay access, camping, and the open-water character that makes Mustang Island special.</p>
+								<p class="bdai-whitecap-hero-caption">The rebuilt Bob Hall Pier reaches into the Gulf from Padre Balli Park, creating a memorable setting for fishing, sightseeing, coastal photography, and watching the horizon.</p>
 							</div></div></div>
 				</section>
 			</td>
@@ -32,33 +32,33 @@
 				<section class="bdai-whitecap-about" id="bdai-whitecap-about">
 					<div class="container">
 						<div class="bdai-whitecap-about-heading bdai-reveal">
-							<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Protected Island Landscape</div>
+							<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Local North Padre Guide</div>
 
-							<h2 class="bdai-whitecap-about-title">About Mustang Island State Park</h2>
+							<h2 class="bdai-whitecap-about-title">About Bob Hall Pier</h2>
 
-							<p class="bdai-whitecap-about-intro">Mustang Island State Park is a Texas state park on Mustang Island along the Gulf Coast, at 9394 State Highway 361 near Corpus Christi and Port Aransas. The park protects more than five miles of coastline and gives visitors room to enjoy the beach, dunes, bay waters, and coastal landscape without confusing the park with Mustang Island as a whole or with neighboring Padre Island.</p>
+							<p class="bdai-whitecap-about-intro">Bob Hall Pier is located inside Padre Balli Park on North Padre Island in Corpus Christi, Texas. The rebuilt pier reopened to the public in February 2026 after the original structure was severely damaged by Hurricane Hanna in 2020. Today, it gives residents and visitors a welcoming place to experience the Gulf from the water&rsquo;s edge while staying close to the beach, park facilities, camping, and island businesses.</p>
 						</div>
 						<div class="bdai-whitecap-about-grid">
 							<article class="bdai-whitecap-about-card bdai-reveal">
-								<div class="bdai-whitecap-about-icon"><i class="bi bi-tree" aria-hidden="true"></i></div>
-
-								<h3 class="bdai-whitecap-card-title">A Texas State Park on Mustang Island</h3>
-
-								<p class="bdai-whitecap-card-copy">The park is a designated Texas State Park located along State Highway 361 on the central portion of Mustang Island. Its protected shoreline offers a different experience from the busier commercial areas of Port Aransas and the developed beach communities elsewhere along the coast.</p>
-							</article>
-							<article class="bdai-whitecap-about-card bdai-reveal">
 								<div class="bdai-whitecap-about-icon"><i class="bi bi-water" aria-hidden="true"></i></div>
 
-								<h3 class="bdai-whitecap-card-title">Gulf Beach, Dunes, and Bay Waters</h3>
+								<h3 class="bdai-whitecap-card-title">A Rebuilt Gulf Coast Landmark</h3>
 
-								<p class="bdai-whitecap-card-copy">The park&rsquo;s natural setting includes a wide Gulf beach, sand dunes, shallow bayside waters, and an expansive horizon. The contrast between surf, sand, wind, and bay scenery makes it appealing for swimming, fishing, beach walks, paddling, and quiet sightseeing.</p>
+								<p class="bdai-whitecap-card-copy">Bob Hall Pier has long been associated with the North Padre Island shoreline. The new structure restores a familiar Corpus Christi destination with wider walkways, modern construction, and improved access for a more comfortable visit above the Gulf.</p>
 							</article>
 							<article class="bdai-whitecap-about-card bdai-reveal">
-								<div class="bdai-whitecap-about-icon"><i class="bi bi-feather" aria-hidden="true"></i></div>
+								<div class="bdai-whitecap-about-icon"><i class="bi bi-geo-alt" aria-hidden="true"></i></div>
 
-								<h3 class="bdai-whitecap-card-title">A Coastal Refuge for Wildlife</h3>
+								<h3 class="bdai-whitecap-card-title">A Padre Balli Park Destination</h3>
 
-								<p class="bdai-whitecap-card-copy">Spring and fall migrations bring especially good birding opportunities, while the paddling trail provides views across shallow-water habitat and coastal bird areas. Dunes, beaches, and bay edges support a changing mix of birds and other coastal wildlife throughout the year.</p>
+								<p class="bdai-whitecap-card-copy">The pier is part of Padre Balli Park, a larger coastal recreation area on North Padre Island. Visitors can combine time on the pier with beach access, fishing, camping, park amenities, and a day of exploring the surrounding Corpus Christi coast.</p>
+							</article>
+							<article class="bdai-whitecap-about-card bdai-reveal">
+								<div class="bdai-whitecap-about-icon"><i class="bi bi-sun" aria-hidden="true"></i></div>
+
+								<h3 class="bdai-whitecap-card-title">A Place for Locals and Visitors</h3>
+
+								<p class="bdai-whitecap-card-copy">Some people arrive with fishing gear and a full day planned, while others come for a walk, a sunrise, a sunset, or a closer look at the Gulf. Bob Hall Pier works as both an active recreation destination and an easy way to enjoy the scenery.</p>
 							</article>
 						</div></div>
 				</section>
@@ -75,67 +75,35 @@
 					<div class="container">
 						<div class="bdai-whitecap-things-layout">
 							<div class="bdai-whitecap-things-copy bdai-reveal">
-								<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Make the Most of the Coast</div>
+								<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Make the Most of Bob Hall Pier</div>
 
-								<h2 class="bdai-whitecap-things-title">Things to Do at Mustang Island State Park</h2>
+								<h2 class="bdai-whitecap-things-title">Things to Do at Bob Hall Pier</h2>
 
-								<p class="bdai-whitecap-things-lead">Mustang Island State Park is built for flexible outdoor days. You can settle into a beach chair, follow the shoreline, launch a paddle trip, cast into the surf, or stay overnight while the Gulf changes from morning light to evening sky.</p>
+								<p class="bdai-whitecap-things-lead">Bob Hall Pier brings together some of the best parts of a Corpus Christi beach day: saltwater fishing, open views, fresh air, long walks, and the changing light of the Gulf. Plan around the weather, tides, wind, and comfort level of your group.</p>
 								<div class="bdai-whitecap-things-list">
+									<div class="bdai-whitecap-things-item">
+										<div class="bdai-whitecap-things-icon"><i class="bi bi-water" aria-hidden="true"></i></div>
+										<div class="bdai-whitecap-things-item-copy">
+
+											<h3 class="bdai-whitecap-things-item-title">Fish Over the Gulf</h3>
+
+											<p class="bdai-whitecap-things-item-text">Saltwater fishing is the pier&rsquo;s signature activity. Anglers may encounter species such as spotted seatrout, redfish, black drum, whiting, sheepshead, Spanish mackerel, kingfish, and small sharks, depending on the season and conditions. A Texas fishing license is required.</p>
+										</div></div>
 									<div class="bdai-whitecap-things-item">
 										<div class="bdai-whitecap-things-icon"><i class="bi bi-umbrella" aria-hidden="true"></i></div>
 										<div class="bdai-whitecap-things-item-copy">
 
-											<h3 class="bdai-whitecap-things-item-title">Swim and Enjoy the Beach</h3>
+											<h3 class="bdai-whitecap-things-item-title">Enjoy the Beach</h3>
 
-											<p class="bdai-whitecap-things-item-text">Spend time in the Gulf, relax on the sand, surf when conditions and experience allow, or build sandcastles with the family. There are no lifeguards at the primitive beach camping area, so check conditions, supervise children, and swim at your own risk.</p>
+											<p class="bdai-whitecap-things-item-text">Pair pier time with a walk along Padre Balli Beach, a relaxed shoreline break, beachcombing, or a visit to the sand near the park. Bring water, sun protection, and anything your group needs for a comfortable Gulf Coast afternoon.</p>
 										</div></div>
 									<div class="bdai-whitecap-things-item">
 										<div class="bdai-whitecap-things-icon"><i class="bi bi-person-walking" aria-hidden="true"></i></div>
 										<div class="bdai-whitecap-things-item-copy">
 
-											<h3 class="bdai-whitecap-things-item-title">Walk, Beachcomb, and Explore</h3>
+											<h3 class="bdai-whitecap-things-item-title">Walk and Sightsee</h3>
 
-											<p class="bdai-whitecap-things-item-text">Walk more than five miles of open shoreline, look for changing beach patterns, enjoy the dunes from appropriate access areas, and take in the wide views across the Gulf. Leave wildlife, dunes, vegetation, and natural features undisturbed.</p>
-										</div></div>
-									<div class="bdai-whitecap-things-item">
-										<div class="bdai-whitecap-things-icon"><i class="bi bi-fish" aria-hidden="true"></i></div>
-										<div class="bdai-whitecap-things-item-copy">
-
-											<h3 class="bdai-whitecap-things-item-title">Fish the Surf and Bay</h3>
-
-											<p class="bdai-whitecap-things-item-text">Surf fishing and bay fishing are available, and the shallow-water paddling trail passes through areas known for fishing. Bring the equipment and licenses required for your trip, and check current Texas regulations before casting.</p>
-										</div></div>
-									<div class="bdai-whitecap-things-item">
-										<div class="bdai-whitecap-things-icon"><i class="bi bi-moon-stars" aria-hidden="true"></i></div>
-										<div class="bdai-whitecap-things-item-copy">
-
-											<h3 class="bdai-whitecap-things-item-title">Camp Beside the Coast</h3>
-
-											<p class="bdai-whitecap-things-item-text">Choose a reserved water-and-electric campsite about 400 yards from the water or a drive-up primitive site along a 1.5-mile stretch of beach. The two camping styles create different experiences, from supported campground stays to more direct beach access.</p>
-										</div></div>
-									<div class="bdai-whitecap-things-item">
-										<div class="bdai-whitecap-things-icon"><i class="bi bi-wind" aria-hidden="true"></i></div>
-										<div class="bdai-whitecap-things-item-copy">
-
-											<h3 class="bdai-whitecap-things-item-title">Paddle the Bay</h3>
-
-											<p class="bdai-whitecap-things-item-text">The Mustang Island State Park Paddling Trail includes three segments and follows the island&rsquo;s western shoreline in Corpus Christi Bay. The full trail totals 20 miles and offers shallow-water scenery, fishing access, and coastal-bird viewing for prepared paddlers.</p>
-										</div></div>
-									<div class="bdai-whitecap-things-item">
-										<div class="bdai-whitecap-things-icon"><i class="bi bi-binoculars" aria-hidden="true"></i></div>
-										<div class="bdai-whitecap-things-item-copy">
-
-											<h3 class="bdai-whitecap-things-item-title">Watch Birds and Wildlife</h3>
-
-											<p class="bdai-whitecap-things-item-text">Birding is especially rewarding during spring and fall migration, but coastal birds can be enjoyed year-round. Join a ranger program when available, bring binoculars, and observe wildlife from a respectful distance along the beach, dunes, and bay.</p>
-										</div></div>
-									<div class="bdai-whitecap-things-item">
-										<div class="bdai-whitecap-things-icon"><i class="bi bi-compass" aria-hidden="true"></i></div>
-										<div class="bdai-whitecap-things-item-copy">
-
-											<h3 class="bdai-whitecap-things-item-title">Join Ranger Programs</h3>
-
-											<p class="bdai-whitecap-things-item-text">Depending on the season and schedule, the park may offer birding, stargazing, beachcombing, and nature-walk programs. Geocaching and volunteer opportunities also give returning visitors new ways to connect with the park.</p>
+											<p class="bdai-whitecap-things-item-text">The pier offers a different perspective from the beach, with water on both sides and a broad view back toward North Padre Island. Walk at an easy pace, look for birds and marine activity, and enjoy the changing horizon without needing a fishing setup.</p>
 										</div></div>
 									<div class="bdai-whitecap-things-item">
 										<div class="bdai-whitecap-things-icon"><i class="bi bi-camera" aria-hidden="true"></i></div>
@@ -143,12 +111,12 @@
 
 											<h3 class="bdai-whitecap-things-item-title">Photograph the Coast</h3>
 
-											<p class="bdai-whitecap-things-item-text">Photograph Gulf surf, dune textures, bay reflections, fishing scenes, campground details, shorebirds, sunrise, and evening light. Keep your composition natural by giving wildlife space and avoiding fragile dunes and protected areas.</p>
+											<p class="bdai-whitecap-things-item-text">Bob Hall Pier creates strong coastal photographs at sunrise, sunset, and throughout the day. Capture the structure leading into the Gulf, anglers at work, beach activity, clouds, seabirds, and the changing colors across the water.</p>
 										</div></div></div></div>
-							<div class="bdai-whitecap-things-media bdai-reveal"><img src="https://tpwd.texas.gov/state-parks/mustang-island/gallery/mustang-island_3462.jpg" alt="Mustang Island State Park beach and coastal dunes" class="img-rounded fr-fil fr-dib" loading="lazy" decoding="async">
+							<div class="bdai-whitecap-things-media bdai-reveal"><img src="https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_avif,h_597,q_65,w_640/v1/clients/corpuschristitx/DJI_0122_large_1__3d61a127-4007-423e-ba8b-cdaa7798264e.jpg" alt="Padre Balli Park beach and Gulf shoreline near Bob Hall Pier" class="img-rounded fr-fil fr-dib" loading="lazy" decoding="async">
 								<br>
 
-								<p class="bdai-whitecap-things-note">Bring drinking water, sun protection, food, fishing supplies, suitable footwear, first-aid items, and layers for changing wind. The park store offers some supplies, but services are limited compared with the nearby communities.</p>
+								<p class="bdai-whitecap-things-note">Fishing is often popular around sunrise, sunset, and after dark beneath the pier lights. Check current weather, surf, wind, tide, and safety conditions before entering the water or planning a long stay outdoors.</p>
 							</div></div></div>
 				</section>
 			</td>
@@ -163,82 +131,50 @@
 				<section class="bdai-whitecap-before" id="bdai-whitecap-before">
 					<div class="container">
 						<div class="bdai-whitecap-before-layout">
-							<div class="bdai-whitecap-before-media bdai-reveal"><img src="https://tpwd.texas.gov/state-parks/mustang-island/gallery/misp_rv_3422.jpg" alt="Mustang Island State Park campground and coastal camping area" class="img-rounded fr-fil fr-dib" loading="lazy" decoding="async">
+							<div class="bdai-whitecap-before-media bdai-reveal"><img src="https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_avif,g_xy_center,h_300,q_60,w_442,x_3395,y_2806/v1/clients/corpuschristitx/DJI_0612_6a898fb0-bd23-477d-9210-bd025bac8ac4.jpg" alt="Aerial view of the Gulf shoreline near Padre Balli Park" class="img-rounded fr-fil fr-dib" loading="lazy" decoding="async">
 
 								<p>
 									<br>
 								</p>
-								<div class="bdai-whitecap-before-badge"><strong>Plan for a coastal state park</strong> <span>Mustang Island State Park offers beach access and useful facilities, but weather, tides, surf, sand, and capacity can affect the experience. Reserve ahead when possible and check conditions before leaving for the coast.</span></div></div>
+								<div class="bdai-whitecap-before-badge"><strong>Plan around the coast</strong> <span>Bob Hall Pier is an outdoor destination where wind, heat, surf, tides, weather, and seasonal operations can affect the experience. Confirm current details before you leave.</span></div></div>
 							<div class="bdai-whitecap-before-copy bdai-reveal">
 								<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">What to Know Before You Go</div>
 
-								<h2 class="bdai-whitecap-before-title">Mustang Island State Park Information</h2>
+								<h2 class="bdai-whitecap-before-title">Prepare for a Comfortable Pier Visit</h2>
 
-								<p class="bdai-whitecap-before-lead">The park is open daily from 8:00 a.m. to 5:00 p.m. Adult entrance is $7 per day, and children age 12 and under enter free. Because the park can reach capacity, Texas Parks and Wildlife recommends reservations for camping and day use when available.</p>
+								<p class="bdai-whitecap-before-lead">Bob Hall Pier is part of Padre Balli Park on North Padre Island, so a good visit involves both pier planning and awareness of the surrounding beach and park rules. Access information, fees, facilities, and operating details can change, especially as the rebuilt destination continues to settle into regular operations.</p>
 								<div class="bdai-whitecap-before-details">
 									<div class="bdai-whitecap-before-detail">
 										<div class="bdai-whitecap-before-detail-icon"><i class="bi bi-sign-turn-right" aria-hidden="true"></i></div>
 										<div class="bdai-whitecap-before-detail-copy">
 
-											<h3 class="bdai-whitecap-before-detail-title">Access, Address, and Parking</h3>
+											<h3 class="bdai-whitecap-before-detail-title">Location, Access, and Parking</h3>
 
-											<p class="bdai-whitecap-before-detail-text">Mustang Island State Park is located at 9394 State Highway 361, Corpus Christi, Texas 78418, between the Corpus Christi area and Port Aransas on Mustang Island. Day-use and camping access are subject to park capacity and current conditions, so reserve a day pass when possible and follow posted parking and beach-access guidance.</p>
+											<p class="bdai-whitecap-before-detail-text">Bob Hall Pier is inside Padre Balli Park on North Padre Island and can be reached from South Padre Island Drive through Padre Balli Park Road or nearby beach access roads. Visitor information states that a beach parking permit is not required for the pier, while permits apply to parking on designated Gulf beach areas. Follow posted signs and current park instructions when you arrive.</p>
 										</div></div>
 									<div class="bdai-whitecap-before-detail">
 										<div class="bdai-whitecap-before-detail-icon"><i class="bi bi-ticket-perforated" aria-hidden="true"></i></div>
 										<div class="bdai-whitecap-before-detail-copy">
 
-											<h3 class="bdai-whitecap-before-detail-title">Entrance Fees and Reservations</h3>
+											<h3 class="bdai-whitecap-before-detail-title">Pier Admission and Fishing Fees</h3>
 
-											<p class="bdai-whitecap-before-detail-text">The current standard entrance fee is $7 per adult per day, while children age 12 and under enter free. Reservations can be made online or by calling 512-389-8900. A reservation is highly recommended for both day use and camping because the park may fill to capacity.</p>
-										</div></div>
-									<div class="bdai-whitecap-before-detail">
-										<div class="bdai-whitecap-before-detail-icon"><i class="bi bi-house-heart" aria-hidden="true"></i></div>
-										<div class="bdai-whitecap-before-detail-copy">
-
-											<h3 class="bdai-whitecap-before-detail-title">Camping Options and Campsites</h3>
-
-											<p class="bdai-whitecap-before-detail-text">The park has 48 water-and-electric campsites located about 400 yards from the water and 50 drive-up primitive sites along a 1.5-mile beach stretch. Water-and-electric sites cost $25 per night plus the daily entrance fee and include water, a 50-amp hookup, a picnic table, grill, and shade shelter. Primitive sites cost $13 per night plus the daily entrance fee and are non-reservable.</p>
-										</div></div>
-									<div class="bdai-whitecap-before-detail">
-										<div class="bdai-whitecap-before-detail-icon"><i class="bi bi-building" aria-hidden="true"></i></div>
-										<div class="bdai-whitecap-before-detail-copy">
-
-											<h3 class="bdai-whitecap-before-detail-title">Restrooms, Showers, and Picnic Areas</h3>
-
-											<p class="bdai-whitecap-before-detail-text">Full restrooms and hot-water showers are located near the water-and-electric campground. Primitive campers have access to restrooms at varying distances from the beach sites, and portable toilets are available along portions of the beach. Picnic tables, grills, shade shelters, a park store, and beach areas support day trips and overnight stays.</p>
+											<p class="bdai-whitecap-before-detail-text">Bob Hall Pier is open to visitors and anglers. Current admission and fishing pricing is posted at the entrance, and rates may change. Rod rentals are available on site with a refundable deposit, according to visitor information. Children 12 and under are described as receiving free admission. Check the posted rates before beginning your visit.</p>
 										</div></div>
 									<div class="bdai-whitecap-before-detail">
 										<div class="bdai-whitecap-before-detail-icon"><i class="bi bi-fish" aria-hidden="true"></i></div>
 										<div class="bdai-whitecap-before-detail-copy">
 
-											<h3 class="bdai-whitecap-before-detail-title">Fishing and Water Activities</h3>
+											<h3 class="bdai-whitecap-before-detail-title">Fishing Licenses and Supplies</h3>
 
-											<p class="bdai-whitecap-before-detail-text">Surf fishing and bay fishing are available, and the 20-mile Mustang Island State Park Paddling Trail follows the western shoreline through shallow-water areas. Check current weather, wind, tides, water conditions, fishing regulations, and launch guidance before paddling or fishing.</p>
+											<p class="bdai-whitecap-before-detail-text">A Texas fishing license is required for pier fishing. The pier area includes access to bait and tackle supplies, bait such as shrimp, squid, and mullet, and basic fishing items including hooks, leaders, weights, and pliers. Bring weather-appropriate clothing and confirm current regulations before keeping any catch.</p>
 										</div></div>
 									<div class="bdai-whitecap-before-detail">
 										<div class="bdai-whitecap-before-detail-icon"><i class="bi bi-universal-access" aria-hidden="true"></i></div>
 										<div class="bdai-whitecap-before-detail-copy">
 
-											<h3 class="bdai-whitecap-before-detail-title">Accessibility and Beach Wheelchairs</h3>
+											<h3 class="bdai-whitecap-before-detail-title">Facilities, Accessibility, and Camping</h3>
 
-											<p class="bdai-whitecap-before-detail-text">The park has two beach wheelchairs available to borrow at no charge. Ask park staff about availability when you arrive. Conditions on sand, dunes, and the shoreline can change, so visitors should confirm the most suitable access information directly with the park.</p>
-										</div></div>
-									<div class="bdai-whitecap-before-detail">
-										<div class="bdai-whitecap-before-detail-icon"><i class="bi bi-heart-pulse" aria-hidden="true"></i></div>
-										<div class="bdai-whitecap-before-detail-copy">
-
-											<h3 class="bdai-whitecap-before-detail-title">Swimming, Pets, and Safety</h3>
-
-											<p class="bdai-whitecap-before-detail-text">Swimming, surfing, and beach recreation are available, but no lifeguards are present at the primitive beach camping area. Pet restrictions can vary by park area and current policy, so confirm the latest rules with park staff before bringing a dog. Keep pets controlled and away from wildlife.</p>
-										</div></div>
-									<div class="bdai-whitecap-before-detail">
-										<div class="bdai-whitecap-before-detail-icon"><i class="bi bi-shield-check" aria-hidden="true"></i></div>
-										<div class="bdai-whitecap-before-detail-copy">
-
-											<h3 class="bdai-whitecap-before-detail-title">Beach Rules and Changing Conditions</h3>
-
-											<p class="bdai-whitecap-before-detail-text">Respect posted closures, protect dunes and vegetation, secure food and trash, and leave wildlife and natural features undisturbed. Small beach campfires are allowed in the primitive beach camping area, while campfires are not allowed at water-and-electric campsites; always follow current fire guidance and weather restrictions.</p>
+											<p class="bdai-whitecap-before-detail-text">The rebuilt pier includes ADA accessibility improvements, and Padre Balli Park lists accessible amenities, bathrooms, shower facilities, and complimentary beach wheelchairs at the park office. Padre Balli Park also offers RV and tent camping, with reservations handled through the Nueces County Coastal Park Office at (361) 949-8121. Confirm which facilities are open when you visit.</p>
 										</div></div></div></div></div></div>
 				</section>
 			</td>
@@ -253,40 +189,40 @@
 				<section class="bdai-whitecap-rules" id="bdai-whitecap-rules">
 					<div class="container">
 						<div class="bdai-whitecap-rules-heading bdai-reveal">
-							<div class="bdai-whitecap-section-eyebrow" style="width:fit-content;white-space:nowrap !important;text-align:center;">Respect the Protected Coast</div>
+							<div class="bdai-whitecap-section-eyebrow" style="width:fit-content;white-space:nowrap !important;text-align:center;">Respect the Gulf Coast</div>
 
-							<h2 class="bdai-whitecap-rules-title" style="text-align:left;">Simple Rules for a Better Park Visit</h2>
+							<h2 class="bdai-whitecap-rules-title" style="text-align:left;">Simple Rules for a Better Bob Hall Pier Visit</h2>
 
-							<p class="bdai-whitecap-rules-intro" style="text-align:left;">Mustang Island State Park is shared by swimmers, anglers, campers, paddlers, birders, families, beach walkers, and wildlife. A few thoughtful choices help protect the dunes, shoreline, bay waters, and coastal habitat that make the park worth visiting.</p>
+							<p class="bdai-whitecap-rules-intro" style="text-align:left;">Bob Hall Pier and Padre Balli Park are shared spaces used by anglers, families, beachgoers, campers, drivers, wildlife watchers, and local residents. Follow posted instructions and current city and county guidance so everyone can enjoy the coast.</p>
 						</div>
 						<div class="bdai-whitecap-rules-grid">
 							<article class="bdai-whitecap-rule-card bdai-reveal">
 								<div class="bdai-whitecap-rule-number">01</div>
 
-								<h3 class="bdai-whitecap-rule-title">Protect Wildlife</h3>
+								<h3 class="bdai-whitecap-rule-title">Keep the Coast Clean</h3>
 
-								<p class="bdai-whitecap-rule-copy">Give birds and other wildlife plenty of space, avoid disturbing nests or habitat, and never chase, feed, or handle wild animals.</p>
+								<p class="bdai-whitecap-rule-copy">Use trash receptacles and beach trash-bag stations, collect fishing line and tackle, and take responsibility for everything your group brings to the shoreline.</p>
 							</article>
 							<article class="bdai-whitecap-rule-card bdai-reveal">
 								<div class="bdai-whitecap-rule-number">02</div>
 
-								<h3 class="bdai-whitecap-rule-title">Protect the Dunes</h3>
+								<h3 class="bdai-whitecap-rule-title">Follow Fishing Rules</h3>
 
-								<p class="bdai-whitecap-rule-copy">Stay on appropriate access routes, avoid trampling dune vegetation, and follow signs or closures that protect fragile coastal areas.</p>
+								<p class="bdai-whitecap-rule-copy">Carry the required Texas fishing license, respect posted pier instructions, handle fish carefully, and check current size and bag limits before keeping a catch.</p>
 							</article>
 							<article class="bdai-whitecap-rule-card bdai-reveal">
 								<div class="bdai-whitecap-rule-number">03</div>
 
-								<h3 class="bdai-whitecap-rule-title">Leave No Trace</h3>
+								<h3 class="bdai-whitecap-rule-title">Watch the Water</h3>
 
-								<p class="bdai-whitecap-rule-copy">Pack out trash, secure food, dispose of fishing line properly, follow fire rules, and leave shells, plants, and other natural features in place.</p>
+								<p class="bdai-whitecap-rule-copy">Stay alert around the pier edge, changing surf, slippery surfaces, fishing equipment, and other visitors. Never assume Gulf conditions are calm or predictable.</p>
 							</article>
 							<article class="bdai-whitecap-rule-card bdai-reveal">
 								<div class="bdai-whitecap-rule-number">04</div>
 
-								<h3 class="bdai-whitecap-rule-title">Travel for Conditions</h3>
+								<h3 class="bdai-whitecap-rule-title">Respect Park and Beach Rules</h3>
 
-								<p class="bdai-whitecap-rule-copy">Check weather, wind, tides, surf, beach conditions, and capacity before driving, swimming, camping, fishing, or paddling.</p>
+								<p class="bdai-whitecap-rule-copy">Dogs must follow current leash or verbal-control rules, glass containers are prohibited on Corpus Christi beaches, and camping and fires must follow posted Gulf beach regulations.</p>
 							</article>
 						</div></div>
 				</section>
@@ -303,20 +239,20 @@
 					<div class="container">
 						<div class="bdai-whitecap-gallery-layout">
 							<div class="bdai-whitecap-gallery-copy bdai-reveal">
-								<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Scenes From the island</div>
+								<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Scenes From THE Island</div>
 
-								<h2 class="bdai-whitecap-gallery-title">Mustang Island State Park Photo Journal</h2>
+								<h2 class="bdai-whitecap-gallery-title">Bob Hall Pier Photo Journal</h2>
 
-								<p class="bdai-whitecap-gallery-intro">The park&rsquo;s visual character comes from the meeting of Gulf water, open sand, dunes, shallow bay, campground life, and long coastal horizons. Every season and tide brings different light, textures, birds, and beach conditions.</p>
+								<p class="bdai-whitecap-gallery-intro">Bob Hall Pier sits within a wide North Padre Island landscape shaped by Gulf water, sand, wind, sky, and long stretches of shoreline. The pier adds a strong vertical line to that scenery, whether you are looking toward the horizon, back toward the beach, or down into the water.</p>
 
-								<p class="bdai-whitecap-gallery-copy-text">Bring a camera for shoreline patterns, fishing scenes, dune grasses, campground mornings, paddling views, birds, and evening color. Photograph responsibly by staying clear of sensitive habitat and giving wildlife room.</p>
-								<div class="bdai-whitecap-gallery-tip"><i class="bi bi-camera" aria-hidden="true"></i> <span>For stronger coastal photographs, combine the beach, sky, dunes, water, and a human-scale detail such as a fishing rod, tent, paddle, or distant beach walker.</span></div></div>
+								<p class="bdai-whitecap-gallery-copy-text">Bring a camera for sunrise colors, sunset reflections, working anglers, seabirds, beach activity, and the changing mood of the Gulf. Conditions can shift quickly, so make the view part of the experience rather than rushing through it.</p>
+								<div class="bdai-whitecap-gallery-tip"><i class="bi bi-camera" aria-hidden="true"></i><span>For the best coastal photographs, look for layered subjects: the pier structure, fishing activity, moving clouds, shoreline textures, and the open Gulf beyond.</span></div></div>
 							<div class="bdai-whitecap-gallery-visual bdai-reveal">
 								<div class="bdai-collage-grid">
-									<div class="bdai-collage-tile"><img src="https://tpwd.texas.gov/state-parks/mustang-island/gallery/mustangisland-168.jpg" alt="Mustang Island State Park open Gulf beach" class="img-rounded fr-fil fr-dib" loading="lazy" decoding="async"></div>
-									<div class="bdai-collage-tile"><img src="https://tpwd.texas.gov/state-parks/mustang-island/gallery/misp_rv_3422.jpg" alt="Mustang Island State Park RV campground" class="img-rounded fr-fil fr-dib" loading="lazy" decoding="async"></div>
-									<div class="bdai-collage-tile"><img src="https://tpwd.texas.gov/state-parks/mustang-island/gallery/mustang-island-fishing.jpg" alt="Fishing at Mustang Island State Park coast" class="img-rounded fr-fil fr-dib" loading="lazy" decoding="async"></div>
-									<div class="bdai-collage-tile"><img src="https://tpwd.texas.gov/state-parks/mustang-island/gallery/mustang-island949_5_321.jpg" alt="Mustang Island State Park coastal scenery and dunes" class="img-rounded fr-fil fr-dib" loading="lazy" decoding="async"></div></div></div></div></div>
+									<div class="bdai-collage-tile"><img src="https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_avif,g_xy_center,h_300,q_60,w_442,x_3395,y_2806/v1/clients/corpuschristitx/DJI_0612_6a898fb0-bd23-477d-9210-bd025bac8ac4.jpg" alt="Aerial Gulf shoreline near Bob Hall Pier" class="img-rounded fr-fil fr-dib" loading="lazy" decoding="async"></div>
+									<div class="bdai-collage-tile"><img src="https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_avif,g_xy_center,h_300,q_60,w_442,x_712,y_741/v1/clients/corpuschristitx/prettypicnicscc_Instagram_3421_ig_17956308562666226_43d16176-fc7d-472f-b8df-08c6a10a7155.jpg" alt="North Padre Island beach picnic near the Gulf" class="img-rounded fr-fil fr-dib" loading="lazy" decoding="async"></div>
+									<div class="bdai-collage-tile"><img src="https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_webp,g_xy_center,h_603,q_65,w_587,x_2029,y_954/v1/clients/corpuschristitx/IMG_3854_2d76079f-ca7e-4168-9fcb-0d4ac10f53fb.jpg" alt="Gulf Coast outdoor recreation near Corpus Christi" class="img-rounded fr-fil fr-dib" loading="lazy" decoding="async"></div>
+									<div class="bdai-collage-tile"><img src="https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_webp,h_603,q_65,w_587/v1/clients/corpuschristitx/maxresdefault_26ce8714-b24b-4831-b4b3-5f88eab659fb.jpg" alt="Coastal fishing scene near North Padre Island" class="img-rounded fr-fil fr-dib" loading="lazy" decoding="async"></div></div></div></div></div>
 				</section>
 			</td>
 		</tr>
@@ -330,37 +266,37 @@
 				<section class="bdai-whitecap-nearby" id="bdai-whitecap-nearby">
 					<div class="container">
 						<div class="bdai-whitecap-nearby-heading bdai-reveal">
-							<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Keep Exploring the island</div>
+							<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Keep Exploring THE Island</div>
 
-							<h2 class="bdai-whitecap-nearby-title">Nearby Places to Add to the Trip</h2>
+							<h2 class="bdai-whitecap-nearby-title">Nearby Places to Add to the Day</h2>
 
-							<p class="bdai-whitecap-nearby-intro">Mustang Island State Park works well as the outdoor anchor for a longer coastal itinerary. Use the park for beach time and camping, then explore the businesses, lodging, water activities, beaches, and attractions available around Mustang Island, Port Aransas, and Corpus Christi.</p>
+							<p class="bdai-whitecap-nearby-intro">Bob Hall Pier makes an easy starting point for a full North Padre Island outing. Pair fishing or sightseeing with a local meal, an overnight stay, a beach visit, equipment rental, or more time at Padre Balli Park.</p>
 						</div>
 						<div class="bdai-whitecap-nearby-grid">
 							<article class="bdai-whitecap-nearby-card bdai-reveal">
 								<div class="bdai-whitecap-nearby-icon"><i class="bi bi-shop" aria-hidden="true"></i></div>
 
-								<h3 class="bdai-whitecap-nearby-card-title">Restaurants and Local Dining</h3>
+								<h3 class="bdai-whitecap-nearby-card-title">Island Restaurants</h3>
 
-								<p class="bdai-whitecap-nearby-card-copy">Plan breakfast, lunch, dinner, seafood, coffee, or a post-beach meal by exploring restaurants and local food businesses in the Mustang Island, Port Aransas, and Corpus Christi areas.</p><a class="bdai-whitecap-nearby-link" href="https://www.simplypadre.com" target="_blank">Explore Local Businesses</a></article>
+								<p class="bdai-whitecap-nearby-card-copy">Look for established North Padre Island favorites such as Padre Island Burger Company, Doc&rsquo;s Seafood &amp; Steaks, Snoopy&rsquo;s Pier, and Island Joe&rsquo;s Coffee &amp; Gallery when you are ready for a meal or coffee.</p><a class="bdai-whitecap-nearby-link" href="https://www.simplypadre.com" target="_blank">Explore Local Businesses</a></article>
 							<article class="bdai-whitecap-nearby-card bdai-reveal">
 								<div class="bdai-whitecap-nearby-icon"><i class="bi bi-house-heart" aria-hidden="true"></i></div>
 
-								<h3 class="bdai-whitecap-nearby-card-title">Hotels and Vacation Rentals</h3>
+								<h3 class="bdai-whitecap-nearby-card-title">Hotels and Accommodations</h3>
 
-								<p class="bdai-whitecap-nearby-card-copy">Camping is available inside the park, while hotels, condos, vacation rentals, and other accommodations can be found in nearby Mustang Island, Port Aransas, and Corpus Christi.</p><a class="bdai-whitecap-nearby-link" href="https://www.simplypadre.com" target="_blank">Explore Places to Stay</a></article>
-							<article class="bdai-whitecap-nearby-card bdai-reveal">
-								<div class="bdai-whitecap-nearby-icon"><i class="bi bi-bicycle" aria-hidden="true"></i></div>
-
-								<h3 class="bdai-whitecap-nearby-card-title">Fishing and Boating Services</h3>
-
-								<p class="bdai-whitecap-nearby-card-copy">Look for local fishing guides, bait and tackle shops, kayak resources, boat services, paddling equipment, and other businesses that support time on the Gulf and bay.</p><a class="bdai-whitecap-nearby-link" href="https://www.simplypadre.com" target="_blank">Browse Island Activities</a></article>
+								<p class="bdai-whitecap-nearby-card-copy">Extend your coastal stay with options such as Lively Beach, El Constante, Aruba Bay Resort, Island House, Hawthorn Suites, and other North Padre Island accommodations.</p><a class="bdai-whitecap-nearby-link" href="https://www.simplypadre.com" target="_blank">Find a Place to Stay</a></article>
 							<article class="bdai-whitecap-nearby-card bdai-reveal">
 								<div class="bdai-whitecap-nearby-icon"><i class="bi bi-water" aria-hidden="true"></i></div>
 
-								<h3 class="bdai-whitecap-nearby-card-title">Beaches, Park, and Attractions</h3>
+								<h3 class="bdai-whitecap-nearby-card-title">Other Corpus Christi Beaches</h3>
 
-								<p class="bdai-whitecap-nearby-card-copy">Continue exploring Mustang Island&rsquo;s coastline, Port Aransas, the broader Corpus Christi area, nearby beaches, coastal parks, nature experiences, and family-friendly attractions.</p><a class="bdai-whitecap-nearby-link" href="https://www.simplypadre.com" target="_blank">Explore Nearby Places</a></article>
+								<p class="bdai-whitecap-nearby-card-copy">Compare Bob Hall Pier with other Corpus Christi beach experiences, including Padre Balli Beach, Mustang Island State Park, and additional Gulf shoreline access along North Padre Island.</p><a class="bdai-whitecap-nearby-link" href="https://www.simplypadre.com" target="_blank">Explore Local Beaches</a></article>
+							<article class="bdai-whitecap-nearby-card bdai-reveal">
+								<div class="bdai-whitecap-nearby-icon"><i class="bi bi-tree" aria-hidden="true"></i></div>
+
+								<h3 class="bdai-whitecap-nearby-card-title">Padre Balli Park and Camping</h3>
+
+								<p class="bdai-whitecap-nearby-card-copy">Stay close to the pier with Padre Balli Park camping, which includes RV sites and hardtop tent areas, or use the park as a base for beach time, fishing, and a longer North Padre Island visit.</p><a class="bdai-whitecap-nearby-link" href="https://www.nuecesbeachparks.com/padre-balli-park" target="_blank">View Park Information</a></article>
 						</div></div>
 				</section>
 			</td>
@@ -375,84 +311,60 @@
 				<section class="bdai-whitecap-faq" id="bdai-whitecap-faq">
 					<div class="container">
 						<div class="bdai-whitecap-faq-heading bdai-reveal">
-							<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">island State Park Questions</div>
+							<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Bob Hall Pier Questions</div>
 
 							<h2 class="bdai-whitecap-faq-title">Helpful Answers Before Your Visit</h2>
 
-							<p class="bdai-whitecap-faq-intro">Mustang Island State Park is a popular Texas beach destination with limited capacity, changing coastal conditions, camping choices, and park-specific policies. Confirm the latest information before traveling.</p>
+							<p class="bdai-whitecap-faq-intro">Bob Hall Pier is a recently reopened coastal destination, so admission details, services, and operating information may be updated as the facility continues regular operations. Confirm posted information when you arrive and follow current park, county, and city guidance.</p>
 						</div>
 						<div class="bdai-whitecap-faq-grid">
 							<article class="bdai-whitecap-faq-card bdai-reveal">
 
-								<h3 class="bdai-whitecap-faq-question">Where is Mustang Island State Park?</h3>
+								<h3 class="bdai-whitecap-faq-question">Where is Bob Hall Pier?</h3>
 
-								<p class="bdai-whitecap-faq-answer">Mustang Island State Park is at 9394 State Highway 361 near Corpus Christi and Port Aransas on Mustang Island, Texas. It is a Texas state park with more than five miles of Gulf coastline and is separate from the broader Mustang Island destination.</p>
+								<p class="bdai-whitecap-faq-answer">Bob Hall Pier is located inside Padre Balli Park on North Padre Island in Corpus Christi, Texas. The park is reached from South Padre Island Drive through Padre Balli Park Road, with nearby beach access roads serving the surrounding shoreline.</p>
 							</article>
 							<article class="bdai-whitecap-faq-card bdai-reveal">
 
-								<h3 class="bdai-whitecap-faq-question">What are the park&rsquo;s hours?</h3>
+								<h3 class="bdai-whitecap-faq-question">Is Bob Hall Pier open to visitors?</h3>
 
-								<p class="bdai-whitecap-faq-answer">The park is listed as open daily from 8:00 a.m. to 5:00 p.m. Hours, access, and capacity can be affected by conditions or park operations, so check current information before leaving.</p>
+								<p class="bdai-whitecap-faq-answer">Yes. The rebuilt Bob Hall Pier officially reopened to the public on February 24, 2026, and visitor information describes it as open to anglers, beachgoers, and sightseeing visitors. Check current posted hours and operating notices before traveling.</p>
 							</article>
 							<article class="bdai-whitecap-faq-card bdai-reveal">
 
-								<h3 class="bdai-whitecap-faq-question">Is there an entrance fee?</h3>
+								<h3 class="bdai-whitecap-faq-question">Is fishing allowed at Bob Hall Pier?</h3>
 
-								<p class="bdai-whitecap-faq-answer">Yes. The current standard entrance fee is $7 per adult per day. Children age 12 and under enter free. Camping and other facilities have separate charges.</p>
+								<p class="bdai-whitecap-faq-answer">Yes. Saltwater fishing is one of the main reasons people visit Bob Hall Pier. A Texas fishing license is required, and anglers should follow current state regulations, posted pier rules, and all size and bag limits.</p>
 							</article>
 							<article class="bdai-whitecap-faq-card bdai-reveal">
 
-								<h3 class="bdai-whitecap-faq-question">Is camping available?</h3>
+								<h3 class="bdai-whitecap-faq-question">Is there a fee to access the pier?</h3>
 
-								<p class="bdai-whitecap-faq-answer">Yes. Mustang Island State Park offers water-and-electric campsites and drive-up primitive beach campsites. Because the park can reach capacity, reservations are recommended for day use and reservable camping.</p>
+								<p class="bdai-whitecap-faq-answer">Admission and fishing fees apply, with current prices posted at the entrance. Visitor information also states that children 12 and under receive free admission and that rod rentals are available for a daily fee with a refundable deposit. Rates can change, so check the entrance signage.</p>
 							</article>
 							<article class="bdai-whitecap-faq-card bdai-reveal">
 
-								<h3 class="bdai-whitecap-faq-question">What types of campsites are available?</h3>
+								<h3 class="bdai-whitecap-faq-question">Is parking available?</h3>
 
-								<p class="bdai-whitecap-faq-answer">There are 48 water-and-electric sites about 400 yards from the water and 50 drive-up primitive sites along a 1.5-mile beach area. Electric sites cost $25 per night plus entrance, while primitive sites cost $13 per night plus entrance and are non-reservable.</p>
+								<p class="bdai-whitecap-faq-answer">Parking is available through the Padre Balli Park area. Visitor information states that a beach parking permit is not required for Bob Hall Pier, while permits are required for parking on designated Gulf beach areas. Follow current signs and staff instructions when you arrive.</p>
 							</article>
 							<article class="bdai-whitecap-faq-card bdai-reveal">
 
-								<h3 class="bdai-whitecap-faq-question">Can visitors swim at the beach?</h3>
+								<h3 class="bdai-whitecap-faq-question">Are restrooms available?</h3>
 
-								<p class="bdai-whitecap-faq-answer">Swimming is an available park activity, along with surfing and other beach recreation. No lifeguards are present at the primitive beach camping area, so check conditions, understand surf and current risks, and swim at your own risk.</p>
+								<p class="bdai-whitecap-faq-answer">Padre Balli Park lists bathrooms, a bathhouse, and shower facilities among its amenities. The pier visitor information does not guarantee that every facility is located directly on the pier or open at all times, so confirm current availability at the park or entrance.</p>
 							</article>
 							<article class="bdai-whitecap-faq-card bdai-reveal">
 
-								<h3 class="bdai-whitecap-faq-question">Is fishing allowed?</h3>
+								<h3 class="bdai-whitecap-faq-question">Can visitors bring pets?</h3>
 
-								<p class="bdai-whitecap-faq-answer">Yes. Surf fishing and bay fishing are available, and the park&rsquo;s paddling trail passes through shallow-water fishing areas. Check current Texas fishing regulations and license requirements before your trip.</p>
-							</article>
-							<article class="bdai-whitecap-faq-card bdai-reveal">
-
-								<h3 class="bdai-whitecap-faq-question">Are dogs allowed?</h3>
-
-								<p class="bdai-whitecap-faq-answer">Pet restrictions can vary by park area and current policy. Confirm the latest rules with Mustang Island State Park before bringing a dog, keep pets controlled, and prevent them from disturbing wildlife or protected habitat.</p>
-							</article>
-							<article class="bdai-whitecap-faq-card bdai-reveal">
-
-								<h3 class="bdai-whitecap-faq-question">Are restrooms and showers available?</h3>
-
-								<p class="bdai-whitecap-faq-answer">Yes. Full restrooms and hot-water showers are located near the water-and-electric campground. Primitive beach campers have access to restrooms at varying distances, and portable toilets are available along portions of the beach.</p>
-							</article>
-							<article class="bdai-whitecap-faq-card bdai-reveal">
-
-								<h3 class="bdai-whitecap-faq-question">Can visitors make reservations?</h3>
-
-								<p class="bdai-whitecap-faq-answer">Reservations can be made online or by calling 512-389-8900. Reservations are recommended for day use and camping because the park may fill to capacity. Primitive drive-up beach sites are non-reservable.</p>
-							</article>
-							<article class="bdai-whitecap-faq-card bdai-reveal">
-
-								<h3 class="bdai-whitecap-faq-question">What activities can visitors do?</h3>
-
-								<p class="bdai-whitecap-faq-answer">Visitors can swim, surf, walk the beach, fish, camp, picnic, paddle, birdwatch, photograph the coast, explore nature, attend ranger programs, stargaze, beachcomb, geocache, and enjoy the park&rsquo;s open Gulf and bay scenery.</p>
+								<p class="bdai-whitecap-faq-answer">Dogs are allowed in relevant Padre Balli Park and beach areas when they follow current leash or verbal-control rules, and pet waste must be disposed of properly. Because a pier-specific pet policy is not clearly published, confirm current pier instructions before bringing a dog onto the structure.</p>
 							</article>
 							<article class="bdai-whitecap-faq-card bdai-reveal">
 
 								<h3 class="bdai-whitecap-faq-question">What should visitors know before visiting?</h3>
 
-								<p class="bdai-whitecap-faq-answer">Bring water, food, sun protection, suitable footwear, fishing supplies, first-aid items, and layers for wind. Check capacity, weather, tides, surf, beach conditions, fire restrictions, pet rules, and reservation availability before traveling.</p>
+								<p class="bdai-whitecap-faq-answer">Bring sun protection, drinking water, suitable shoes, and layers for wind. Check weather, surf, tide, and fishing regulations, expect changing fees or services, follow posted rules, and call 911 for emergencies. Padre Balli Park also offers nearby RV and tent camping for visitors planning a longer stay.</p>
 							</article>
 						</div></div>
 				</section>
@@ -461,8 +373,9 @@
 	</tbody>
 </table>
 
+
 <style>
-  .bdai-whitecap-hero  {
+    .bdai-whitecap-hero  {
    position:relative;
    overflow:hidden;
    padding:72px 0;

@@ -1,3 +1,5 @@
+
+
 <table class="froala-table" style="width:100%;padding:0;margin:0;">
 	<tbody>
 		<tr>
@@ -6,18 +8,18 @@
 					<div class="container">
 						<div class="bdai-whitecap-hero-layout bdai-reveal">
 							<div class="bdai-whitecap-hero-copy">
-								<div class="bdai-whitecap-hero-eyebrow" style="white-space:nowrap !important;width:fit-content;">Mustang Island State Park</div>
+								<div class="bdai-whitecap-hero-eyebrow" style="white-space:nowrap !important;width:fit-content;">Michael J. Ellis Beach &amp; Seawall</div>
 
-								<h1 class="bdai-whitecap-hero-title">Mustang Island State Park, a Wide-Open Texas Beach Escape</h1>
+								<h1 class="bdai-whitecap-hero-title">Padre Island Seawall, Made for Easy Gulf Coast Days</h1>
 
-								<p class="bdai-whitecap-hero-lead">Mustang Island State Park brings more than five miles of open Gulf shoreline, rolling dunes, shallow bay waters, and relaxed coastal recreation to the Texas coast near Corpus Christi.</p>
+								<p class="bdai-whitecap-hero-lead">Padre Island Seawall, also known as Michael J. Ellis Beach &amp; Seawall, gives visitors a memorable way to experience the Gulf Coast from North Padre Island. The shoreline combines an open beach, a paved seawall setting, accessible connections to the sand, and wide views that make it easy to enjoy the coast at your own pace.</p>
 
-								<p class="bdai-whitecap-hero-copy-text">Use this local guide to plan a beach day or camping trip, understand park fees and reservations, choose activities, prepare for changing coastal conditions, and discover nearby businesses, accommodations, beaches, and attractions through Simply Padre.</p>
-								<div class="bdai-whitecap-hero-actions"><a class="bdai-whitecap-hero-primary" href="https://www.simplypadre.com" target="_blank">Explore Simply Padre</a> <a class="bdai-whitecap-hero-secondary" href="https://tpwd.texas.gov/state-parks/mustang-island" target="_blank">Plan Your Visit</a></div></div>
-							<div class="bdai-whitecap-hero-media"><img src="https://tpwd.texas.gov/state-parks/mustang-island/gallery/mustangisland-168.jpg" alt="Mustang Island State Park Gulf beach and shoreline" class="img-rounded fr-fil fr-dib" fetchpriority="high" decoding="async">
+								<p class="bdai-whitecap-hero-copy-text">Use this local guide to plan a more comfortable visit, understand parking and beach access, review the rules that matter, and discover restaurants, accommodations, parks, rentals, and other places to explore around Padre Island.</p>
+								<div class="bdai-whitecap-hero-actions"><a class="bdai-whitecap-hero-primary" href="https://www.simplypadre.com" target="_blank">Explore Simply Padre</a> <a class="bdai-whitecap-hero-secondary" href="https://www.corpuschristitx.gov/department-directory/parks-and-recreation/beaches/beach-rules/" target="_blank">Review Beach Rules</a></div></div>
+							<div class="bdai-whitecap-hero-media"><img src="https://images.pexels.com/photos/4602276/pexels-photo-4602276.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="beach seawall" class="img-rounded fr-fil fr-dib">
 								<br>
 
-								<p class="bdai-whitecap-hero-caption">Mustang Island State Park combines a broad Gulf beach with dunes, coastal wildlife habitat, bay access, camping, and the open-water character that makes Mustang Island special.</p>
+								<p class="bdai-whitecap-hero-caption">A paved seawall, open Gulf views, and a beach setting that makes room for walking, relaxing, sightseeing, and time together.</p>
 							</div></div></div>
 				</section>
 			</td>
@@ -32,33 +34,33 @@
 				<section class="bdai-whitecap-about" id="bdai-whitecap-about">
 					<div class="container">
 						<div class="bdai-whitecap-about-heading bdai-reveal">
-							<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Protected Island Landscape</div>
+							<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Local Padre Island Guide</div>
 
-							<h2 class="bdai-whitecap-about-title">About Mustang Island State Park</h2>
+							<h2 class="bdai-whitecap-about-title">What Padre Island Seawall Is Like</h2>
 
-							<p class="bdai-whitecap-about-intro">Mustang Island State Park is a Texas state park on Mustang Island along the Gulf Coast, at 9394 State Highway 361 near Corpus Christi and Port Aransas. The park protects more than five miles of coastline and gives visitors room to enjoy the beach, dunes, bay waters, and coastal landscape without confusing the park with Mustang Island as a whole or with neighboring Padre Island.</p>
+							<p class="bdai-whitecap-about-intro">Padre Island Seawall is the visitor-friendly stretch of North Padre Island commonly identified as Michael J. Ellis Beach &amp; Seawall. It runs along the Gulf of Mexico and is associated with the central portion of the island seawall, with visitor information identifying the beach area around mile markers 213 through 221. Access is available from Access Road 3A near Windward Drive and from Whitecap Boulevard.</p>
 						</div>
 						<div class="bdai-whitecap-about-grid">
 							<article class="bdai-whitecap-about-card bdai-reveal">
-								<div class="bdai-whitecap-about-icon"><i class="bi bi-tree" aria-hidden="true"></i></div>
-
-								<h3 class="bdai-whitecap-card-title">A Texas State Park on Mustang Island</h3>
-
-								<p class="bdai-whitecap-card-copy">The park is a designated Texas State Park located along State Highway 361 on the central portion of Mustang Island. Its protected shoreline offers a different experience from the busier commercial areas of Port Aransas and the developed beach communities elsewhere along the coast.</p>
-							</article>
-							<article class="bdai-whitecap-about-card bdai-reveal">
 								<div class="bdai-whitecap-about-icon"><i class="bi bi-water" aria-hidden="true"></i></div>
 
-								<h3 class="bdai-whitecap-card-title">Gulf Beach, Dunes, and Bay Waters</h3>
+								<h3 class="bdai-whitecap-card-title">Beach and Seawall Together</h3>
 
-								<p class="bdai-whitecap-card-copy">The park&rsquo;s natural setting includes a wide Gulf beach, sand dunes, shallow bayside waters, and an expansive horizon. The contrast between surf, sand, wind, and bay scenery makes it appealing for swimming, fishing, beach walks, paddling, and quiet sightseeing.</p>
+								<p class="bdai-whitecap-card-copy">The seawall gives visitors a firm place to walk, pause, watch the water, and enjoy the horizon while the adjacent Gulf beach creates space for sand, surf, and a longer coastal stay.</p>
 							</article>
 							<article class="bdai-whitecap-about-card bdai-reveal">
-								<div class="bdai-whitecap-about-icon"><i class="bi bi-feather" aria-hidden="true"></i></div>
+								<div class="bdai-whitecap-about-icon"><i class="bi bi-geo-alt" aria-hidden="true"></i></div>
 
-								<h3 class="bdai-whitecap-card-title">A Coastal Refuge for Wildlife</h3>
+								<h3 class="bdai-whitecap-card-title">A Useful Island Location</h3>
 
-								<p class="bdai-whitecap-card-copy">Spring and fall migrations bring especially good birding opportunities, while the paddling trail provides views across shallow-water habitat and coastal bird areas. Dunes, beaches, and bay edges support a changing mix of birds and other coastal wildlife throughout the year.</p>
+								<p class="bdai-whitecap-card-copy">Located on North Padre Island in Corpus Christi, the area works well as a starting point for a full island day, whether you arrive for a beach walk, a surf session, a family outing, or a stop between local businesses.</p>
+							</article>
+							<article class="bdai-whitecap-about-card bdai-reveal">
+								<div class="bdai-whitecap-about-icon"><i class="bi bi-sun" aria-hidden="true"></i></div>
+
+								<h3 class="bdai-whitecap-card-title">A Flexible Coastline Experience</h3>
+
+								<p class="bdai-whitecap-card-copy">Locals and visitors can shape the visit around the weather and the group: take photos, watch the waves, enjoy the sand, meet friends for a walk, or settle in for a slower afternoon by the Gulf.</p>
 							</article>
 						</div></div>
 				</section>
@@ -77,78 +79,46 @@
 							<div class="bdai-whitecap-things-copy bdai-reveal">
 								<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Make the Most of the Coast</div>
 
-								<h2 class="bdai-whitecap-things-title">Things to Do at Mustang Island State Park</h2>
+								<h2 class="bdai-whitecap-things-title">Things to Do at Padre Island Seawall</h2>
 
-								<p class="bdai-whitecap-things-lead">Mustang Island State Park is built for flexible outdoor days. You can settle into a beach chair, follow the shoreline, launch a paddle trip, cast into the surf, or stay overnight while the Gulf changes from morning light to evening sky.</p>
+								<p class="bdai-whitecap-things-lead">Padre Island Seawall is easy to enjoy without an overplanned itinerary. Bring the basics for a day outside, check current conditions before leaving, and choose activities that fit the season, the surf, and the people with you.</p>
 								<div class="bdai-whitecap-things-list">
-									<div class="bdai-whitecap-things-item">
-										<div class="bdai-whitecap-things-icon"><i class="bi bi-umbrella" aria-hidden="true"></i></div>
-										<div class="bdai-whitecap-things-item-copy">
-
-											<h3 class="bdai-whitecap-things-item-title">Swim and Enjoy the Beach</h3>
-
-											<p class="bdai-whitecap-things-item-text">Spend time in the Gulf, relax on the sand, surf when conditions and experience allow, or build sandcastles with the family. There are no lifeguards at the primitive beach camping area, so check conditions, supervise children, and swim at your own risk.</p>
-										</div></div>
 									<div class="bdai-whitecap-things-item">
 										<div class="bdai-whitecap-things-icon"><i class="bi bi-person-walking" aria-hidden="true"></i></div>
 										<div class="bdai-whitecap-things-item-copy">
 
-											<h3 class="bdai-whitecap-things-item-title">Walk, Beachcomb, and Explore</h3>
+											<h3 class="bdai-whitecap-things-item-title">Walk the Seawall</h3>
 
-											<p class="bdai-whitecap-things-item-text">Walk more than five miles of open shoreline, look for changing beach patterns, enjoy the dunes from appropriate access areas, and take in the wide views across the Gulf. Leave wildlife, dunes, vegetation, and natural features undisturbed.</p>
+											<p class="bdai-whitecap-things-item-text">Enjoy an easy shoreline outing along the paved seawall, take in the Gulf view, and watch the changing light across the water. It is a simple way to experience the coast without committing to a full beach setup.</p>
 										</div></div>
 									<div class="bdai-whitecap-things-item">
-										<div class="bdai-whitecap-things-icon"><i class="bi bi-fish" aria-hidden="true"></i></div>
+										<div class="bdai-whitecap-things-icon"><i class="bi bi-water" aria-hidden="true"></i></div>
 										<div class="bdai-whitecap-things-item-copy">
 
-											<h3 class="bdai-whitecap-things-item-title">Fish the Surf and Bay</h3>
+											<h3 class="bdai-whitecap-things-item-title">Enjoy Beach Time</h3>
 
-											<p class="bdai-whitecap-things-item-text">Surf fishing and bay fishing are available, and the shallow-water paddling trail passes through areas known for fishing. Bring the equipment and licenses required for your trip, and check current Texas regulations before casting.</p>
-										</div></div>
-									<div class="bdai-whitecap-things-item">
-										<div class="bdai-whitecap-things-icon"><i class="bi bi-moon-stars" aria-hidden="true"></i></div>
-										<div class="bdai-whitecap-things-item-copy">
-
-											<h3 class="bdai-whitecap-things-item-title">Camp Beside the Coast</h3>
-
-											<p class="bdai-whitecap-things-item-text">Choose a reserved water-and-electric campsite about 400 yards from the water or a drive-up primitive site along a 1.5-mile stretch of beach. The two camping styles create different experiences, from supported campground stays to more direct beach access.</p>
+											<p class="bdai-whitecap-things-item-text">Spend time on the sand, wade when conditions are appropriate, build a relaxed family afternoon, or bring a chair and enjoy the open Gulf atmosphere near the seawall.</p>
 										</div></div>
 									<div class="bdai-whitecap-things-item">
 										<div class="bdai-whitecap-things-icon"><i class="bi bi-wind" aria-hidden="true"></i></div>
 										<div class="bdai-whitecap-things-item-copy">
 
-											<h3 class="bdai-whitecap-things-item-title">Paddle the Bay</h3>
+											<h3 class="bdai-whitecap-things-item-title">Surf and Watch the Water</h3>
 
-											<p class="bdai-whitecap-things-item-text">The Mustang Island State Park Paddling Trail includes three segments and follows the island&rsquo;s western shoreline in Corpus Christi Bay. The full trail totals 20 miles and offers shallow-water scenery, fishing access, and coastal-bird viewing for prepared paddlers.</p>
-										</div></div>
-									<div class="bdai-whitecap-things-item">
-										<div class="bdai-whitecap-things-icon"><i class="bi bi-binoculars" aria-hidden="true"></i></div>
-										<div class="bdai-whitecap-things-item-copy">
-
-											<h3 class="bdai-whitecap-things-item-title">Watch Birds and Wildlife</h3>
-
-											<p class="bdai-whitecap-things-item-text">Birding is especially rewarding during spring and fall migration, but coastal birds can be enjoyed year-round. Join a ranger program when available, bring binoculars, and observe wildlife from a respectful distance along the beach, dunes, and bay.</p>
-										</div></div>
-									<div class="bdai-whitecap-things-item">
-										<div class="bdai-whitecap-things-icon"><i class="bi bi-compass" aria-hidden="true"></i></div>
-										<div class="bdai-whitecap-things-item-copy">
-
-											<h3 class="bdai-whitecap-things-item-title">Join Ranger Programs</h3>
-
-											<p class="bdai-whitecap-things-item-text">Depending on the season and schedule, the park may offer birding, stargazing, beachcombing, and nature-walk programs. Geocaching and volunteer opportunities also give returning visitors new ways to connect with the park.</p>
+											<p class="bdai-whitecap-things-item-text">Surfing is one of the activities associated with Michael J. Ellis Beach &amp; Seawall. Watch the water carefully, choose conditions that match your experience, and follow current beach-safety guidance.</p>
 										</div></div>
 									<div class="bdai-whitecap-things-item">
 										<div class="bdai-whitecap-things-icon"><i class="bi bi-camera" aria-hidden="true"></i></div>
 										<div class="bdai-whitecap-things-item-copy">
 
-											<h3 class="bdai-whitecap-things-item-title">Photograph the Coast</h3>
+											<h3 class="bdai-whitecap-things-item-title">Sightsee and Photograph</h3>
 
-											<p class="bdai-whitecap-things-item-text">Photograph Gulf surf, dune textures, bay reflections, fishing scenes, campground details, shorebirds, sunrise, and evening light. Keep your composition natural by giving wildlife space and avoiding fragile dunes and protected areas.</p>
+											<p class="bdai-whitecap-things-item-text">The seawall, beach, waves, sunrise and sunset light, and passing activity create plenty of opportunities for photography, people-watching, and unhurried sightseeing.</p>
 										</div></div></div></div>
-							<div class="bdai-whitecap-things-media bdai-reveal"><img src="https://tpwd.texas.gov/state-parks/mustang-island/gallery/mustang-island_3462.jpg" alt="Mustang Island State Park beach and coastal dunes" class="img-rounded fr-fil fr-dib" loading="lazy" decoding="async">
+							<div class="bdai-whitecap-things-media bdai-reveal"><img src="https://images.pexels.com/photos/38233794/pexels-photo-38233794.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="surfer shoreline" class="img-rounded fr-fil fr-dib">
 								<br>
 
-								<p class="bdai-whitecap-things-note">Bring drinking water, sun protection, food, fishing supplies, suitable footwear, first-aid items, and layers for changing wind. The park store offers some supplies, but services are limited compared with the nearby communities.</p>
+								<p class="bdai-whitecap-things-note">For a comfortable visit, bring drinking water, sun protection, towels, shade, suitable footwear, and waste bags. Keep an eye on weather, surf, wind, and beach access conditions before you go.</p>
 							</div></div></div>
 				</section>
 			</td>
@@ -163,82 +133,50 @@
 				<section class="bdai-whitecap-before" id="bdai-whitecap-before">
 					<div class="container">
 						<div class="bdai-whitecap-before-layout">
-							<div class="bdai-whitecap-before-media bdai-reveal"><img src="https://tpwd.texas.gov/state-parks/mustang-island/gallery/misp_rv_3422.jpg" alt="Mustang Island State Park campground and coastal camping area" class="img-rounded fr-fil fr-dib" loading="lazy" decoding="async">
+							<div class="bdai-whitecap-before-media bdai-reveal"><img src="https://images.pexels.com/photos/34120054/pexels-photo-34120054.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="family beach" class="img-rounded fr-fil fr-dib">
 
 								<p>
 									<br>
 								</p>
-								<div class="bdai-whitecap-before-badge"><strong>Plan for a coastal state park</strong> <span>Mustang Island State Park offers beach access and useful facilities, but weather, tides, surf, sand, and capacity can affect the experience. Reserve ahead when possible and check conditions before leaving for the coast.</span></div></div>
+								<div class="bdai-whitecap-before-badge"><strong>Plan for comfort</strong> <span>Beach conditions, vehicle access, weather, crowds, and available facilities can change, so confirm current information before you leave.</span></div></div>
 							<div class="bdai-whitecap-before-copy bdai-reveal">
 								<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">What to Know Before You Go</div>
 
-								<h2 class="bdai-whitecap-before-title">Mustang Island State Park Information</h2>
+								<h2 class="bdai-whitecap-before-title">A Few Details Make a Better Seawall Visit</h2>
 
-								<p class="bdai-whitecap-before-lead">The park is open daily from 8:00 a.m. to 5:00 p.m. Adult entrance is $7 per day, and children age 12 and under enter free. Because the park can reach capacity, Texas Parks and Wildlife recommends reservations for camping and day use when available.</p>
+								<p class="bdai-whitecap-before-lead">Padre Island Seawall is an open coastal destination with both paved visitor areas and direct beach access. A little preparation helps you choose the right access point, understand where a permit applies, and arrive ready for sun, wind, sand, and changing Gulf conditions.</p>
 								<div class="bdai-whitecap-before-details">
 									<div class="bdai-whitecap-before-detail">
 										<div class="bdai-whitecap-before-detail-icon"><i class="bi bi-sign-turn-right" aria-hidden="true"></i></div>
 										<div class="bdai-whitecap-before-detail-copy">
 
-											<h3 class="bdai-whitecap-before-detail-title">Access, Address, and Parking</h3>
+											<h3 class="bdai-whitecap-before-detail-title">Access, Parking, and Permits</h3>
 
-											<p class="bdai-whitecap-before-detail-text">Mustang Island State Park is located at 9394 State Highway 361, Corpus Christi, Texas 78418, between the Corpus Christi area and Port Aransas on Mustang Island. Day-use and camping access are subject to park capacity and current conditions, so reserve a day pass when possible and follow posted parking and beach-access guidance.</p>
-										</div></div>
-									<div class="bdai-whitecap-before-detail">
-										<div class="bdai-whitecap-before-detail-icon"><i class="bi bi-ticket-perforated" aria-hidden="true"></i></div>
-										<div class="bdai-whitecap-before-detail-copy">
-
-											<h3 class="bdai-whitecap-before-detail-title">Entrance Fees and Reservations</h3>
-
-											<p class="bdai-whitecap-before-detail-text">The current standard entrance fee is $7 per adult per day, while children age 12 and under enter free. Reservations can be made online or by calling 512-389-8900. A reservation is highly recommended for both day use and camping because the park may fill to capacity.</p>
-										</div></div>
-									<div class="bdai-whitecap-before-detail">
-										<div class="bdai-whitecap-before-detail-icon"><i class="bi bi-house-heart" aria-hidden="true"></i></div>
-										<div class="bdai-whitecap-before-detail-copy">
-
-											<h3 class="bdai-whitecap-before-detail-title">Camping Options and Campsites</h3>
-
-											<p class="bdai-whitecap-before-detail-text">The park has 48 water-and-electric campsites located about 400 yards from the water and 50 drive-up primitive sites along a 1.5-mile beach stretch. Water-and-electric sites cost $25 per night plus the daily entrance fee and include water, a 50-amp hookup, a picnic table, grill, and shade shelter. Primitive sites cost $13 per night plus the daily entrance fee and are non-reservable.</p>
-										</div></div>
-									<div class="bdai-whitecap-before-detail">
-										<div class="bdai-whitecap-before-detail-icon"><i class="bi bi-building" aria-hidden="true"></i></div>
-										<div class="bdai-whitecap-before-detail-copy">
-
-											<h3 class="bdai-whitecap-before-detail-title">Restrooms, Showers, and Picnic Areas</h3>
-
-											<p class="bdai-whitecap-before-detail-text">Full restrooms and hot-water showers are located near the water-and-electric campground. Primitive campers have access to restrooms at varying distances from the beach sites, and portable toilets are available along portions of the beach. Picnic tables, grills, shade shelters, a park store, and beach areas support day trips and overnight stays.</p>
-										</div></div>
-									<div class="bdai-whitecap-before-detail">
-										<div class="bdai-whitecap-before-detail-icon"><i class="bi bi-fish" aria-hidden="true"></i></div>
-										<div class="bdai-whitecap-before-detail-copy">
-
-											<h3 class="bdai-whitecap-before-detail-title">Fishing and Water Activities</h3>
-
-											<p class="bdai-whitecap-before-detail-text">Surf fishing and bay fishing are available, and the 20-mile Mustang Island State Park Paddling Trail follows the western shoreline through shallow-water areas. Check current weather, wind, tides, water conditions, fishing regulations, and launch guidance before paddling or fishing.</p>
+											<p class="bdai-whitecap-before-detail-text">Visitors can reach the area from Access Road 3A near Windward Drive or from Whitecap Boulevard. Free paved parking is available at the Windward Parking Lot, while a beach parking permit is required when parking on the beach. The City of Corpus Christi lists the 2026 annual permit at $12; confirm current purchase details and access conditions before traveling.</p>
 										</div></div>
 									<div class="bdai-whitecap-before-detail">
 										<div class="bdai-whitecap-before-detail-icon"><i class="bi bi-universal-access" aria-hidden="true"></i></div>
 										<div class="bdai-whitecap-before-detail-copy">
 
-											<h3 class="bdai-whitecap-before-detail-title">Accessibility and Beach Wheelchairs</h3>
+											<h3 class="bdai-whitecap-before-detail-title">Ramp and Accessibility</h3>
 
-											<p class="bdai-whitecap-before-detail-text">The park has two beach wheelchairs available to borrow at no charge. Ask park staff about availability when you arrive. Conditions on sand, dunes, and the shoreline can change, so visitors should confirm the most suitable access information directly with the park.</p>
+											<p class="bdai-whitecap-before-detail-text">An ADA-accessible ramp connects the seawall and the sand. Free beach wheelchairs are available for people with disabilities on a first-come, first-served basis while lifeguards are on duty; reservations and availability questions can be directed to Corpus Christi Parks and Recreation at (361) 826-3469 during weekday business hours.</p>
 										</div></div>
 									<div class="bdai-whitecap-before-detail">
-										<div class="bdai-whitecap-before-detail-icon"><i class="bi bi-heart-pulse" aria-hidden="true"></i></div>
+										<div class="bdai-whitecap-before-detail-icon"><i class="bi bi-building" aria-hidden="true"></i></div>
 										<div class="bdai-whitecap-before-detail-copy">
 
-											<h3 class="bdai-whitecap-before-detail-title">Swimming, Pets, and Safety</h3>
+											<h3 class="bdai-whitecap-before-detail-title">Restrooms and Lifeguards</h3>
 
-											<p class="bdai-whitecap-before-detail-text">Swimming, surfing, and beach recreation are available, but no lifeguards are present at the primitive beach camping area. Pet restrictions can vary by park area and current policy, so confirm the latest rules with park staff before bringing a dog. Keep pets controlled and away from wildlife.</p>
+											<p class="bdai-whitecap-before-detail-text">Visitor information identifies restrooms near the beach area. Mobile lifeguards patrol the beach, and seasonal lifeguard stands may operate during the summer period. Check current city beach information for the latest conditions and schedules.</p>
 										</div></div>
 									<div class="bdai-whitecap-before-detail">
-										<div class="bdai-whitecap-before-detail-icon"><i class="bi bi-shield-check" aria-hidden="true"></i></div>
+										<div class="bdai-whitecap-before-detail-icon"><i class="bi bi-heart" aria-hidden="true"></i></div>
 										<div class="bdai-whitecap-before-detail-copy">
 
-											<h3 class="bdai-whitecap-before-detail-title">Beach Rules and Changing Conditions</h3>
+											<h3 class="bdai-whitecap-before-detail-title">Dogs, Camping, and Cleanliness</h3>
 
-											<p class="bdai-whitecap-before-detail-text">Respect posted closures, protect dunes and vegetation, secure food and trash, and leave wildlife and natural features undisturbed. Small beach campfires are allowed in the primitive beach camping area, while campfires are not allowed at water-and-electric campsites; always follow current fire guidance and weather restrictions.</p>
+											<p class="bdai-whitecap-before-detail-text">Dogs must be on a leash or under verbal command, and pet waste must be disposed of properly. Gulf beach camping is generally limited to three consecutive days and nights, with no more than six days within a month; camping is prohibited in front of condos and hotels. Take trash to receptacles, leave no glass behind, and fully extinguish any permitted campfire.</p>
 										</div></div></div></div></div></div>
 				</section>
 			</td>
@@ -253,40 +191,40 @@
 				<section class="bdai-whitecap-rules" id="bdai-whitecap-rules">
 					<div class="container">
 						<div class="bdai-whitecap-rules-heading bdai-reveal">
-							<div class="bdai-whitecap-section-eyebrow" style="width:fit-content;white-space:nowrap !important;text-align:center;">Respect the Protected Coast</div>
+							<div class="bdai-whitecap-section-eyebrow" style="width:fit-content;white-space:nowrap !important;text-align:center;">Respect the Beach</div>
 
-							<h2 class="bdai-whitecap-rules-title" style="text-align:left;">Simple Rules for a Better Park Visit</h2>
+							<h2 class="bdai-whitecap-rules-title" style="text-align:left;">Simple Rules That Protect the Experience</h2>
 
-							<p class="bdai-whitecap-rules-intro" style="text-align:left;">Mustang Island State Park is shared by swimmers, anglers, campers, paddlers, birders, families, beach walkers, and wildlife. A few thoughtful choices help protect the dunes, shoreline, bay waters, and coastal habitat that make the park worth visiting.</p>
+							<p class="bdai-whitecap-rules-intro" style="text-align:left;">Corpus Christi beach rules apply to the Gulf Beaches, including the Padre Island Seawall area. Keep these reminders close when you are planning a longer stay, bringing a pet, driving onto the beach, or setting up a campfire.</p>
 						</div>
 						<div class="bdai-whitecap-rules-grid">
 							<article class="bdai-whitecap-rule-card bdai-reveal">
 								<div class="bdai-whitecap-rule-number">01</div>
 
-								<h3 class="bdai-whitecap-rule-title">Protect Wildlife</h3>
+								<h3 class="bdai-whitecap-rule-title">Keep the Beach Clean</h3>
 
-								<p class="bdai-whitecap-rule-copy">Give birds and other wildlife plenty of space, avoid disturbing nests or habitat, and never chase, feed, or handle wild animals.</p>
+								<p class="bdai-whitecap-rule-copy">Use trash receptacles and take care of pet waste. Leave the sand, seawall, and shoreline ready for the next visitor.</p>
 							</article>
 							<article class="bdai-whitecap-rule-card bdai-reveal">
 								<div class="bdai-whitecap-rule-number">02</div>
 
-								<h3 class="bdai-whitecap-rule-title">Protect the Dunes</h3>
+								<h3 class="bdai-whitecap-rule-title">Leave Glass at Home</h3>
 
-								<p class="bdai-whitecap-rule-copy">Stay on appropriate access routes, avoid trampling dune vegetation, and follow signs or closures that protect fragile coastal areas.</p>
+								<p class="bdai-whitecap-rule-copy">Glass containers are prohibited on Corpus Christi beaches. Choose safer containers for drinks, food, and beach supplies.</p>
 							</article>
 							<article class="bdai-whitecap-rule-card bdai-reveal">
 								<div class="bdai-whitecap-rule-number">03</div>
 
-								<h3 class="bdai-whitecap-rule-title">Leave No Trace</h3>
+								<h3 class="bdai-whitecap-rule-title">Drive With Care</h3>
 
-								<p class="bdai-whitecap-rule-copy">Pack out trash, secure food, dispose of fishing line properly, follow fire rules, and leave shells, plants, and other natural features in place.</p>
+								<p class="bdai-whitecap-rule-copy">The Gulf beach speed limit is 15 mph. Watch for pedestrians, children, pets, changing sand, and other vehicles.</p>
 							</article>
 							<article class="bdai-whitecap-rule-card bdai-reveal">
 								<div class="bdai-whitecap-rule-number">04</div>
 
-								<h3 class="bdai-whitecap-rule-title">Travel for Conditions</h3>
+								<h3 class="bdai-whitecap-rule-title">Pack Down Every Setup</h3>
 
-								<p class="bdai-whitecap-rule-copy">Check weather, wind, tides, surf, beach conditions, and capacity before driving, swimming, camping, fishing, or paddling.</p>
+								<p class="bdai-whitecap-rule-copy">Do not leave canopies overnight. Campfires must remain within the official size limit, be fully extinguished, and leave no residue or building materials behind.</p>
 							</article>
 						</div></div>
 				</section>
@@ -303,20 +241,20 @@
 					<div class="container">
 						<div class="bdai-whitecap-gallery-layout">
 							<div class="bdai-whitecap-gallery-copy bdai-reveal">
-								<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Scenes From the island</div>
+								<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">THe island in a Different Light</div>
 
-								<h2 class="bdai-whitecap-gallery-title">Mustang Island State Park Photo Journal</h2>
+								<h2 class="bdai-whitecap-gallery-title">Padre Island Seawall Photo Journal</h2>
 
-								<p class="bdai-whitecap-gallery-intro">The park&rsquo;s visual character comes from the meeting of Gulf water, open sand, dunes, shallow bay, campground life, and long coastal horizons. Every season and tide brings different light, textures, birds, and beach conditions.</p>
+								<p class="bdai-whitecap-gallery-intro">The Padre Island Seawall area changes character throughout the day. Morning can feel open and quiet, afternoon brings more activity along the beach, and evening light gives the seawall and Gulf a different sense of scale.</p>
 
-								<p class="bdai-whitecap-gallery-copy-text">Bring a camera for shoreline patterns, fishing scenes, dune grasses, campground mornings, paddling views, birds, and evening color. Photograph responsibly by staying clear of sensitive habitat and giving wildlife room.</p>
-								<div class="bdai-whitecap-gallery-tip"><i class="bi bi-camera" aria-hidden="true"></i> <span>For stronger coastal photographs, combine the beach, sky, dunes, water, and a human-scale detail such as a fishing rod, tent, paddle, or distant beach walker.</span></div></div>
+								<p class="bdai-whitecap-gallery-copy-text">Use these scenes as inspiration, but plan for the real conditions you find when you arrive. Wind, tide, surf, weather, beach traffic, and seasonal activity all shape the experience.</p>
+								<div class="bdai-whitecap-gallery-tip"><i class="bi bi-camera" aria-hidden="true"></i><span>Bring a camera for the seawall, waves, and wide horizon, but leave room to enjoy the coast without viewing the whole day through a screen.</span></div></div>
 							<div class="bdai-whitecap-gallery-visual bdai-reveal">
 								<div class="bdai-collage-grid">
-									<div class="bdai-collage-tile"><img src="https://tpwd.texas.gov/state-parks/mustang-island/gallery/mustangisland-168.jpg" alt="Mustang Island State Park open Gulf beach" class="img-rounded fr-fil fr-dib" loading="lazy" decoding="async"></div>
-									<div class="bdai-collage-tile"><img src="https://tpwd.texas.gov/state-parks/mustang-island/gallery/misp_rv_3422.jpg" alt="Mustang Island State Park RV campground" class="img-rounded fr-fil fr-dib" loading="lazy" decoding="async"></div>
-									<div class="bdai-collage-tile"><img src="https://tpwd.texas.gov/state-parks/mustang-island/gallery/mustang-island-fishing.jpg" alt="Fishing at Mustang Island State Park coast" class="img-rounded fr-fil fr-dib" loading="lazy" decoding="async"></div>
-									<div class="bdai-collage-tile"><img src="https://tpwd.texas.gov/state-parks/mustang-island/gallery/mustang-island949_5_321.jpg" alt="Mustang Island State Park coastal scenery and dunes" class="img-rounded fr-fil fr-dib" loading="lazy" decoding="async"></div></div></div></div></div>
+									<div class="bdai-collage-tile"><img src="https://images.pexels.com/photos/34066297/pexels-photo-34066297.png?auto=compress&cs=tinysrgb&h=650&w=940" alt="seawall walkway" class="img-rounded fr-fil fr-dib"></div>
+									<div class="bdai-collage-tile"><img src="https://images.pexels.com/photos/20585968/pexels-photo-20585968.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="beach waves" class="img-rounded fr-fil fr-dib"></div>
+									<div class="bdai-collage-tile"><img src="https://images.pexels.com/photos/3985493/pexels-photo-3985493.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="sunset shore" class="img-rounded fr-fil fr-dib"></div>
+									<div class="bdai-collage-tile"><img src="https://images.pexels.com/photos/36975251/pexels-photo-36975251.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="coastal family" class="img-rounded fr-fil fr-dib"></div></div></div></div></div>
 				</section>
 			</td>
 		</tr>
@@ -330,37 +268,37 @@
 				<section class="bdai-whitecap-nearby" id="bdai-whitecap-nearby">
 					<div class="container">
 						<div class="bdai-whitecap-nearby-heading bdai-reveal">
-							<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Keep Exploring the island</div>
+							<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Keep Exploring the Island</div>
 
-							<h2 class="bdai-whitecap-nearby-title">Nearby Places to Add to the Trip</h2>
+							<h2 class="bdai-whitecap-nearby-title">Nearby Places to Add to the Day</h2>
 
-							<p class="bdai-whitecap-nearby-intro">Mustang Island State Park works well as the outdoor anchor for a longer coastal itinerary. Use the park for beach time and camping, then explore the businesses, lodging, water activities, beaches, and attractions available around Mustang Island, Port Aransas, and Corpus Christi.</p>
+							<p class="bdai-whitecap-nearby-intro">Padre Island Seawall is part of a larger island experience. Pair your time at the beach with a park visit, a meal, a place to stay, a rental, or another coastal activity found through the Simply Padre directory.</p>
 						</div>
 						<div class="bdai-whitecap-nearby-grid">
 							<article class="bdai-whitecap-nearby-card bdai-reveal">
+								<div class="bdai-whitecap-nearby-icon"><i class="bi bi-tree" aria-hidden="true"></i></div>
+
+								<h3 class="bdai-whitecap-nearby-card-title">Padre Balli Park</h3>
+
+								<p class="bdai-whitecap-nearby-card-copy">Padre Balli Park is a nearby coastal destination with camping information managed by Nueces County Beach Parks. It is a natural addition for visitors planning more than a quick stop at the seawall.</p><a class="bdai-whitecap-nearby-link" href="https://www.nuecesbeachparks.com/padre-balli-park" target="_blank">View Park Information</a></article>
+							<article class="bdai-whitecap-nearby-card bdai-reveal">
 								<div class="bdai-whitecap-nearby-icon"><i class="bi bi-shop" aria-hidden="true"></i></div>
 
-								<h3 class="bdai-whitecap-nearby-card-title">Restaurants and Local Dining</h3>
+								<h3 class="bdai-whitecap-nearby-card-title">Island Restaurants</h3>
 
-								<p class="bdai-whitecap-nearby-card-copy">Plan breakfast, lunch, dinner, seafood, coffee, or a post-beach meal by exploring restaurants and local food businesses in the Mustang Island, Port Aransas, and Corpus Christi areas.</p><a class="bdai-whitecap-nearby-link" href="https://www.simplypadre.com" target="_blank">Explore Local Businesses</a></article>
-							<article class="bdai-whitecap-nearby-card bdai-reveal">
-								<div class="bdai-whitecap-nearby-icon"><i class="bi bi-house-heart" aria-hidden="true"></i></div>
-
-								<h3 class="bdai-whitecap-nearby-card-title">Hotels and Vacation Rentals</h3>
-
-								<p class="bdai-whitecap-nearby-card-copy">Camping is available inside the park, while hotels, condos, vacation rentals, and other accommodations can be found in nearby Mustang Island, Port Aransas, and Corpus Christi.</p><a class="bdai-whitecap-nearby-link" href="https://www.simplypadre.com" target="_blank">Explore Places to Stay</a></article>
-							<article class="bdai-whitecap-nearby-card bdai-reveal">
-								<div class="bdai-whitecap-nearby-icon"><i class="bi bi-bicycle" aria-hidden="true"></i></div>
-
-								<h3 class="bdai-whitecap-nearby-card-title">Fishing and Boating Services</h3>
-
-								<p class="bdai-whitecap-nearby-card-copy">Look for local fishing guides, bait and tackle shops, kayak resources, boat services, paddling equipment, and other businesses that support time on the Gulf and bay.</p><a class="bdai-whitecap-nearby-link" href="https://www.simplypadre.com" target="_blank">Browse Island Activities</a></article>
+								<p class="bdai-whitecap-nearby-card-copy">After a walk or beach session, explore established North Padre Island dining options such as Snoopy&rsquo;s Pier, Padre Island Burger Company, Doc&rsquo;s Seafood &amp; Steaks, and Island Joe&rsquo;s Coffee &amp; Gallery.</p><a class="bdai-whitecap-nearby-link" href="https://www.simplypadre.com" target="_blank">Explore Local Businesses</a></article>
 							<article class="bdai-whitecap-nearby-card bdai-reveal">
 								<div class="bdai-whitecap-nearby-icon"><i class="bi bi-water" aria-hidden="true"></i></div>
 
-								<h3 class="bdai-whitecap-nearby-card-title">Beaches, Park, and Attractions</h3>
+								<h3 class="bdai-whitecap-nearby-card-title">More Coastal Beaches</h3>
 
-								<p class="bdai-whitecap-nearby-card-copy">Continue exploring Mustang Island&rsquo;s coastline, Port Aransas, the broader Corpus Christi area, nearby beaches, coastal parks, nature experiences, and family-friendly attractions.</p><a class="bdai-whitecap-nearby-link" href="https://www.simplypadre.com" target="_blank">Explore Nearby Places</a></article>
+								<p class="bdai-whitecap-nearby-card-copy">Compare the Padre Island Seawall experience with other Corpus Christi beach areas, including Whitecap Beach and the broader North Padre Island shoreline.</p><a class="bdai-whitecap-nearby-link" href="https://www.simplypadre.com" target="_blank">Find More Beach Guides</a></article>
+							<article class="bdai-whitecap-nearby-card bdai-reveal">
+								<div class="bdai-whitecap-nearby-icon"><i class="bi bi-house-heart" aria-hidden="true"></i></div>
+
+								<h3 class="bdai-whitecap-nearby-card-title">Hotels and Rentals</h3>
+
+								<p class="bdai-whitecap-nearby-card-copy">Make a longer visit easier by browsing North Padre Island hotels, vacation accommodations, equipment rentals, and local services through the Simply Padre community directory.</p><a class="bdai-whitecap-nearby-link" href="https://www.simplypadre.com" target="_blank">Browse Island Options</a></article>
 						</div></div>
 				</section>
 			</td>
@@ -375,84 +313,60 @@
 				<section class="bdai-whitecap-faq" id="bdai-whitecap-faq">
 					<div class="container">
 						<div class="bdai-whitecap-faq-heading bdai-reveal">
-							<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">island State Park Questions</div>
+							<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Padre Island Seawall Questions</div>
 
 							<h2 class="bdai-whitecap-faq-title">Helpful Answers Before Your Visit</h2>
 
-							<p class="bdai-whitecap-faq-intro">Mustang Island State Park is a popular Texas beach destination with limited capacity, changing coastal conditions, camping choices, and park-specific policies. Confirm the latest information before traveling.</p>
+							<p class="bdai-whitecap-faq-intro">Beach conditions, vehicle access, permit information, and city policies can change. These answers summarize available visitor and city information, with official links included where current details matter most.</p>
 						</div>
 						<div class="bdai-whitecap-faq-grid">
 							<article class="bdai-whitecap-faq-card bdai-reveal">
 
-								<h3 class="bdai-whitecap-faq-question">Where is Mustang Island State Park?</h3>
+								<h3 class="bdai-whitecap-faq-question">Where is Padre Island Seawall?</h3>
 
-								<p class="bdai-whitecap-faq-answer">Mustang Island State Park is at 9394 State Highway 361 near Corpus Christi and Port Aransas on Mustang Island, Texas. It is a Texas state park with more than five miles of Gulf coastline and is separate from the broader Mustang Island destination.</p>
+								<p class="bdai-whitecap-faq-answer">Padre Island Seawall is on North Padre Island in Corpus Christi, Texas. Michael J. Ellis Beach &amp; Seawall is associated with the Gulf shoreline around mile markers 213 through 221 and can be reached from Access Road 3A near Windward Drive or Whitecap Boulevard.</p>
 							</article>
 							<article class="bdai-whitecap-faq-card bdai-reveal">
 
-								<h3 class="bdai-whitecap-faq-question">What are the park&rsquo;s hours?</h3>
+								<h3 class="bdai-whitecap-faq-question">What is Michael J. Ellis Beach &amp; Seawall?</h3>
 
-								<p class="bdai-whitecap-faq-answer">The park is listed as open daily from 8:00 a.m. to 5:00 p.m. Hours, access, and capacity can be affected by conditions or park operations, so check current information before leaving.</p>
+								<p class="bdai-whitecap-faq-answer">It is the named beach and seawall area commonly called Padre Island Seawall Beach. The setting combines a paved seawall, Gulf beach access, open water views, walking, surfing, jogging, sightseeing, and people-watching.</p>
 							</article>
 							<article class="bdai-whitecap-faq-card bdai-reveal">
 
-								<h3 class="bdai-whitecap-faq-question">Is there an entrance fee?</h3>
+								<h3 class="bdai-whitecap-faq-question">Is there free parking?</h3>
 
-								<p class="bdai-whitecap-faq-answer">Yes. The current standard entrance fee is $7 per adult per day. Children age 12 and under enter free. Camping and other facilities have separate charges.</p>
+								<p class="bdai-whitecap-faq-answer">Yes. Visitor information identifies free paved parking at the Windward Parking Lot near the beach. Parking directly on the beach is a separate use and requires a beach parking permit.</p>
 							</article>
 							<article class="bdai-whitecap-faq-card bdai-reveal">
 
-								<h3 class="bdai-whitecap-faq-question">Is camping available?</h3>
+								<h3 class="bdai-whitecap-faq-question">Do I need a beach parking permit?</h3>
 
-								<p class="bdai-whitecap-faq-answer">Yes. Mustang Island State Park offers water-and-electric campsites and drive-up primitive beach campsites. Because the park can reach capacity, reservations are recommended for day use and reservable camping.</p>
+								<p class="bdai-whitecap-faq-answer">A permit is required to park on the beach. The City of Corpus Christi lists the 2026 annual beach parking permit at $12. Confirm the current price, purchase locations, and beach access conditions before your visit.</p>
 							</article>
 							<article class="bdai-whitecap-faq-card bdai-reveal">
 
-								<h3 class="bdai-whitecap-faq-question">What types of campsites are available?</h3>
+								<h3 class="bdai-whitecap-faq-question">Can I access the beach from the seawall?</h3>
 
-								<p class="bdai-whitecap-faq-answer">There are 48 water-and-electric sites about 400 yards from the water and 50 drive-up primitive sites along a 1.5-mile beach area. Electric sites cost $25 per night plus entrance, while primitive sites cost $13 per night plus entrance and are non-reservable.</p>
+								<p class="bdai-whitecap-faq-answer">Yes. An access ramp leads from the seawall area toward the beach, and Access Road 3A allows vehicles to reach the waterline when vehicle access is open. Temporary restrictions may apply when erosion or public-safety conditions reduce beach width.</p>
 							</article>
 							<article class="bdai-whitecap-faq-card bdai-reveal">
 
-								<h3 class="bdai-whitecap-faq-question">Can visitors swim at the beach?</h3>
+								<h3 class="bdai-whitecap-faq-question">Is the beach wheelchair accessible?</h3>
 
-								<p class="bdai-whitecap-faq-answer">Swimming is an available park activity, along with surfing and other beach recreation. No lifeguards are present at the primitive beach camping area, so check conditions, understand surf and current risks, and swim at your own risk.</p>
+								<p class="bdai-whitecap-faq-answer">The beach has an ADA-accessible ramp connecting the seawall and sand. Free beach wheelchairs are available for people with disabilities on a first-come, first-served basis while lifeguards are on duty; call (361) 826-3469 for reservation and availability information.</p>
 							</article>
 							<article class="bdai-whitecap-faq-card bdai-reveal">
 
-								<h3 class="bdai-whitecap-faq-question">Is fishing allowed?</h3>
+								<h3 class="bdai-whitecap-faq-question">Are restrooms available?</h3>
 
-								<p class="bdai-whitecap-faq-answer">Yes. Surf fishing and bay fishing are available, and the park&rsquo;s paddling trail passes through shallow-water fishing areas. Check current Texas fishing regulations and license requirements before your trip.</p>
+								<p class="bdai-whitecap-faq-answer">Yes. Visitor information identifies restrooms near the Padre Island Seawall beach area. Facility conditions can change, so check current visitor information before traveling.</p>
 							</article>
 							<article class="bdai-whitecap-faq-card bdai-reveal">
 
-								<h3 class="bdai-whitecap-faq-question">Are dogs allowed?</h3>
+								<h3 class="bdai-whitecap-faq-question">Can I camp, bring a dog, and find lifeguards?</h3>
 
-								<p class="bdai-whitecap-faq-answer">Pet restrictions can vary by park area and current policy. Confirm the latest rules with Mustang Island State Park before bringing a dog, keep pets controlled, and prevent them from disturbing wildlife or protected habitat.</p>
-							</article>
-							<article class="bdai-whitecap-faq-card bdai-reveal">
-
-								<h3 class="bdai-whitecap-faq-question">Are restrooms and showers available?</h3>
-
-								<p class="bdai-whitecap-faq-answer">Yes. Full restrooms and hot-water showers are located near the water-and-electric campground. Primitive beach campers have access to restrooms at varying distances, and portable toilets are available along portions of the beach.</p>
-							</article>
-							<article class="bdai-whitecap-faq-card bdai-reveal">
-
-								<h3 class="bdai-whitecap-faq-question">Can visitors make reservations?</h3>
-
-								<p class="bdai-whitecap-faq-answer">Reservations can be made online or by calling 512-389-8900. Reservations are recommended for day use and camping because the park may fill to capacity. Primitive drive-up beach sites are non-reservable.</p>
-							</article>
-							<article class="bdai-whitecap-faq-card bdai-reveal">
-
-								<h3 class="bdai-whitecap-faq-question">What activities can visitors do?</h3>
-
-								<p class="bdai-whitecap-faq-answer">Visitors can swim, surf, walk the beach, fish, camp, picnic, paddle, birdwatch, photograph the coast, explore nature, attend ranger programs, stargaze, beachcomb, geocache, and enjoy the park&rsquo;s open Gulf and bay scenery.</p>
-							</article>
-							<article class="bdai-whitecap-faq-card bdai-reveal">
-
-								<h3 class="bdai-whitecap-faq-question">What should visitors know before visiting?</h3>
-
-								<p class="bdai-whitecap-faq-answer">Bring water, food, sun protection, suitable footwear, fishing supplies, first-aid items, and layers for wind. Check capacity, weather, tides, surf, beach conditions, fire restrictions, pet rules, and reservation availability before traveling.</p>
+								<p class="bdai-whitecap-faq-answer">Gulf beach camping is generally limited to three consecutive days and nights, with no more than six days within a month, and is prohibited in front of condos and hotels. Dogs must be leashed or under verbal command, and mobile lifeguards patrol the beach; seasonal stands may operate during summer. Check current city information for the latest conditions.</p>
 							</article>
 						</div></div>
 				</section>
@@ -461,8 +375,9 @@
 	</tbody>
 </table>
 
+
 <style>
-  .bdai-whitecap-hero  {
+.bdai-whitecap-hero  {
    position:relative;
    overflow:hidden;
    padding:72px 0;
@@ -1197,7 +1112,8 @@
  .froala-table section > .container > * + *  {
    margin-top: 16px;
 }
-</style>
+</style> 
+
 
 <script>
 (function($){

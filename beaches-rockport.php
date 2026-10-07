@@ -6,18 +6,18 @@
 					<div class="container">
 						<div class="bdai-whitecap-hero-layout bdai-reveal">
 							<div class="bdai-whitecap-hero-copy">
-								<div class="bdai-whitecap-hero-eyebrow" style="white-space:nowrap !important;width:fit-content;">Mustang Island State Park</div>
+								<div class="bdai-whitecap-hero-eyebrow" style="white-space:nowrap !important;width:fit-content;">Rockport, Texas</div>
 
-								<h1 class="bdai-whitecap-hero-title">Mustang Island State Park, a Wide-Open Texas Beach Escape</h1>
+								<h1 class="bdai-whitecap-hero-title">Rockport, Texas: A Relaxed Coastal Bend Getaway</h1>
 
-								<p class="bdai-whitecap-hero-lead">Mustang Island State Park brings more than five miles of open Gulf shoreline, rolling dunes, shallow bay waters, and relaxed coastal recreation to the Texas coast near Corpus Christi.</p>
+								<p class="bdai-whitecap-hero-lead">Rockport brings together calm bays, working harbors, inviting beaches, exceptional birding, strong fishing traditions, and a welcoming arts community on the Texas Coastal Bend.</p>
 
-								<p class="bdai-whitecap-hero-copy-text">Use this local guide to plan a beach day or camping trip, understand park fees and reservations, choose activities, prepare for changing coastal conditions, and discover nearby businesses, accommodations, beaches, and attractions through Simply Padre.</p>
-								<div class="bdai-whitecap-hero-actions"><a class="bdai-whitecap-hero-primary" href="https://www.simplypadre.com" target="_blank">Explore Simply Padre</a> <a class="bdai-whitecap-hero-secondary" href="https://tpwd.texas.gov/state-parks/mustang-island" target="_blank">Plan Your Visit</a></div></div>
-							<div class="bdai-whitecap-hero-media"><img src="https://tpwd.texas.gov/state-parks/mustang-island/gallery/mustangisland-168.jpg" alt="Mustang Island State Park Gulf beach and shoreline" class="img-rounded fr-fil fr-dib" fetchpriority="high" decoding="async">
+								<p class="bdai-whitecap-hero-copy-text">Use this local guide to plan a day on the water, find beaches and parks, explore galleries and museums, discover wildlife destinations, and connect with restaurants, accommodations, guides, and other local businesses through Simply Padre.</p>
+								<div class="bdai-whitecap-hero-actions"><a class="bdai-whitecap-hero-primary" href="https://www.simplypadre.com" target="_blank">Explore Rockport Businesses</a> <a class="bdai-whitecap-hero-secondary" href="https://www.rockport-fulton.org/" target="_blank">Visit Rockport-Fulton</a></div></div>
+							<div class="bdai-whitecap-hero-media"><img src="https://growthzonecmsprodeastus.azureedge.net/sites/2401/2025/08/umbrella-on-beach.jpg" alt="Rockport Texas beach with umbrellas and Gulf Coast scenery" class="img-rounded fr-fil fr-dib" fetchpriority="high" decoding="async">
 								<br>
 
-								<p class="bdai-whitecap-hero-caption">Mustang Island State Park combines a broad Gulf beach with dunes, coastal wildlife habitat, bay access, camping, and the open-water character that makes Mustang Island special.</p>
+								<p class="bdai-whitecap-hero-caption">Rockport pairs easygoing waterfront days with a lively local scene, from Rockport Beach and Little Bay to harbor walks, galleries, seafood restaurants, and nearby nature preserves.</p>
 							</div></div></div>
 				</section>
 			</td>
@@ -32,33 +32,33 @@
 				<section class="bdai-whitecap-about" id="bdai-whitecap-about">
 					<div class="container">
 						<div class="bdai-whitecap-about-heading bdai-reveal">
-							<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Protected Island Landscape</div>
+							<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">A Coastal Community</div>
 
-							<h2 class="bdai-whitecap-about-title">About Mustang Island State Park</h2>
+							<h2 class="bdai-whitecap-about-title">About Rockport, Texas</h2>
 
-							<p class="bdai-whitecap-about-intro">Mustang Island State Park is a Texas state park on Mustang Island along the Gulf Coast, at 9394 State Highway 361 near Corpus Christi and Port Aransas. The park protects more than five miles of coastline and gives visitors room to enjoy the beach, dunes, bay waters, and coastal landscape without confusing the park with Mustang Island as a whole or with neighboring Padre Island.</p>
+							<p class="bdai-whitecap-about-intro">Rockport is a waterfront community on the Live Oak Peninsula in Aransas County, along Aransas Bay in the Texas Coastal Bend. Its location places visitors close to protected bays, barrier-island beaches, working marinas, coastal prairie, oak motts, wetlands, and some of the most productive birding and fishing habitats on the Texas coast.</p>
 						</div>
 						<div class="bdai-whitecap-about-grid">
 							<article class="bdai-whitecap-about-card bdai-reveal">
-								<div class="bdai-whitecap-about-icon"><i class="bi bi-tree" aria-hidden="true"></i></div>
-
-								<h3 class="bdai-whitecap-card-title">A Texas State Park on Mustang Island</h3>
-
-								<p class="bdai-whitecap-card-copy">The park is a designated Texas State Park located along State Highway 361 on the central portion of Mustang Island. Its protected shoreline offers a different experience from the busier commercial areas of Port Aransas and the developed beach communities elsewhere along the coast.</p>
-							</article>
-							<article class="bdai-whitecap-about-card bdai-reveal">
 								<div class="bdai-whitecap-about-icon"><i class="bi bi-water" aria-hidden="true"></i></div>
 
-								<h3 class="bdai-whitecap-card-title">Gulf Beach, Dunes, and Bay Waters</h3>
+								<h3 class="bdai-whitecap-card-title">A Waterfront Town on Aransas Bay</h3>
 
-								<p class="bdai-whitecap-card-copy">The park&rsquo;s natural setting includes a wide Gulf beach, sand dunes, shallow bayside waters, and an expansive horizon. The contrast between surf, sand, wind, and bay scenery makes it appealing for swimming, fishing, beach walks, paddling, and quiet sightseeing.</p>
+								<p class="bdai-whitecap-card-copy">Rockport is shaped by its relationship with the bay. Harbors, public piers, waterfront trails, boat launches, marinas, and quiet viewing areas make it easy to enjoy the coast without needing a resort-style itinerary. Locals and visitors can build a full day around fishing, paddling, sunsets, seafood, or a walk beside the water.</p>
 							</article>
 							<article class="bdai-whitecap-about-card bdai-reveal">
 								<div class="bdai-whitecap-about-icon"><i class="bi bi-feather" aria-hidden="true"></i></div>
 
-								<h3 class="bdai-whitecap-card-title">A Coastal Refuge for Wildlife</h3>
+								<h3 class="bdai-whitecap-card-title">Wildlife and Birding at Every Turn</h3>
 
-								<p class="bdai-whitecap-card-copy">Spring and fall migrations bring especially good birding opportunities, while the paddling trail provides views across shallow-water habitat and coastal bird areas. Dunes, beaches, and bay edges support a changing mix of birds and other coastal wildlife throughout the year.</p>
+								<p class="bdai-whitecap-card-copy">The Rockport area is part of a major coastal wildlife corridor. Wetlands, ponds, live-oak habitats, shorelines, and bay edges support herons, egrets, migratory birds, waterfowl, and other wildlife. Nearby sites such as the Aransas National Wildlife Refuge are especially important for birders and visitors hoping to experience the Texas coast beyond the beach.</p>
+							</article>
+							<article class="bdai-whitecap-about-card bdai-reveal">
+								<div class="bdai-whitecap-about-icon"><i class="bi bi-palette" aria-hidden="true"></i></div>
+
+								<h3 class="bdai-whitecap-card-title">Arts, History, and Local Character</h3>
+
+								<p class="bdai-whitecap-card-copy">Rockport is more than a fishing destination. The community has galleries, changing exhibitions, historic buildings, maritime stories, public art, live entertainment, and locally owned places to eat and shop. Its relaxed pace and creative energy make it a natural base for exploring the wider Rockport-Fulton area and the Coastal Bend.</p>
 							</article>
 						</div></div>
 				</section>
@@ -77,78 +77,78 @@
 							<div class="bdai-whitecap-things-copy bdai-reveal">
 								<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Make the Most of the Coast</div>
 
-								<h2 class="bdai-whitecap-things-title">Things to Do at Mustang Island State Park</h2>
+								<h2 class="bdai-whitecap-things-title">Things to Do in Rockport, Texas</h2>
 
-								<p class="bdai-whitecap-things-lead">Mustang Island State Park is built for flexible outdoor days. You can settle into a beach chair, follow the shoreline, launch a paddle trip, cast into the surf, or stay overnight while the Gulf changes from morning light to evening sky.</p>
+								<p class="bdai-whitecap-things-lead">The best things to do in Rockport can be as active or unhurried as you want. Spend the morning on the water, the afternoon exploring parks and galleries, and the evening watching the light change across the bay.</p>
 								<div class="bdai-whitecap-things-list">
-									<div class="bdai-whitecap-things-item">
-										<div class="bdai-whitecap-things-icon"><i class="bi bi-umbrella" aria-hidden="true"></i></div>
-										<div class="bdai-whitecap-things-item-copy">
-
-											<h3 class="bdai-whitecap-things-item-title">Swim and Enjoy the Beach</h3>
-
-											<p class="bdai-whitecap-things-item-text">Spend time in the Gulf, relax on the sand, surf when conditions and experience allow, or build sandcastles with the family. There are no lifeguards at the primitive beach camping area, so check conditions, supervise children, and swim at your own risk.</p>
-										</div></div>
-									<div class="bdai-whitecap-things-item">
-										<div class="bdai-whitecap-things-icon"><i class="bi bi-person-walking" aria-hidden="true"></i></div>
-										<div class="bdai-whitecap-things-item-copy">
-
-											<h3 class="bdai-whitecap-things-item-title">Walk, Beachcomb, and Explore</h3>
-
-											<p class="bdai-whitecap-things-item-text">Walk more than five miles of open shoreline, look for changing beach patterns, enjoy the dunes from appropriate access areas, and take in the wide views across the Gulf. Leave wildlife, dunes, vegetation, and natural features undisturbed.</p>
-										</div></div>
 									<div class="bdai-whitecap-things-item">
 										<div class="bdai-whitecap-things-icon"><i class="bi bi-fish" aria-hidden="true"></i></div>
 										<div class="bdai-whitecap-things-item-copy">
 
-											<h3 class="bdai-whitecap-things-item-title">Fish the Surf and Bay</h3>
+											<h3 class="bdai-whitecap-things-item-title">Fish the Bays and Gulf Waters</h3>
 
-											<p class="bdai-whitecap-things-item-text">Surf fishing and bay fishing are available, and the shallow-water paddling trail passes through areas known for fishing. Bring the equipment and licenses required for your trip, and check current Texas regulations before casting.</p>
+											<p class="bdai-whitecap-things-item-text">Rockport is well known for inshore fishing, pier fishing, wade fishing, kayak fishing, and guided trips. Anglers can explore bay shorelines, jetties, channels, and nearby coastal waters, but should check current Texas Parks and Wildlife regulations, seasons, size limits, bag limits, and license requirements before fishing.</p>
 										</div></div>
 									<div class="bdai-whitecap-things-item">
-										<div class="bdai-whitecap-things-icon"><i class="bi bi-moon-stars" aria-hidden="true"></i></div>
+										<div class="bdai-whitecap-things-icon"><i class="bi bi-sailboat" aria-hidden="true"></i></div>
 										<div class="bdai-whitecap-things-item-copy">
 
-											<h3 class="bdai-whitecap-things-item-title">Camp Beside the Coast</h3>
+											<h3 class="bdai-whitecap-things-item-title">Boat, Kayak, Paddle, and Sail</h3>
 
-											<p class="bdai-whitecap-things-item-text">Choose a reserved water-and-electric campsite about 400 yards from the water or a drive-up primitive site along a 1.5-mile stretch of beach. The two camping styles create different experiences, from supported campground stays to more direct beach access.</p>
+											<p class="bdai-whitecap-things-item-text">Public launches, marinas, rental operators, and guided services make boating a major part of the Rockport experience. Little Bay, Aransas Bay, Copano Bay, and the surrounding waterways offer opportunities for kayaking, paddleboarding, sailing, sightseeing, and wildlife observation when wind, tides, weather, and experience level align.</p>
 										</div></div>
 									<div class="bdai-whitecap-things-item">
-										<div class="bdai-whitecap-things-icon"><i class="bi bi-wind" aria-hidden="true"></i></div>
+										<div class="bdai-whitecap-things-icon"><i class="bi bi-brightness-high" aria-hidden="true"></i></div>
 										<div class="bdai-whitecap-things-item-copy">
 
-											<h3 class="bdai-whitecap-things-item-title">Paddle the Bay</h3>
+											<h3 class="bdai-whitecap-things-item-title">Enjoy Rockport Beach and the Shoreline</h3>
 
-											<p class="bdai-whitecap-things-item-text">The Mustang Island State Park Paddling Trail includes three segments and follows the island&rsquo;s western shoreline in Corpus Christi Bay. The full trail totals 20 miles and offers shallow-water scenery, fishing access, and coastal-bird viewing for prepared paddlers.</p>
+											<p class="bdai-whitecap-things-item-text">Rockport Beach is a one-mile waterfront beach with picnic areas, palapas, restrooms, fishing piers, boat ramps, a playground, volleyball, and other family-friendly amenities described by local tourism and beach resources. It is a convenient place to swim, relax, watch sunsets, fly a kite, or spend time beside the bay.</p>
 										</div></div>
 									<div class="bdai-whitecap-things-item">
 										<div class="bdai-whitecap-things-icon"><i class="bi bi-binoculars" aria-hidden="true"></i></div>
 										<div class="bdai-whitecap-things-item-copy">
 
-											<h3 class="bdai-whitecap-things-item-title">Watch Birds and Wildlife</h3>
+											<h3 class="bdai-whitecap-things-item-title">Watch Birds and Coastal Wildlife</h3>
 
-											<p class="bdai-whitecap-things-item-text">Birding is especially rewarding during spring and fall migration, but coastal birds can be enjoyed year-round. Join a ranger program when available, bring binoculars, and observe wildlife from a respectful distance along the beach, dunes, and bay.</p>
+											<p class="bdai-whitecap-things-item-text">Bring binoculars to Bent Oaks Rookery Park, the Wetland Pond and Demonstration Garden, Tule trails, Memorial Park, Rockport Beach, and other Aransas Pathways sites. For a larger wildlife experience, the Aransas National Wildlife Refuge offers a 16-mile auto tour, trails, observation areas, and important winter habitat for whooping cranes.</p>
 										</div></div>
 									<div class="bdai-whitecap-things-item">
-										<div class="bdai-whitecap-things-icon"><i class="bi bi-compass" aria-hidden="true"></i></div>
+										<div class="bdai-whitecap-things-icon"><i class="bi bi-tree" aria-hidden="true"></i></div>
 										<div class="bdai-whitecap-things-item-copy">
 
-											<h3 class="bdai-whitecap-things-item-title">Join Ranger Programs</h3>
+											<h3 class="bdai-whitecap-things-item-title">Explore Parks, Trails, and Nature</h3>
 
-											<p class="bdai-whitecap-things-item-text">Depending on the season and schedule, the park may offer birding, stargazing, beachcombing, and nature-walk programs. Geocaching and volunteer opportunities also give returning visitors new ways to connect with the park.</p>
+											<p class="bdai-whitecap-things-item-text">Memorial Park offers hike-and-bike trails, a nature trail, ponds, bird-observation benches, picnic areas, playgrounds, sports fields, disc golf, and a skate park. Tule Hike and Bike Trail, Water Street, Compass Rose Park, and other local green spaces add easy ways to enjoy fresh air without leaving town.</p>
 										</div></div>
 									<div class="bdai-whitecap-things-item">
 										<div class="bdai-whitecap-things-icon"><i class="bi bi-camera" aria-hidden="true"></i></div>
 										<div class="bdai-whitecap-things-item-copy">
 
-											<h3 class="bdai-whitecap-things-item-title">Photograph the Coast</h3>
+											<h3 class="bdai-whitecap-things-item-title">Walk, Sightsee, and Photograph</h3>
 
-											<p class="bdai-whitecap-things-item-text">Photograph Gulf surf, dune textures, bay reflections, fishing scenes, campground details, shorebirds, sunrise, and evening light. Keep your composition natural by giving wildlife space and avoiding fragile dunes and protected areas.</p>
+											<p class="bdai-whitecap-things-item-text">Stroll along Water Street, watch boats move through the harbor, photograph live oaks and bay light, visit waterfront viewpoints, and look for changing skies over Little Bay and Aransas Bay. Sunrise, migration season, harbor activity, and evening reflections each give the town a different photographic mood.</p>
+										</div></div>
+									<div class="bdai-whitecap-things-item">
+										<div class="bdai-whitecap-things-icon"><i class="bi bi-brush" aria-hidden="true"></i></div>
+										<div class="bdai-whitecap-things-item-copy">
+
+											<h3 class="bdai-whitecap-things-item-title">Visit Galleries and Cultural Sites</h3>
+
+											<p class="bdai-whitecap-things-item-text">Rockport Center for the Arts, local galleries, public art, the Texas Maritime Museum, the Fulton Mansion, and area history sites give visitors a strong cultural counterpoint to outdoor activities. Check current exhibition schedules, tours, classes, and event calendars before making a special trip.</p>
+										</div></div>
+									<div class="bdai-whitecap-things-item">
+										<div class="bdai-whitecap-things-icon"><i class="bi bi-people" aria-hidden="true"></i></div>
+										<div class="bdai-whitecap-things-item-copy">
+
+											<h3 class="bdai-whitecap-things-item-title">Add Recreation and Local Events</h3>
+
+											<p class="bdai-whitecap-things-item-text">Families can combine parks, playgrounds, the community pool, the dog park, disc golf, shopping, live entertainment, seasonal festivals, and locally hosted activities. Rockport and Fulton also offer a variety of restaurants, coffee shops, markets, and community events throughout the year.</p>
 										</div></div></div></div>
-							<div class="bdai-whitecap-things-media bdai-reveal"><img src="https://tpwd.texas.gov/state-parks/mustang-island/gallery/mustang-island_3462.jpg" alt="Mustang Island State Park beach and coastal dunes" class="img-rounded fr-fil fr-dib" loading="lazy" decoding="async">
+							<div class="bdai-whitecap-things-media bdai-reveal"><img src="https://tpwd.texas.gov/state-parks/goose-island/gallery/goose-island-sp_0302.jpg" alt="Coastal scenery and recreation near Rockport Texas" class="img-rounded fr-fil fr-dib" loading="lazy" decoding="async">
 								<br>
 
-								<p class="bdai-whitecap-things-note">Bring drinking water, sun protection, food, fishing supplies, suitable footwear, first-aid items, and layers for changing wind. The park store offers some supplies, but services are limited compared with the nearby communities.</p>
+								<p class="bdai-whitecap-things-note">Plan around heat, wind, tides, weather, and the time of year. Bring water, sun protection, insect protection, food, suitable footwear, and any equipment needed for the activity you choose. Conditions and access can change quickly along the coast.</p>
 							</div></div></div>
 				</section>
 			</td>
@@ -163,82 +163,66 @@
 				<section class="bdai-whitecap-before" id="bdai-whitecap-before">
 					<div class="container">
 						<div class="bdai-whitecap-before-layout">
-							<div class="bdai-whitecap-before-media bdai-reveal"><img src="https://tpwd.texas.gov/state-parks/mustang-island/gallery/misp_rv_3422.jpg" alt="Mustang Island State Park campground and coastal camping area" class="img-rounded fr-fil fr-dib" loading="lazy" decoding="async">
+							<div class="bdai-whitecap-before-media bdai-reveal"><img src="https://tpwd.texas.gov/state-parks/goose-island/gallery/goose-island-big-tree003_16x9_800p.jpg" alt="Large coastal live oak at Goose Island State Park near Rockport" class="img-rounded fr-fil fr-dib" loading="lazy" decoding="async">
 
 								<p>
 									<br>
 								</p>
-								<div class="bdai-whitecap-before-badge"><strong>Plan for a coastal state park</strong> <span>Mustang Island State Park offers beach access and useful facilities, but weather, tides, surf, sand, and capacity can affect the experience. Reserve ahead when possible and check conditions before leaving for the coast.</span></div></div>
+								<div class="bdai-whitecap-before-badge"><strong>Rockport is the hub; nearby destinations are different places</strong> <span>Rockport Beach, Goose Island State Park, Fulton, Aransas Pass, Port Aransas, and Corpus Christi each have their own identity, facilities, and access rules. Check the specific destination before you go.</span></div></div>
 							<div class="bdai-whitecap-before-copy bdai-reveal">
-								<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">What to Know Before You Go</div>
+								<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Beaches, Bays, and Coastal Access</div>
 
-								<h2 class="bdai-whitecap-before-title">Mustang Island State Park Information</h2>
+								<h2 class="bdai-whitecap-before-title">Beaches and Coastal Areas Around Rockport</h2>
 
-								<p class="bdai-whitecap-before-lead">The park is open daily from 8:00 a.m. to 5:00 p.m. Adult entrance is $7 per day, and children age 12 and under enter free. Because the park can reach capacity, Texas Parks and Wildlife recommends reservations for camping and day use when available.</p>
+								<p class="bdai-whitecap-before-lead">Rockport is surrounded by a mix of bayfront parks, public beaches, fishing access, wetlands, and nearby barrier-island destinations. The shoreline experience changes from calm, family-friendly bayside water to open Gulf surf, so choose a destination based on the activity and conditions you want.</p>
 								<div class="bdai-whitecap-before-details">
+									<div class="bdai-whitecap-before-detail">
+										<div class="bdai-whitecap-before-detail-icon"><i class="bi bi-umbrella" aria-hidden="true"></i></div>
+										<div class="bdai-whitecap-before-detail-copy">
+
+											<h3 class="bdai-whitecap-before-detail-title">Rockport Beach</h3>
+
+											<p class="bdai-whitecap-before-detail-text">Rockport Beach is the city&rsquo;s signature public beach and is described by local tourism resources as a one-mile Blue Wave Beach. Visitors can expect a bayside setting with picnic cabanas and palapas, restrooms, fishing piers, boat ramps, a wildlife sanctuary, a fitness trail, playgrounds, volleyball, and areas for relaxing beside the water. Confirm current parking fees, hours, swimming conditions, and pet rules before visiting.</p>
+										</div></div>
+									<div class="bdai-whitecap-before-detail">
+										<div class="bdai-whitecap-before-detail-icon"><i class="bi bi-tree" aria-hidden="true"></i></div>
+										<div class="bdai-whitecap-before-detail-copy">
+
+											<h3 class="bdai-whitecap-before-detail-title">Goose Island State Park</h3>
+
+											<p class="bdai-whitecap-before-detail-text">Goose Island State Park is in Rockport along St. Charles and Aransas bays. The park provides shore and pier fishing, a 1,620-foot fishing pier, boat and kayak launches, hiking, birding, wildlife observation, camping, restrooms with showers, and access to the famous Big Tree. Swimming is not recommended in the park because of bulkheads, oyster shells, mud flats, and marsh grass.</p>
+										</div></div>
+									<div class="bdai-whitecap-before-detail">
+										<div class="bdai-whitecap-before-detail-icon"><i class="bi bi-water" aria-hidden="true"></i></div>
+										<div class="bdai-whitecap-before-detail-copy">
+
+											<h3 class="bdai-whitecap-before-detail-title">Little Bay, Rockport Harbor, and Fulton Harbor</h3>
+
+											<p class="bdai-whitecap-before-detail-text">Little Bay and the harbor areas are better understood as calm-water waterfront destinations than as Gulf surf beaches. They are useful for boating, kayaking, paddleboarding, fishing, birdwatching, waterfront walks, harbor views, restaurants, and sunset photography. Fulton is immediately north of Rockport, while Fulton Harbor is a separate harbor destination within the shared Rockport-Fulton area.</p>
+										</div></div>
 									<div class="bdai-whitecap-before-detail">
 										<div class="bdai-whitecap-before-detail-icon"><i class="bi bi-sign-turn-right" aria-hidden="true"></i></div>
 										<div class="bdai-whitecap-before-detail-copy">
 
-											<h3 class="bdai-whitecap-before-detail-title">Access, Address, and Parking</h3>
+											<h3 class="bdai-whitecap-before-detail-title">Port Aransas and Mustang Island</h3>
 
-											<p class="bdai-whitecap-before-detail-text">Mustang Island State Park is located at 9394 State Highway 361, Corpus Christi, Texas 78418, between the Corpus Christi area and Port Aransas on Mustang Island. Day-use and camping access are subject to park capacity and current conditions, so reserve a day pass when possible and follow posted parking and beach-access guidance.</p>
+											<p class="bdai-whitecap-before-detail-text">Port Aransas and Mustang Island are nearby but are not part of Rockport. They sit across the water and access routes associated with Aransas Pass and offer a different Gulf-beach experience, including open surf, barrier-island recreation, and their own public facilities. Plan them as separate destinations rather than assuming Rockport beach amenities continue there.</p>
 										</div></div>
 									<div class="bdai-whitecap-before-detail">
-										<div class="bdai-whitecap-before-detail-icon"><i class="bi bi-ticket-perforated" aria-hidden="true"></i></div>
+										<div class="bdai-whitecap-before-detail-icon"><i class="bi bi-compass" aria-hidden="true"></i></div>
 										<div class="bdai-whitecap-before-detail-copy">
 
-											<h3 class="bdai-whitecap-before-detail-title">Entrance Fees and Reservations</h3>
+											<h3 class="bdai-whitecap-before-detail-title">Aransas Pass and Corpus Christi Connections</h3>
 
-											<p class="bdai-whitecap-before-detail-text">The current standard entrance fee is $7 per adult per day, while children age 12 and under enter free. Reservations can be made online or by calling 512-389-8900. A reservation is highly recommended for both day use and camping because the park may fill to capacity.</p>
+											<p class="bdai-whitecap-before-detail-text">Aransas Pass is a separate nearby community associated with access toward the barrier islands and local waterways. Corpus Christi is a larger Coastal Bend city to the south with additional beaches, museums, attractions, and services. Rockport makes a convenient base for regional exploration, but each city and park maintains its own rules, hours, fees, and facilities.</p>
 										</div></div>
 									<div class="bdai-whitecap-before-detail">
-										<div class="bdai-whitecap-before-detail-icon"><i class="bi bi-house-heart" aria-hidden="true"></i></div>
+										<div class="bdai-whitecap-before-detail-icon"><i class="bi bi-camera" aria-hidden="true"></i></div>
 										<div class="bdai-whitecap-before-detail-copy">
 
-											<h3 class="bdai-whitecap-before-detail-title">Camping Options and Campsites</h3>
+											<h3 class="bdai-whitecap-before-detail-title">Wildlife-Focused Coastal Areas</h3>
 
-											<p class="bdai-whitecap-before-detail-text">The park has 48 water-and-electric campsites located about 400 yards from the water and 50 drive-up primitive sites along a 1.5-mile beach stretch. Water-and-electric sites cost $25 per night plus the daily entrance fee and include water, a 50-amp hookup, a picnic table, grill, and shade shelter. Primitive sites cost $13 per night plus the daily entrance fee and are non-reservable.</p>
-										</div></div>
-									<div class="bdai-whitecap-before-detail">
-										<div class="bdai-whitecap-before-detail-icon"><i class="bi bi-building" aria-hidden="true"></i></div>
-										<div class="bdai-whitecap-before-detail-copy">
-
-											<h3 class="bdai-whitecap-before-detail-title">Restrooms, Showers, and Picnic Areas</h3>
-
-											<p class="bdai-whitecap-before-detail-text">Full restrooms and hot-water showers are located near the water-and-electric campground. Primitive campers have access to restrooms at varying distances from the beach sites, and portable toilets are available along portions of the beach. Picnic tables, grills, shade shelters, a park store, and beach areas support day trips and overnight stays.</p>
-										</div></div>
-									<div class="bdai-whitecap-before-detail">
-										<div class="bdai-whitecap-before-detail-icon"><i class="bi bi-fish" aria-hidden="true"></i></div>
-										<div class="bdai-whitecap-before-detail-copy">
-
-											<h3 class="bdai-whitecap-before-detail-title">Fishing and Water Activities</h3>
-
-											<p class="bdai-whitecap-before-detail-text">Surf fishing and bay fishing are available, and the 20-mile Mustang Island State Park Paddling Trail follows the western shoreline through shallow-water areas. Check current weather, wind, tides, water conditions, fishing regulations, and launch guidance before paddling or fishing.</p>
-										</div></div>
-									<div class="bdai-whitecap-before-detail">
-										<div class="bdai-whitecap-before-detail-icon"><i class="bi bi-universal-access" aria-hidden="true"></i></div>
-										<div class="bdai-whitecap-before-detail-copy">
-
-											<h3 class="bdai-whitecap-before-detail-title">Accessibility and Beach Wheelchairs</h3>
-
-											<p class="bdai-whitecap-before-detail-text">The park has two beach wheelchairs available to borrow at no charge. Ask park staff about availability when you arrive. Conditions on sand, dunes, and the shoreline can change, so visitors should confirm the most suitable access information directly with the park.</p>
-										</div></div>
-									<div class="bdai-whitecap-before-detail">
-										<div class="bdai-whitecap-before-detail-icon"><i class="bi bi-heart-pulse" aria-hidden="true"></i></div>
-										<div class="bdai-whitecap-before-detail-copy">
-
-											<h3 class="bdai-whitecap-before-detail-title">Swimming, Pets, and Safety</h3>
-
-											<p class="bdai-whitecap-before-detail-text">Swimming, surfing, and beach recreation are available, but no lifeguards are present at the primitive beach camping area. Pet restrictions can vary by park area and current policy, so confirm the latest rules with park staff before bringing a dog. Keep pets controlled and away from wildlife.</p>
-										</div></div>
-									<div class="bdai-whitecap-before-detail">
-										<div class="bdai-whitecap-before-detail-icon"><i class="bi bi-shield-check" aria-hidden="true"></i></div>
-										<div class="bdai-whitecap-before-detail-copy">
-
-											<h3 class="bdai-whitecap-before-detail-title">Beach Rules and Changing Conditions</h3>
-
-											<p class="bdai-whitecap-before-detail-text">Respect posted closures, protect dunes and vegetation, secure food and trash, and leave wildlife and natural features undisturbed. Small beach campfires are allowed in the primitive beach camping area, while campfires are not allowed at water-and-electric campsites; always follow current fire guidance and weather restrictions.</p>
+											<p class="bdai-whitecap-before-detail-text">For birding and wildlife, consider Bent Oaks Rookery Park, the Wetland Pond and Demonstration Garden, Tule West, Memorial Park, Rockport Beach, and the Aransas National Wildlife Refuge. Stay on designated paths where required, respect nesting areas, keep distance from wildlife, and follow current refuge and park guidance.</p>
 										</div></div></div></div></div></div>
 				</section>
 			</td>
@@ -253,40 +237,40 @@
 				<section class="bdai-whitecap-rules" id="bdai-whitecap-rules">
 					<div class="container">
 						<div class="bdai-whitecap-rules-heading bdai-reveal">
-							<div class="bdai-whitecap-section-eyebrow" style="width:fit-content;white-space:nowrap !important;text-align:center;">Respect the Protected Coast</div>
+							<div class="bdai-whitecap-section-eyebrow" style="width:fit-content;white-space:nowrap !important;text-align:center;">Planning for the Coastal Bend</div>
 
-							<h2 class="bdai-whitecap-rules-title" style="text-align:left;">Simple Rules for a Better Park Visit</h2>
+							<h2 class="bdai-whitecap-rules-title" style="text-align:left;">What to Know Before You Go</h2>
 
-							<p class="bdai-whitecap-rules-intro" style="text-align:left;">Mustang Island State Park is shared by swimmers, anglers, campers, paddlers, birders, families, beach walkers, and wildlife. A few thoughtful choices help protect the dunes, shoreline, bay waters, and coastal habitat that make the park worth visiting.</p>
+							<p class="bdai-whitecap-rules-intro" style="text-align:left;">Rockport is easy to enjoy when you arrive prepared for coastal weather, changing water conditions, seasonal crowds, and destination-specific rules. Use current official information for the exact beach, park, refuge, launch, or attraction you plan to visit.</p>
 						</div>
 						<div class="bdai-whitecap-rules-grid">
 							<article class="bdai-whitecap-rule-card bdai-reveal">
 								<div class="bdai-whitecap-rule-number">01</div>
 
-								<h3 class="bdai-whitecap-rule-title">Protect Wildlife</h3>
+								<h3 class="bdai-whitecap-rule-title">Getting There and Parking</h3>
 
-								<p class="bdai-whitecap-rule-copy">Give birds and other wildlife plenty of space, avoid disturbing nests or habitat, and never chase, feed, or handle wild animals.</p>
+								<p class="bdai-whitecap-rule-copy">Rockport is reached by road through the Coastal Bend, with State Highway 35 serving as a primary regional route. Public parking is available at many parks, waterfront areas, and attractions, but spaces, fees, time limits, and event-day conditions vary. Check the destination&rsquo;s current signs and official information rather than assuming parking is free or unlimited.</p>
 							</article>
 							<article class="bdai-whitecap-rule-card bdai-reveal">
 								<div class="bdai-whitecap-rule-number">02</div>
 
-								<h3 class="bdai-whitecap-rule-title">Protect the Dunes</h3>
+								<h3 class="bdai-whitecap-rule-title">Fishing and Boat Access</h3>
 
-								<p class="bdai-whitecap-rule-copy">Stay on appropriate access routes, avoid trampling dune vegetation, and follow signs or closures that protect fragile coastal areas.</p>
+								<p class="bdai-whitecap-rule-copy">Rockport Beach, Goose Island State Park, local harbors, piers, marinas, and public launch sites provide different types of fishing and boating access. Texas fishing licenses, species regulations, seasons, size limits, and bag limits may apply. Read the current Texas Parks and Wildlife rules and confirm launch conditions before putting a boat or kayak in the water.</p>
 							</article>
 							<article class="bdai-whitecap-rule-card bdai-reveal">
 								<div class="bdai-whitecap-rule-number">03</div>
 
-								<h3 class="bdai-whitecap-rule-title">Leave No Trace</h3>
+								<h3 class="bdai-whitecap-rule-title">Facilities and Accessibility</h3>
 
-								<p class="bdai-whitecap-rule-copy">Pack out trash, secure food, dispose of fishing line properly, follow fire rules, and leave shells, plants, and other natural features in place.</p>
+								<p class="bdai-whitecap-rule-copy">Facilities differ by location. Goose Island State Park lists restrooms with showers, campsites, launches, a fish-cleaning station, a park store, and recreation facilities. Rockport city parks provide trails, restrooms or other amenities at selected locations, and accessible features may vary. Contact the specific park or attraction for current accessibility details.</p>
 							</article>
 							<article class="bdai-whitecap-rule-card bdai-reveal">
 								<div class="bdai-whitecap-rule-number">04</div>
 
-								<h3 class="bdai-whitecap-rule-title">Travel for Conditions</h3>
+								<h3 class="bdai-whitecap-rule-title">Camping, Pets, and Local Rules</h3>
 
-								<p class="bdai-whitecap-rule-copy">Check weather, wind, tides, surf, beach conditions, and capacity before driving, swimming, camping, fishing, or paddling.</p>
+								<p class="bdai-whitecap-rule-copy">Goose Island State Park offers bayfront, oak-shaded, walk-in tent, and group camping, with reservations strongly recommended when the park is busy. Rockport&rsquo;s Memorial Park has a fenced off-leash dog park with separate areas for large and small dogs. Pet access, swimming areas, beach rules, fires, camping, and wildlife protections are location-specific, so follow current posted regulations.</p>
 							</article>
 						</div></div>
 				</section>
@@ -303,20 +287,20 @@
 					<div class="container">
 						<div class="bdai-whitecap-gallery-layout">
 							<div class="bdai-whitecap-gallery-copy bdai-reveal">
-								<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Scenes From the island</div>
+								<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Scenes From Rockport</div>
 
-								<h2 class="bdai-whitecap-gallery-title">Mustang Island State Park Photo Journal</h2>
+								<h2 class="bdai-whitecap-gallery-title">Rockport Photo Journal</h2>
 
-								<p class="bdai-whitecap-gallery-intro">The park&rsquo;s visual character comes from the meeting of Gulf water, open sand, dunes, shallow bay, campground life, and long coastal horizons. Every season and tide brings different light, textures, birds, and beach conditions.</p>
+								<p class="bdai-whitecap-gallery-intro">Rockport&rsquo;s visual character comes from the meeting of land and water: live oaks beside coastal trails, boats in protected harbors, broad bay views, working fishing areas, and wildlife habitats that shift with the season.</p>
 
-								<p class="bdai-whitecap-gallery-copy-text">Bring a camera for shoreline patterns, fishing scenes, dune grasses, campground mornings, paddling views, birds, and evening color. Photograph responsibly by staying clear of sensitive habitat and giving wildlife room.</p>
-								<div class="bdai-whitecap-gallery-tip"><i class="bi bi-camera" aria-hidden="true"></i> <span>For stronger coastal photographs, combine the beach, sky, dunes, water, and a human-scale detail such as a fishing rod, tent, paddle, or distant beach walker.</span></div></div>
+								<p class="bdai-whitecap-gallery-copy-text">Look for the details that make the area feel local, including weathered docks, coastal birds, old trees, fishing gear, public art, harbor reflections, and the open horizon. Give wildlife plenty of room and stay outside restricted nesting or restoration areas while photographing.</p>
+								<div class="bdai-whitecap-gallery-tip"><i class="bi bi-camera" aria-hidden="true"></i> <span>For a strong Rockport photo walk, combine waterfront views with live-oak shade, boats, birds, beach textures, historic architecture, and everyday scenes from the harbor district.</span></div></div>
 							<div class="bdai-whitecap-gallery-visual bdai-reveal">
 								<div class="bdai-collage-grid">
-									<div class="bdai-collage-tile"><img src="https://tpwd.texas.gov/state-parks/mustang-island/gallery/mustangisland-168.jpg" alt="Mustang Island State Park open Gulf beach" class="img-rounded fr-fil fr-dib" loading="lazy" decoding="async"></div>
-									<div class="bdai-collage-tile"><img src="https://tpwd.texas.gov/state-parks/mustang-island/gallery/misp_rv_3422.jpg" alt="Mustang Island State Park RV campground" class="img-rounded fr-fil fr-dib" loading="lazy" decoding="async"></div>
-									<div class="bdai-collage-tile"><img src="https://tpwd.texas.gov/state-parks/mustang-island/gallery/mustang-island-fishing.jpg" alt="Fishing at Mustang Island State Park coast" class="img-rounded fr-fil fr-dib" loading="lazy" decoding="async"></div>
-									<div class="bdai-collage-tile"><img src="https://tpwd.texas.gov/state-parks/mustang-island/gallery/mustang-island949_5_321.jpg" alt="Mustang Island State Park coastal scenery and dunes" class="img-rounded fr-fil fr-dib" loading="lazy" decoding="async"></div></div></div></div></div>
+									<div class="bdai-collage-tile"><img src="https://tpwd.texas.gov/state-parks/goose-island/gallery/goose-island_6351.jpg" alt="Goose Island State Park coastal landscape near Rockport Texas" class="img-rounded fr-fil fr-dib" loading="lazy" decoding="async"></div>
+									<div class="bdai-collage-tile"><img src="https://growthzonecmsprodeastus.azureedge.net/sites/2401/2025/08/Fulton-Mansion.jpg" alt="Fulton Mansion historic attraction near Rockport Texas" class="img-rounded fr-fil fr-dib" loading="lazy" decoding="async"></div>
+									<div class="bdai-collage-tile"><img src="https://tpwd.texas.gov/state-parks/goose-island/gallery/goose-island_3381.jpg" alt="Coastal trees and bay scenery at Goose Island State Park" class="img-rounded fr-fil fr-dib" loading="lazy" decoding="async"></div>
+									<div class="bdai-collage-tile"><img src="https://growthzonecmsprodeastus.azureedge.net/sites/2401/2025/08/promos-image-9542.jpg" alt="Rockport Fulton coastal community scenery" class="img-rounded fr-fil fr-dib" loading="lazy" decoding="async"></div></div></div></div></div>
 				</section>
 			</td>
 		</tr>
@@ -330,37 +314,37 @@
 				<section class="bdai-whitecap-nearby" id="bdai-whitecap-nearby">
 					<div class="container">
 						<div class="bdai-whitecap-nearby-heading bdai-reveal">
-							<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Keep Exploring the island</div>
+							<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Keep Exploring the Area</div>
 
-							<h2 class="bdai-whitecap-nearby-title">Nearby Places to Add to the Trip</h2>
+							<h2 class="bdai-whitecap-nearby-title">Nearby Places to Add to the Day</h2>
 
-							<p class="bdai-whitecap-nearby-intro">Mustang Island State Park works well as the outdoor anchor for a longer coastal itinerary. Use the park for beach time and camping, then explore the businesses, lodging, water activities, beaches, and attractions available around Mustang Island, Port Aransas, and Corpus Christi.</p>
+							<p class="bdai-whitecap-nearby-intro">Rockport is a strong starting point for a Coastal Bend itinerary. Pair time in town with local dining, a harbor stay, a fishing guide, a wildlife excursion, a historic attraction, or a separate trip to a nearby beach community.</p>
 						</div>
 						<div class="bdai-whitecap-nearby-grid">
 							<article class="bdai-whitecap-nearby-card bdai-reveal">
 								<div class="bdai-whitecap-nearby-icon"><i class="bi bi-shop" aria-hidden="true"></i></div>
 
-								<h3 class="bdai-whitecap-nearby-card-title">Restaurants and Local Dining</h3>
+								<h3 class="bdai-whitecap-nearby-card-title">Rockport and Fulton Restaurants</h3>
 
-								<p class="bdai-whitecap-nearby-card-copy">Plan breakfast, lunch, dinner, seafood, coffee, or a post-beach meal by exploring restaurants and local food businesses in the Mustang Island, Port Aransas, and Corpus Christi areas.</p><a class="bdai-whitecap-nearby-link" href="https://www.simplypadre.com" target="_blank">Explore Local Businesses</a></article>
+								<p class="bdai-whitecap-nearby-card-copy">Explore locally owned seafood restaurants, casual dining, caf&eacute;s, harbor-side meals, coffee shops, and other places to eat in Rockport, Fulton, and the surrounding Coastal Bend community.</p><a class="bdai-whitecap-nearby-link" href="https://www.simplypadre.com" target="_blank">Explore Local Restaurants</a></article>
 							<article class="bdai-whitecap-nearby-card bdai-reveal">
 								<div class="bdai-whitecap-nearby-icon"><i class="bi bi-house-heart" aria-hidden="true"></i></div>
 
 								<h3 class="bdai-whitecap-nearby-card-title">Hotels and Vacation Rentals</h3>
 
-								<p class="bdai-whitecap-nearby-card-copy">Camping is available inside the park, while hotels, condos, vacation rentals, and other accommodations can be found in nearby Mustang Island, Port Aransas, and Corpus Christi.</p><a class="bdai-whitecap-nearby-link" href="https://www.simplypadre.com" target="_blank">Explore Places to Stay</a></article>
+								<p class="bdai-whitecap-nearby-card-copy">Choose from hotels, motels, waterfront stays, vacation rentals, cottages, and other accommodations around Rockport and Fulton. Staying nearby makes early fishing trips, birding, and sunset walks easier.</p><a class="bdai-whitecap-nearby-link" href="https://www.simplypadre.com" target="_blank">Find a Place to Stay</a></article>
 							<article class="bdai-whitecap-nearby-card bdai-reveal">
-								<div class="bdai-whitecap-nearby-icon"><i class="bi bi-bicycle" aria-hidden="true"></i></div>
+								<div class="bdai-whitecap-nearby-icon"><i class="bi bi-sailboat" aria-hidden="true"></i></div>
 
-								<h3 class="bdai-whitecap-nearby-card-title">Fishing and Boating Services</h3>
+								<h3 class="bdai-whitecap-nearby-card-title">Fishing Guides and Boating Services</h3>
 
-								<p class="bdai-whitecap-nearby-card-copy">Look for local fishing guides, bait and tackle shops, kayak resources, boat services, paddling equipment, and other businesses that support time on the Gulf and bay.</p><a class="bdai-whitecap-nearby-link" href="https://www.simplypadre.com" target="_blank">Browse Island Activities</a></article>
+								<p class="bdai-whitecap-nearby-card-copy">Browse local fishing guides, marinas, boat rentals, kayak and paddleboard operators, charter services, bait and tackle shops, and other businesses that help visitors get on the water.</p><a class="bdai-whitecap-nearby-link" href="https://www.simplypadre.com" target="_blank">Browse Water Activities</a></article>
 							<article class="bdai-whitecap-nearby-card bdai-reveal">
-								<div class="bdai-whitecap-nearby-icon"><i class="bi bi-water" aria-hidden="true"></i></div>
+								<div class="bdai-whitecap-nearby-icon"><i class="bi bi-binoculars" aria-hidden="true"></i></div>
 
-								<h3 class="bdai-whitecap-nearby-card-title">Beaches, Park, and Attractions</h3>
+								<h3 class="bdai-whitecap-nearby-card-title">Wildlife, Arts, and Regional Attractions</h3>
 
-								<p class="bdai-whitecap-nearby-card-copy">Continue exploring Mustang Island&rsquo;s coastline, Port Aransas, the broader Corpus Christi area, nearby beaches, coastal parks, nature experiences, and family-friendly attractions.</p><a class="bdai-whitecap-nearby-link" href="https://www.simplypadre.com" target="_blank">Explore Nearby Places</a></article>
+								<p class="bdai-whitecap-nearby-card-copy">Add the Aransas National Wildlife Refuge, Goose Island State Park, the Texas Maritime Museum, Fulton Mansion, Rockport Center for the Arts, Port Aransas, Aransas Pass, or Corpus Christi to a longer Coastal Bend trip.</p><a class="bdai-whitecap-nearby-link" href="https://www.simplypadre.com" target="_blank">Explore Nearby Places</a></article>
 						</div></div>
 				</section>
 			</td>
@@ -375,84 +359,78 @@
 				<section class="bdai-whitecap-faq" id="bdai-whitecap-faq">
 					<div class="container">
 						<div class="bdai-whitecap-faq-heading bdai-reveal">
-							<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">island State Park Questions</div>
+							<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Rockport, Texas Questions</div>
 
 							<h2 class="bdai-whitecap-faq-title">Helpful Answers Before Your Visit</h2>
 
-							<p class="bdai-whitecap-faq-intro">Mustang Island State Park is a popular Texas beach destination with limited capacity, changing coastal conditions, camping choices, and park-specific policies. Confirm the latest information before traveling.</p>
+							<p class="bdai-whitecap-faq-intro">Rockport is a welcoming coastal community, but the area includes several separate cities, parks, beaches, refuges, and waterways. Confirm the latest information with the specific destination before traveling.</p>
 						</div>
 						<div class="bdai-whitecap-faq-grid">
 							<article class="bdai-whitecap-faq-card bdai-reveal">
 
-								<h3 class="bdai-whitecap-faq-question">Where is Mustang Island State Park?</h3>
+								<h3 class="bdai-whitecap-faq-question">Where is Rockport?</h3>
 
-								<p class="bdai-whitecap-faq-answer">Mustang Island State Park is at 9394 State Highway 361 near Corpus Christi and Port Aransas on Mustang Island, Texas. It is a Texas state park with more than five miles of Gulf coastline and is separate from the broader Mustang Island destination.</p>
+								<p class="bdai-whitecap-faq-answer">Rockport is in Aransas County on the Live Oak Peninsula along Aransas Bay in the Texas Coastal Bend. It is north of Corpus Christi and close to Fulton, Goose Island State Park, Aransas Pass, Port Aransas, and other coastal destinations.</p>
 							</article>
 							<article class="bdai-whitecap-faq-card bdai-reveal">
 
-								<h3 class="bdai-whitecap-faq-question">What are the park&rsquo;s hours?</h3>
+								<h3 class="bdai-whitecap-faq-question">What is Rockport known for?</h3>
 
-								<p class="bdai-whitecap-faq-answer">The park is listed as open daily from 8:00 a.m. to 5:00 p.m. Hours, access, and capacity can be affected by conditions or park operations, so check current information before leaving.</p>
+								<p class="bdai-whitecap-faq-answer">Rockport is known for fishing, boating, bayfront recreation, Rockport Beach, birdwatching, coastal wildlife, live-oak landscapes, maritime history, galleries, public art, seafood, and its relaxed connection to the broader Rockport-Fulton area.</p>
 							</article>
 							<article class="bdai-whitecap-faq-card bdai-reveal">
 
-								<h3 class="bdai-whitecap-faq-question">Is there an entrance fee?</h3>
+								<h3 class="bdai-whitecap-faq-question">What can visitors do in Rockport?</h3>
 
-								<p class="bdai-whitecap-faq-answer">Yes. The current standard entrance fee is $7 per adult per day. Children age 12 and under enter free. Camping and other facilities have separate charges.</p>
+								<p class="bdai-whitecap-faq-answer">Visitors can fish, boat, kayak, paddle, swim at appropriate beaches, walk trails, watch birds, photograph the coast, visit museums and galleries, explore historic sites, enjoy parks, attend events, shop, and dine at locally owned restaurants.</p>
 							</article>
 							<article class="bdai-whitecap-faq-card bdai-reveal">
 
-								<h3 class="bdai-whitecap-faq-question">Is camping available?</h3>
+								<h3 class="bdai-whitecap-faq-question">Is Rockport good for fishing?</h3>
 
-								<p class="bdai-whitecap-faq-answer">Yes. Mustang Island State Park offers water-and-electric campsites and drive-up primitive beach campsites. Because the park can reach capacity, reservations are recommended for day use and reservable camping.</p>
+								<p class="bdai-whitecap-faq-answer">Yes. Rockport offers bay fishing, pier fishing, shore access, kayak fishing, boat launches, marinas, bait shops, and professional guide services. Fishing rules vary by species and location, so check current Texas Parks and Wildlife regulations and license requirements before fishing.</p>
 							</article>
 							<article class="bdai-whitecap-faq-card bdai-reveal">
 
-								<h3 class="bdai-whitecap-faq-question">What types of campsites are available?</h3>
+								<h3 class="bdai-whitecap-faq-question">What beaches are in or near Rockport?</h3>
 
-								<p class="bdai-whitecap-faq-answer">There are 48 water-and-electric sites about 400 yards from the water and 50 drive-up primitive sites along a 1.5-mile beach area. Electric sites cost $25 per night plus entrance, while primitive sites cost $13 per night plus entrance and are non-reservable.</p>
+								<p class="bdai-whitecap-faq-answer">Rockport Beach is the city&rsquo;s primary public beach and bayfront recreation area. Goose Island State Park provides bay access but is not a conventional Gulf surf beach. Port Aransas and Mustang Island offer a separate open-Gulf beach experience, while Aransas Pass is a separate nearby community rather than a Rockport neighborhood.</p>
 							</article>
 							<article class="bdai-whitecap-faq-card bdai-reveal">
 
-								<h3 class="bdai-whitecap-faq-question">Can visitors swim at the beach?</h3>
+								<h3 class="bdai-whitecap-faq-question">Are boating facilities available?</h3>
 
-								<p class="bdai-whitecap-faq-answer">Swimming is an available park activity, along with surfing and other beach recreation. No lifeguards are present at the primitive beach camping area, so check conditions, understand surf and current risks, and swim at your own risk.</p>
+								<p class="bdai-whitecap-faq-answer">Yes. Rockport and the surrounding area have public boat ramps, kayak launches, marinas, fishing piers, charter services, rental operators, and harbor facilities. Goose Island State Park lists a regular boat launch and a kayak or canoe launch. Check current conditions, fees, parking, and operating rules at each facility.</p>
 							</article>
 							<article class="bdai-whitecap-faq-card bdai-reveal">
 
-								<h3 class="bdai-whitecap-faq-question">Is fishing allowed?</h3>
+								<h3 class="bdai-whitecap-faq-question">Where can visitors see wildlife and birds?</h3>
 
-								<p class="bdai-whitecap-faq-answer">Yes. Surf fishing and bay fishing are available, and the park&rsquo;s paddling trail passes through shallow-water fishing areas. Check current Texas fishing regulations and license requirements before your trip.</p>
+								<p class="bdai-whitecap-faq-answer">Good options include Rockport Beach, Bent Oaks Rookery Park, Memorial Park, Tule trails, the Wetland Pond and Demonstration Garden, Goose Island State Park, Aransas Pathways sites, and the Aransas National Wildlife Refuge. The refuge is especially important for wintering whooping cranes and attracts more than 400 bird species.</p>
 							</article>
 							<article class="bdai-whitecap-faq-card bdai-reveal">
 
-								<h3 class="bdai-whitecap-faq-question">Are dogs allowed?</h3>
+								<h3 class="bdai-whitecap-faq-question">Are there camping options nearby?</h3>
 
-								<p class="bdai-whitecap-faq-answer">Pet restrictions can vary by park area and current policy. Confirm the latest rules with Mustang Island State Park before bringing a dog, keep pets controlled, and prevent them from disturbing wildlife or protected habitat.</p>
+								<p class="bdai-whitecap-faq-answer">Goose Island State Park offers bayfront and oak-shaded campsites with water and electricity, walk-in tent sites, and group camping. The park recommends reservations because it can reach capacity. Other camping options may be available in the wider Coastal Bend, but rules, hookups, reservations, and pet policies vary by campground.</p>
 							</article>
 							<article class="bdai-whitecap-faq-card bdai-reveal">
 
-								<h3 class="bdai-whitecap-faq-question">Are restrooms and showers available?</h3>
+								<h3 class="bdai-whitecap-faq-question">Are dogs allowed in relevant public areas?</h3>
 
-								<p class="bdai-whitecap-faq-answer">Yes. Full restrooms and hot-water showers are located near the water-and-electric campground. Primitive beach campers have access to restrooms at varying distances, and portable toilets are available along portions of the beach.</p>
+								<p class="bdai-whitecap-faq-answer">Dog access depends on the specific location. Rockport&rsquo;s Memorial Park has a fenced off-leash dog park with separate areas for large and small dogs. Beach, park, campground, and wildlife-refuge rules can differ, so keep dogs controlled and check current posted regulations before entering a public waterfront or protected area.</p>
 							</article>
 							<article class="bdai-whitecap-faq-card bdai-reveal">
 
-								<h3 class="bdai-whitecap-faq-question">Can visitors make reservations?</h3>
+								<h3 class="bdai-whitecap-faq-question">What attractions are near Rockport?</h3>
 
-								<p class="bdai-whitecap-faq-answer">Reservations can be made online or by calling 512-389-8900. Reservations are recommended for day use and camping because the park may fill to capacity. Primitive drive-up beach sites are non-reservable.</p>
-							</article>
-							<article class="bdai-whitecap-faq-card bdai-reveal">
-
-								<h3 class="bdai-whitecap-faq-question">What activities can visitors do?</h3>
-
-								<p class="bdai-whitecap-faq-answer">Visitors can swim, surf, walk the beach, fish, camp, picnic, paddle, birdwatch, photograph the coast, explore nature, attend ranger programs, stargaze, beachcomb, geocache, and enjoy the park&rsquo;s open Gulf and bay scenery.</p>
+								<p class="bdai-whitecap-faq-answer">Nearby attractions include Goose Island State Park, the Big Tree, Fulton Mansion, the Texas Maritime Museum, Rockport Center for the Arts, the Aransas National Wildlife Refuge, local rookery and wetland sites, Port Aransas, Mustang Island, Aransas Pass, and the wider Corpus Christi area.</p>
 							</article>
 							<article class="bdai-whitecap-faq-card bdai-reveal">
 
 								<h3 class="bdai-whitecap-faq-question">What should visitors know before visiting?</h3>
 
-								<p class="bdai-whitecap-faq-answer">Bring water, food, sun protection, suitable footwear, fishing supplies, first-aid items, and layers for wind. Check capacity, weather, tides, surf, beach conditions, fire restrictions, pet rules, and reservation availability before traveling.</p>
+								<p class="bdai-whitecap-faq-answer">Bring water, sun protection, insect protection, comfortable shoes, food, and any supplies needed for your activity. Check weather, tides, wind, water conditions, wildlife advisories, road access, parking, fees, reservations, and facility hours. Rockport is distinct from Port Aransas, Aransas Pass, Fulton, and Corpus Christi, so verify the exact destination address and rules.</p>
 							</article>
 						</div></div>
 				</section>
@@ -461,8 +439,9 @@
 	</tbody>
 </table>
 
+
 <style>
-  .bdai-whitecap-hero  {
+    .bdai-whitecap-hero  {
    position:relative;
    overflow:hidden;
    padding:72px 0;

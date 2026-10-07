@@ -310,7 +310,7 @@
 									<div class="bdai-surf-nearby-item"><i class="bi bi-water" aria-hidden="true"></i><span>Look for kayaking, paddleboarding, fishing, boating, and other water-based activities.</span></div>
 									<div class="bdai-surf-nearby-item"><i class="bi bi-moon-stars" aria-hidden="true"></i><span>Plan a beach sunset, a shoreline walk, or a slower evening along the Gulf.</span></div>
 									<div class="bdai-surf-nearby-item"><i class="bi bi-house-heart" aria-hidden="true"></i><span>Find local dining, accommodations, rentals, lessons, and island businesses through the directory.</span></div></div><a class="bdai-surf-nearby-link" href="/things-to-do">Explore More Things to Do&nbsp;<i class="bi bi-arrow-right" aria-hidden="true"></i></a></div>
-							<div class="bdai-surf-nearby-media"><img src="https://images.pexels.com/photos/936154/pexels-photo-936154.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="beach kayaking" class="img-rounded fr-fil fr-dib"></div></div></div>
+							<div class="bdai-surf-nearby-media"><img src="https://images.pexels.com/photos/936154/pexels-photo-936154.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="beach kayaking" class="img-rounded fr-fil fr-dib" style="width: 700px;" width="700" height="262"></div></div></div>
 				</section>
 			</td>
 		</tr>
@@ -466,9 +466,8 @@
 	</tbody>
 </table>
 
-
 <style>
-    .bdai-surf-hero  {
+.bdai-surf-hero  {
    position:relative;
    overflow:hidden;
    padding:72px 0;
@@ -592,16 +591,20 @@
    gap:16px;
    color:rgb(24,46,69);
 }
+
+/* ===== IMAGES: size follows the editor's width/height ===== */
  .bdai-surf-hero-media img,.bdai-surf-story-media img,.bdai-surf-beginners-media img,.bdai-surf-resources-media img,.bdai-surf-nearby-media img  {
    display:block;
-   width:100%;
-   height:440px;
-   max-width:100% !important;
+   align-self:center;
+   max-width:100%;
+   height:auto;
    margin:0 !important;
-   object-fit:cover;
+   object-fit:fill;
    border-radius:16px;
    box-shadow:18px 18px 0 rgba(253,158,37,.22);
 }
+/* ===== END IMAGES ===== */
+
  .bdai-surf-hero-caption,.bdai-surf-beginners-callout,.bdai-surf-resources-note  {
    margin:0;
    padding:14px 16px;
@@ -1092,28 +1095,32 @@
  .bdai-surf-gallery-copy .bdai-surf-gallery-eyebrow  {
    margin-right:auto;
 }
+
+/* ===== GALLERY COLLAGE: follows editor sizes, stacks on mobile ===== */
  .bdai-collage-grid  {
    display:grid;
    grid-template-columns:1fr 1fr;
-   grid-template-rows:1fr 1fr;
-   aspect-ratio:16/9;
+   align-items:center;
+   justify-items:center;
    gap:16px;
 }
  .bdai-collage-tile  {
    display:flex;
-   flex-direction:column;
-   gap:12px;
-   overflow:hidden;
-   border-radius:8px;
+   align-items:center;
+   justify-content:center;
+   min-width:0;
+   max-width:100%;
 }
  .bdai-collage-tile img  {
-   width:100%;
-   height:100%;
-   object-fit:cover;
-   display:block !important;
+   display:block;
+   max-width:100%;
+   height:auto;
    margin:0 !important;
-   max-width:100% !important;
+   object-fit:fill;
+   border-radius:8px;
 }
+/* ===== END GALLERY COLLAGE ===== */
+
  .bdai-surf-faq-columns  {
    display:grid;
    grid-template-columns:1fr 1fr;
@@ -1281,21 +1288,28 @@
      grid-template-columns:1fr;
   }
 }
+ @media (max-width:900px)  {
+   .bdai-surf-hero-media img,.bdai-surf-story-media img,.bdai-surf-beginners-media img,.bdai-surf-resources-media img,.bdai-surf-nearby-media img  {
+     max-width:calc(100% - 14px);
+     box-shadow:14px 14px 0 rgba(253,158,37,.22);
+  }
+   .bdai-surf-resources-media img  {
+     box-shadow:-14px 14px 0 rgba(62,126,163,.18);
+  }
+}
  @media (max-width:700px)  {
    .bdai-surf-places-grid,.bdai-surf-bring-grid,.bdai-surf-faq-columns  {
+     grid-template-columns:1fr;
+  }
+   .bdai-collage-grid  {
      grid-template-columns:1fr;
   }
    .bdai-surf-hero,.bdai-surf-story,.bdai-surf-places,.bdai-surf-beginners,.bdai-surf-safety,.bdai-surf-resources,.bdai-surf-bring,.bdai-surf-nearby,.bdai-surf-gallery,.bdai-surf-faq,.bdai-surf-cta  {
      padding:56px 0;
   }
-   .bdai-surf-story-title,.bdai-surf-beginners-title,.bdai-surf-resources-title,.bdai-surf-nearby-title,.bdai-surf-safety-title,.bdai-surf-places-title,.bdai-surf-bring-title,.bdai-surf-gallery-title,.bdai-surf-faq-title,.bdai-surf-cta-title  {
-     font-size:34px;
-  }
+
    .bdai-surf-hero-lead  {
      font-size:20px;
-  }
-   .bdai-surf-hero-media img,.bdai-surf-story-media img,.bdai-surf-beginners-media img,.bdai-surf-resources-media img,.bdai-surf-nearby-media img  {
-     height:280px;
   }
    .bdai-surf-cta-inner  {
      padding:28px;

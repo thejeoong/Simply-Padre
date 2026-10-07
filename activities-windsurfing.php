@@ -7,13 +7,13 @@
 						<div class="bdai-surf-hero-layout">
 							<div class="bdai-surf-hero-copy"><span class="bdai-surf-hero-eyebrow" style="white-space:nowrap !important;width:fit-content;">Things to Do on N. Padre Island</span>
 
-								<h1 class="bdai-surf-hero-title">Windsurfing in <span class="bdai-surf-hero-accent">North Padre Island</span></h1>
+								<h1 class="bdai-surf-hero-title">Windsurfing on <span class="bdai-surf-hero-accent">North Padre Island</span></h1>
 
 								<p class="bdai-surf-hero-lead">Harness the coastal breeze across warm Gulf waters, from first lessons in shallow Laguna Madre conditions to exciting sessions for experienced windsurfers.</p>
 
 								<p class="bdai-surf-hero-copy-text">North Padre Island and the surrounding Corpus Christi Gulf Coast offer a distinctive setting for wind-powered watersports. Steady coastal wind, accessible water, and a range of bay and lagoon environments make the area worth exploring, but every session should begin with a careful look at the current wind, water, weather, and launch conditions.</p>
 								<div class="bdai-surf-hero-actions"><a class="bdai-surf-hero-primary" href="#bdai-surf-places">Explore Windsurfing Areas&nbsp;<i class="bi bi-arrow-down-right" aria-hidden="true"></i></a> <a class="bdai-surf-hero-secondary" href="#bdai-surf-safety">Check Safety Tips</a></div></div>
-							<div class="bdai-surf-hero-media"><img src="https://images.pexels.com/photos/10140029/pexels-photo-10140029.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="windsurfer lagoon" class="img-rounded fr-fil fr-dib">
+							<div class="bdai-surf-hero-media"><img src="https://www.simplypadre.com/images/1a9ff11e3265b6b1239ec1e5d944dd17e3227d6c.webp" alt="windsurfer lagoon" class="img-rounded fr-fil fr-dib" loading="lazy" style="width: 500px;" width="500" height="257">
 								<br>
 
 								<p class="bdai-surf-hero-caption"><strong>Every windsurfing day starts with a conditions check.</strong> Review the latest wind, weather, water, tide, access, and posted safety information before launching.</p>
@@ -31,7 +31,7 @@
 				<section class="bdai-surf-story" id="bdai-surf-story">
 					<div class="container">
 						<div class="bdai-surf-story-layout">
-							<div class="bdai-surf-story-media"><img src="https://images.pexels.com/photos/26546574/pexels-photo-26546574.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="windsurfing lesson" class="img-rounded fr-fil fr-dib"></div>
+							<div class="bdai-surf-story-media"><img src="https://www.simplypadre.com/images/4025595adeb8cbe44b5d99af5c3a38e49bcf5895.webp" alt="windsurfing lesson" class="img-rounded fr-fil fr-dib" width="940" height="627" loading="lazy"></div>
 							<div class="bdai-surf-story-copy"><span class="bdai-surf-story-eyebrow" style="white-space:nowrap !important;width:fit-content;">Windsurfing in N. Padre Island</span>
 
 								<h2 class="bdai-surf-story-title">A Wind-Powered Gulf Coast Experience With Room to Learn</h2>
@@ -64,7 +64,7 @@
 
 								<h3>Bird Island Basin</h3>
 
-								<p>Padre Island National Seashore identifies Bird Island Basin on the Laguna Madre as a premier windsurfing destination with steady wind, warm shallow water, and conditions suitable for beginners through advanced sailors. The park also hosts Worldwinds Windsurfing, its authorized concessionaire for gear rentals and lessons.</p><a class="bdai-surf-card-link" href="https://www.nps.gov/pais/planyourvisit/boating.htm" target="_blank">View National Park Guidance&nbsp;<i class="bi bi-arrow-up-right" aria-hidden="true"></i></a></article>
+								<p>Padre Island National Seashore identifies Bird Island Basin on the Laguna Madre as a premier windsurfing destination with steady wind, warm shallow water, and conditions suitable for beginners through advanced sailors. The park also hosts Worldwinds Windsurfing, its authorized concessionaire for gear rentals and lessons.</p><a class="bdai-surf-card-link" href="https://www.worldwinds.net/" target="_blank" rel="noopener noreferrer">View Worldwinds Windsurfing &gt;&gt;</a></article>
 							<article class="bdai-surf-place-card">
 								<div class="bdai-surf-place-icon"><i class="bi bi-wind" aria-hidden="true"></i></div>
 
@@ -76,7 +76,7 @@
 
 								<h3>North Packery Channel Beach</h3>
 
-								<p>Visit Corpus Christi describes North Packery Channel Beach, also known as J.P. Luby Surf Park, as a location with more advanced wave action. That makes it a different environment from the protected, shallow-water learning conditions at Bird Island Basin and a place where riders should assess waves, current, access, and their own ability carefully.</p><a class="bdai-surf-card-link" href="https://www.visitcorpuschristi.com/blog/post/your-guide-to-water-and-wind-sports-in-corpus-christi/" target="_blank">Explore Local Wind Sports&nbsp;<i class="bi bi-arrow-up-right" aria-hidden="true"></i></a></article>
+								<p>Visit Corpus Christi describes North Packery Channel Beach, also known as J.P. Luby Surf Park, as a location with more advanced wave action. That makes it a different environment from the protected, shallow-water learning conditions at Bird Island Basin and a place where riders should assess waves, current, access, and their own ability carefully.</p><a class="bdai-surf-card-link" href="https://www.visitcorpuschristi.com/listing/north-packery-channel-beach/934/" target="_blank" rel="noopener noreferrer">Explore North Padre Channel Beach &gt;&gt;</a></article>
 						</div></div>
 				</section>
 			</td>
@@ -209,7 +209,7 @@
 				<section class="bdai-surf-resources" id="bdai-surf-resources">
 					<div class="container">
 						<div class="bdai-surf-resources-layout">
-							<div class="bdai-surf-resources-media"><img src="https://images.pexels.com/photos/10406162/pexels-photo-10406162.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="windsurfing equipment" class="img-rounded fr-fil fr-dib"></div>
+							<div class="bdai-surf-resources-media"><img src="https://www.simplypadre.com/images/08b605c9710fd03053168f807c274a66c4a731e6.webp" alt="windsurfing equipment" class="img-rounded fr-fil fr-dib" width="640" height="427" loading="lazy"></div>
 							<div class="bdai-surf-resources-copy"><span class="bdai-surf-resources-eyebrow" style="white-space:nowrap !important;width:fit-content;">Local Windsurfing Resources</span>
 
 								<h2 class="bdai-surf-resources-title">Windsurfing Rentals and Lessons</h2>
@@ -303,7 +303,7 @@
 									<div class="bdai-surf-nearby-item"><i class="bi bi-binoculars" aria-hidden="true"></i><span>Enjoy birdwatching, wildlife viewing, beachcombing, and the wide-open scenery of the barrier island.</span></div>
 									<div class="bdai-surf-nearby-item"><i class="bi bi-brightness-high" aria-hidden="true"></i><span>Plan time for fishing, a shoreline walk, a beach sunset, or a relaxed afternoon by the Gulf.</span></div>
 									<div class="bdai-surf-nearby-item"><i class="bi bi-house-heart" aria-hidden="true"></i><span>Find local dining, accommodations, rentals, attractions, and coastal businesses through the directory.</span></div></div><a class="bdai-surf-nearby-link" href="/things-to-do">Explore More Things to Do&nbsp;<i class="bi bi-arrow-right" aria-hidden="true"></i></a></div>
-							<div class="bdai-surf-nearby-media"><img src="https://images.pexels.com/photos/16038284/pexels-photo-16038284.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="Padre shoreline" class="img-rounded fr-fil fr-dib"></div></div></div>
+							<div class="bdai-surf-nearby-media"><img src="https://www.simplypadre.com/images/pexel-photo-29865199-small.webp" alt="Padre shoreline" class="img-rounded fr-fil fr-dib"></div></div></div>
 				</section>
 			</td>
 		</tr>
@@ -326,9 +326,9 @@
 								<p class="bdai-surf-gallery-text">Use these coastal scenes as inspiration, then make the actual launch decision using current wind, weather, tide, water, access, and local safety information.</p>
 							</div>
 							<div class="bdai-collage-grid">
-								<div class="bdai-collage-tile"><img src="https://images.pexels.com/photos/29865199/pexels-photo-29865199.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="windsurfer water" class="img-rounded fr-fil fr-dib"></div>
+								<div class="bdai-collage-tile"><img src="https://www.simplypadre.com/images/d22c88db1a7b629a62d29caaf193afebf48a753f.webp" alt="windsurfer water" class="img-rounded fr-fil fr-dib" width="940" height="627" loading="lazy"></div>
 								<div class="bdai-collage-tile"><img src="https://images.pexels.com/photos/39128667/pexels-photo-39128667.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="Laguna Madre" class="img-rounded fr-fil fr-dib"></div>
-								<div class="bdai-collage-tile"><img src="https://images.pexels.com/photos/18041314/pexels-photo-18041314.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="coastal board" class="img-rounded fr-fil fr-dib"></div>
+								<div class="bdai-collage-tile"><img src="https://www.simplypadre.com/images/992c486fc7b06e6e94d7498373c57b47bb8ee646.webp" alt="coastal board" class="img-rounded fr-fil fr-dib" width="640" height="408" loading="lazy"></div>
 								<div class="bdai-collage-tile"><img src="https://images.pexels.com/photos/32418588/pexels-photo-32418588.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="bay sailing" class="img-rounded fr-fil fr-dib"></div></div></div></div>
 				</section>
 			</td>
@@ -442,7 +442,7 @@
 								</article>
 								<article class="bdai-surf-faq-card">
 
-									<h3 class="bdai-surf-faq-question">How Do Conditions Differ Between the Lagoon, Bay, and Gulf?</h3>
+									<h3 class="bdai-surf-faq-question">How Do Conditions Differ Between the Laguna Madre, Bay, and Gulf?</h3>
 									<div class="bdai-surf-faq-answer">
 
 										<p>Bird Island Basin is known for shallow, protected Laguna Madre conditions that can support learning. Corpus Christi Bay can offer broader wind exposure and a mix of shallow and deeper water, while exposed Gulf locations may bring stronger waves and more demanding conditions. Choose based on your ability and the current day.</p>
@@ -477,7 +477,7 @@
 
 
 <style>
-    .bdai-surf-hero  {
+.bdai-surf-hero  {
    position:relative;
    overflow:hidden;
    padding:72px 0;
@@ -601,16 +601,20 @@
    gap:16px;
    color:rgb(24,46,69);
 }
+
+/* ===== IMAGES: size follows the editor's width/height ===== */
  .bdai-surf-hero-media img,.bdai-surf-story-media img,.bdai-surf-beginners-media img,.bdai-surf-resources-media img,.bdai-surf-nearby-media img  {
    display:block;
-   width:100%;
-   height:440px;
-   max-width:100% !important;
+   align-self:center;
+   max-width:100%;
+   height:auto;
    margin:0 !important;
-   object-fit:cover;
+   object-fit:fill;
    border-radius:16px;
    box-shadow:18px 18px 0 rgba(253,158,37,.22);
 }
+/* ===== END IMAGES ===== */
+
  .bdai-surf-hero-caption,.bdai-surf-beginners-callout,.bdai-surf-resources-note  {
    margin:0;
    padding:14px 16px;
@@ -1101,28 +1105,32 @@
  .bdai-surf-gallery-copy .bdai-surf-gallery-eyebrow  {
    margin-right:auto;
 }
+
+/* ===== GALLERY COLLAGE: follows editor sizes, stacks on mobile ===== */
  .bdai-collage-grid  {
    display:grid;
    grid-template-columns:1fr 1fr;
-   grid-template-rows:1fr 1fr;
-   aspect-ratio:16/9;
+   align-items:center;
+   justify-items:center;
    gap:16px;
 }
  .bdai-collage-tile  {
    display:flex;
-   flex-direction:column;
-   gap:12px;
-   overflow:hidden;
-   border-radius:8px;
+   align-items:center;
+   justify-content:center;
+   min-width:0;
+   max-width:100%;
 }
  .bdai-collage-tile img  {
-   width:100%;
-   height:100%;
-   object-fit:cover;
-   display:block !important;
+   display:block;
+   max-width:100%;
+   height:auto;
    margin:0 !important;
-   max-width:100% !important;
+   object-fit:fill;
+   border-radius:8px;
 }
+/* ===== END GALLERY COLLAGE ===== */
+
  .bdai-surf-faq-columns  {
    display:grid;
    grid-template-columns:1fr 1fr;
@@ -1290,21 +1298,28 @@
      grid-template-columns:1fr;
   }
 }
+ @media (max-width:900px)  {
+   .bdai-surf-hero-media img,.bdai-surf-story-media img,.bdai-surf-beginners-media img,.bdai-surf-resources-media img,.bdai-surf-nearby-media img  {
+     max-width:calc(100% - 14px);
+     box-shadow:14px 14px 0 rgba(253,158,37,.22);
+  }
+   .bdai-surf-resources-media img  {
+     box-shadow:-14px 14px 0 rgba(62,126,163,.18);
+  }
+}
  @media (max-width:700px)  {
    .bdai-surf-places-grid,.bdai-surf-bring-grid,.bdai-surf-faq-columns  {
+     grid-template-columns:1fr;
+  }
+   .bdai-collage-grid  {
      grid-template-columns:1fr;
   }
    .bdai-surf-hero,.bdai-surf-story,.bdai-surf-places,.bdai-surf-beginners,.bdai-surf-safety,.bdai-surf-resources,.bdai-surf-bring,.bdai-surf-nearby,.bdai-surf-gallery,.bdai-surf-faq,.bdai-surf-cta  {
      padding:56px 0;
   }
-   .bdai-surf-story-title,.bdai-surf-beginners-title,.bdai-surf-resources-title,.bdai-surf-nearby-title,.bdai-surf-safety-title,.bdai-surf-places-title,.bdai-surf-bring-title,.bdai-surf-gallery-title,.bdai-surf-faq-title,.bdai-surf-cta-title  {
-     font-size:34px;
-  }
+
    .bdai-surf-hero-lead  {
      font-size:20px;
-  }
-   .bdai-surf-hero-media img,.bdai-surf-story-media img,.bdai-surf-beginners-media img,.bdai-surf-resources-media img,.bdai-surf-nearby-media img  {
-     height:280px;
   }
    .bdai-surf-cta-inner  {
      padding:28px;

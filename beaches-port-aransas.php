@@ -6,7 +6,7 @@
 					<div class="container">
 						<div class="bdai-whitecap-hero-layout bdai-reveal">
 							<div class="bdai-whitecap-hero-copy">
-								<div class="bdai-whitecap-hero-eyebrow" style="white-space:nowrap !important;width:fit-content;">Mustang Island &bull; Texas Gulf Coast</div>
+								<div class="bdai-whitecap-hero-eyebrow" style="white-space:nowrap !important;width:fit-content;">Mustang Island</div>
 
 								<h1 class="bdai-whitecap-hero-title">Port Aransas, a Classic Gulf Coast Escape on Mustang Island</h1>
 
@@ -32,7 +32,7 @@
 				<section class="bdai-whitecap-about" id="bdai-whitecap-about">
 					<div class="container">
 						<div class="bdai-whitecap-about-heading bdai-reveal">
-							<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">A Gulf Coast Town With Island Character</div>
+							<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">A Gulf Coast Town</div>
 
 							<h2 class="bdai-whitecap-about-title">About Port Aransas</h2>
 
@@ -75,7 +75,7 @@
 					<div class="container">
 						<div class="bdai-whitecap-things-layout">
 							<div class="bdai-whitecap-things-copy bdai-reveal">
-								<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Make the Most of Island Time</div>
+								<div class="bdai-whitecap-section-eyebrow" style="white-space:nowrap !important;width:fit-content;">Make the Most of THE Island</div>
 
 								<h2 class="bdai-whitecap-things-title">Things to Do in Port Aransas</h2>
 
@@ -237,7 +237,7 @@
 				<section class="bdai-whitecap-rules" id="bdai-whitecap-rules">
 					<div class="container">
 						<div class="bdai-whitecap-rules-heading bdai-reveal">
-							<div class="bdai-whitecap-section-eyebrow" style="width:fit-content;white-space:nowrap !important;text-align:center;">Respect the Island and Its Neighbors</div>
+							<div class="bdai-whitecap-section-eyebrow" style="width:fit-content;white-space:nowrap !important;text-align:center;">Respect the Island</div>
 
 							<h2 class="bdai-whitecap-rules-title" style="text-align:left;">Simple Rules for a Better Port Aransas Visit</h2>
 
@@ -453,9 +453,8 @@
 	</tbody>
 </table>
 
-
 <style>
-    .bdai-whitecap-hero  {
+  .bdai-whitecap-hero  {
    position:relative;
    overflow:hidden;
    padding:72px 0;
@@ -572,16 +571,20 @@
    min-width:0;
    color:rgb(24,46,69);
 }
+
+/* ===== IMAGES: size follows the editor's width/height ===== */
  .bdai-whitecap-hero-media img,.bdai-whitecap-things-media img,.bdai-whitecap-before-media img  {
    display:block;
-   width:100%;
-   height:440px;
-   max-width:100% !important;
+   align-self:center;
+   max-width:100%;
+   height:auto;
    margin:0 !important;
-   object-fit:cover;
+   object-fit:fill;
    border-radius:16px;
    box-shadow:18px 18px 0 rgba(253,158,37,.22);
 }
+/* ===== END IMAGES ===== */
+
  .bdai-whitecap-hero-caption  {
    margin:0;
    padding:14px 16px;
@@ -880,25 +883,32 @@
    min-width:0;
    color:rgb(24,46,69);
 }
+
+/* ===== GALLERY COLLAGE: follows editor sizes, stacks on mobile ===== */
  .bdai-collage-grid  {
    display:grid;
    grid-template-columns:1fr 1fr;
-   grid-template-rows:1fr 1fr;
-   aspect-ratio:16/9;
+   align-items:center;
+   justify-items:center;
    gap:16px;
 }
  .bdai-collage-tile  {
-   overflow:hidden;
-   border-radius:8px;
+   display:flex;
+   align-items:center;
+   justify-content:center;
+   min-width:0;
+   max-width:100%;
 }
  .bdai-collage-tile img  {
-   width:100%;
-   height:100%;
-   object-fit:cover;
-   display:block !important;
+   display:block;
+   max-width:100%;
+   height:auto;
    margin:0 !important;
-   max-width:100% !important;
+   object-fit:fill;
+   border-radius:8px;
 }
+/* ===== END GALLERY COLLAGE ===== */
+
  .bdai-whitecap-nearby  {
    padding:72px 0;
    background:rgb(255,255,255);
@@ -1126,8 +1136,20 @@
      transform:none;
   }
 }
+ @media (max-width:900px)  {
+   .bdai-whitecap-hero-media img,.bdai-whitecap-things-media img,.bdai-whitecap-before-media img  {
+     max-width:calc(100% - 14px);
+     box-shadow:14px 14px 0 rgba(253,158,37,.22);
+  }
+   .bdai-whitecap-things-media img,.bdai-whitecap-before-media img  {
+     box-shadow:-14px 14px 0 rgba(62,126,163,.18);
+  }
+}
  @media (max-width:700px)  {
    .bdai-whitecap-about-grid,.bdai-whitecap-rules-grid,.bdai-whitecap-nearby-grid  {
+     grid-template-columns:1fr;
+  }
+   .bdai-collage-grid  {
      grid-template-columns:1fr;
   }
    .bdai-whitecap-faq-grid  {
@@ -1141,9 +1163,6 @@
   }
    .bdai-whitecap-hero-lead  {
      font-size:20px;
-  }
-   .bdai-whitecap-hero-media img,.bdai-whitecap-things-media img,.bdai-whitecap-before-media img  {
-     height:280px;
   }
    .bdai-whitecap-cta-inner  {
      padding:28px;
@@ -1173,7 +1192,6 @@
 </style>
 
 <script>
-    <script>
 (function($){
   var bdaiFaqCards = $('.bdai-whitecap-faq-card');
 
@@ -1222,5 +1240,4 @@
     });
   });
 })(jQuery);
-</script>
 </script>

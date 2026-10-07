@@ -7,12 +7,12 @@
 						<div class="bdai-surf-hero-layout">
 							<div class="bdai-surf-hero-copy"><span class="bdai-surf-hero-eyebrow" style="white-space:nowrap !important;width:fit-content;">Things to Do on N. Padre Island</span>
 
-								<h1 class="bdai-surf-hero-title">Surfing in <span class="bdai-surf-hero-accent">North Padre Island</span></h1>
+								<h1 class="bdai-surf-hero-title">Surfing on North <span class="bdai-surf-hero-accent">Padre Island</span></h1>
 
 								<p class="bdai-surf-hero-lead">Find your line along the Corpus Christi Gulf Coast, from first-time foam rides to relaxed paddle-outs when the Gulf delivers the right conditions.</p>
 
 								<p class="bdai-surf-hero-copy-text">North Padre Island offers a welcoming coastal setting for surfers who enjoy warm water, open beaches, and a close connection to changing wind and swell. Use this guide to plan a safer, more informed surfing day and discover local businesses that can help you get on the water.</p>
-								<div class="bdai-surf-hero-actions"><a class="bdai-surf-hero-primary" href="#bdai-surf-places">Explore Surf Areas&nbsp;<i class="bi bi-arrow-down-right" aria-hidden="true"></i></a> <a class="bdai-surf-hero-secondary" href="#bdai-surf-safety">Check Safety Tips</a></div></div>
+								<div class="bdai-surf-hero-actions"><a class="bdai-surf-hero-primary" href="https://seatemperature.info/north-padre-island-waves-forecast.html" target="_blank" rel="noopener noreferrer">Explore Surf Conditions &gt;&gt;</a> <a class="bdai-surf-hero-secondary" href="https://www.corpuschristitx.gov/department-directory/parks-and-recreation/beaches/beach-safety/" target="_blank" rel="noopener noreferrer">Check Safety Tips</a></div></div>
 							<div class="bdai-surf-hero-media"><img src="https://images.pexels.com/photos/4602711/pexels-photo-4602711.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="surfer ocean" class="img-rounded fr-fic fr-dii">
 								<br>
 
@@ -31,15 +31,15 @@
 				<section class="bdai-surf-story" id="bdai-surf-story">
 					<div class="container">
 						<div class="bdai-surf-story-layout">
-							<div class="bdai-surf-story-media"><img src="https://images.pexels.com/photos/34855136/pexels-photo-34855136.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="beach surfer" class="img-rounded fr-fic fr-dii"></div>
+							<div class="bdai-surf-story-media"><img src="https://images.pexels.com/photos/34855136/pexels-photo-34855136.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="beach surfer" class="img-rounded fr-fic fr-dii" style="width: 700px;" width="700" height="262"></div>
 							<div class="bdai-surf-story-copy"><span class="bdai-surf-story-eyebrow" style="white-space:nowrap !important;width:fit-content;">The Local Surf Experience</span>
 
-								<h2 class="bdai-surf-story-title">A Relaxed Gulf Coast Setting With Conditions That Keep You Curious</h2>
+								<h2 class="bdai-surf-story-title"><span style="font-size: 36px;">A Relaxed Gulf Coast Setting With Conditions That Keep You Curious</span></h2>
 
 								<p class="bdai-surf-story-lead">North Padre Island surfing is shaped by the open Gulf, seasonal weather patterns, and the wind and swell arriving along the coast. Some days are gentle and approachable, while others bring stronger current, more energy, or conditions best suited to experienced surfers.</p>
 
 								<p class="bdai-surf-story-text">North Packery Beach, also known locally as J.P. Luby Beach, is the clearest starting point for a surfing-focused outing because Corpus Christi identifies it as a popular location for water sports including surfing. The wider island gives visitors room to explore, but a beach that looks calm from shore can still change quickly once wind, tide, or swell shifts.</p>
-								<div class="bdai-surf-story-note"><strong>Plan around the water, not the calendar.</strong><span>Before choosing a beach, compare the current wind, surf, tide, weather, and posted beach flags. The best session is the one that matches your experience level and the conditions in front of you.</span></div></div></div></div>
+								<div class="bdai-surf-story-note"><strong>Plan around the water, not the calendar.</strong>Before choosing a beach, compare the current wind, surf, tide, weather, and posted beach flags. The best session is the one that matches your experience level and the conditions in front of you.</div></div></div></div>
 				</section>
 			</td>
 		</tr>
@@ -54,7 +54,7 @@
 					<div class="container">
 						<div class="bdai-surf-places-heading"><span class="bdai-surf-places-eyebrow" style="white-space:nowrap !important;width:fit-content;">Where to Start</span>
 
-							<h2 class="bdai-surf-places-title">Best Places to Surf Around North Padre Island</h2>
+							<h2 class="bdai-surf-places-title"><span style="font-size: 36px;">Best Places to Surf Around North Padre Island</span></h2>
 
 							<p class="bdai-surf-places-intro">Not every nearby beach should be described as a dedicated surf break. These locations are included according to what local and public sources specifically identify, so you can separate surfing-focused areas from beaches better suited to general recreation.</p>
 						</div>
@@ -76,7 +76,7 @@
 
 								<h3>Other North Padre Beaches</h3>
 
-								<p>Whitecap Beach and Padre Balli Beach are valuable parts of the island experience, but available public information does not establish them as dedicated surfing spots. Check local conditions and beach guidance before treating any location as a surf destination.</p><a class="bdai-surf-card-link" href="#bdai-surf-nearby">See Nearby Activities&nbsp;<i class="bi bi-arrow-down-right" aria-hidden="true"></i></a></article>
+								<p>Whitecap Beach and Padre Balli Beach are valuable parts of the island experience, but available public information does not establish them as dedicated surfing spots. Check local conditions and beach guidance before treating any location as a surf destination.</p><a class="bdai-surf-card-link" href="https://www.simplypadre.com/north-padre-island-live-web-cams">Check Our Webcams &gt;&gt;</a></article>
 						</div></div>
 				</section>
 			</td>
@@ -93,33 +93,33 @@
 						<div class="bdai-surf-beginners-layout">
 							<div class="bdai-surf-beginners-copy"><span class="bdai-surf-beginners-eyebrow" style="white-space:nowrap !important;width:fit-content;">First-Time Surfer Guide</span>
 
-								<h2 class="bdai-surf-beginners-title">Make Your First Paddle-Out More Comfortable</h2>
+								<h2 class="bdai-surf-beginners-title"><span style="font-size: 36px;">Make Your First Paddle Out More Comfortable</span></h2>
 
 								<p class="bdai-surf-beginners-lead">Your first session should be about learning how the board, water, and shoreline work together. Choose a small, forgiving day rather than chasing the biggest wave you can find.</p>
 
 								<ul class="bdai-surf-beginners-list">
 									<li>
 										<div class="bdai-surf-beginners-list-icon"><i class="bi bi-check2" aria-hidden="true"></i></div>
-										<div><strong>Choose manageable conditions.</strong><span>Look for smaller, organized waves and avoid entering when the flag system or current conditions indicate a heightened hazard.</span></div>
+										<div><strong>Choose manageable conditions.</strong>Look for smaller, organized waves and avoid entering when the flag system or current conditions indicate a heightened hazard.</div>
 									</li>
 									<li>
 										<div class="bdai-surf-beginners-list-icon"><i class="bi bi-box-seam" aria-hidden="true"></i></div>
-										<div><strong>Use a stable board.</strong><span>A longer, wider soft-top or beginner-friendly board generally gives a new surfer more balance and room to learn the basics.</span></div>
+										<div><strong>Use a stable board.</strong>A longer, wider soft-top or beginner-friendly board generally gives a new surfer more balance and room to learn the basics.</div>
 									</li>
 									<li>
 										<div class="bdai-surf-beginners-list-icon"><i class="bi bi-person-raised-hand" aria-hidden="true"></i></div>
-										<div><strong>Take a lesson when possible.</strong><span>An instructor can explain water entry, board control, falling safely, surf etiquette, and how to read the local beach more efficiently.</span></div>
+										<div><strong>Take a lesson when possible.</strong>An instructor can explain water entry, board control, falling safely, surf etiquette, and how to read the local beach more efficiently. Check out&nbsp;<a href="https://padreislandsurfcamp.com/" title="" target="_blank" rel="noopener noreferrer"><strong>Padre Island Surf Camp for their latest schedule &gt;&gt;</strong></a></div>
 									</li>
 									<li>
 										<div class="bdai-surf-beginners-list-icon"><i class="bi bi-shield-check" aria-hidden="true"></i></div>
-										<div><strong>Respect the lineup and shoreline.</strong><span>Give other surfers space, keep control of your board, watch for swimmers, and never assume conditions are unchanged from one hour to the next.</span></div>
+										<div><strong>Respect the lineup and shoreline.</strong>Give other surfers space, keep control of your board, watch for swimmers, and never assume conditions are unchanged from one hour to the next.</div>
 									</li>
 								</ul>
 							</div>
 							<div class="bdai-surf-beginners-media"><img src="https://images.pexels.com/photos/38942922/pexels-photo-38942922.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="beginner surfer" class="img-rounded fr-fic fr-dii">
 								<br>
 								<div class="bdai-surf-beginners-callout"><span class="bdai-surf-beginners-callout-number">01</span>
-									<div><strong>Start with instruction and observation.</strong><span>Spend a few minutes watching wave direction, other water users, and the safest entry point before carrying your board into the surf.</span></div></div></div></div></div>
+									<div><strong>Start with instruction and observation.</strong>Spend a few minutes watching wave direction, other water users, and the safest entry point before carrying your board into the surf.</div></div></div></div></div>
 				</section>
 			</td>
 		</tr>
@@ -134,9 +134,9 @@
 					<div class="container">
 						<div class="bdai-surf-safety-heading"><span class="bdai-surf-safety-eyebrow" style="white-space:nowrap !important;width:fit-content;">Before You Enter the Water</span>
 
-							<h2 class="bdai-surf-safety-title">Surf Conditions and Safety Come First</h2>
+							<h2 class="bdai-surf-safety-title"><span style="font-size: 36px;">Surf Conditions and Safety Come First</span></h2>
 
-							<p class="bdai-surf-safety-intro">Surfing in Corpus Christi is an outdoor activity with conditions that can change quickly. Check the beach flags at the entrance and near lifeguard stations, then make a decision based on the current water rather than an older forecast or yesterday&rsquo;s experience.</p>
+							<p class="bdai-surf-safety-intro">Surfing on North Padre Island Here in Corpus Christi is an outdoor activity with conditions that can change quickly. Check the beach flags at the entrance and near lifeguard stations, then make a decision based on the current water conditions.&nbsp;</p>
 						</div>
 						<div class="bdai-surf-safety-layout">
 							<div class="bdai-surf-flag-card">
@@ -221,7 +221,7 @@
 
 										<h3>Padre Island Surf Camp</h3>
 
-										<p>Visit Corpus Christi lists private surf lessons, full-day surf camps, five-day surf camps, ocean education, safety-focused instruction, and a 4:1 surfer-to-instructor ratio. The listing places the operation on Padre Island in Corpus Christi.</p><a class="bdai-surf-resource-link" href="https://www.visitcorpuschristi.com/listing/padre-island-surf-camp/337/" target="_blank">View Verified Listing&nbsp;<i class="bi bi-arrow-up-right" aria-hidden="true"></i></a></div></div>
+										<p>Visit Corpus Christi lists private surf lessons, full-day surf camps, five-day surf camps, ocean education, safety-focused instruction, and a 4:1 surfer-to-instructor ratio. The listing places the operation on Padre Island in Corpus Christi.</p><a class="bdai-surf-resource-link" href="https://padreislandsurfcamp.com/" target="_blank" rel="noopener noreferrer">View Their Website &gt;&gt;</a></div></div>
 								<div class="bdai-surf-resource-row">
 									<div class="bdai-surf-resource-icon"><i class="bi bi-bag" aria-hidden="true"></i></div>
 									<div>
@@ -248,7 +248,7 @@
 
 							<h2 class="bdai-surf-bring-title">What to Bring for a North Padre Island Surf Day</h2>
 
-							<p class="bdai-surf-bring-intro">A simple, well-prepared beach kit makes it easier to focus on the water, protect yourself from the sun, and adapt when the weather changes.</p>
+							<p class="bdai-surf-bring-intro">A &nbsp;well-prepared beach kit makes it easier to focus on the water, protect yourself from the sun, and adapt when the weather changes.</p>
 						</div>
 						<div class="bdai-surf-bring-grid">
 							<article class="bdai-surf-bring-card">
@@ -295,14 +295,14 @@
 						<div class="bdai-surf-nearby-layout">
 							<div class="bdai-surf-nearby-copy"><span class="bdai-surf-nearby-eyebrow" style="white-space:nowrap !important;width:fit-content;">Make It a Full Island Day</span>
 
-								<h2 class="bdai-surf-nearby-title">More to Do Around North Padre Island</h2>
+								<h2 class="bdai-surf-nearby-title"><span style="font-size: 36px;">More to Do Around North Padre Island</span></h2>
 
 								<p class="bdai-surf-nearby-lead">Surfing can be the anchor for a full coastal itinerary. When the waves are small, conditions are not suitable, or you simply want a slower afternoon, North Padre Island offers plenty of ways to stay connected to the Gulf.</p>
 								<div class="bdai-surf-nearby-list">
 									<div class="bdai-surf-nearby-item"><i class="bi bi-binoculars" aria-hidden="true"></i><span>Explore beachcombing, birdwatching, and coastal scenery.</span></div>
 									<div class="bdai-surf-nearby-item"><i class="bi bi-water" aria-hidden="true"></i><span>Look for paddling, kayaking, fishing, and other water-based activities.</span></div>
 									<div class="bdai-surf-nearby-item"><i class="bi bi-moon-stars" aria-hidden="true"></i><span>Plan a beach sunset, stargazing outing, or relaxed shoreline walk.</span></div>
-									<div class="bdai-surf-nearby-item"><i class="bi bi-house-heart" aria-hidden="true"></i><span>Find local dining, accommodations, rentals, and island businesses through the directory.</span></div></div><a class="bdai-surf-nearby-link" href="/things-to-do">Explore More Things to Do&nbsp;<i class="bi bi-arrow-right" aria-hidden="true"></i></a></div>
+									<div class="bdai-surf-nearby-item"><i class="bi bi-house-heart" aria-hidden="true"></i><span>Find local dining, accommodations, rentals, and island businesses through the directory.</span></div></div><a class="bdai-surf-nearby-link" href="https://www.simplypadre.com/things-to-do">Explore More Things to Do&nbsp;<i class="bi bi-arrow-right" aria-hidden="true"></i></a></div>
 							<div class="bdai-surf-nearby-media"><img src="https://images.pexels.com/photos/38611132/pexels-photo-38611132.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="coastal sunset" class="img-rounded fr-fic fr-dii"></div></div></div>
 				</section>
 			</td>
@@ -319,16 +319,16 @@
 						<div class="bdai-surf-gallery-layout">
 							<div class="bdai-surf-gallery-copy"><span class="bdai-surf-gallery-eyebrow" style="white-space:nowrap !important;width:fit-content;">Coastal Scenes</span>
 
-								<h2 class="bdai-surf-gallery-title">The North Padre Island Surf Landscape</h2>
+								<h2 class="bdai-surf-gallery-title"><span style="font-size: 36px;">The North Padre Island Surf Landscape</span></h2>
 
 								<p class="bdai-surf-gallery-text">From open Gulf water and long sandy shorelines to the quiet moments before a paddle-out, the North Padre Island coast offers a distinctly local surfing atmosphere. Conditions may change from beach to beach, so let the landscape invite your attention before you choose your entry point.</p>
 
 								<p class="bdai-surf-gallery-text">Use the gallery as inspiration, then rely on current beach flags, weather, water conditions, and local guidance for the actual day you visit.</p>
 							</div>
 							<div class="bdai-collage-grid">
-								<div class="bdai-collage-tile"><img src="https://images.pexels.com/photos/33634956/pexels-photo-33634956.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="Gulf surfer" class="img-rounded fr-fic fr-dii"></div>
-								<div class="bdai-collage-tile"><img src="https://images.pexels.com/photos/31663406/pexels-photo-31663406.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="Padre beach" class="img-rounded fr-fic fr-dii"></div>
-								<div class="bdai-collage-tile"><img src="https://images.pexels.com/photos/38352626/pexels-photo-38352626.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="surfboard sand" class="img-rounded fr-fic fr-dii"></div>
+								<div class="bdai-collage-tile"><img src="https://www.simplypadre.com/images/a87a976c685e17f3264698ce186f06862dc0be2a.webp" alt="Gulf surfer" class="img-rounded fr-fic fr-dii" width="640" height="427" loading="lazy"></div>
+								<div class="bdai-collage-tile"><img src="https://www.simplypadre.com/images/4239e4ddfa698047ab6d46527d64abf28eaea7fe.webp" alt="Padre beach" class="img-rounded fr-fic fr-dii" width="640" height="427" loading="lazy"></div>
+								<div class="bdai-collage-tile"><img src="https://www.simplypadre.com/images/1de72bbffaf1f0fc636454f9f1202c3de8f07a2e.webp" alt="surfboard sand" class="img-rounded fr-fic fr-dii" width="640" height="424" loading="lazy"></div>
 								<div class="bdai-collage-tile"><img src="https://images.pexels.com/photos/8908040/pexels-photo-8908040.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="ocean paddling" class="img-rounded fr-fic fr-dii"></div></div></div></div>
 				</section>
 			</td>
@@ -344,7 +344,7 @@
 					<div class="container">
 						<div class="bdai-surf-faq-heading"><span class="bdai-surf-faq-eyebrow" style="white-space:nowrap !important;width:fit-content;">Surfing Questions</span>
 
-							<h2 class="bdai-surf-faq-title">North Padre Island Surfing FAQs</h2>
+							<h2 class="bdai-surf-faq-title"><span style="font-size: 36px;">North Padre Island Surfing FAQs</span></h2>
 
 							<p class="bdai-surf-faq-intro">Get a clear starting point for planning your Corpus Christi surfing day. Always confirm current conditions and provider details before entering the water or traveling for a lesson.</p>
 						</div>
@@ -379,7 +379,7 @@
 									<h3 class="bdai-surf-faq-question">Are Surfing Lessons Available?</h3>
 									<div class="bdai-surf-faq-answer">
 
-										<p>Yes. Padre Island Surf Camp is listed for private lessons and surf camps, and Texas Surf Camps advertises lessons serving Corpus Christi. Confirm current locations, schedules, age requirements, and availability directly with the provider.</p>
+										<p>Yes. <a href="https://padreislandsurfcamp.com/" target="_blank" rel="noopener noreferrer"><strong>Padre Island Surf Camp</strong></a> is listed for private lessons and surf camps, and <a href="https://www.texassurfcamps.com/" title="" target="_blank" rel="noopener noreferrer"><strong>Texas Surf Camps&nbsp;</strong></a>advertises lessons serving Corpus Christi. Confirm current locations, schedules, age requirements, and availability directly with the provider.</p>
 									</div>
 								</article>
 								<article class="bdai-surf-faq-card">
@@ -405,7 +405,7 @@
 									<h3 class="bdai-surf-faq-question">How Do I Check Surf and Beach Conditions?</h3>
 									<div class="bdai-surf-faq-answer">
 
-										<p>Check the flags posted at beach entrances and near lifeguard stations, then review current weather, wind, surf, tide, and water information before entering. Corpus Christi Parks and Recreation also provides daily beach flag updates through its official channels.</p>
+										<p>Check the flags posted at beach entrances and near lifeguard stations, then review current weather, wind, surf, tide, and water information before entering. Corpus Christi Parks and Recreation also provides daily beach flag updates through its official channels. Check out&nbsp;<a href="https://packerysurfcam.com/" title="" target="_blank" rel="noopener noreferrer"><strong>Packery Surf Cam &gt;&gt;</strong></a></p>
 									</div>
 								</article>
 								<article class="bdai-surf-faq-card">
@@ -448,7 +448,7 @@
 						<div class="bdai-surf-cta-inner">
 							<div class="bdai-surf-cta-copy"><span class="bdai-surf-cta-eyebrow" style="white-space:nowrap !important;width:fit-content;">Plan Your Island Day</span>
 
-								<h2 class="bdai-surf-cta-title">Find More North Padre Island Experiences</h2>
+								<h2 class="bdai-surf-cta-title"><span style="font-size: 36px;">Find More North Padre Island Experiences</span></h2>
 
 								<p class="bdai-surf-cta-text">Keep exploring Simply Padre for beaches, activities, local businesses, surf resources, rentals, accommodations, restaurants, and attractions that can help you make the most of the Corpus Christi Gulf Coast.</p>
 							</div>
@@ -461,7 +461,7 @@
 
 
 <style>
-    .bdai-surf-hero  {
+.bdai-surf-hero  {
    position:relative;
    overflow:hidden;
    padding:72px 0;
@@ -585,16 +585,20 @@
    gap:16px;
    color:rgb(24,46,69);
 }
+
+/* ===== IMAGES: size follows the editor's width/height ===== */
  .bdai-surf-hero-media img,.bdai-surf-story-media img,.bdai-surf-beginners-media img,.bdai-surf-resources-media img,.bdai-surf-nearby-media img  {
    display:block;
-   width:100%;
-   height:440px;
-   max-width:100% !important;
+   align-self:center;
+   max-width:100%;
+   height:auto;
    margin:0 !important;
-   object-fit:cover;
+   object-fit:fill;
    border-radius:16px;
    box-shadow:18px 18px 0 rgba(253,158,37,.22);
 }
+/* ===== END IMAGES ===== */
+
  .bdai-surf-hero-caption,.bdai-surf-beginners-callout,.bdai-surf-resources-note  {
    margin:0;
    padding:14px 16px;
@@ -1085,28 +1089,32 @@
  .bdai-surf-gallery-copy .bdai-surf-gallery-eyebrow  {
    margin-right:auto;
 }
+
+/* ===== GALLERY COLLAGE: follows editor sizes, stacks on mobile ===== */
  .bdai-collage-grid  {
    display:grid;
    grid-template-columns:1fr 1fr;
-   grid-template-rows:1fr 1fr;
-   aspect-ratio:16/9;
+   align-items:center;
+   justify-items:center;
    gap:16px;
 }
  .bdai-collage-tile  {
    display:flex;
-   flex-direction:column;
-   gap:12px;
-   overflow:hidden;
-   border-radius:8px;
+   align-items:center;
+   justify-content:center;
+   min-width:0;
+   max-width:100%;
 }
  .bdai-collage-tile img  {
-   width:100%;
-   height:100%;
-   object-fit:cover;
-   display:block !important;
+   display:block;
+   max-width:100%;
+   height:auto;
    margin:0 !important;
-   max-width:100% !important;
+   object-fit:fill;
+   border-radius:8px;
 }
+/* ===== END GALLERY COLLAGE ===== */
+
  .bdai-surf-faq-columns  {
    display:grid;
    grid-template-columns:1fr 1fr;
@@ -1274,21 +1282,28 @@
      grid-template-columns:1fr;
   }
 }
+ @media (max-width:900px)  {
+   .bdai-surf-hero-media img,.bdai-surf-story-media img,.bdai-surf-beginners-media img,.bdai-surf-resources-media img,.bdai-surf-nearby-media img  {
+     max-width:calc(100% - 14px);
+     box-shadow:14px 14px 0 rgba(253,158,37,.22);
+  }
+   .bdai-surf-resources-media img  {
+     box-shadow:-14px 14px 0 rgba(62,126,163,.18);
+  }
+}
  @media (max-width:700px)  {
    .bdai-surf-places-grid,.bdai-surf-bring-grid,.bdai-surf-faq-columns  {
+     grid-template-columns:1fr;
+  }
+   .bdai-collage-grid  {
      grid-template-columns:1fr;
   }
    .bdai-surf-hero,.bdai-surf-story,.bdai-surf-places,.bdai-surf-beginners,.bdai-surf-safety,.bdai-surf-resources,.bdai-surf-bring,.bdai-surf-nearby,.bdai-surf-gallery,.bdai-surf-faq,.bdai-surf-cta  {
      padding:56px 0;
   }
-   .bdai-surf-story-title,.bdai-surf-beginners-title,.bdai-surf-resources-title,.bdai-surf-nearby-title,.bdai-surf-safety-title,.bdai-surf-places-title,.bdai-surf-bring-title,.bdai-surf-gallery-title,.bdai-surf-faq-title,.bdai-surf-cta-title  {
-     font-size:34px;
-  }
+
    .bdai-surf-hero-lead  {
      font-size:20px;
-  }
-   .bdai-surf-hero-media img,.bdai-surf-story-media img,.bdai-surf-beginners-media img,.bdai-surf-resources-media img,.bdai-surf-nearby-media img  {
-     height:280px;
   }
    .bdai-surf-cta-inner  {
      padding:28px;

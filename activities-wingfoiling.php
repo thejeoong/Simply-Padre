@@ -7,15 +7,16 @@
 						<div class="bdai-surf-hero-layout">
 							<div class="bdai-surf-hero-copy"><span class="bdai-surf-hero-eyebrow" style="white-space:nowrap !important;width:fit-content;">Things to Do on N. Padre Island</span>
 
-								<h1 class="bdai-surf-hero-title"><span style="font-size: 42px;">Fishing on&nbsp;</span><span class="bdai-surf-hero-accent" style="font-size: 42px;">North Padre Island</span></h1>
+								<h1 class="bdai-surf-hero-title">Wing Foiling on <span class="bdai-surf-hero-accent">North Padre Island</span></h1>
 
-								<p class="bdai-surf-hero-lead">Cast into a relaxed Gulf Coast fishing experience, from shoreline sessions and pier outings to bay trips and guided days on the water.</p>
+								<p class="bdai-surf-hero-lead">Harness the Gulf Coast wind and discover a fast-growing way to experience the water around Corpus Christi, from first wing-handling practice to smooth foil flights.</p>
 
-								<p class="bdai-surf-hero-copy-text">North Padre Island and the surrounding Corpus Christi coast give anglers several ways to enjoy saltwater fishing. Conditions, access, seasons, and local rules can change, so use this guide as a practical starting point before choosing a spot or booking a trip.</p>
-								<div class="bdai-surf-hero-actions"><a class="bdai-surf-hero-primary" href="#bdai-surf-places">Explore Padre Island Beaches</a> <a class="bdai-surf-hero-secondary" href="https://www.nps.gov/pais/planyourvisit/fishing.htm" target="_blank" rel="noopener noreferrer">Check Fishing Safety</a></div></div>
-							<div class="bdai-surf-hero-media"><img src="https://www.simplypadre.com/images/c3193989d682fc5a9adc44019036c1234b7170d8.webp" alt="angler shoreline" class="img-rounded fr-fil fr-dib" loading="lazy" style="width: 700px;" width="700" height="255">
+								<p class="bdai-surf-hero-copy-text">North Padre Island and the surrounding Corpus Christi coast offer access to open Gulf beaches, protected bay areas, and established wind-sports providers. Use this guide to understand where wing foiling is specifically supported, how conditions shape a session, and how to plan with local awareness.</p>
+								<div class="bdai-surf-hero-actions"><a class="bdai-surf-hero-primary" href="https://npplan.com/parks-by-state/texas-national-parks/padre-island-national-seashore-park-at-a-glance/padre-island-national-seashore-bird-island-basin/" target="_blank" rel="noopener noreferrer">Explore Wing Foiling At Bird Island Basin&nbsp;</a> <a class="bdai-surf-hero-secondary" href="https://kiteboardingnorthpadreisland.com/wing-foiling-corpus-christi/" target="_blank" rel="noopener noreferrer">Check Safety Tips</a></div></div>
+							<div class="bdai-surf-hero-media"><img src="https://kiteboardingnorthpadreisland.com/wp-content/uploads/2025/07/wing-foil.jpg" alt="wing foiling on coastal water" class="img-rounded fr-fic fr-dii" fetchpriority="high" decoding="async" style="width: 500px;" width="500" height="256">
+								<br>
 
-								<p class="bdai-surf-hero-caption"><strong>A good fishing day starts before the first cast.</strong> Check weather, wind, tides, water conditions, access information, and current Texas regulations before heading out.</p>
+								<p class="bdai-surf-hero-caption"><strong>A successful wing-foil day starts with the right conditions.</strong> Check the latest wind forecast, beach guidance, water conditions, and provider availability before heading out. pic by&nbsp;<a href="https://kiteboardingnorthpadreisland.com/" target="_blank" rel="noopener noreferrer"><strong>Kiteboarding North Padre Island &gt;&gt;</strong></a></p>
 							</div></div></div>
 				</section>
 			</td>
@@ -30,15 +31,15 @@
 				<section class="bdai-surf-story" id="bdai-surf-story">
 					<div class="container">
 						<div class="bdai-surf-story-layout">
-							<div class="bdai-surf-story-media"><img src="https://www.simplypadre.com/images/cda90b566c8acf2eca33a66ca433faa5bf9b2919.webp" alt="fishing pier" class="img-rounded fr-fil fr-dib" width="640" height="427" loading="lazy"></div>
-							<div class="bdai-surf-story-copy"><span class="bdai-surf-story-eyebrow" style="white-space:nowrap !important;width:fit-content;">The Local Fishing Experience</span>
+							<div class="bdai-surf-story-media"><img src="https://tpwd.texas.gov/state-parks/mustang-island/gallery/mustangisland-168.jpg" alt="Mustang Island shoreline" class="img-rounded fr-fic fr-dii" loading="lazy" decoding="async"></div>
+							<div class="bdai-surf-story-copy"><span class="bdai-surf-story-eyebrow" style="white-space:nowrap !important;width:fit-content;">The Local Wing-Foil Experience</span>
 
-								<h2 class="bdai-surf-story-title"><span style="font-size: 36px;">A Gulf Coast Setting With More Than One Way to Fish</span></h2>
+								<h2 class="bdai-surf-story-title">A Wind-Driven Gulf Coast Sport With Room to Learn</h2>
 
-								<p class="bdai-surf-story-lead">North Padre Island sits beside a varied coastal environment where anglers can choose between open Gulf shoreline, channel areas, piers, jetties, bay waters, and guided offshore trips. That variety makes the area appealing to visitors who want a simple family outing as well as experienced anglers planning a more specialized day.</p>
+								<p class="bdai-surf-story-lead">Wing foiling combines a handheld inflatable wing with a board and hydrofoil. The wing gives you power from the wind, while the foil lifts the board above the surface once you build enough speed, balance, and control.</p>
 
-								<p class="bdai-surf-story-text">Shore and beach fishing can be a flexible way to begin because it does not require a boat, while pier and jetty locations offer a different view of moving water and changing conditions. Bay and offshore trips require more planning, but a local guide or charter operator can help visitors match equipment, timing, and location to the type of trip they want.</p>
-								<div class="bdai-surf-story-note"><strong>Plan around the water, not just the calendar.</strong> Wind direction, tide movement, water clarity, surf, rain, heat, and recent weather can all affect access and fishing conditions. Check the latest information and be ready to adjust your location or schedule.</div></div></div></div>
+								<p class="bdai-surf-story-text">Around North Padre Island and Corpus Christi, the experience depends on the relationship between wind direction, wind strength, water depth, current, boat traffic, and shoreline conditions. Protected bay areas can be a better learning environment than open Gulf water, but the most appropriate location should be chosen with a qualified provider and current local information.</p>
+								<div class="bdai-surf-story-note"><strong>Plan around the wind and water, not the calendar.</strong> <span>Forecasts can change, and a day that looks promising from shore may not be suitable for a beginner once gusts, current, launch space, or other water users are considered.</span></div></div></div></div>
 				</section>
 			</td>
 		</tr>
@@ -53,29 +54,29 @@
 					<div class="container">
 						<div class="bdai-surf-places-heading"><span class="bdai-surf-places-eyebrow" style="white-space:nowrap !important;width:fit-content;">Where to Start</span>
 
-							<h2 class="bdai-surf-places-title"><span style="font-size: 36px;">Best Places to Fish Around North Padre Island</span></h2>
+							<h2 class="bdai-surf-places-title">Wing Foil Areas Around North Padre Island</h2>
 
-							<p class="bdai-surf-places-intro">The North Padre Island area offers several distinct fishing settings. The right choice depends on whether you want easy shoreline access, a pier or channel environment, a state park setting, or a boat-based trip with a local guide.</p>
+							<p class="bdai-surf-places-intro">Wing foiling requires more than a windy beach. These locations and providers are included according to what public or provider information specifically supports, so you can distinguish established wing-foil services from nearby beaches that are simply part of the wider coastal setting.</p>
 						</div>
 						<div class="bdai-surf-places-grid">
 							<article class="bdai-surf-place-card">
 								<div class="bdai-surf-place-icon"><i class="bi bi-water" aria-hidden="true"></i></div>
 
-								<h3>Gulf Beaches and Shoreline</h3>
+								<h3>Bird Island Basin</h3>
 
-								<p>Beach fishing can be a straightforward option for visitors bringing their own equipment or looking for a low-key coastal outing. Access, vehicle rules, beach conditions, and safety considerations vary by location, so confirm the current guidance before setting up.</p><a class="bdai-surf-card-link" href="https://www.corpuschristitx.gov/department-directory/parks-and-recreation/beaches/gulf-beaches/" target="_blank">View Gulf Beach Information&nbsp;<i class="bi bi-arrow-up-right" aria-hidden="true"></i></a></article>
+								<p>Visit Corpus Christi lists Worldwinds Windsurfing, Inc. at Bird Island Basin in Padre Island National Seashore and specifically identifies wing foil lessons and rentals among its services. Confirm current availability, launch details, and conditions directly before visiting.</p><a class="bdai-surf-card-link" href="https://www.visitcorpuschristi.com/listing/worldwinds-windsurfing-inc/40/" target="_blank">View Provider Listing&nbsp;<i class="bi bi-arrow-up-right" aria-hidden="true"></i></a></article>
 							<article class="bdai-surf-place-card">
-								<div class="bdai-surf-place-icon"><i class="bi bi-signpost-split" aria-hidden="true"></i></div>
+								<div class="bdai-surf-place-icon"><i class="bi bi-wind" aria-hidden="true"></i></div>
 
-								<h3>Packery Channel and Nature Park</h3>
+								<h3>Protected Corpus Christi Bay Areas</h3>
 
-								<p>Packery Channel connects the Gulf and bay environment and is a recognized local area for bank fishing and wading. The shoreline setting is different from open beach fishing, with moving water and access conditions that deserve careful attention.</p><a class="bdai-surf-card-link" href="https://www.visitcorpuschristi.com/blog/post/where-to-fish-without-a-boat-in-corpus-christi/" target="_blank">Review Local Access Information&nbsp;<i class="bi bi-arrow-up-right" aria-hidden="true"></i></a></article>
+								<p>Kiteboarding North Padre Island describes wing-foil instruction in protected bay areas and secluded spots serving Corpus Christi, Port Aransas, and North Padre Island. A lesson provider can help match the launch area to your experience and the day&rsquo;s wind.</p><a class="bdai-surf-card-link" href="https://kiteboardingnorthpadreisland.com/wing-foil-lessons-texas/" target="_blank">Explore Wing Foil Lessons&nbsp;<i class="bi bi-arrow-up-right" aria-hidden="true"></i></a></article>
 							<article class="bdai-surf-place-card">
-								<div class="bdai-surf-place-icon"><i class="bi bi-geo-alt" aria-hidden="true"></i></div>
+								<div class="bdai-surf-place-icon"><i class="bi bi-compass" aria-hidden="true"></i></div>
 
-								<h3>Mustang Island State Park</h3>
+								<h3>North Packery Beach and Nearby Gulf Beaches</h3>
 
-								<p>Mustang Island State Park provides a natural coastal setting where fishing is among the listed recreational activities. Check current park hours, fees, beach access, weather, and Texas fishing requirements before visiting.</p><a class="bdai-surf-card-link" href="https://tpwd.texas.gov/state-parks/mustang-island" target="_blank">Explore the State Park&nbsp;<i class="bi bi-arrow-up-right" aria-hidden="true"></i></a></article>
+								<p>Corpus Christi identifies North Packery Beach, also called J.P. Luby Beach, as a popular water-sports location that includes kiteboarding. The city&rsquo;s page does not specifically identify it as a wing-foil site, so check local guidance and use a qualified provider before launching there.</p><a class="bdai-surf-card-link" href="https://www.corpuschristitx.gov/department-directory/parks-and-recreation/beaches/gulf-beaches/" target="_blank">View Gulf Beach Information&nbsp;<i class="bi bi-arrow-up-right" aria-hidden="true"></i></a></article>
 						</div></div>
 				</section>
 			</td>
@@ -90,35 +91,35 @@
 				<section class="bdai-surf-beginners" id="bdai-surf-beginners">
 					<div class="container">
 						<div class="bdai-surf-beginners-layout">
-							<div class="bdai-surf-beginners-copy"><span class="bdai-surf-beginners-eyebrow" style="white-space:nowrap !important;width:fit-content;">First-Time Angler Guide</span>
+							<div class="bdai-surf-beginners-copy"><span class="bdai-surf-beginners-eyebrow" style="white-space:nowrap !important;width:fit-content;">First-Time Wing-Foiler Guide</span>
 
-								<h2 class="bdai-surf-beginners-title"><span style="font-size: 36px;">Make Your First Fishing Trip More Comfortable</span></h2>
+								<h2 class="bdai-surf-beginners-title">Make Your First Wing-Foil Session More Comfortable</h2>
 
-								<p class="bdai-surf-beginners-lead">A first fishing outing does not need to be complicated. Choose an accessible location, bring simple equipment, and give yourself time to learn how the water, weather, bait, and tackle work together.</p>
+								<p class="bdai-surf-beginners-lead">Wing foiling has a learning curve because you are managing the wing, board, foil, balance, and wind at the same time. A structured lesson in an appropriate area can make the first steps safer and much easier to understand.</p>
 
 								<ul class="bdai-surf-beginners-list">
 									<li>
-										<div class="bdai-surf-beginners-list-icon"><i class="bi bi-geo-alt" aria-hidden="true"></i></div>
-										<div><strong>Choose an approachable location.</strong>Start somewhere with clear access, manageable walking distances, and conditions that match your comfort level. A pier, shoreline, or guided trip may be easier than navigating unfamiliar water alone.</div>
+										<div class="bdai-surf-beginners-list-icon"><i class="bi bi-check2" aria-hidden="true"></i></div>
+										<div><strong>Learn wing handling first.</strong> <span>Practice carrying, positioning, powering, depowering, and releasing the wing before trying to combine it with board movement.</span></div>
 									</li>
 									<li>
-										<div class="bdai-surf-beginners-list-icon"><i class="bi bi-tools" aria-hidden="true"></i></div>
-										<div><strong>Keep the first setup simple.</strong>A suitable rod and reel, basic terminal tackle, and bait recommended by a local tackle shop can be enough to learn the rhythm of casting, waiting, checking the line, and handling a catch responsibly.</div>
+										<div class="bdai-surf-beginners-list-icon"><i class="bi bi-box-seam" aria-hidden="true"></i></div>
+										<div><strong>Start with beginner-friendly equipment.</strong> <span>A larger stable board and an appropriately sized foil can give a new rider more time to develop balance and control.</span></div>
 									</li>
 									<li>
-										<div class="bdai-surf-beginners-list-icon"><i class="bi bi-cloud-sun" aria-hidden="true"></i></div>
-										<div><strong>Watch tide and weather changes.</strong>Wind, rain, heat, tide movement, water clarity, and surf can change the experience quickly. Check conditions before leaving and keep a flexible plan if the water or access becomes uncomfortable.</div>
+										<div class="bdai-surf-beginners-list-icon"><i class="bi bi-person-raised-hand" aria-hidden="true"></i></div>
+										<div><strong>Take instruction before riding alone.</strong> <span>A qualified instructor can explain self-rescue, falling away from the foil, water starts, wind awareness, and how to avoid crowded launch areas.</span></div>
 									</li>
 									<li>
 										<div class="bdai-surf-beginners-list-icon"><i class="bi bi-shield-check" aria-hidden="true"></i></div>
-										<div><strong>Fish responsibly and safely.</strong>Give other anglers space, handle hooks carefully, follow posted rules, release fish properly when required, and keep children away from unstable edges, strong currents, and crowded casting areas.</div>
+										<div><strong>Choose space and conditions carefully.</strong> <span>Give yourself room from swimmers, boats, docks, jetties, rocks, shorebreak, and other wind-sport users while you are still learning.</span></div>
 									</li>
 								</ul>
 							</div>
-							<div class="bdai-surf-beginners-media"><img src="https://images.pexels.com/photos/7658876/pexels-photo-7658876.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="rod casting" class="img-rounded fr-fil fr-dib">
+							<div class="bdai-surf-beginners-media"><img src="https://kiteboardingnorthpadreisland.com/wp-content/uploads/2024/03/kiteboarding-north-padre-island.png" alt="wing foil instruction near Corpus Christi" class="img-rounded fr-fic fr-dii" loading="lazy" decoding="async">
 								<br>
 								<div class="bdai-surf-beginners-callout"><span class="bdai-surf-beginners-callout-number">01</span>
-									<div><strong>Ask before you cast.</strong>A local bait shop, guide, park employee, or experienced angler may be able to explain access, tackle, bait, safety concerns, and the latest rules for the area.</div></div></div></div></div>
+									<div><strong>Begin with coaching and observation.</strong> <span>Watch the wind, identify the safest launch and landing area, and understand the local water traffic before carrying a wing and foil into the water.</span></div></div></div></div></div>
 				</section>
 			</td>
 		</tr>
@@ -131,69 +132,69 @@
 			<td style="width:100%;padding:0;">
 				<section class="bdai-surf-safety" id="bdai-surf-safety">
 					<div class="container">
-						<div class="bdai-surf-safety-heading"><span class="bdai-surf-safety-eyebrow" style="white-space:nowrap !important;width:fit-content;">Before You Head to the Water</span>
+						<div class="bdai-surf-safety-heading"><span class="bdai-surf-safety-eyebrow" style="white-space:nowrap !important;width:fit-content;">Before You Enter the Water</span>
 
-							<h2 class="bdai-surf-safety-title"><span style="font-size: 36px;">Fishing Conditions and Coastal Safety Come First</span></h2>
+							<h2 class="bdai-surf-safety-title">Wind, Water, and Beach Awareness Come First</h2>
 
-							<p class="bdai-surf-safety-intro">Fishing conditions can change even when the shoreline looks calm. Review the latest weather, wind, tides, surf, water conditions, access notices, and local safety guidance before leaving for North Padre Island or the surrounding Corpus Christi coast.</p>
+							<p class="bdai-surf-safety-intro">Wing foiling in Corpus Christi is an outdoor activity with real equipment, moving water, and changing wind. Review the official beach guidance, check current conditions, and ask a qualified local provider when you are unsure whether a launch area is appropriate.</p>
 						</div>
 						<div class="bdai-surf-safety-layout">
 							<div class="bdai-surf-flag-card">
 
-								<h3>Check the Conditions Before You Go</h3>
+								<h3>Check Official Beach and Water Guidance</h3>
 								<div class="bdai-surf-flag-list">
-									<div class="bdai-surf-flag-item"><span class="bdai-surf-flag green">Weather</span>
+									<div class="bdai-surf-flag-item"><span class="bdai-surf-flag green">Flags</span>
 
-										<p>Look at the current forecast, heat, rain, lightning risk, and any advisories that could affect your time outside.</p>
+										<p>Corpus Christi provides a daily surf-condition and flag-warning system. Check the current information before entering the water rather than relying on an older visit or forecast.</p>
 									</div>
 									<div class="bdai-surf-flag-item"><span class="bdai-surf-flag yellow">Wind</span>
 
-										<p>Wind can affect casting, boat travel, water clarity, shoreline comfort, and how safely you can work around a pier or jetty.</p>
+										<p>Look beyond the average wind speed. Gusts, direction changes, and the relationship between wind and shoreline can affect whether a session is manageable.</p>
 									</div>
-									<div class="bdai-surf-flag-item"><span class="bdai-surf-flag red">Water</span>
+									<div class="bdai-surf-flag-item"><span class="bdai-surf-flag red">Space</span>
 
-										<p>Strong surf, currents, rapidly changing water, or unstable footing can create hazards. Move back from the edge when conditions are beyond your experience.</p>
+										<p>Do not launch or land close to swimmers, beach visitors, structures, rocks, jetties, boats, or other riders. A wing and foil require room for mistakes.</p>
 									</div>
-									<div class="bdai-surf-flag-item"><span class="bdai-surf-flag purple">Marine Life</span>
+									<div class="bdai-surf-flag-item"><span class="bdai-surf-flag purple">Water</span>
 
-										<p>Pay attention to local warnings and avoid touching unfamiliar animals. Handle fish, rays, hooks, and other wildlife with care.</p>
+										<p>Account for depth, current, shorebreak, underwater obstacles, and the distance you may need to travel if you lose power or separate from your board.</p>
 									</div>
-									<div class="bdai-surf-flag-item"><span class="bdai-surf-flag orange">Access</span>
+									<div class="bdai-surf-flag-item"><span class="bdai-surf-flag orange">Alerts</span>
 
-										<p>Confirm park hours, pier status, beach access, parking rules, fees, and any temporary closures before traveling.</p>
-									</div></div><a class="bdai-surf-safety-link" href="https://tpwd.texas.gov/regulations/outdoor-annual/fishing/" target="_blank">Read Current Texas Fishing Guidance&nbsp;<i class="bi bi-arrow-up-right" aria-hidden="true"></i></a></div>
+										<p>Ask a lifeguard or local provider about active beach concerns, marine-life warnings, and any location-specific guidance that may affect your plan.</p>
+									</div></div><a class="bdai-surf-safety-link" href="https://www.corpuschristitx.gov/department-directory/parks-and-recreation/beaches/get-our-daily-surf-condition-flag-warning-system/" target="_blank">Read Official Flag Guidance&nbsp;<i class="bi bi-arrow-up-right" aria-hidden="true"></i></a></div>
 							<div class="bdai-surf-safety-copy">
 								<div class="bdai-surf-safety-point">
 									<div class="bdai-surf-safety-point-icon"><i class="bi bi-wind" aria-hidden="true"></i></div>
 									<div>
 
-										<h3>Respect Wind, Tide, and Current</h3>
+										<h3>Understand Wind Strength and Direction</h3>
 
-										<p>Tide movement and wind can alter water depth, current, visibility, casting conditions, and the safest place to stand. Avoid wading or edging onto structures when you cannot confidently read the conditions.</p>
+										<p>Wing foiling depends on usable wind, not simply a windy-looking forecast. Direction, gustiness, shoreline angle, and protected or exposed water can change the ride completely.</p>
 									</div></div>
 								<div class="bdai-surf-safety-point">
 									<div class="bdai-surf-safety-point-icon"><i class="bi bi-life-preserver" aria-hidden="true"></i></div>
 									<div>
 
-										<h3>Use Care Around Piers and Jetties</h3>
+										<h3>Know Your Limits</h3>
 
-										<p>Wear appropriate footwear, keep hooks secured when walking, maintain distance from other anglers, and stay away from slippery, damaged, or exposed edges.</p>
+										<p>Do not let a strong wind day push you into conditions beyond your experience. A qualified instructor can help you decide when the wind, foil, board, and launch area are a reasonable match.</p>
 									</div></div>
 								<div class="bdai-surf-safety-point">
-									<div class="bdai-surf-safety-point-icon"><i class="bi bi-sun" aria-hidden="true"></i></div>
+									<div class="bdai-surf-safety-point-icon"><i class="bi bi-water" aria-hidden="true"></i></div>
 									<div>
 
-										<h3>Prepare for Heat and Sun</h3>
+										<h3>Protect Yourself From the Foil</h3>
 
-										<p>Bring water, sun protection, suitable clothing, and a way to protect your phone and valuables. Coastal heat can become a serious concern during a long, exposed fishing session.</p>
+										<p>Give the foil space when falling, stay aware of the board and wing, and learn how to recover the equipment without placing yourself or other water users in its path.</p>
 									</div></div>
 								<div class="bdai-surf-safety-point">
-									<div class="bdai-surf-safety-point-icon"><i class="bi bi-people" aria-hidden="true"></i></div>
+									<div class="bdai-surf-safety-point-icon"><i class="bi bi-cloud-sun" aria-hidden="true"></i></div>
 									<div>
 
-										<h3>Tell Someone Your Plan</h3>
+										<h3>Recheck Conditions During the Session</h3>
 
-										<p>Let someone know where you are going, when you expect to return, and whether you are fishing from shore, a pier, a jetty, or a boat. Carry a charged phone and follow local emergency guidance.</p>
+										<p>Wind, weather, current, and beach activity can change while you are on the water. Reassess the conditions before extending your session or moving to a different area.</p>
 									</div></div></div></div></div>
 				</section>
 			</td>
@@ -208,28 +209,35 @@
 				<section class="bdai-surf-resources" id="bdai-surf-resources">
 					<div class="container">
 						<div class="bdai-surf-resources-layout">
-							<div class="bdai-surf-resources-media"><img src="https://images.pexels.com/photos/4822295/pexels-photo-4822295.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="tackle counter" class="img-rounded fr-fil fr-dib"></div>
-							<div class="bdai-surf-resources-copy"><span class="bdai-surf-resources-eyebrow" style="white-space:nowrap !important;width:fit-content;">Local Fishing Resources</span>
+							<div class="bdai-surf-resources-media"><img src="https://www.visitcorpuschristi.com/includes/public/assets/shared/logos/logo-brand-refresh.png" alt="Corpus Christi coastal provider listing" class="img-rounded fr-fic fr-dii" loading="lazy" decoding="async"></div>
+							<div class="bdai-surf-resources-copy"><span class="bdai-surf-resources-eyebrow" style="white-space:nowrap !important;width:fit-content;">Local Wing-Foil Resources</span>
 
-								<h2 class="bdai-surf-resources-title"><span style="font-size: 36px;">Fishing Charters, Guides, Bait, and Tackle</span></h2>
+								<h2 class="bdai-surf-resources-title">Lessons, Rentals, and Local Guidance</h2>
 
-								<p class="bdai-surf-resources-lead">Local fishing businesses can help visitors choose equipment, bait, timing, and access for the kind of trip they have in mind. Confirm current locations, services, trip details, equipment, prices, schedules, and availability directly before making plans.</p>
+								<p class="bdai-surf-resources-lead">If you are visiting without equipment or want help choosing a suitable launch area, begin with a provider that clearly lists wing-foil instruction or rentals in the Corpus Christi area. Confirm the current service area, equipment availability, lesson schedule, launch location, experience requirements, and weather policy directly before making plans.</p>
 								<div class="bdai-surf-resource-row">
-									<div class="bdai-surf-resource-icon"><i class="bi bi-compass" aria-hidden="true"></i></div>
+									<div class="bdai-surf-resource-icon"><i class="bi bi-mortarboard" aria-hidden="true"></i></div>
 									<div>
 
-										<h3>Local Guides and Charters</h3>
+										<h3>Kiteboarding North Padre Island</h3>
 
-										<p>Corpus Christi and North Padre Island are served by fishing guides and charter operators offering different types of bay, nearshore, offshore, and private fishing experiences. A guide can be especially useful for visitors who are unfamiliar with local access or equipment.</p><a class="bdai-surf-resource-link" href="https://www.visitcorpuschristi.com/things-to-do/fishing/" target="_blank">Explore Local Fishing Options&nbsp;<i class="bi bi-arrow-up-right" aria-hidden="true"></i></a></div></div>
+										<p>This provider advertises wing-foil lessons for all skill levels serving Corpus Christi, Port Aransas, and North Padre Island. Its lesson information describes wing control, water safety, wind awareness, board positioning, water starts, and progressive skill development in protected bay areas and secluded spots.</p><a class="bdai-surf-resource-link" href="https://kiteboardingnorthpadreisland.com/wing-foil-lessons-texas/" target="_blank">View Wing-Foil Lessons&nbsp;<i class="bi bi-arrow-up-right" aria-hidden="true"></i></a></div></div>
 								<div class="bdai-surf-resource-row">
 									<div class="bdai-surf-resource-icon"><i class="bi bi-bag" aria-hidden="true"></i></div>
 									<div>
 
-										<h3>Bait and Tackle Shops</h3>
+										<h3>Worldwinds Windsurfing, Inc.</h3>
 
-										<p>Roy&rsquo;s Bait and Tackle is a long-established Corpus Christi fishing-supply business listed for bait, tackle, fly-fishing equipment, and kayak outfitting. Bait Bucket is another local option listed for fishing supplies near Padre Island Drive.</p><a class="bdai-surf-resource-link" href="https://www.visitcorpuschristi.com/listing/roys-bait-and-tackle/515/" target="_blank">View Roy&rsquo;s Listing&nbsp;<i class="bi bi-arrow-up-right" aria-hidden="true"></i></a></div></div>
+										<p>Visit Corpus Christi lists Worldwinds at Bird Island Basin in Padre Island National Seashore and identifies wing-foil lessons and rentals among its offerings. The listing also includes windsurfing, kayak, and paddleboard rentals, but inventory and operating details should be confirmed before visiting.</p><a class="bdai-surf-resource-link" href="https://www.visitcorpuschristi.com/listing/worldwinds-windsurfing-inc/40/" target="_blank">View Verified Listing&nbsp;<i class="bi bi-arrow-up-right" aria-hidden="true"></i></a></div></div>
+								<div class="bdai-surf-resource-row">
+									<div class="bdai-surf-resource-icon"><i class="bi bi-compass" aria-hidden="true"></i></div>
+									<div>
 
-								<p class="bdai-surf-resources-note"><i class="bi bi-info-circle" aria-hidden="true"></i> Business listings, inventory, schedules, trip routes, and access details can change. Verify current information before traveling.</p>
+										<h3>Kite and Wing Academy</h3>
+
+										<p>Kite and Wing Academy advertises wing lessons for all levels and gear rentals in Corpus Christi. Its public information emphasizes safety, confidence, and learning at your own pace, and lists a Corpus Christi location at 3909 Laguna Shores Road.</p><a class="bdai-surf-resource-link" href="https://kiteboardacademy.com/corpus-christi" target="_blank">Visit Provider Website&nbsp;<i class="bi bi-arrow-up-right" aria-hidden="true"></i></a></div></div>
+
+								<p class="bdai-surf-resources-note"><i class="bi bi-info-circle" aria-hidden="true"></i> Provider schedules, gear inventory, service areas, and launch locations can change. Always verify current details before traveling or entering the water.</p>
 							</div></div></div>
 				</section>
 			</td>
@@ -245,38 +253,38 @@
 					<div class="container">
 						<div class="bdai-surf-bring-heading"><span class="bdai-surf-bring-eyebrow" style="white-space:nowrap !important;width:fit-content;">Pack for the Coast</span>
 
-							<h2 class="bdai-surf-bring-title"><span style="font-size: 36px;">What to Bring for a North Padre Island Fishing Trip</span></h2>
+							<h2 class="bdai-surf-bring-title">What to Bring for a North Padre Island Wing-Foil Day</h2>
 
-							<p class="bdai-surf-bring-intro">A practical fishing kit helps you stay comfortable, protect your equipment, and adapt when the weather or water changes during the day.</p>
+							<p class="bdai-surf-bring-intro">The right preparation helps you spend more time learning and less time solving avoidable problems on the shoreline. Confirm the equipment supplied by your provider before packing so you do not duplicate gear or overlook personal essentials.</p>
 						</div>
 						<div class="bdai-surf-bring-grid">
 							<article class="bdai-surf-bring-card">
-								<div class="bdai-surf-bring-icon"><i class="bi bi-tools" aria-hidden="true"></i></div>
+								<div class="bdai-surf-bring-icon"><i class="bi bi-tsunami" aria-hidden="true"></i></div>
 
-								<h3>Rod, Reel, and Tackle</h3>
+								<h3>Wing, Board, and Foil</h3>
 
-								<p>Bring equipment suited to the location and conditions, along with hooks, line, weights, pliers, a measuring tool, and a container for organized tackle.</p>
+								<p>Confirm whether your lesson or rental includes the wing, board, foil, leash, pump, and any required safety equipment before you arrive.</p>
 							</article>
 							<article class="bdai-surf-bring-card">
-								<div class="bdai-surf-bring-icon"><i class="bi bi-bug" aria-hidden="true"></i></div>
+								<div class="bdai-surf-bring-icon"><i class="bi bi-person-walking" aria-hidden="true"></i></div>
 
-								<h3>Bait and Storage</h3>
+								<h3>Water Clothing</h3>
 
-								<p>Choose bait or lures based on local guidance, and bring a secure container or cooler when appropriate. Ask a local shop what is currently practical for your chosen location.</p>
+								<p>Pack comfortable water clothing and a light layer for changing wind or cooler periods after your session. Ask your provider whether additional protective gear is supplied.</p>
 							</article>
 							<article class="bdai-surf-bring-card">
-								<div class="bdai-surf-bring-icon"><i class="bi bi-card-checklist" aria-hidden="true"></i></div>
+								<div class="bdai-surf-bring-icon"><i class="bi bi-brightness-high" aria-hidden="true"></i></div>
 
-								<h3>License and Regulations</h3>
+								<h3>Sun and Wind Protection</h3>
 
-								<p>Carry the fishing license or endorsement required for your trip, review current Texas saltwater rules, and bring any identification or records you may need.</p>
+								<p>Bring sunscreen, sunglasses that can be secured, a hat for time on shore, and shade or a cover-up for breaks between sessions.</p>
 							</article>
 							<article class="bdai-surf-bring-card">
 								<div class="bdai-surf-bring-icon"><i class="bi bi-cup-straw" aria-hidden="true"></i></div>
 
-								<h3>Water and Safety Essentials</h3>
+								<h3>Water and Essentials</h3>
 
-								<p>Pack drinking water, sun protection, suitable clothing, secure footwear, a first-aid kit, charged phone, towels, and safe storage for keys and personal items.</p>
+								<p>Carry drinking water, a towel, dry clothing, secure storage for keys, and reusable containers. Keep valuables protected and leave glass off the beach.</p>
 							</article>
 						</div></div>
 				</section>
@@ -294,15 +302,15 @@
 						<div class="bdai-surf-nearby-layout">
 							<div class="bdai-surf-nearby-copy"><span class="bdai-surf-nearby-eyebrow" style="white-space:nowrap !important;width:fit-content;">Make It a Full Island Day</span>
 
-								<h2 class="bdai-surf-nearby-title"><span style="font-size: 36px;">More to Do Around North Padre Island</span></h2>
+								<h2 class="bdai-surf-nearby-title">More to Do Around North Padre Island</h2>
 
-								<p class="bdai-surf-nearby-lead">Fishing can be the anchor for a full coastal itinerary. When the weather changes, the bite slows, or you want a break from the water, North Padre Island and Corpus Christi offer plenty of ways to continue exploring.</p>
+								<p class="bdai-surf-nearby-lead">Wing foiling can be the anchor for a full coastal itinerary. When the wind is not suitable, the water is too busy, or you simply want a slower afternoon, North Padre Island and the surrounding Corpus Christi coast offer plenty of ways to stay connected to the Gulf.</p>
 								<div class="bdai-surf-nearby-list">
-									<div class="bdai-surf-nearby-item"><i class="bi bi-binoculars" aria-hidden="true"></i><span>Visit beaches, parks, nature areas, and coastal viewpoints.</span></div>
-									<div class="bdai-surf-nearby-item"><i class="bi bi-water" aria-hidden="true"></i><span>Look for kayaking, paddleboarding, wildlife viewing, and other water-based activities.</span></div>
-									<div class="bdai-surf-nearby-item"><i class="bi bi-moon-stars" aria-hidden="true"></i><span>Plan a sunset walk, birdwatching outing, or relaxed evening near the Gulf.</span></div>
-									<div class="bdai-surf-nearby-item"><i class="bi bi-house-heart" aria-hidden="true"></i><span>Find local restaurants, accommodations, rentals, marinas, bait shops, and coastal businesses through the directory.</span></div></div><a class="bdai-surf-nearby-link" href="/things-to-do">Explore More Things to Do&nbsp;<i class="bi bi-arrow-right" aria-hidden="true"></i></a></div>
-							<div class="bdai-surf-nearby-media"><img src="https://www.simplypadre.com/images/3facc29908da0855b13705eda329e2626bea0d81.webp" alt="bay shoreline" class="img-rounded fr-fil fr-dib" width="615" height="457" loading="lazy"></div></div></div>
+									<div class="bdai-surf-nearby-item"><i class="bi bi-binoculars" aria-hidden="true"></i><span>Explore beachcombing, birdwatching, and coastal scenery along Mustang Island.</span></div>
+									<div class="bdai-surf-nearby-item"><i class="bi bi-water" aria-hidden="true"></i><span>Look for kayaking, paddleboarding, fishing, and other water-based activities suited to the day.</span></div>
+									<div class="bdai-surf-nearby-item"><i class="bi bi-moon-stars" aria-hidden="true"></i><span>Plan a beach sunset, stargazing outing, or relaxed shoreline walk after the wind settles.</span></div>
+									<div class="bdai-surf-nearby-item"><i class="bi bi-house-heart" aria-hidden="true"></i><span>Find local dining, accommodations, rentals, lessons, and island businesses through the directory.</span></div></div><a class="bdai-surf-nearby-link" href="/things-to-do">Explore More Things to Do&nbsp;<i class="bi bi-arrow-right" aria-hidden="true"></i></a></div>
+							<div class="bdai-surf-nearby-media"><img src="https://tpwd.texas.gov/state-parks/mustang-island/gallery/misp_6234.jpg" alt="Mustang Island coastal water" class="img-rounded fr-fic fr-dii" loading="lazy" decoding="async"></div></div></div>
 				</section>
 			</td>
 		</tr>
@@ -316,19 +324,19 @@
 				<section class="bdai-surf-gallery" id="bdai-surf-gallery">
 					<div class="container">
 						<div class="bdai-surf-gallery-layout">
-							<div class="bdai-surf-gallery-copy"><span class="bdai-surf-gallery-eyebrow" style="white-space:nowrap !important;width:fit-content;">Coastal Fishing Scenes</span>
+							<div class="bdai-surf-gallery-copy"><span class="bdai-surf-gallery-eyebrow" style="white-space:nowrap !important;width:fit-content;">Coastal Wind and Water</span>
 
-								<h2 class="bdai-surf-gallery-title"><span style="font-size: 36px;">The North Padre Island Fishing Landscape</span></h2>
+								<h2 class="bdai-surf-gallery-title">The North Padre Island Wing-Foil Landscape</h2>
 
-								<p class="bdai-surf-gallery-text">North Padre Island fishing can look different from one outing to the next. Open beach, channel water, piers, bay shorelines, and boat-based trips each create a different relationship with the coast, the weather, and the water.</p>
+								<p class="bdai-surf-gallery-text">Wing foiling brings a different perspective to the Corpus Christi Gulf Coast. A rider may move from shallow protected water into open wind, watch the shoreline from above the chop, or spend a session refining balance before ever reaching sustained flight.</p>
 
-								<p class="bdai-surf-gallery-text">Use the gallery for inspiration, then make the actual plan with current access information, local guidance, weather, tide, wind, water conditions, and Texas regulations in mind.</p>
+								<p class="bdai-surf-gallery-text">Let the coast inspire your plans, then rely on current wind information, beach guidance, water awareness, and qualified local instruction for the actual session.</p>
 							</div>
 							<div class="bdai-collage-grid">
-								<div class="bdai-collage-tile"><img src="https://images.pexels.com/photos/10409776/pexels-photo-10409776.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="pier angler" class="img-rounded fr-fil fr-dib"></div>
-								<div class="bdai-collage-tile"><img src="https://images.pexels.com/photos/17033568/pexels-photo-17033568.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="bay fisherman" class="img-rounded fr-fil fr-dib"></div>
-								<div class="bdai-collage-tile"><img src="https://images.pexels.com/photos/6478088/pexels-photo-6478088.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="tackle basket" class="img-rounded fr-fil fr-dib"></div>
-								<div class="bdai-collage-tile"><img src="https://images.pexels.com/photos/9707946/pexels-photo-9707946.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="coastal jetty" class="img-rounded fr-fil fr-dib"></div></div></div></div>
+								<div class="bdai-collage-tile"><img src="https://kiteboardingnorthpadreisland.com/wp-content/uploads/2025/07/wing-foil.jpg" alt="wing foil rider" class="img-rounded fr-fic fr-dii" loading="lazy" decoding="async"></div>
+								<div class="bdai-collage-tile"><img src="https://tpwd.texas.gov/state-parks/mustang-island/gallery/mustang-island-20050026.jpg" alt="Texas Gulf shoreline" class="img-rounded fr-fic fr-dii" loading="lazy" decoding="async"></div>
+								<div class="bdai-collage-tile"><img src="https://tpwd.texas.gov/state-parks/mustang-island/gallery/mustang-island-fishing.jpg" alt="Mustang Island water" class="img-rounded fr-fic fr-dii" loading="lazy" decoding="async"></div>
+								<div class="bdai-collage-tile"><img src="https://tpwd.texas.gov/state-parks/mustang-island/gallery/mustang-island_3462.jpg" alt="coastal beach horizon" class="img-rounded fr-fic fr-dii" loading="lazy" decoding="async"></div></div></div></div>
 				</section>
 			</td>
 		</tr>
@@ -341,94 +349,94 @@
 			<td style="width:100%;padding:0;">
 				<section class="bdai-surf-faq" id="bdai-surf-faq">
 					<div class="container">
-						<div class="bdai-surf-faq-heading"><span class="bdai-surf-faq-eyebrow" style="white-space:nowrap !important;width:fit-content;">Fishing Questions</span>
+						<div class="bdai-surf-faq-heading"><span class="bdai-surf-faq-eyebrow" style="white-space:nowrap !important;width:fit-content;">Wing-Foiling Questions</span>
 
-							<h2 class="bdai-surf-faq-title"><span style="font-size: 36px;">North Padre Island Fishing FAQs</span></h2>
+							<h2 class="bdai-surf-faq-title">North Padre Island Wing-Foiling FAQs</h2>
 
-							<p class="bdai-surf-faq-intro">Use these answers as a starting point for planning a Corpus Christi fishing day. Confirm current conditions, access, business details, and Texas regulations before you travel or fish.</p>
+							<p class="bdai-surf-faq-intro">Get a practical starting point for planning a wing-foiling day around Corpus Christi. Always confirm current conditions, provider details, and location guidance before entering the water.</p>
 						</div>
 						<div class="bdai-surf-faq-columns">
 							<div class="bdai-surf-faq-column">
 								<article class="bdai-surf-faq-card">
 
-									<h3 class="bdai-surf-faq-question">Is North Padre Island Good for Fishing?</h3>
+									<h3 class="bdai-surf-faq-question">Is North Padre Island Good for Wing Foiling?</h3>
 									<div class="bdai-surf-faq-answer">
 
-										<p>North Padre Island can be a rewarding place to fish because visitors can choose from Gulf shoreline, channel, pier, bay, and guided boat-based experiences in the surrounding Corpus Christi area. The best option depends on current conditions, access, equipment, and the type of fishing you want to do.</p>
+										<p>North Padre Island and the wider Corpus Christi coast have established wind-sports activity and providers that advertise wing-foil instruction or rentals. Whether a particular day is suitable depends on the wind, water, launch space, and your experience level.</p>
 									</div>
 								</article>
 								<article class="bdai-surf-faq-card">
 
-									<h3 class="bdai-surf-faq-question">Where Are the Best Places to Fish?</h3>
+									<h3 class="bdai-surf-faq-question">Where Can I Learn to Wing Foil Near North Padre Island?</h3>
 									<div class="bdai-surf-faq-answer">
 
-										<p>Common starting points include accessible Gulf beaches, Packery Channel and nearby shoreline areas, Mustang Island State Park, local piers, and charter or guide trips. Each setting has different access, safety, equipment, and rule considerations, so verify details before visiting.</p>
+										<p>Kiteboarding North Padre Island advertises wing-foil lessons serving Corpus Christi, Port Aransas, and North Padre Island, with instruction described in protected bay areas and secluded spots. Confirm the exact lesson location with the provider because launch areas depend on conditions.</p>
 									</div>
 								</article>
 								<article class="bdai-surf-faq-card">
 
-									<h3 class="bdai-surf-faq-question">What Types of Fishing Are Available on North Padre Island?</h3>
+									<h3 class="bdai-surf-faq-question">Does Bird Island Basin Offer Wing-Foil Rentals?</h3>
 									<div class="bdai-surf-faq-answer">
 
-										<p>Visitors may find opportunities for shoreline or surf fishing, bank fishing near channel areas, pier fishing, bay fishing, and offshore or nearshore trips with local guides. Availability and suitability vary with weather, water conditions, access, and the operator or location you choose.</p>
+										<p>Visit Corpus Christi lists Worldwinds Windsurfing, Inc. at Bird Island Basin in Padre Island National Seashore and identifies wing-foil lessons and rentals among its services. Confirm current gear availability, operating details, and access information directly before traveling.</p>
 									</div>
 								</article>
 								<article class="bdai-surf-faq-card">
 
-									<h3 class="bdai-surf-faq-question">Do I Need a Fishing License?</h3>
+									<h3 class="bdai-surf-faq-question">Are Wing-Foil Lessons Available in Corpus Christi?</h3>
 									<div class="bdai-surf-faq-answer">
 
-										<p>Many people fishing in Texas public waters need the appropriate license and endorsement, although exemptions and special circumstances exist. Review the current Texas Parks and Wildlife requirements before fishing, and check whether a charter or special location has additional instructions.</p>
+										<p>Yes. Kiteboarding North Padre Island and Kite and Wing Academy both advertise wing-foil instruction in the Corpus Christi area. Worldwinds is also listed for wing-foil lessons at Bird Island Basin, so compare current schedules and service areas before booking.</p>
 									</div>
 								</article>
 								<article class="bdai-surf-faq-card">
 
-									<h3 class="bdai-surf-faq-question">Is North Padre Island Fishing Suitable for Beginners?</h3>
+									<h3 class="bdai-surf-faq-question">Can I Rent Wing-Foil Equipment in Corpus Christi?</h3>
 									<div class="bdai-surf-faq-answer">
 
-										<p>Yes, beginners can start with a simple shoreline or pier outing, a local tackle-shop recommendation, or a guided trip. Choose an easy-access location, use equipment that matches your experience, and avoid conditions that exceed your comfort level.</p>
+										<p>Worldwinds is listed for wing-foil rentals at Bird Island Basin, and Kite and Wing Academy advertises gear rentals in Corpus Christi. Rental inventory, equipment sizes, booking requirements, and pickup details can change, so contact the provider first.</p>
 									</div>
 								</article>
 							</div>
 							<div class="bdai-surf-faq-column">
 								<article class="bdai-surf-faq-card">
 
-									<h3 class="bdai-surf-faq-question">Can I Rent Fishing Equipment?</h3>
+									<h3 class="bdai-surf-faq-question">What Should Beginners Know Before Wing Foiling?</h3>
 									<div class="bdai-surf-faq-answer">
 
-										<p>Equipment availability depends on the business and the type of trip. Some guides, charters, piers, and local fishing businesses may offer equipment or rentals, but confirm what is included, what you need to bring, and whether advance reservations are required.</p>
+										<p>Start with wing handling, learn how to depower, use beginner-friendly equipment, and take instruction before riding alone. Give yourself plenty of space and learn how to fall and recover without placing the foil near your body or other water users.</p>
 									</div>
 								</article>
 								<article class="bdai-surf-faq-card">
 
-									<h3 class="bdai-surf-faq-question">Are Fishing Charters or Guides Available?</h3>
+									<h3 class="bdai-surf-faq-question">How Do I Check Wing-Foil Conditions?</h3>
 									<div class="bdai-surf-faq-answer">
 
-										<p>Yes, Corpus Christi and the North Padre Island area have fishing guides and charter operators serving different types of trips. Compare the location, trip length, equipment, passenger requirements, cancellation terms, and current availability directly with the operator.</p>
+										<p>Review the current wind forecast, including direction and gusts, then check weather, water, current, beach activity, and official beach guidance. Conditions can change during the day, so recheck everything before launching and throughout the session.</p>
 									</div>
 								</article>
 								<article class="bdai-surf-faq-card">
 
-									<h3 class="bdai-surf-faq-question">Where Can I Buy Bait and Fishing Supplies?</h3>
+									<h3 class="bdai-surf-faq-question">Is North Packery Beach a Confirmed Wing-Foil Location?</h3>
 									<div class="bdai-surf-faq-answer">
 
-										<p>Local bait and tackle shops serve anglers around Corpus Christi and Padre Island. Roy&rsquo;s Bait and Tackle and Bait Bucket are examples of local fishing businesses listed in the area, but inventory and hours can change, so confirm details before visiting.</p>
+										<p>Corpus Christi identifies North Packery Beach, also called J.P. Luby Beach, as a popular location for water sports including kiteboarding. The city information does not specifically identify it as a wing-foil site, so ask a qualified local provider about current suitability before launching there.</p>
 									</div>
 								</article>
 								<article class="bdai-surf-faq-card">
 
-									<h3 class="bdai-surf-faq-question">What Should I Bring When Fishing?</h3>
+									<h3 class="bdai-surf-faq-question">Is Wing Foiling Allowed Year-Round?</h3>
 									<div class="bdai-surf-faq-answer">
 
-										<p>Bring a suitable rod and reel, tackle, bait or lures, a license if required, drinking water, sun protection, appropriate clothing, secure footwear, a cooler or storage container when appropriate, pliers, a first-aid kit, and a charged phone.</p>
+										<p>Wing foiling may be possible at different times of year, but usable wind and safe water conditions are not guaranteed every day or in every season. One Corpus Christi provider identifies mid-March through June as a peak wind period, but you should rely on the current forecast and local guidance for your visit.</p>
 									</div>
 								</article>
 								<article class="bdai-surf-faq-card">
 
-									<h3 class="bdai-surf-faq-question">How Do I Check Fishing and Weather Conditions?</h3>
+									<h3 class="bdai-surf-faq-question">What Should I Bring When Wing Foiling?</h3>
 									<div class="bdai-surf-faq-answer">
 
-										<p>Review the current weather, wind, tide, surf, water conditions, beach or park notices, and any relevant marine advisories before leaving. Ask a local guide, tackle shop, park employee, or lifeguard when you are unsure about access or safety.</p>
+										<p>Bring water clothing, sun protection, drinking water, a towel, dry clothes, secure storage for keys, and any personal protective items recommended by your instructor. Confirm which wing, board, foil, leash, pump, and safety gear are included with your lesson or rental.</p>
 									</div>
 								</article>
 							</div></div></div>
@@ -447,9 +455,9 @@
 						<div class="bdai-surf-cta-inner">
 							<div class="bdai-surf-cta-copy"><span class="bdai-surf-cta-eyebrow" style="white-space:nowrap !important;width:fit-content;">Plan Your Island Day</span>
 
-								<h2 class="bdai-surf-cta-title">Find More North Padre Island Fishing Experiences</h2>
+								<h2 class="bdai-surf-cta-title">Find More North Padre Island Experiences</h2>
 
-								<p class="bdai-surf-cta-text">Keep exploring Simply Padre for North Padre Island fishing spots, local guides, charters, bait and tackle shops, rentals, accommodations, restaurants, beaches, and activities that can help you enjoy the Corpus Christi Gulf Coast.</p>
+								<p class="bdai-surf-cta-text">Keep exploring Simply Padre for beaches, wing-foil and wind-sport resources, lessons, rentals, local businesses, accommodations, restaurants, and attractions that can help you make the most of the Corpus Christi Gulf Coast.</p>
 							</div>
 							<div class="bdai-surf-cta-actions"><a class="bdai-surf-cta-primary" href="/things-to-do">Explore Things to Do&nbsp;<i class="bi bi-arrow-right" aria-hidden="true"></i></a> <a class="bdai-surf-cta-secondary" href="/businesses">Discover Local Businesses</a></div></div></div>
 				</section>
@@ -458,8 +466,9 @@
 	</tbody>
 </table>
 
+
 <style>
-  .bdai-surf-hero  {
+.bdai-surf-hero  {
    position:relative;
    overflow:hidden;
    padding:72px 0;
